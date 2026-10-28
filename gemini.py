@@ -11,9 +11,11 @@ import wave
 API = 'https://generativelanguage.googleapis.com/v1beta'
 MODEL_TEKS = os.environ.get('MODEL_TEKS', 'gemini-3.8-flash')
 MODEL_TTS = os.environ.get('MODEL_TTS', 'gemini-3.8-flash-tts')
-SUARA = os.environ.get('SUARA', 'Charon')
-GAYA_SUARA = ('pencerita laki-laki dewasa Indonesia, tenang, hangat dan khidmat seperti ustadz yang bercerita '
-              'kisah, tempo sedang, jelas, tidak menggurui, tidak terburu-buru')
+SUARA = os.environ.get('SUARA', 'Achird')
+GAYA_SUARA = os.environ.get('GAYA_SUARA') or (
+    'laki-laki muda Indonesia yang sedang bercerita ke teman dekat: hangat, ringan, ekspresif dan mengalir '
+    'natural seperti ngobrol, tempo sedang cenderung cepat, intonasi naik-turun hidup, jeda singkat saja, '
+    'tidak berat, tidak kaku, tidak seperti membaca teks')
 
 
 def log(*a):

@@ -1,0 +1,35 @@
+name: Contoh Suara Narasi
+
+on:
+  workflow_dispatch:
+    inputs:
+      suara:
+        description: 'Daftar voice Gemini TTS, pisahkan koma'
+        required: false
+        default: 'Puck,Achird,Umbriel,Sadachbia,Zubenelgenubi'
+
+permissions:
+  contents: write
+
+jobs:
+  suara:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Buat contoh suara
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SUARA_LIST: ${{ github.event.inputs.suara }}
+          OUT_DIR: hasil
+        run: sudo apt-get install -y -qq ffmpeg && python contoh_suara.py
+      - name: Simpan ke branch hasil-suara
+        run: |
+          [ "$(ls -A hasil)" ] || exit 1
+          mkdir -p /tmp/h && cp hasil/* /tmp/h/
+          git config user.name "sunnah-daily-bot"; git config user.email "actions@users.noreply.github.com"
+          git checkout -q --orphan tmp && git rm -rfq --cached . && git clean -fdq
+          cp /tmp/h/* . && git add -A && git commit -qm "Contoh suara" && git push -qf origin HEAD:hasil-suara
