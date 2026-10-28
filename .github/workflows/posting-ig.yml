@@ -1,0 +1,28 @@
+name: Posting Ulang ke IG
+
+on:
+  workflow_dispatch:
+    inputs:
+      berkas:
+        description: 'Nama video di branch hasil, tanpa .mp4 (mis. ep001-03)'
+        required: true
+
+jobs:
+  posting:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Ambil video dari branch hasil
+        run: |
+          git fetch -q origin hasil
+          git show origin/hasil:${{ github.event.inputs.berkas }}.mp4 > ${{ github.event.inputs.berkas }}.mp4
+          git show origin/hasil:${{ github.event.inputs.berkas }}_caption.txt > ${{ github.event.inputs.berkas }}_caption.txt
+      - name: Posting
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          BERKAS: ${{ github.event.inputs.berkas }}
+        run: python posting_uji.py
