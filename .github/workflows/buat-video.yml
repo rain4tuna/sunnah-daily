@@ -1,0 +1,73 @@
+name: Buat Video Sunnah Daily
+
+on:
+  workflow_dispatch:
+    inputs:
+      uji:
+        description: 'true = buat video saja (unduh di Artifacts), status kisah tidak diubah'
+        required: false
+        default: 'true'
+      episode:
+        description: 'Nomor episode (kosong = otomatis)'
+        required: false
+        default: ''
+      kisah:
+        description: 'Nomor urut kisah di episode (kosong = otomatis)'
+        required: false
+        default: ''
+      tema:
+        description: 'siang | malam | auto'
+        required: false
+        default: 'auto'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: buat-video
+  cancel-in-progress: false
+
+jobs:
+  video:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+
+      - name: Install
+        run: |
+          sudo apt-get update -qq && sudo apt-get install -y -qq libfribidi0 libraqm0 ffmpeg
+          pip install -r requirements.txt
+          python -c "from PIL import features; assert features.check('raqm'), 'raqm tidak aktif'"
+
+      - name: Buat video
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          UJI: ${{ github.event.inputs.uji || 'true' }}
+          EPISODE: ${{ github.event.inputs.episode }}
+          KISAH: ${{ github.event.inputs.kisah }}
+          TEMA: ${{ github.event.inputs.tema || 'auto' }}
+          OUT_DIR: hasil
+        run: python main.py
+
+      - name: Simpan hasil ekstraksi kisah
+        if: always()
+        run: |
+          git config user.name "sunnah-daily-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/kisah || true
+          git diff --cached --quiet || (git commit -m "Data kisah diperbarui" && git push)
+
+      - name: Unggah video (7 hari)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: sunnah-daily-${{ github.run_number }}
+          path: hasil/
+          retention-days: 7
+          if-no-files-found: ignore
