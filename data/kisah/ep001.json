@@ -1,0 +1,317 @@
+{
+ "episode": 1,
+ "judul": "Sirah Nabawiyah #1 - Mukadimah",
+ "url": "https://www.youtube.com/watch?v=J6Fzzcs7gxo",
+ "kisah": [
+  {
+   "menit": "06:00",
+   "judul_hook": "Cara Salaf Mendidik Anak Mereka",
+   "narasi_hook": "Bagaimana cara generasi terbaik mendidik anak-anak mereka agar mencintai Islam?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Ali Zainal Abidin, cucu Ali bin Abi Thalib radhiyallahu 'anhu, mengisahkan tradisi keluarga mulia mereka.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mereka dahulu diajarkan kisah-kisah perjalanan dan perjuangan Rasulullah ﷺ sama seperti mereka diajarkan ayat-ayat Al-Qur'an.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Dengan mengenal perjuangan Nabi ﷺ sejak dini, kecintaan dan keteladanan tertanam kuat di hati sang anak.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "كُنَّا نُعَلَّمُ مَغَازِيَ النَّبِيِّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَسَرَايَاهُ كَمَا نُعَلَّمُ السُّورَةَ مِنَ الْقُرْآنِ",
+    "terjemah": "Kami dahulu diajari peperangan dan ekspedisi militer Nabi ﷺ sebagaimana kami diajari surah dari Al-Qur'an.",
+    "sumber": "Atsar riwayat Al-Khatib Al-Baghdadi dalam Al-Jami' li Akhlaqir Rawi wa Adabis Sami' (no. 1591)",
+    "derajat": "lemah",
+    "penilai": "Jumhur kritikus hadits (seperti Imam Ahmad, An-Nasa'i, dan Ad-Daraquthni; karena sanadnya bertumpu pada Muhammad bin Umar Al-Waqidi yang matruk/dha'if)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/116/1586"
+   },
+   "faedah": "Ajarkan kisah perjalanan hidup Rasulullah ﷺ kepada anak-anak kita sejak usia dini.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "pendidikan anak",
+    "sirah nabawiyah",
+    "salaf"
+   ],
+   "id": "ep001-01",
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Riwayat ini merupakan atsar (perkataan Tabi'in Ali Zainal Abidin bin Al-Husain), bukan hadits sabda Nabi ﷺ. Secara sanad ilmu hadits, riwayat ini lemah karena diriwayatkan melalui jalur Muhammad bin Umar Al-Waqidi yang dinilai matruk/dha'if oleh para ulama hadits, sehingga klaim bahwa riwayat ini 'shahih' tidak tepat. Kendati sanadnya lemah, riwayat ini masyhur dinukil para ulama (seperti Ibnu Katsir) dalam literatur tarikh dan sirah sebagai motivasi menuntut ilmu dan pendidikan anak.",
+    "sumber_cek": []
+   },
+   "layak": false
+  },
+  {
+   "menit": "07:05",
+   "judul_hook": "Obat Hati yang Kering",
+   "narasi_hook": "Mengapa belajar hukum agama saja terkadang membuat hati terasa kaku dan keras?",
+   "latar_hook": "kitab",
+   "adegan": [
+    {
+     "narasi": "Ibnul Jauzi rahimahullah menasihati bahwa menyibukkan diri dengan ilmu fikih dan hadits saja belum cukup untuk memperbaiki hati.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Ilmu hukum sering memicu perdebatan, sehingga jiwa membutuhkan siraman kelembutan akhlak.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Mempelajari kisah kehidupan Rasulullah ﷺ dan para sahabat adalah ramuan terbaik untuk melembutkan hati yang mengeras.",
+     "latar": "masjid"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "رَأَيْتُ الِاشْتِغَالَ بِالْفِقْهِ وَسَمَاعِ الْحَدِيثِ لَا يَكَادُ يَكْفِي فِي صَلَاحِ الْقَلْبِ، إِلَّا أَنْ يُمْزَجَ بِالرَّقَائِقِ، وَالنَّظَرِ فِي سِيَرِ السَّلَفِ الصَّالِحِينَ.",
+    "terjemah": "Aku melihat bahwa menyibukkan diri dengan fikih dan menyimak hadits hampir tidak mencukupi untuk memperbaiki hati, kecuali jika dipadukan dengan pelembut hati (ar-raqaiq) dan menelaah perjalanan hidup salafus shalih.",
+    "sumber": "Ibnul Jauzi, Shaidul Khatir, hlm. 228 (Fasal: ar-Raqaiq wan Nazhar fi Siyar ash-Shalihin)",
+    "derajat": "shahih",
+    "penilai": "Otentik (tsabit) sebagai perkataan ulama (Ibnul Jauzi dalam karyanya Shaidul Khatir, bukan hadits marfu' dari Nabi ﷺ)",
+    "rujukan": "https://shamela.ws/book/12028/228"
+   },
+   "faedah": "Imbangi belajar hukum agama dengan membaca sirah agar hati tetap lembut dan tawadhu.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "tazkiyatun nufus",
+    "sirah nabawiyah",
+    "ilmu"
+   ],
+   "id": "ep001-02",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true
+  },
+  {
+   "menit": "20:20",
+   "judul_hook": "Sumpah Allah Demi Umur Nabi",
+   "narasi_hook": "Tahukah Anda ada umur manusia yang dijadikan sumpah langsung oleh Allah Ta'ala?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Allah Subhanahu wa Ta'ala tidak pernah bersumpah dengan umur siapa pun kecuali dengan umur Nabi Muhammad ﷺ.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Bahkan saat menceritakan azab kaum Luth, Allah berfirman: 'Demi umurmu wahai Muhammad, sungguh mereka terombang-ambing dalam kesesatan.'",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Ini bukti bahwa setiap detik kehidupan Rasulullah ﷺ adalah teladan agung yang penuh berkah dan kemuliaan.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
+    "terjemah": "Demi umurmu (wahai Muhammad), sungguh mereka terombang-ambing dalam kemabukan (kesesatan).",
+    "sumber": "QS. Al-Hijr: 72",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Manfaatkan setiap waktu kehidupan kita untuk hal bermakna sebagaimana teladan Rasulullah ﷺ.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "keagungan nabi",
+    "waktu",
+    "tadabbur al-quran"
+   ],
+   "id": "ep001-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "25:30",
+   "judul_hook": "Tempat Berlindung Paling Berani",
+   "narasi_hook": "Ke mana para ksatria terhebat berlindung ketika perang berkecamuk sangat dahsyat?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Ali bin Abi Thalib radhiyallahu 'anhu, seorang pendekar pemberani, menceritakan rahasia medan pertempuran para sahabat.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Bila pertempuran memuncak genting dan kedua pasukan bertubrukan dahsyat, para sahabat justru berlindung di balik Rasulullah ﷺ.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Rasulullah ﷺ selalu berdiri paling depan dan menjadi sosok yang paling dekat posisinya dengan musuh.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "كُنَّا إِذَا احْمَرَّ الْبَأْسُ وَلَقِيَ الْقَوْمُ الْقَوْمَ اتَّقَيْنَا بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
+    "terjemah": "Dahulu kami jika perang memuncak genting dan kedua pasukan saling bertemu, kami berlindung di balik Rasulullah ﷺ.",
+    "sumber": "HR. Ahmad no. 654",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Pemimpin sejati harus menunjukkan keberanian terdepan saat mengayomi dan melindungi bawahannya.",
+   "latar_faedah": "tenda",
+   "tema": [
+    "keberanian",
+    "kepemimpinan",
+    "sirah nabawiyah"
+   ],
+   "id": "ep001-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "27:15",
+   "judul_hook": "Pantangan Makan Rasulullah",
+   "narasi_hook": "Satu kebiasaan makan Rasulullah ﷺ ini ternyata hampir mustahil kita tiru seumur hidup.",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ seumur hidupnya tidak pernah sekalipun mencela makanan apa pun yang dihidangkan.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Jika beliau menyukai suatu makanan, beliau memakannya dengan penuh syukur.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Namun jika beliau tidak menyukainya, beliau diam dan meninggalkannya tanpa mengeluh asin, hambar, atau berkomentar buruk.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَا عَابَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ، إِنِ اشْتَهَاهُ أَكَلَهُ وَإِنْ كَرِهَهُ تَرَكَهُ",
+    "terjemah": "Nabi ﷺ tidak pernah mencela makanan sama sekali. Jika beliau menyukainya beliau memakannya, dan jika tidak menyukainya beliau meninggalkannya.",
+    "sumber": "HR. Al-Bukhari no. 3563 dan Muslim no. 2064",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Tahan lisan dari mencela masakan demi menghargai rezeki Allah dan usaha pembuatnya.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "adab makan",
+    "akhlak mulia",
+    "syukur"
+   ],
+   "id": "ep001-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "31:45",
+   "judul_hook": "Sepuluh Tahun Tanpa Celaan",
+   "narasi_hook": "Adakah seorang majikan yang tidak pernah memarahi pembantunya selama sepuluh tahun?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Anas bin Malik radhiyallahu 'anhu mengabdi membantu Rasulullah ﷺ selama hampir sepuluh tahun sejak masih kanak-kanak.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Selama kurun waktu tersebut, Rasulullah ﷺ tidak pernah sekalipun membentak atau mengeluh atas pelayanannya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Beliau tidak pernah bertanya bernada sinis: 'Mengapa kau lakukan ini?' atau 'Mengapa tidak kaulakukan itu?'",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "خَدَمْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، فَمَا قَالَ لِي أُفٍّ قَطُّ، وَمَا قَالَ لِشَيْءٍ صَنَعْتُهُ لِمَ صَنَعْتَهُ، وَلاَ لِشَيْءٍ تَرَكْتُهُ لِمَ تَرَكْتَهُ",
+    "terjemah": "Aku melayani Rasulullah ﷺ selama sepuluh tahun. Beliau tidak pernah berkata 'ah' kepadaku, dan tidak pernah mencela apa yang kuperbuat maupun yang kutinggalkan.",
+    "sumber": "HR. Al-Bukhari no. 6038 dan Muslim no. 2309",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Perlakukan orang yang bekerja membantu kita dengan penuh kelembutan, kesabaran, dan penghargaan.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "akhlak nabi",
+    "muamalah",
+    "kesabaran"
+   ],
+   "id": "ep001-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "38:05",
+   "judul_hook": "Bekal Sederhana Menghadapi Kiamat",
+   "narasi_hook": "Apakah Anda cemas amal ibadah Anda tidak cukup untuk hari kiamat?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Seorang Arab Badui menemui Rasulullah ﷺ lalu bertanya dengan lugas kapan kiamat akan datang.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Nabi ﷺ bertanya balik tentang persiapan amalnya, lalu pria itu mengaku shalat dan puasanya tidak banyak, namun ia sangat mencintai Allah dan Rasul-Nya.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Rasulullah ﷺ pun menjawab: 'Engkau akan dikumpulkan bersama orang yang engkau cintai.'",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَنْتَ مَعَ مَنْ أَحْبَبْتَ",
+    "terjemah": "Engkau akan bersama orang yang engkau cintai.",
+    "sumber": "HR. Al-Bukhari no. 3688 dan Muslim no. 2639",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Tumbuhkan cinta tulus kepada Rasulullah ﷺ dan orang shaleh sebagai penyelamat di akhirat.",
+   "latar_faedah": "masjid",
+   "tema": [
+    "mahabbah",
+    "kiamat",
+    "harapan"
+   ],
+   "id": "ep001-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "46:00",
+   "judul_hook": "Sedekah Tak Takut Miskin",
+   "narasi_hook": "Bagaimana cara Rasulullah ﷺ meluluhkan hati musuh yang paling membenci beliau?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Seorang Badui meminta harta kepada Rasulullah ﷺ, lalu beliau memberinya sekawanan kambing memenuhi lembah di antara dua gunung.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Orang tersebut pulang ke sukunya sambil berseru mengajak kaumnya masuk Islam tanpa ragu.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Ia berkata: 'Masuklah Islam, sungguh Muhammad memberi pemberian layaknya orang yang sama sekali tidak takut miskin.'",
+     "latar": "kafilah"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "يَا قَوْمِ أَسْلِمُوا، فَإِنَّ مُحَمَّدًا يُعْطِي عَطَاءً مَا يَخَافُ الْفَاقَةَ",
+    "terjemah": "Wahai kaumku, masuk Islamlah kalian! Sungguh Muhammad memberi pemberian layaknya orang yang tidak takut miskin.",
+    "sumber": "HR. Muslim no. 2312",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Jadikan kedermawanan dan sedekah ikhlas sebagai sarana terindah dalam berdakwah kepada kebaikan.",
+   "latar_faedah": "tenda",
+   "tema": [
+    "kedermawanan",
+    "dakwah",
+    "kemuliaan nabi"
+   ],
+   "id": "ep001-08",
+   "status": "Belum"
+  }
+ ]
+}
