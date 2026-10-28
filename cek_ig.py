@@ -25,3 +25,7 @@ for pg in hal or []:
         print(f"IG_USER_ID {iga.get('username')} = {iga['id']}")
     else:
         coba(f"page {pg['name']} ig", lambda: ig.get(pg['id'], fields='instagram_business_account,connected_instagram_account'))
+
+BIZ = os.environ.get('BUSINESS_ID', '1098806916465238')
+for ujung in ('instagram_accounts', 'owned_instagram_accounts', 'owned_pages', 'client_pages'):
+    coba(f'bisnis {ujung}', lambda: ig.get(f'{BIZ}/{ujung}', fields='id,username,name', limit=50).get('data'))
