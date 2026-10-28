@@ -115,8 +115,9 @@
     "arab": "لَعَمْرُكَ إِنَّهُمْ لَفِي سَكْرَتِهِمْ يَعْمَهُونَ",
     "terjemah": "Demi umurmu (wahai Muhammad), sungguh mereka terombang-ambing dalam kemabukan (kesesatan).",
     "sumber": "QS. Al-Hijr: 72",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/15?from=72&to=72"
    },
    "faedah": "Manfaatkan setiap waktu kehidupan kita untuk hal bermakna sebagaimana teladan Rasulullah ﷺ.",
    "latar_faedah": "lentera",
@@ -126,7 +127,13 @@
     "tadabbur al-quran"
    ],
    "id": "ep001-03",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true
   },
   {
    "menit": "25:30",
