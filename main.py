@@ -20,6 +20,7 @@ import ekstrak
 import gemini
 import ig
 import video
+import yt
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SAW = 'ﷺ'
@@ -169,6 +170,14 @@ def main():
             k['ig'] = ig.permalink(media) or media
             k['status'] = 'Diposting'
             log(f"Diposting ke IG: {k['ig']}")
+        if os.environ.get('POSTING_YT', 'false').lower() == 'true':
+            try:
+                k['yt'] = yt.upload(mp4, k['judul_hook'], cap, ['sunnah', 'sirah nabawiyah', 'kisah nabi', 'hadits']
+                                    + k.get('tema', []))
+                k['status'] = 'Diposting'
+                log(f"Diposting ke YouTube: {k['yt']}")
+            except Exception as e:
+                log(f'::warning::YouTube gagal: {e}')
         ekstrak.simpan(data)
     log('\n' + cap)
 

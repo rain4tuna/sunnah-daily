@@ -23,6 +23,10 @@ on:
         description: 'true = posting ke IG (hanya kalau uji = false)'
         required: false
         default: 'false'
+      posting_yt:
+        description: 'true = upload ke YouTube Shorts (hanya kalau uji = false)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -59,6 +63,10 @@ jobs:
           POSTING_IG: ${{ github.event.inputs.posting_ig || 'true' }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: '17841438717756877'
+          POSTING_YT: ${{ github.event.inputs.posting_yt || 'true' }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           OUT_DIR: hasil
         run: |
           mkdir -p hasil

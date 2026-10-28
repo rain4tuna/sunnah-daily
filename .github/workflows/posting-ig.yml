@@ -1,4 +1,4 @@
-name: Posting Ulang ke IG
+name: Posting Ulang
 
 on:
   workflow_dispatch:
@@ -6,6 +6,10 @@ on:
       berkas:
         description: 'Nama video di branch hasil, tanpa .mp4 (mis. ep001-03)'
         required: true
+      tujuan:
+        description: 'ig | yt | semua | cek-yt'
+        required: false
+        default: 'ig'
 
 jobs:
   posting:
@@ -25,4 +29,8 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           BERKAS: ${{ github.event.inputs.berkas }}
+          TUJUAN: ${{ github.event.inputs.tujuan }}
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
         run: python posting_uji.py
