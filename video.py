@@ -198,12 +198,13 @@ class Bingkai:
         fj = gaya.font('judul', 64)
         # label derajat (hadits saja)
         derajat = (dl.get('derajat') or '').lower()
-        if dl.get('jenis') == 'hadits' and derajat:
+        judul_kartu = {'ulama': 'Nasihat Ulama', 'atsar': 'Atsar'}.get(dl.get('jenis'), 'Dalilnya')
+        if dl.get('jenis') in ('hadits', 'atsar') and derajat:
             teks_lbl, ikon, bg, fg = {
                 'shahih': ('SHAHIH', '✓', c['sage-muda'], c['tinta']),
                 'hasan': ('HASAN', '✓', c['gading-2'], c['tinta']),
-                'lemah': ('HADITS LEMAH', '!', c['terakota-tua'], c['di-terakota']),
-                'palsu': ('HADITS PALSU', '×', c['palsu'], c['gading']),
+                'lemah': ('HADITS LEMAH' if dl.get('jenis') == 'hadits' else 'LEMAH', '!', c['terakota-tua'], c['di-terakota']),
+                'palsu': ('HADITS PALSU' if dl.get('jenis') == 'hadits' else 'PALSU', '×', c['palsu'], c['gading']),
             }.get(derajat, ('SHAHIH', '✓', c['sage-muda'], c['tinta']))
             fl = gaya.font('isi-tebal', 30)
             isi = f'{ikon}  {teks_lbl}'
@@ -235,7 +236,7 @@ class Bingkai:
         for jenis, f, bs in bagian:
             tinggi += len(bs) * f.size * (1.75 if jenis == 'arab' else 1.4) + 32
         kartu_y0 = int(max(400, (gaya.AMAN_ATAS + 120 + H - gaya.AMAN_BAWAH - tinggi) / 2))
-        tulis(d, x0 + 8, kartu_y0 - 120, 'Dalilnya', fj, c['tinta'])
+        tulis(d, x0 + 8, kartu_y0 - 120, judul_kartu, fj, c['tinta'])
         if label:
             lw, isi, fl, bg, fg, derajat = label
             d.rounded_rectangle([x1 - lw, kartu_y0 - 108, x1, kartu_y0 - 48], 14, fill=bg,
@@ -255,7 +256,7 @@ class Bingkai:
             y += 32
         if derajat == 'lemah':
             fn = gaya.font('isi-sedang', 30)
-            tengah(d, kartu_y0 + tinggi + 40, 'Hadits ini lemah. Disebutkan sebagai penjelasan, bukan dalil.',
+            tengah(d, kartu_y0 + tinggi + 40, ('Hadits' if dl.get('jenis') == 'hadits' else 'Riwayat') + ' ini lemah. Disebutkan sebagai penjelasan, bukan dalil.',
                    fn, c['terakota-tua'] if self.tema == 'siang' else c['terakota'])
         return img
 

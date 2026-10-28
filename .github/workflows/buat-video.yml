@@ -71,3 +71,13 @@ jobs:
           path: hasil/
           retention-days: 7
           if-no-files-found: ignore
+
+      - name: Simpan video ke branch hasil (untuk ditinjau)
+        if: always()
+        run: |
+          [ -d hasil ] && [ "$(ls -A hasil)" ] || exit 0
+          mkdir -p /tmp/h && cp hasil/* /tmp/h/
+          git checkout -q --orphan hasil-tmp
+          git rm -rfq --cached . && git clean -fdq -e hasil
+          rm -rf hasil && cp /tmp/h/* .
+          git add -A && git commit -qm "Hasil run ${{ github.run_number }}" && git push -qf origin HEAD:hasil

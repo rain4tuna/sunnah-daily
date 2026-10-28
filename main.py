@@ -47,9 +47,16 @@ def perawi(sumber):
 
 
 def narasi_dalil(dl):
-    if dl.get('jenis') == 'ayat':
+    jenis = dl.get('jenis')
+    if jenis == 'ayat':
         return f"Allah Ta'ala berfirman, {dl['terjemah']}"
-    n = f"Dalam hadits riwayat {perawi(dl.get('sumber'))} disebutkan, {dl['terjemah']}"
+    if jenis == 'ulama':
+        nama = re.split(r'[,(]', dl.get('sumber') or 'Para ulama')[0].strip()
+        return f"{nama} rahimahullah berkata, {dl['terjemah']}"
+    if jenis == 'atsar':
+        n = f"Dalam sebuah atsar disebutkan, {dl['terjemah']}"
+    else:
+        n = f"Dalam hadits riwayat {perawi(dl.get('sumber'))} disebutkan, {dl['terjemah']}"
     if dl.get('derajat') == 'lemah':
         n += ' Hadits ini lemah, disebutkan sebagai penjelasan, bukan sebagai dalil.'
     return n
@@ -65,9 +72,9 @@ def detik(menit):
 
 def caption(k, ep):
     dl = k['dalil']
-    derajat = '' if dl.get('jenis') == 'ayat' else f" · {dl.get('derajat', '').capitalize()}"
+    derajat = f" · {dl['derajat'].capitalize()}" if dl.get('jenis') in ('hadits', 'atsar') and dl.get('derajat') else ''
     if dl.get('derajat') == 'lemah':
-        derajat += ' (hadits lemah, bukan dalil)'
+        derajat += ' (lemah, bukan dalil)'
     isi = ' '.join(a['narasi'] for a in k['adegan'])
     tautan = ep['url'] + (f"&t={detik(k.get('menit'))}s" if detik(k.get('menit')) else '')
     tag = HASHTAG + [re.sub(r'\W', '', t.lower()) for t in k.get('tema', [])][:3]

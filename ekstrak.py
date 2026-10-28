@@ -21,6 +21,8 @@ ATURAN KERAS:
 - Jangan memasukkan perselisihan/kritik terhadap kelompok atau tokoh tertentu.
 - Dalil: ayat atau hadits yang dibacakan/disebut ustadz untuk kisah itu. Kalau ustadz tidak menyebut dalil,
   pilih ayat/hadits SHAHIH yang paling relevan dan tandai "dari_video": false.
+  jenis: "ayat" (Al-Qur'an), "hadits" (sabda/perbuatan Nabi ﷺ), "atsar" (perkataan sahabat/tabi'in),
+  "ulama" (perkataan ulama dari kitabnya). Utamakan kisah yang dalilnya ayat atau hadits shahih.
   Tulis teks Arab berharakat hanya jika kamu yakin; kalau ragu kosongkan "arab" (akan dicek ulang).
 - Catat derajat hadits kalau ustadz menyebutkannya.
 - Narasi seluruh adegan 70-110 kata. Hook berupa pertanyaan/pernyataan yang bikin penasaran, maks 6 kata.
@@ -34,7 +36,7 @@ Kembalikan JSON saja:
   "narasi_hook": "kalimat pembuka lisan = hook, 1 kalimat",
   "latar_hook": "kunci latar",
   "adegan": [{{"narasi": "1-2 kalimat dibacakan", "latar": "kunci latar"}}],
-  "dalil": {{"jenis": "ayat|hadits", "arab": "", "terjemah": "", "sumber": "QS. Nama: ayat / HR. Perawi no. X",
+  "dalil": {{"jenis": "ayat|hadits|atsar|ulama", "arab": "", "terjemah": "", "sumber": "QS. Nama: ayat / HR. Perawi no. X",
             "derajat_kata_ustadz": "", "dari_video": true}},
   "faedah": "1 kalimat pelajaran praktis untuk kehidupan sekarang, maks 16 kata",
   "latar_faedah": "kunci latar",
@@ -52,15 +54,17 @@ Tugas:
 1. Pastikan teks Arab benar, lengkap berharakat, dan sesuai sumber. Kalau dalil panjang, potong ke bagian yang
    relevan dengan "..." (maks 30 kata Arab).
 2. Pastikan sumber benar (nama surah & nomor ayat / perawi & nomor hadits).
-3. Tentukan derajat hadits menurut ulama hadits (Bukhari/Muslim = shahih; selain itu sebut penilainya, mis.
-   Syaikh Al-Albani). Ayat: derajat "ayat".
+3. Tentukan jenis yang BENAR: "ayat", "hadits" (marfu' kepada Nabi ﷺ), "atsar" (perkataan sahabat/tabi'in),
+   atau "ulama" (perkataan ulama dalam kitabnya). Untuk hadits & atsar tentukan derajat sanadnya menurut ulama
+   hadits (Bukhari/Muslim = shahih; selain itu sebut penilainya, mis. Syaikh Al-Albani). Ayat: derajat "ayat".
+   Perkataan ulama: derajat "" (kosong) dan sebut nama ulama di awal "sumber", mis. "Ibnul Jauzi, Shaidul Khatir".
 4. Periksa narasi kisah: apakah ada bagian yang hanya berasal dari riwayat lemah/palsu atau keliru? Kalau ada,
    perbaiki kalimatnya agar sesuai riwayat yang shahih, atau tandai.
 5. Terjemah Bahasa Indonesia yang ringkas dan tepat.
 
 Kembalikan JSON saja:
-{{"dalil": {{"jenis": "ayat|hadits", "arab": "", "terjemah": "", "sumber": "",
-            "derajat": "ayat|shahih|hasan|lemah|palsu", "penilai": "", "rujukan": "URL"}},
+{{"dalil": {{"jenis": "ayat|hadits|atsar|ulama", "arab": "", "terjemah": "", "sumber": "",
+            "derajat": "ayat|shahih|hasan|lemah|palsu|", "penilai": "", "rujukan": "URL"}},
  "kisah_lemah": false,
  "catatan_kisah": "kosong jika aman; jelaskan jika ada bagian yang lemah/keliru",
  "narasi_perbaikan": ["isi HANYA jika ada adegan yang harus diubah: narasi adegan lengkap pengganti, urut"],
