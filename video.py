@@ -213,7 +213,7 @@ class Bingkai:
         else:
             label = None
         isi_w = x1 - x0 - 2 * 48
-        arab = (dl.get('arab') or '').strip()
+        arab = (dl.get('arab') or '').strip().replace(',', '،').replace(';', '؛').replace('?', '؟').rstrip('.').replace('.', '')
         terj = (dl.get('terjemah') or '').strip()
         sumber = (dl.get('sumber') or '').strip()
         bagian = []
