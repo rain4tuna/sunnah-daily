@@ -19,6 +19,10 @@ on:
         description: 'siang | malam | auto'
         required: false
         default: 'auto'
+      posting_ig:
+        description: 'true = posting ke IG (hanya kalau uji = false)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -52,6 +56,9 @@ jobs:
           EPISODE: ${{ github.event.inputs.episode }}
           KISAH: ${{ github.event.inputs.kisah }}
           TEMA: ${{ github.event.inputs.tema || 'auto' }}
+          POSTING_IG: ${{ github.event.inputs.posting_ig || 'true' }}
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: '17841438717756877'
           OUT_DIR: hasil
         run: python main.py
 

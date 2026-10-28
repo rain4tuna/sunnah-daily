@@ -18,6 +18,7 @@ import tempfile
 
 import ekstrak
 import gemini
+import ig
 import video
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -162,6 +163,12 @@ def main():
         json.dump(k, f, ensure_ascii=False, indent=1)
     if not uji:
         k['status'] = 'Dibuat'
+        if os.environ.get('POSTING_IG', 'false').lower() == 'true':
+            ig_id = os.environ.get('IG_USER_ID') or '17841438717756877'
+            media = ig.posting_reel_berkas(ig_id, mp4, cap)
+            k['ig'] = ig.permalink(media) or media
+            k['status'] = 'Diposting'
+            log(f"Diposting ke IG: {k['ig']}")
         ekstrak.simpan(data)
     log('\n' + cap)
 
