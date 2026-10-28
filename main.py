@@ -174,4 +174,12 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except SystemExit:
+        raise
+    except Exception as e:
+        import traceback
+        traceback.print_exc()
+        print(f'::error::{type(e).__name__}: {str(e)[:900]}')
+        sys.exit(1)

@@ -60,7 +60,10 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: '17841438717756877'
           OUT_DIR: hasil
-        run: python main.py
+        run: |
+          mkdir -p hasil
+          set -o pipefail
+          python main.py 2>&1 | tee hasil/log.txt
 
       - name: Simpan hasil ekstraksi kisah
         if: always()
