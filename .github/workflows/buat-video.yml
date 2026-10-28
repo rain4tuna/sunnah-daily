@@ -1,6 +1,12 @@
 name: Buat Video Sunnah Daily
 
 on:
+  schedule:
+    - cron: '17 22 * * *'   # 05.17 WIB
+    - cron: '47 4 * * *'    # 11.47 WIB
+    - cron: '37 8 * * *'    # 15.37 WIB
+    - cron: '47 11 * * *'   # 18.47 WIB
+    - cron: '13 14 * * *'   # 21.13 WIB
   workflow_dispatch:
     inputs:
       uji:
@@ -56,7 +62,7 @@ jobs:
       - name: Buat video
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          UJI: ${{ github.event.inputs.uji || 'true' }}
+          UJI: ${{ github.event_name == 'schedule' && 'false' || github.event.inputs.uji || 'true' }}
           EPISODE: ${{ github.event.inputs.episode }}
           KISAH: ${{ github.event.inputs.kisah }}
           TEMA: ${{ github.event.inputs.tema || 'auto' }}
