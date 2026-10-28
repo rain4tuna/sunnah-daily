@@ -160,11 +160,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "كُنَّا إِذَا احْمَرَّ الْبَأْسُ وَلَقِيَ الْقَوْمُ الْقَوْمَ اتَّقَيْنَا بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ",
-    "terjemah": "Dahulu kami jika perang memuncak genting dan kedua pasukan saling bertemu, kami berlindung di balik Rasulullah ﷺ.",
-    "sumber": "HR. Ahmad no. 654",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "كُنَّا إِذَا احْمَرَّ الْبَأْسُ، وَلَقِيَ الْقَوْمُ الْقَوْمَ، اتَّقَيْنَا بِرَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ، فَمَا يَكُونُ مِنَّا أَحَدٌ أَدْنَى مِنَ الْقَوْمِ مِنْهُ",
+    "terjemah": "Dahulu kami apabila perang telah memuncak genting dan kedua pasukan saling berhadapan, kami berlindung di balik Rasulullah ﷺ, dan tidak ada seorang pun dari kami yang posisinya lebih dekat kepada musuh selain beliau.",
+    "sumber": "HR. Ahmad no. 1347",
+    "derajat": "shahih",
+    "penilai": "Syaikh Syu'aib Al-Arna'uth",
+    "rujukan": "https://sunnah.com/ahmad:1347"
    },
    "faedah": "Pemimpin sejati harus menunjukkan keberanian terdepan saat mengayomi dan melindungi bawahannya.",
    "latar_faedah": "tenda",
@@ -174,7 +175,15 @@
     "sirah nabawiyah"
    ],
    "id": "ep001-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah dan maknanya sahih serta selaras dengan matan hadits. Catatan nomor hadits: lafal 'kunnā idzahmarral ba's...' terdapat pada Musnad Ahmad no. 1347, sedangkan no. 654 berlafal senada tentang Perang Badar ('laqad ra'aytanā yauma badrin wa nahnu nalūdzu bi Rasūlillāh...'). Makna ini juga diriwayatkan dari Al-Bara' bin 'Azib dalam Shahih Muslim (no. 1776).",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfDiiXOjKOS/",
+   "yt": "https://youtube.com/shorts/P3VXJEU4KXA"
   },
   {
    "menit": "27:15",
