@@ -362,7 +362,7 @@ def laut(tema):
 
 
 def langit(tema):
-    a = Adegan('malam', gaya.warna('malam')['langit'])
+    a = Adegan(tema, gaya.warna(tema)['langit'])
     _langit_bintang(a, 70, 5, 1150)
     im, d = _baru(SW + EXTRA, SH)
     _sabit(d, 540, 560, 150, a.c['terakota'], a.c['langit'])
