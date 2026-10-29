@@ -206,11 +206,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا عَابَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ، إِنِ اشْتَهَاهُ أَكَلَهُ وَإِنْ كَرِهَهُ تَرَكَهُ",
-    "terjemah": "Nabi ﷺ tidak pernah mencela makanan sama sekali. Jika beliau menyukainya beliau memakannya, dan jika tidak menyukainya beliau meninggalkannya.",
-    "sumber": "HR. Al-Bukhari no. 3563 dan Muslim no. 2064",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "مَا عَابَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ طَعَامًا قَطُّ، إِنِ اشْتَهَاهُ أَكَلَهُ، وَإِنْ كَرِهَهُ تَرَكَهُ",
+    "terjemah": "Nabi ﷺ sama sekali tidak pernah mencela makanan. Jika beliau berselera/menyukainya, beliau memakannya; dan jika beliau tidak menyukainya, beliau meninggalkannya.",
+    "sumber": "HR. Al-Bukhari no. 3563, 5409 dan Muslim no. 2064",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari dan Muslim (Muttafaqun 'Alaih)",
+    "rujukan": "https://sunnah.com/bukhari:5409"
    },
    "faedah": "Tahan lisan dari mencela masakan demi menghargai rezeki Allah dan usaha pembuatnya.",
    "latar_faedah": "lentera",
@@ -220,7 +221,16 @@
     "syukur"
    ],
    "id": "ep001-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfEQVNlDkRD/",
+   "yt": "https://youtube.com/shorts/ohiTZJBhWk0",
+   "waktu_posting": "2026-10-29T05:28:08"
   },
   {
    "menit": "31:45",
