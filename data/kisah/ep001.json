@@ -347,11 +347,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "يَا قَوْمِ أَسْلِمُوا، فَإِنَّ مُحَمَّدًا يُعْطِي عَطَاءً مَا يَخَافُ الْفَاقَةَ",
-    "terjemah": "Wahai kaumku, masuk Islamlah kalian! Sungguh Muhammad memberi pemberian layaknya orang yang tidak takut miskin.",
+    "arab": "...فَجَاءَهُ رَجُلٌ فَأَعْطَاهُ غَنَمًا بَيْنَ جَبَلَيْنِ، فَرَجَعَ إِلَى قَوْمِهِ، فَقَالَ: يَا قَوْمِ أَسْلِمُوا، فَإِنَّ مُحَمَّدًا يُعْطِي عَطَاءً لَا يَخْشَى الْفَاقَةَ",
+    "terjemah": "...Maka datanglah seorang laki-laki lalu beliau memberinya sekawanan kambing di antara dua gunung. Orang itu pun kembali kepada kaumnya seraya berkata: 'Wahai kaumku, masuk Islamlah kalian! Sungguh Muhammad memberi pemberian layaknya orang yang tidak takut miskin.'",
     "sumber": "HR. Muslim no. 2312",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2312a"
    },
    "faedah": "Jadikan kedermawanan dan sedekah ikhlas sebagai sarana terindah dalam berdakwah kepada kebaikan.",
    "latar_faedah": "tenda",
@@ -361,7 +362,22 @@
     "kemuliaan nabi"
    ],
    "id": "ep001-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah pemberian kambing di antara dua gunung hingga orang tersebut mengajak kaumnya masuk Islam berderajat shahih (HR. Muslim no. 2312). Namun, frasa pembuka 'meluluhkan hati musuh yang paling membenci beliau' tampaknya tercampur dengan hadits setelahnya (HR. Muslim no. 2313) mengenai Shafwan bin Umayyah yang diberi ratusan unta lalu berkata: 'Dahulu beliau adalah orang yang paling kubenci, hingga beliau terus memberiku sampai beliau menjadi orang yang paling kucintai'. Dalam hadits no. 2312 pelakunya hanya disebut 'seorang laki-laki'.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFH6IEzFDkVbWaB0CtqJMOyPcaCjqNMnWzL5FAZ0nkc_lXHIFyWF5DhNScWU98q2MgZjtY7HDDu8fGJKdu5x-gOegCOZMZAS2jKe2LmoJ0eeqg8jIdvcua_AyBPCmmBshk-0CO_yD43GeUv9O-qA_DCcTV5FlwL7WnuVUe3TC70F1oapISlx6PTw-XDE5IXv-Ldub0s2pg2UikJiQEgkqYoAcmn6L9y50wmnM0Nd_jV4b9C1NomfnUACTwU2I1Env0a59-F9J5oZldM8bOwHVnLsbcu3fO72hh_BBhphDEFdcxYV81zInZp8R2kY05dU4rhJuFIxteCnJn_7nYNa8BtmCFYiwKIoY2sXajj50Gr0eiGF255zvoaWZGI9VcK4ccfAlvjY9oP4oPE1XSsfi70wVUMz0V5gE1YgdY8ao3QRepk1_SJQhTzOqSQ9--eWnvZnJIDN0HgWjlVjymIvTONy6462uUzVqHPSg5bJg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuUPQoUcqwV6ncVGTBxv7eCY5v7cJIyIVjgv98GF3JyPMDF-c0kTU4I85GJ90CsoNtUVrHghBQaRtPpfj1iQWkaFQGwoSnwi67P4nB3FMe_XROiDPLp7Hqoc_L3tS2w-MRRY55Jy9LhI-in28=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xvUfC5hYH7rzSH3KZbn2JiWcFGpj4w3k6bvj5oGo-8xejfhtEuJTW7LUbmwv7G9Zt5Eb_xhB5i-BUSgMVddRGcIz1znrCRYGQFeD77oMo7eXHdz4R7KrNhzhoB-NV3dn3YUnZoAei4oW0jMWJEuH1NF7",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHC6kL02tmm7D4PHDOGUBXsyrVH0Eupz6NAz58dEwh4FhOPfdNAHbPiowtGHqBy8MvAV19NrmnYeCmK1C022IjFesbZOdp3y603k3KglWrQp6Ztit1yGg9qLNymYFlItO1DAXRSclVSfjhuL6ul7bBg2gCO7ZBiiXiedOKmn3dD5470_Dfkf32O3dqmIu28zjyQYrIs4rJyHRQ0HFPa35r9DSBhee2cCXup72RPAUZYldSRgA3TXhlVbcn6YC1UYPULQ9jzfI-3NdoHvO1YFMHatWpMsEMf3WDu_rRDa4mSmnGVlnOcoWP2B0T6FD-GZonBjfLPbPmBHfDVCtnZMp7XZNkyxQTyIaUq4gQEcgNP7BpVr81qz4w5xTehj8d_SnkbF1NvOKgPLOO_7mh9a2Tf_qk5MPBpct3uQGg4NXuITmv0cYtW3Pgja6-NiYHnuwbgtx2G6wNSD7we5AeX0BFs4wITHX-lOuzN8Tdpm8oeosIQCJ1JBy8WBiO4Fm8jTxePMLSKhOgD61ItGEQIjFI2JBib5iuWXWrIjcQOezz_w5Vuzvu_DjBQavjy7FYzmoPh1_O_r-w=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-xvUfC5hYH7rzSH3KZbn2JiWcFGpj4w3k6bvj5oGo-8xejfhtEuJTW7LUbmwv7G9Zt5Eb_xhB5i-BUSgMVddRGcIz1znrCRYGQFeD77oMo7eXHdz4R7KrNhzhoB-NV3dn3YUnZoAei4oW0jMWJEuH1NF7"
+    ]
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfFQ3v2kpZw/",
+   "yt": "https://youtube.com/shorts/3ERNmPt2WME",
+   "waktu_posting": "2026-10-29T14:52:12"
   }
  ]
 }
