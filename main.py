@@ -106,8 +106,24 @@ def tema_otomatis():
     return 'malam' if jam >= 18 or jam < 5 else 'siang'
 
 
+def baru_saja_posting(menit=75):
+    """True kalau ada postingan dalam `menit` terakhir (cegah dobel saat jadwal GitHub telat)."""
+    import glob
+    batas = dt.datetime.utcnow() - dt.timedelta(minutes=menit)
+    for p in glob.glob(os.path.join(ekstrak.DIR, 'ep*.json')):
+        with open(p) as f:
+            for k in json.load(f).get('kisah', []):
+                w = k.get('waktu_posting')
+                if w and dt.datetime.fromisoformat(w) > batas:
+                    return True
+    return False
+
+
 def main():
     out = os.environ.get('OUT_DIR', 'hasil')
+    if os.environ.get('JADWAL') == 'schedule' and baru_saja_posting():
+        log('Sudah ada postingan dalam 75 menit terakhir, slot ini dilewati.')
+        return
     os.makedirs(out, exist_ok=True)
     uji = os.environ.get('UJI', 'true').lower() == 'true'
     tema = os.environ.get('TEMA', 'auto') or 'auto'
@@ -178,6 +194,8 @@ def main():
                 log(f"Diposting ke YouTube: {k['yt']}")
             except Exception as e:
                 log(f'::warning::YouTube gagal: {e}')
+        if k['status'] == 'Diposting':
+            k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
         ekstrak.simpan(data)
     log('\n' + cap)
 

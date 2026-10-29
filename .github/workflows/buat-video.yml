@@ -74,6 +74,7 @@ jobs:
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
           OUT_DIR: hasil
+          JADWAL: ${{ github.event_name }}
         run: |
           mkdir -p hasil
           set -o pipefail
