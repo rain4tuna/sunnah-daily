@@ -253,11 +253,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "خَدَمْتُ رَسُولَ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، فَمَا قَالَ لِي أُفٍّ قَطُّ، وَمَا قَالَ لِشَيْءٍ صَنَعْتُهُ لِمَ صَنَعْتَهُ، وَلاَ لِشَيْءٍ تَرَكْتُهُ لِمَ تَرَكْتَهُ",
-    "terjemah": "Aku melayani Rasulullah ﷺ selama sepuluh tahun. Beliau tidak pernah berkata 'ah' kepadaku, dan tidak pernah mencela apa yang kuperbuat maupun yang kutinggalkan.",
-    "sumber": "HR. Al-Bukhari no. 6038 dan Muslim no. 2309",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "خَدَمْتُ النَّبِيَّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ عَشْرَ سِنِينَ، فَمَا قَالَ لِي: أُفٍّ، وَلاَ: لِمَ صَنَعْتَ؟ وَلاَ: أَلَّا صَنَعْتَ؟",
+    "terjemah": "Aku melayani Nabi ﷺ selama sepuluh tahun. Beliau tidak pernah sekalipun berkata kepadaku 'ah', tidak pernah menegur: 'Mengapa engkau lakukan ini?', dan tidak pula: 'Mengapa tidak engkau lakukan ini?'",
+    "sumber": "HR. Al-Bukhari no. 6038 (diriwayatkan pula oleh Muslim no. 2309)",
+    "derajat": "shahih",
+    "penilai": "Imam Al-Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:6038"
    },
    "faedah": "Perlakukan orang yang bekerja membantu kita dengan penuh kelembutan, kesabaran, dan penghargaan.",
    "latar_faedah": "lentera",
@@ -267,7 +268,16 @@
     "kesabaran"
    ],
    "id": "ep001-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfErWZ6Eehc/",
+   "yt": "https://youtube.com/shorts/WJJRHNC75Hc",
+   "waktu_posting": "2026-10-29T09:24:17"
   },
   {
    "menit": "38:05",
