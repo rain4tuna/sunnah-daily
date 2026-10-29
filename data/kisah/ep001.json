@@ -302,9 +302,10 @@
     "jenis": "hadits",
     "arab": "أَنْتَ مَعَ مَنْ أَحْبَبْتَ",
     "terjemah": "Engkau akan bersama orang yang engkau cintai.",
-    "sumber": "HR. Al-Bukhari no. 3688 dan Muslim no. 2639",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "sumber": "HR. Al-Bukhari no. 3688, 6171 dan Muslim no. 2639",
+    "derajat": "shahih",
+    "penilai": "Imam Al-Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3688"
    },
    "faedah": "Tumbuhkan cinta tulus kepada Rasulullah ﷺ dan orang shaleh sebagai penyelamat di akhirat.",
    "latar_faedah": "masjid",
@@ -314,7 +315,16 @@
     "harapan"
    ],
    "id": "ep001-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfE_mYgj0dG/",
+   "yt": "https://youtube.com/shorts/7i1G-MHROPs",
+   "waktu_posting": "2026-10-29T12:21:09"
   },
   {
    "menit": "46:00",
