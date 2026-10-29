@@ -72,7 +72,7 @@ def tunggu_container(cid, maks_detik=300):
 def posting_reel_berkas(ig_id, path, caption, share_to_feed=True):
     """Unggah Reel langsung dari berkas lokal (resumable upload), tanpa hosting luar."""
     c = post(f'{ig_id}/media', media_type='REELS', upload_type='resumable', caption=caption,
-             share_to_feed='true' if share_to_feed else 'false')
+             share_to_feed='true' if share_to_feed else 'false', thumb_offset='800')
     cid = c['id']
     ukuran = os.path.getsize(path)
     with open(path, 'rb') as f:

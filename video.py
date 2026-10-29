@@ -185,7 +185,7 @@ class Bingkai:
                 tulis(d, (W - lebar('Faedah', f)) / 2, 1335, 'Faedah', f, c['sage-tua'])
                 ff = judul_pas(s['faedah'], 'isi-sedang', 48, 36, 3)
                 tengah(d, 1430, s['faedah'], ff, c['tinta'], spasi=1.3)
-        if t < FADE:                                     # muncul pelan dari latar
+        if t < FADE and self.seg['jenis'] != 'hook':     # muncul pelan; frame pertama = sampul
             a = t / FADE
             img = Image.blend(Image.new('RGB', (W, H), c['gading']), img, a)
         return img
