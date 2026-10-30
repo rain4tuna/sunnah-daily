@@ -130,11 +130,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاقِ",
-    "terjemah": "Sesungguhnya aku hanyalah diutus untuk menyempurnakan kemuliaan akhlak.",
-    "sumber": "HR. Ahmad no. 8952, Al-Bukhari dalam Al-Adab al-Mufrad no. 273",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ",
+    "terjemah": "Sesungguhnya aku hanyalah diutus untuk menyempurnakan kesalehan (kemuliaan) akhlak.",
+    "sumber": "HR. Ahmad no. 8952, Al-Bukhari dalam Al-Adab al-Mufrad no. 273 (dengan lafazh 'shalih'); HR. Al-Bazzar no. 8949 dan Al-Bayhaqi no. 20819 (dengan lafazh 'makarim')",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Silsilah Ash-Shahihah no. 45 & Shahih Al-Adab al-Mufrad no. 273)",
+    "rujukan": "https://sunnah.com/adab:273"
    },
    "faedah": "Terapkan keluhuran akhlak sehari-hari sebagai bukti nyata kesempurnaan ajaran Islam.",
    "latar_faedah": "kitab",
@@ -144,7 +145,16 @@
     "dakwah"
    ],
    "id": "ep002-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfHQUqTDVg3/",
+   "yt": "https://youtube.com/shorts/TkAe2uw-PDw",
+   "waktu_posting": "2026-10-30T09:25:59"
   },
   {
    "menit": "19:15",
