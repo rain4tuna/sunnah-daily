@@ -79,11 +79,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَلَا تَقْتُلُوٓا۟ أَوْلَٰدَكُمْ خَشْيَةَ إِمْلَٰقٍ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ",
-    "terjemah": "Dan janganlah kamu membunuh anak-anakmu karena takut kemiskinan. Kamilah yang akan memberi rezeki kepada mereka dan juga kepadamu.",
-    "sumber": "QS. Al-Isra: 31",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "وَلَا تَقْتُلُوا أَوْلَادَكُمْ خَشْيَةَ إِمْلَاقٍ ۖ نَّحْنُ نَرْزُقُهُمْ وَإِيَّاكُمْ ۚ إِنَّ قَتْلَهُمْ كَانَ خِطْئًا كَبِيرًا",
+    "terjemah": "Dan janganlah kamu membunuh anak-anakmu karena takut miskin. Kamilah yang memberi rezeki kepada mereka dan kepadamu. Membunuh mereka itu sungguh suatu dosa yang besar.",
+    "sumber": "QS. Al-Isra': 31",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/17?from=31&to=31"
    },
    "faedah": "Jangan pernah takut miskin karena Allah telah menjamin rezeki setiap anak yang lahir.",
    "latar_faedah": "lentera",
@@ -93,7 +94,16 @@
     "keluarga"
    ],
    "id": "ep002-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfG1G7QD2c8/",
+   "yt": "https://youtube.com/shorts/xAUOR8_DKUc",
+   "waktu_posting": "2026-10-30T05:27:59"
   },
   {
    "menit": "14:15",
