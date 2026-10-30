@@ -232,11 +232,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "إِنَّ اللهَ نَظَرَ إِلَى أَهْلِ الْأَرْضِ فَمَقَتَهُمْ عَرَبَهُمْ وَعَجَمَهُمْ إِلَّا بَقَايَا مِنْ أَهْلِ الْكِتَابِ",
-    "terjemah": "Sesungguhnya Allah memandang penduduk bumi lalu Dia murka kepada mereka, baik orang Arab maupun non-Arab, kecuali segelintir sisa-sisa Ahli Kitab.",
+    "arab": "«... وَإِنَّ اللهَ نَظَرَ إِلَى أَهْلِ الْأَرْضِ فَمَقَتَهُمْ عَرَبَهُمْ وَعَجَمَهُمْ، إِلَّا بَقَايَا مِنْ أَهْلِ الْكِتَابِ ...»",
+    "terjemah": "Dan sesungguhnya Allah memandang kepada seluruh penduduk bumi, lalu Dia murka kepada mereka, baik orang Arab maupun non-Arab, kecuali segelintir sisa-sisa dari Ahli Kitab.",
     "sumber": "HR. Muslim no. 2865",
-    "derajat_kata_ustadz": "Shahih Muslim",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2865a"
    },
    "faedah": "Syukuri nikmat hidayah Islam yang telah membebaskan manusia dari kegelapan zaman kesyirikan.",
    "latar_faedah": "masjid",
@@ -246,7 +247,13 @@
     "kenabian"
    ],
    "id": "ep002-05",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true
   },
   {
    "menit": "28:40",
