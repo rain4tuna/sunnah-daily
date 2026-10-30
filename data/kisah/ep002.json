@@ -181,11 +181,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "لَا، إِنَّهُ لَمْ يَقُلْ يَوْمًا: رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
-    "terjemah": "Tidak, sesungguhnya dia tidak pernah sekalipun mengucapkan: Wahai Rabbku, ampunilah kesalahanku pada hari pembalasan.",
+    "arab": "لَا يَنْفَعُهُ، إِنَّهُ لَمْ يَقُلْ يَوْمًا: رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+    "terjemah": "Tidak bermanfaat baginya. Sesungguhnya ia tidak pernah sekalipun berdoa: 'Wahai Rabbku, ampunilah kesalahanku pada hari pembalasan.'",
     "sumber": "HR. Muslim no. 214",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:214"
    },
    "faedah": "Jagalah kemurnian tauhid agar setiap amal kebaikan tidak sirna sia-sia di akhirat.",
    "latar_faedah": "masjid",
@@ -195,7 +196,16 @@
     "keikhlasan"
    ],
    "id": "ep002-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "ig": "https://www.instagram.com/reel/DfHkk2jAicK/",
+   "yt": "https://youtube.com/shorts/XQ-J1I0y5C0",
+   "waktu_posting": "2026-10-30T12:22:57"
   },
   {
    "menit": "26:50",
