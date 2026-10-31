@@ -485,11 +485,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَهُوَ خَيْرٌ لَّكُمْ",
-    "terjemah": "Boleh jadi kamu membenci sesuatu, padahal ia amat baik bagimu.",
+    "arab": "... وَعَسَىٰ أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ ...",
+    "terjemah": "...Boleh jadi kamu membenci sesuatu, padahal itu amat baik bagimu...",
     "sumber": "QS. Al-Baqarah: 216",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/sura/2/216"
    },
    "faedah": "Ridhai ketetapan Allah dengan sabar karena kesempurnaan sejati hanya ada di surga.",
    "latar_faedah": "lentera",
@@ -499,7 +500,59 @@
     "hakikat dunia"
    ],
    "id": "ep002-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Saat Realita Tak Sesuai Ekspektasi",
+     "langit": "malam",
+     "narasi": "Mengapa kita begitu sering kecewa menghadapi kenyataan hidup?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Sering kali kita mengharapkan pasangan, sahabat, dan rezeki yang serba sempurna sesuai angan-angan pribadi kita."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "pembesar",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Padahal dunia ini bukanlah negeri impian yang serba lengkap, bahkan para raja dan pembesar pun tak luput dari kekecewaan."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Ketidaksempurnaan dunia sengaja Allah ciptakan agar hati seorang mukmin senantiasa merindukan kesempurnaan kenikmatan di surga kelak."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kebun",
+     "narasi": "Maka berikhtiarlah semaksimal mungkin, lalu terimalah setiap takdir ketentuan Allah dengan penuh keridhaan dan kesabaran."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kesempurnaan Sejati di Surga",
+     "narasi": "Ridhai ketetapan Allah dengan sabar, karena kesempurnaan sejati hanya ada di surga."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Alhamdulillah di komentar",
+     "narasi": "Tulis Alhamdulillah di komentar sebagai wujud keridhaan hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfKGA3UD2i2/",
+   "yt": "https://youtube.com/shorts/jcuUfGiLTtI",
+   "waktu_posting": "2026-10-31T11:53:24"
   }
  ]
 }

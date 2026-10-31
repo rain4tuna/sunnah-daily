@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 14 video. Waktu dalam WIB, terbaru di atas.
+Total: 15 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 31 Oct 2026 18.53 | ep002-08 | Saat Realita Tak Sesuai Ekspektasi | QS. Al-Baqarah: 216 | [IG](https://www.instagram.com/reel/DfKGA3UD2i2/) · [YouTube](https://youtube.com/shorts/jcuUfGiLTtI) |
 | 31 Oct 2026 15.47 | ep002-07 | Penyimpangan Haji Kaum Jahiliyah | QS. Al-Baqarah: 199 | [IG](https://www.instagram.com/reel/DfJwqzeH0Or/) · [YouTube](https://youtube.com/shorts/xWGbyKv7BjE) |
 | 31 Oct 2026 11.54 | ep002-06 | Pertolongan Allah Menjaga Rumah Suci | QS. Al-Fil: 1 | [IG](https://www.instagram.com/reel/DfJWAXiAq1K/) · [YouTube](https://youtube.com/shorts/vZrH1KtuTIE) |
 | 31 Oct 2026 05.46 | ep002-05 | Kondisi Kelam Dunia Sebelum Kenabian | HR. Muslim no. 2865 (shahih) | [IG](https://www.instagram.com/reel/DfIr7U8igBy/) · [YouTube](https://youtube.com/shorts/MVPvdEMtBN8) |
