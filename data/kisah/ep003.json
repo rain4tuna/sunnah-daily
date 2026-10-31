@@ -102,11 +102,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Kisah mimpi Abdul Muthalib tentang perintah menggali Zamzam diriwayatkan oleh Ali bin Abi Thalib radhiyallahu 'anhu.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "hasan",
-    "dari_video": true
+    "arab": "عَنْ عَلِيِّ بْنِ أَبِي طَالِبٍ: قَالَ عَبْدُ الْمُطَّلِبِ: «إِنِّي لَنَائِمٌ فِي الْحِجْرِ إِذْ أَتَانِي آتٍ فَقَالَ: احْفِرْ طَيْبَةَ... ثُمَّ قَالَ: احْفِرْ زَمْزَمَ، قَالَ: قُلْتُ: وَمَا زَمْزَمُ؟ قَالَ: لَا تَنْزَفُ أَبَدًا وَلَا تُذَمُّ...»",
+    "terjemah": "Dari Ali bin Abi Thalib: Abdul Muthalib menceritakan, 'Ketika aku sedang tidur di Hijr (Ismail), datang seseorang (dalam mimpi) lalu berkata: Galilah Thayyibah!... hingga kemudian ia berkata: Galilah Zamzam! Aku bertanya: Apakah Zamzam itu? Ia menjawab: Air yang tidak akan pernah kering dan tidak pernah tercela...'",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/142); Al-Bayhaqi, Dala'il An-Nubuwwah (1/93)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Izalat ad-Dahsy, hlm. 26)",
+    "rujukan": "https://dorar.net"
    },
    "faedah": "Pertolongan dan kemudahan dari Allah akan datang kepada orang yang tulus berikhtiar.",
    "latar_faedah": "lentera",
@@ -115,7 +116,59 @@
     "abdul muthalib"
    ],
    "id": "ep003-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Mimpi Penemuan Kembali Sumur Zamzam",
+     "narasi": "Bagaimana sumur Zamzam yang telah terkubur selama ratusan tahun akhirnya dapat ditemukan kembali oleh kakek Nabi ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Kakek Nabi ﷺ, Abdul Muthalib, beberapa kali didatangi sebuah mimpi saat beliau tertidur tenang di dekat Ka'bah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Dalam mimpi-mimpi tersebut, beliau diperintahkan untuk menggali kembali sumber mata air Zamzam yang lama terpendam."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Abdul Muthalib",
+     "latar": "kabah",
+     "dengan": "",
+     "narasi": "Setelah petunjuk mengenai lokasi sumur menjadi terang dan jelas melalui mimpinya, beliau segera bergegas menggali bersama putranya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Ikhtiar mereka membuahkan hasil nyata, hingga air suci yang penuh berkah itu akhirnya memancar kembali ke permukaan bumi."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kemudahan Bagi yang Berikhtiar",
+     "narasi": "Sungguh, pertolongan dan kemudahan dari Allah Ta'ala akan senantiasa datang kepada hamba yang tulus dalam berikhtiar."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfLOJUBDfKe/",
+   "yt": "https://youtube.com/shorts/MaXoPFzIaXI",
+   "waktu_posting": "2026-10-31T22:23:47"
   },
   {
    "menit": "11:03",
