@@ -4,7 +4,7 @@ Aturan brand: hanya bidang warna token, tanpa gradien/bayangan, TIDAK menggambar
 istri Nabi maupun malaikat (termasuk siluet). Kisah dihadirkan lewat latar dan benda.
 
 Setiap latar = beberapa lapisan statis (digeser pelan = paralaks) + unsur bergerak (bintang berkedip,
-cahaya lentera berdenyut, kafilah unta berjalan, ombak). Lapisan digambar 2x lalu diperkecil (anti-alias).
+cahaya lentera berdenyut, jejak perjalanan muncul, ombak). Lapisan digambar 2x lalu diperkecil (anti-alias).
 """
 import math
 import random
@@ -19,7 +19,7 @@ K = 2                          # supersampling
 
 LATAR = {
     'gurun': 'padang pasir terbuka, bukit pasir',
-    'kafilah': 'kafilah unta berjalan di padang pasir (perjalanan, dagang, hijrah)',
+    'kafilah': 'jejak perjalanan di padang pasir (perjalanan, dagang, hijrah)',
     'kabah': "Ka'bah dan Masjidil Haram (Makkah, thawaf, haji, umrah)",
     'masjid': 'masjid berkubah dan menara (Madinah, shalat, masjid Quba/Nabawi)',
     'gua': 'gunung batu dengan mulut gua (Gua Hira, Gua Tsur, wahyu, bersembunyi)',
@@ -77,17 +77,6 @@ def _bintang5(d, cx, cy, R, c):
         rr = R if i % 2 == 0 else R * 0.42
         pts.append((cx + rr * math.cos(a), cy + rr * math.sin(a)))
     _poly(d, pts, c)
-
-
-def _unta(d, x, y, s, c):
-    """Siluet unta datar sederhana, menghadap kanan. (x,y)=kaki kiri bawah, s=skala."""
-    _elips(d, x + 60 * s, y - 95 * s, 62 * s, 32 * s, c)            # badan
-    _elips(d, x + 50 * s, y - 122 * s, 30 * s, 28 * s, c)           # punuk
-    _poly(d, [(x + 105 * s, y - 110 * s), (x + 125 * s, y - 175 * s), (x + 140 * s, y - 172 * s),
-              (x + 128 * s, y - 95 * s)], c)                         # leher
-    _elips(d, x + 145 * s, y - 175 * s, 18 * s, 11 * s, c)          # kepala
-    for lx in (12, 30, 88, 106):
-        _kotak(d, x + lx * s, y - 80 * s, x + (lx + 9) * s, y, c)     # kaki
 
 
 def _rumah(d, x, y, w, h, c, jendela):
@@ -169,15 +158,20 @@ def gurun(tema):
 
 
 def kafilah(tema):
+    """Jejak perjalanan di padang pasir, muncul pelan satu per satu (tanpa makhluk bernyawa)."""
     a = gurun(tema)
     c = a.c['sage-tua']
-    im, d = _baru(760, 320)
-    for i in range(3):
-        _unta(d, 520 - i * 230, 300 + (i % 2) * 8, 1.05 - i * 0.08, c)
-    sprite = _kecil(im)
+    jejak = []
+    for i in range(14):
+        x = 80 + i * 70
+        y = 1180 - i * 9 + (14 if i % 2 else 0)
+        jejak.append((x, y))
 
     def g(img, t):
-        img.paste(sprite, (int(t * 40), 1105 - 300), sprite)
+        n = min(len(jejak), int(t * 2.2) + 1)
+        d = ImageDraw.Draw(img)
+        for x, y in jejak[:n]:
+            d.ellipse([x - 13, y - 8, x + 13, y + 8], fill=c)
     a.gerak.append(g)
     return a
 
