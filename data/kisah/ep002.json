@@ -283,11 +283,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
-    "terjemah": "Tidakkah engkau memperhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
+    "arab": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَابِ الْفِيلِ",
+    "terjemah": "Tidakkah engkau (Muhammad) memperhatikan bagaimana Tuhanmu telah bertindak terhadap pasukan bergajah?",
     "sumber": "QS. Al-Fil: 1",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/105?from=1&to=1"
    },
    "faedah": "Pasrahkan penjagaan kepada Allah, karena Dia sebaik-baik pelindung dari segala makar kezaliman.",
    "latar_faedah": "kabah",
@@ -297,7 +298,13 @@
     "makkah"
    ],
    "id": "ep002-06",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true
   },
   {
    "menit": "50:40",
