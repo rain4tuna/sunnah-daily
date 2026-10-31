@@ -19,6 +19,8 @@ import tempfile
 import ekstrak
 import gemini
 import ig
+import motion
+import storyboard
 import video
 import yt
 
@@ -141,6 +143,41 @@ def tulis_daftar():
         f.write('\n'.join(isi) + '\n')
 
 
+def seri(judul):
+    m = re.match(r'.*?#\s*(\d+)\s*-\s*(.+)', judul or '')
+    return f"Sirah #{int(m.group(1)):02d} · {m.group(2).strip()}" if m else (judul or '')
+
+
+def segmen_storyboard(k, data):
+    segmen = []
+    for b in storyboard.buat(k):
+        s = dict(b)
+        if b['jenis'] == 'dalil':
+            s['dalil'] = k['dalil']
+            s['narasi'] = narasi_dalil(k['dalil'])
+        if b['jenis'] == 'penutup':
+            s['seri'] = seri(data['judul'])
+            s['kredit'] = f"Faedah dari kajian {data['judul']}\nUst. Dr. Firanda Andirja, M.A."
+        s['teks_caption'] = s['narasi']
+        s['ucap'] = s['narasi']
+        segmen.append(s)
+    return segmen
+
+
+def segmen_lama(k, data):
+    segmen = [{'jenis': 'hook', 'latar': k.get('latar_hook') or k['adegan'][0]['latar'],
+               'judul': k['judul_hook'], 'ucap': k.get('narasi_hook') or k['judul_hook']}]
+    for a in k['adegan']:
+        segmen.append({'jenis': 'kisah', 'latar': a.get('latar') or 'gurun', 'narasi': a['narasi'],
+                       'ucap': a['narasi']})
+    segmen.append({'jenis': 'dalil', 'dalil': k['dalil'], 'ucap': narasi_dalil(k['dalil'])})
+    segmen.append({'jenis': 'faedah', 'latar': k.get('latar_faedah') or 'kitab', 'faedah': k['faedah'],
+                   'ucap': f"Faedahnya, {k['faedah']}"})
+    segmen.append({'jenis': 'penutup', 'kredit': f"Faedah dari kajian {data['judul']}\nUst. Dr. Firanda Andirja, M.A.",
+                   'ucap': 'Semoga bermanfaat. Ikuti Sunnah Daily untuk kisah berikutnya.'})
+    return segmen
+
+
 def main():
     out = os.environ.get('OUT_DIR', 'hasil')
     if os.environ.get('JADWAL') == 'schedule' and baru_saja_posting():
@@ -175,16 +212,14 @@ def main():
         raise SystemExit('Tidak menemukan kisah yang lolos verifikasi.')
 
     ep = {'judul': data['judul'], 'url': data['url']}
-    segmen = [{'jenis': 'hook', 'latar': k.get('latar_hook') or k['adegan'][0]['latar'],
-               'judul': k['judul_hook'], 'ucap': k.get('narasi_hook') or k['judul_hook']}]
-    for a in k['adegan']:
-        segmen.append({'jenis': 'kisah', 'latar': a.get('latar') or 'gurun', 'narasi': a['narasi'],
-                       'ucap': a['narasi']})
-    segmen.append({'jenis': 'dalil', 'dalil': k['dalil'], 'ucap': narasi_dalil(k['dalil'])})
-    segmen.append({'jenis': 'faedah', 'latar': k.get('latar_faedah') or 'kitab', 'faedah': k['faedah'],
-                   'ucap': f"Faedahnya, {k['faedah']}"})
-    segmen.append({'jenis': 'penutup', 'kredit': f"Faedah dari kajian {data['judul']}\nUst. Dr. Firanda Andirja, M.A.",
-                   'ucap': 'Semoga bermanfaat. Ikuti Sunnah Daily untuk kisah berikutnya.'})
+    if os.environ.get('GAYA', 'sirah') == 'lama':
+        segmen = segmen_lama(k, data)
+        pembuat = video.buat_video
+    else:
+        segmen = segmen_storyboard(k, data)
+        ekstrak.simpan(data)                 # storyboard tersimpan: render ulang/posting memakai yang sama
+        pembuat = motion.buat_video
+    log('   babak: ' + ', '.join(s['jenis'] for s in segmen))
 
     with tempfile.TemporaryDirectory() as tmp:
         for i, s in enumerate(segmen):
@@ -192,7 +227,7 @@ def main():
             log(f"   TTS {i + 1}/{len(segmen)}")
             gemini.bacakan(lisan(s['ucap']), s['wav'])
         mp4 = os.path.join(out, f"{k['id']}.mp4")
-        durasi = video.buat_video(segmen, tema, mp4, os.path.join(out, f"{k['id']}_cuplikan.jpg"))
+        durasi = pembuat(segmen, tema, mp4, os.path.join(out, f"{k['id']}_cuplikan.jpg"))
     log(f'Video {durasi:.1f} detik -> {mp4}')
 
     cap = caption(k, ep)
