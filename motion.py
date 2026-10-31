@@ -357,9 +357,12 @@ class Babak:
             img.paste(isi, (0, 0), self.topeng)
         elif j == 'pemandangan':
             sc = self.adegan.render(t + s.get('t_awal', 0)).convert('RGB')
-            img = Image.new('RGB', (W, H), sc.getpixel((W // 2, 4)))
-            img.paste(sc, (0, H - sc.height - 120))
-            ImageDraw.Draw(img).rectangle([0, H - 122, W, H], fill=sc.getpixel((W // 2, sc.height - 2)))
+            k = 1.2 + 0.01 * t                                    # dekat & sangat pelan maju
+            sc = sc.resize((int(sc.width * k), int(sc.height * k)), Image.BILINEAR)
+            img = Image.new('RGB', (W, H), sc.getpixel((sc.width // 2, 4)))
+            x = (W - sc.width) // 2
+            img.paste(sc, (x, H - sc.height - 330))
+            ImageDraw.Draw(img).rectangle([0, H - 332, W, H], fill=sc.getpixel((sc.width // 2, sc.height - 2)))
         else:
             img = self.latar.copy()
         d = ImageDraw.Draw(img)
@@ -409,7 +412,7 @@ class Babak:
 
     def _gambar_peta(self, d, t):
         s = self.s
-        f1, f2 = F('tebal', 96), F('semi', 40)
+        f1, f2 = pas(s.get('judul') or 'Perjalanan', 'tebal', 96, 60, 1, maks=640), F('semi', 40)
         tulis(d, 90, 420, s.get('judul') or 'Perjalanan', f1, rgb('#3E3A35'))
         if s.get('sub'):
             tulis(d, 92, 478, s['sub'], f2, rgb('#7E9A84'))
