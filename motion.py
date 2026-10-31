@@ -361,8 +361,9 @@ class Babak:
             sc = sc.resize((int(sc.width * k), int(sc.height * k)), Image.BILINEAR)
             img = Image.new('RGB', (W, H), sc.getpixel((sc.width // 2, 4)))
             x = (W - sc.width) // 2
-            img.paste(sc, (x, H - sc.height - 330))
-            ImageDraw.Draw(img).rectangle([0, H - 332, W, H], fill=sc.getpixel((sc.width // 2, sc.height - 2)))
+            bawah = 150 if s.get('judul') else 330                  # hook: turunkan agar judul tidak menabrak matahari
+            img.paste(sc, (x, H - sc.height - bawah))
+            ImageDraw.Draw(img).rectangle([0, H - bawah - 2, W, H], fill=sc.getpixel((sc.width // 2, sc.height - 2)))
         else:
             img = self.latar.copy()
         d = ImageDraw.Draw(img)
@@ -377,7 +378,7 @@ class Babak:
             f = pas(judul, 'tebal', 80, 56, 2)
             gelap_atas = gelap(img, 100, 330, W - 100, 450)
             warna = (255, 255, 255) if gelap_atas else rgb('#3E3A35')
-            tengah(d, 420, judul, f, warna, spasi=1.15)
+            tengah(d, 380, judul, f, warna, spasi=1.15)
         # handle
         fh = F('semi', 30)
         hw = fh.getlength(HANDLE)
