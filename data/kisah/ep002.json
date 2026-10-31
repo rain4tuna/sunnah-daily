@@ -391,11 +391,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ",
-    "terjemah": "Kemudian bertolaklah kamu dari tempat orang banyak bertolak (Arafah).",
+    "arab": "ثُمَّ أَفِيضُوا۟ مِنْ حَيْثُ أَفَاضَ ٱلنَّاسُ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ",
+    "terjemah": "Kemudian, bertolaklah kamu dari tempat orang banyak bertolak (Arafah) dan mohonlah ampunan kepada Allah. Sesungguhnya Allah Maha Pengampun lagi Maha Penyayang.",
     "sumber": "QS. Al-Baqarah: 199",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/2?from=199&to=199"
    },
    "faedah": "Jalankan ibadah sesuai tuntunan syariat, bukan menurut prasangka buatan hawa nafsu manusia.",
    "latar_faedah": "kitab",
@@ -405,7 +406,59 @@
     "ittiba"
    ],
    "id": "ep002-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Penyimpangan Haji Kaum Jahiliyah",
+     "langit": "senja",
+     "narasi": "Bagaimana kaum Jahiliyah merusak kemurnian ibadah haji?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Masyarakat Jahiliyah tetap menunaikan manasik haji warisan Nabi Ibrahim 'alaihissalam, namun mereka mengotorinya dengan bid'ah dan takhayul."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "penduduk Makkah",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Kaum Quraisy menyombongkan status mereka sebagai pengurus tanah haram dan menolak wukuf di Arafah bersama kabilah-kabilah lainnya."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Bahkan sebagian peziarah rela thawaf dalam keadaan telanjang bulat karena berkeyakinan pakaian harian mereka telah ternoda maksiat."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Islam kemudian membersihkan seluruh kekeliruan itu dan mengembalikan manasik haji ke atas kesucian syariat yang lurus."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Ibadah Sesuai Syariat",
+     "narasi": "Jalankan ibadah sesuai tuntunan syariat, bukan menurut prasangka buatan hawa nafsu manusia."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis muhasabah di komentar",
+     "narasi": "Tulis muhasabah di komentar jika video ini membuka wawasanmu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfJwqzeH0Or/",
+   "yt": "https://youtube.com/shorts/xWGbyKv7BjE",
+   "waktu_posting": "2026-10-31T08:47:01"
   },
   {
    "menit": "61:20",
