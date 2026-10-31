@@ -29,3 +29,6 @@ for pg in hal or []:
 BIZ = os.environ.get('BUSINESS_ID', '1098806916465238')
 for ujung in ('instagram_accounts', 'owned_instagram_accounts', 'owned_pages', 'client_pages'):
     coba(f'bisnis {ujung}', lambda: ig.get(f'{BIZ}/{ujung}', fields='id,username,name', limit=50).get('data'))
+
+coba('media terbaru', lambda: [(m.get('timestamp'), m.get('permalink'), (m.get('caption') or '')[:40])
+                               for m in ig.get('17841438717756877/media', fields='timestamp,permalink,caption', limit=15).get('data', [])])
