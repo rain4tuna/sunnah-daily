@@ -8,6 +8,21 @@ import ilustrasi
 
 LANGIT = ('senja', 'malam', 'fajar')
 TUJUAN = ('gua', 'rumah', 'tenda', 'kosong')
+LATAR_PANGGUNG = ('gurun', 'kabah', 'kota')
+# tokoh yang TIDAK boleh digambar dalam bentuk apa pun (dicek pada field "siapa" babak tokoh)
+TERLARANG = ['nabi', 'rasul', 'muhammad', 'ﷺ', 'sahabat', 'radhiyallahu', 'malaikat', 'jibril', 'mikail', 'israfil',
+             'ummul mukminin', 'istri', 'abu bakar', 'abu bakr', 'umar', 'utsman', 'usman', 'ali bin', 'ali ibn',
+             'khadijah', 'aisyah', 'fatimah', 'hamzah', 'bilal', 'abbas', 'zaid', 'muadz', 'salman', 'anshar',
+             'muhajirin', 'ibrahim', 'ismail', 'musa', 'isa', 'nuh', 'yusuf', 'sulaiman', 'dawud', 'adam',
+             'khalid', 'amr bin', 'saad', "sa'ad", 'abdullah bin', 'anas', 'abu hurairah', 'ummu', 'asma']
+
+
+def boleh_digambar(siapa):
+    import re
+    s = ' ' + re.sub(r'[^a-zﷺ\' ]', ' ', (siapa or '').lower()) + ' '
+    if not s.strip():
+        return False
+    return not any(f' {k} ' in s or (k == 'ﷺ' and k in s) for k in TERLARANG)
 
 PROMPT = """Kamu sutradara motion graphic untuk akun dakwah "Sunnah Daily" (Reels/Shorts 9:16, 45-70 detik).
 Ubah kisah di bawah menjadi storyboard dengan gaya visual bercerita seperti contoh "Sirah #01 Hijrah":
@@ -26,6 +41,11 @@ JENIS BABAK yang tersedia:
   "satuan" (mis. "ekor unta", "tahun", "pasukan"). Jangan pakai kalau kisah tidak menyebut angka.
 - "jejak": jejak kaki mendekat di padang pasir. Field: "tujuan": gua|rumah|tenda|kosong.
   Cocok untuk pengejaran, perjalanan, kedatangan.
+- "tokoh": satu tokoh UMUM berdiri (siluet polos tanpa wajah/mata, dari belakang). Field: "siapa" (nama/peran,
+  mis. "Abdul Muthalib", "Abrahah", "penduduk Makkah"), "latar": gurun|kabah|kota, "dengan": unta|"".
+  DILARANG untuk Nabi ﷺ, nabi lain, sahabat, istri Nabi, ahlul bait yang sahabat, maupun malaikat.
+- "pasukan": barisan gajah dan prajurit (siluet polos). Field: "latar": gurun|kabah, "aksi": berjalan|berlutut.
+- "kawanan": kawanan burung terbang membawa batu kecil. Field: "latar": gurun|kabah.
 - "pemandangan": ilustrasi datar penuh layar. Field: "latar" salah satu: {latar}
 - "dalil": kartu dalil. Tanpa field lain dan tanpa narasi (diisi sistem). Wajib tepat satu, setelah kisah.
 - "renungan": lengkung jendela fajar + judul. Field: "judul" maks 4 kata (inti faedah). Tepat satu, setelah dalil.
@@ -40,7 +60,8 @@ ATURAN:
 - Narasi menceritakan ulang kisah dengan setia: urutan dan fakta sama, tanpa tambahan.
 - Tulis "Rasulullah ﷺ"/"Nabi ﷺ" dengan simbol ﷺ. Jangan menyebut warna, kamera, atau visual di narasi.
 - Narasi renungan menyampaikan faedah. Narasi penutup = ajakan komentar + "Ikuti Sunnah Daily untuk kisah berikutnya."
-- Tidak ada penggambaran Nabi ﷺ, sahabat, atau malaikat; visual hanya tempat, benda, peta, angka, jejak.
+- Tidak ada penggambaran Nabi ﷺ, para nabi, sahabat, istri Nabi, atau malaikat dalam bentuk apa pun.
+- Hewan dan tokoh umum hanya lewat babak tokoh/pasukan/kawanan, dan hanya jika memang ada di kisah.
 
 Kembalikan JSON saja: {{"babak": [{{"jenis": "...", "narasi": "...", ...field lain}}]}}"""
 
@@ -131,6 +152,16 @@ def rapikan(bb, k):
             b['tujuan'] = b.get('tujuan') if b.get('tujuan') in TUJUAN else 'kosong'
         elif j == 'pemandangan':
             b['latar'] = b.get('latar') if b.get('latar') in ilustrasi.LATAR else 'gurun'
+        elif j == 'tokoh':
+            if not boleh_digambar(b.get('siapa')):
+                b = _latar_ke_babak('kabah' if b.get('latar') == 'kabah' else 'gurun', narasi)
+            else:
+                b['latar'] = b.get('latar') if b.get('latar') in LATAR_PANGGUNG else 'gurun'
+                b['dengan'] = 'unta' if b.get('dengan') == 'unta' else ''
+        elif j in ('pasukan', 'kawanan'):
+            b['latar'] = b.get('latar') if b.get('latar') in ('gurun', 'kabah') else 'gurun'
+            if j == 'pasukan':
+                b['aksi'] = 'berlutut' if b.get('aksi') == 'berlutut' else 'berjalan'
         else:
             b = _latar_ke_babak('gurun', narasi)
         b['narasi'] = narasi
@@ -138,7 +169,7 @@ def rapikan(bb, k):
     if len(hasil) < 3:
         raise ValueError('storyboard terlalu pendek')
     hasil[0]['judul'] = k['judul_hook']
-    if hasil[0]['jenis'] not in ('jendela', 'pemandangan', 'jejak'):
+    if hasil[0]['jenis'] not in ('jendela', 'pemandangan', 'jejak', 'pasukan', 'kawanan'):
         hasil.insert(0, _latar_ke_babak(k.get('latar_hook') or 'gua', k.get('narasi_hook') or k['judul_hook'],
                                         k['judul_hook']))
     ren = next((b for b in bb if b.get('jenis') == 'renungan' and (b.get('narasi') or '').strip()), None)

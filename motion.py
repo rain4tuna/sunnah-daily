@@ -23,6 +23,7 @@ from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 import gaya
 import ilustrasi
+import makhluk
 from video import susun_audio, kelompok_kata, SAW
 
 W, H, FPS = gaya.W, gaya.H, gaya.FPS
@@ -205,6 +206,8 @@ class Babak:
             self.latar = self._kertas_peta()
         elif j == 'jejak':
             self.latar = self._gurun_jejak()
+        elif j in ('tokoh', 'pasukan', 'kawanan'):
+            self.latar = makhluk.panggung(seg.get('latar') or 'gurun')
         elif j == 'dalil':
             self.latar = self._dalil()
         elif j == 'penutup':
@@ -364,6 +367,8 @@ class Babak:
             bawah = 150 if s.get('judul') else 330                  # hook: turunkan agar judul tidak menabrak matahari
             img.paste(sc, (x, H - sc.height - bawah))
             ImageDraw.Draw(img).rectangle([0, H - bawah - 2, W, H], fill=sc.getpixel((sc.width // 2, sc.height - 2)))
+        elif j in ('tokoh', 'pasukan', 'kawanan'):
+            img = makhluk.gambar(s, t, self.latar)
         else:
             img = self.latar.copy()
         d = ImageDraw.Draw(img)
@@ -374,7 +379,7 @@ class Babak:
         elif j == 'jejak':
             self._gambar_jejak(d, t)
         judul = s.get('judul')
-        if judul and j in ('jendela', 'renungan', 'pemandangan', 'jejak'):
+        if judul and j in ('jendela', 'renungan', 'pemandangan', 'jejak', 'tokoh', 'pasukan', 'kawanan'):
             f = pas(judul, 'tebal', 80, 56, 2)
             gelap_atas = gelap(img, 100, 330, W - 100, 450)
             warna = (255, 255, 255) if gelap_atas else rgb('#3E3A35')

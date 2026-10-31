@@ -304,61 +304,7 @@
     "catatan": "",
     "sumber_cek": []
    },
-   "layak": true,
-   "storyboard": [
-    {
-     "jenis": "pemandangan",
-     "latar": "kabah",
-     "judul": "Pertolongan Allah Menjaga Rumah Suci",
-     "narasi": "Bagaimana Ka'bah terselamatkan dari amukan ribuan tentara bergajah?"
-    },
-    {
-     "jenis": "peta",
-     "judul": "Pasukan Bergajah",
-     "sub": "Yaman ke Ka'bah",
-     "tempat": [
-      {
-       "nama": "Yaman",
-       "x": 0.55,
-       "y": 0.85
-      },
-      {
-       "nama": "Ka'bah",
-       "x": 0.4,
-       "y": 0.35
-      }
-     ],
-     "narasi": "Raja Abrahah berangkat memimpin pasukan berkekuatan gajah dari negeri Yaman dengan niat angkuh untuk meruntuhkan Ka'bah."
-    },
-    {
-     "jenis": "pemandangan",
-     "latar": "tenda",
-     "narasi": "Ketika unta-untanya dirampas, Abdul Muthalib kakek Nabi ﷺ dengan tenang berkata bahwa Ka'bah memiliki Pemilik Yang Mahakuasa untuk melindunginya."
-    },
-    {
-     "jenis": "jendela",
-     "langit": "senja",
-     "narasi": "Saat mendekati kota suci, gajah-gajah itu mendadak bersimpuh menolak melangkah menuju arah Baitullah."
-    },
-    {
-     "jenis": "pemandangan",
-     "latar": "langit",
-     "narasi": "Allah lantas menghujani pasukan zalim tersebut dengan batu-batu panas melalui kawanan burung Ababil hingga mereka binasa seketika."
-    },
-    {
-     "jenis": "dalil"
-    },
-    {
-     "jenis": "renungan",
-     "judul": "Allah Sebaik-Baik Pelindung",
-     "narasi": "Pasrahkan penjagaan kepada Allah, karena Dia adalah sebaik-baik pelindung dari segala makar kezaliman."
-    },
-    {
-     "jenis": "penutup",
-     "ajakan": "Tulis Masya Allah di komentar",
-     "narasi": "Tulis Masya Allah di komentar jika kisah ini menguatkan hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
-    }
-   ]
+   "layak": true
   },
   {
    "menit": "50:40",
