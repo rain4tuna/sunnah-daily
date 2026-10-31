@@ -69,31 +69,34 @@ def tunggu_container(cid, maks_detik=300):
     raise IGError(f'container {cid} belum selesai setelah {maks_detik} detik')
 
 
-def posting_reel_berkas(ig_id, path, caption, share_to_feed=True):
-    """Unggah Reel langsung dari berkas lokal (resumable upload), tanpa hosting luar."""
-    c = post(f'{ig_id}/media', media_type='REELS', upload_type='resumable', caption=caption,
-             share_to_feed='true' if share_to_feed else 'false', thumb_offset='800')
-    cid = c['id']
+def posting_reel_berkas(ig_id, path, caption, share_to_feed=True, percobaan=4):
+    """Unggah Reel langsung dari berkas lokal (resumable upload), tanpa hosting luar.
+    Upload kadang gagal sementara di sisi Meta (ProcessingFailedError); container yang gagal tidak bisa
+    dipakai ulang, jadi tiap percobaan membuat container baru."""
     ukuran = os.path.getsize(path)
     with open(path, 'rb') as f:
         data = f.read()
     galat = []
-    for versi in dict.fromkeys([VERSI, 'v21.0']):
-        for ct in (None, 'application/octet-stream'):
-            h = {'Authorization': f'OAuth {os.environ["IG_TOKEN"]}', 'offset': '0', 'file_size': str(ukuran)}
-            if ct:
-                h['Content-Type'] = ct
-            req = urllib.request.Request(f'https://rupload.facebook.com/ig-api-upload/{versi}/{cid}',
-                                         data=data, method='POST', headers=h)
-            try:
-                with urllib.request.urlopen(req, timeout=600) as r:
-                    hasil = json.loads(r.read())
-                print(f'   upload ok ({versi}, {ct}): {hasil}', flush=True)
-                tunggu_container(cid, 600)
-                return post(f'{ig_id}/media_publish', creation_id=cid)['id']
-            except urllib.error.HTTPError as e:
-                galat.append(f'{versi}/{ct}: HTTP {e.code} {e.read()[:200]!r}')
-                print('   ' + galat[-1], flush=True)
+    for i in range(percobaan):
+        c = post(f'{ig_id}/media', media_type='REELS', upload_type='resumable', caption=caption,
+                 share_to_feed='true' if share_to_feed else 'false', thumb_offset='800')
+        cid = c['id']
+        h = {'Authorization': f'OAuth {os.environ["IG_TOKEN"]}', 'offset': '0', 'file_size': str(ukuran)}
+        if i % 2:
+            h['Content-Type'] = 'application/octet-stream'
+        req = urllib.request.Request(f'https://rupload.facebook.com/ig-api-upload/{VERSI}/{cid}',
+                                     data=data, method='POST', headers=h)
+        try:
+            with urllib.request.urlopen(req, timeout=600) as r:
+                print(f'   upload ok (percobaan {i + 1}): {r.read()[:120]!r}', flush=True)
+            tunggu_container(cid, 600)
+            return post(f'{ig_id}/media_publish', creation_id=cid)['id']
+        except urllib.error.HTTPError as e:
+            galat.append(f'percobaan {i + 1}: HTTP {e.code} {e.read()[:160]!r}')
+        except IGError as e:
+            galat.append(f'percobaan {i + 1}: {e}')
+        print('   ' + galat[-1], flush=True)
+        time.sleep(20 * (i + 1))
     raise IGError('upload gagal: ' + ' | '.join(galat))
 
 

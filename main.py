@@ -119,6 +119,28 @@ def baru_saja_posting(menit=75):
     return False
 
 
+def tulis_daftar():
+    """DAFTAR_POSTINGAN.md: semua kisah yang sudah tayang, terbaru di atas."""
+    import glob
+    baris = []
+    for p in glob.glob(os.path.join(ekstrak.DIR, 'ep*.json')):
+        with open(p) as f:
+            for k in json.load(f).get('kisah', []):
+                if k.get('status') == 'Diposting':
+                    w = k.get('waktu_posting')
+                    wib = (dt.datetime.fromisoformat(w) + dt.timedelta(hours=7)).strftime('%d %b %Y %H.%M') if w else '-'
+                    dl = k.get('dalil', {})
+                    sumber = dl.get('sumber', '') + (f" ({dl['derajat']})" if dl.get('jenis') in ('hadits', 'atsar') and dl.get('derajat') else '')
+                    ig_l = f"[IG]({k['ig']})" if k.get('ig') else '-'
+                    yt_l = f"[YouTube]({k['yt']})" if k.get('yt') else '-'
+                    baris.append((w or '', f"| {wib} | {k['id']} | {k['judul_hook']} | {sumber} | {ig_l} · {yt_l} |"))
+    baris.sort(reverse=True)
+    isi = ['# Daftar Postingan Sunnah Daily', '', f'Total: {len(baris)} video. Waktu dalam WIB, terbaru di atas.', '',
+           '| Tayang | ID | Judul | Dalil | Link |', '|---|---|---|---|---|'] + [b for _, b in baris]
+    with open(os.path.join(ROOT, 'DAFTAR_POSTINGAN.md'), 'w') as f:
+        f.write('\n'.join(isi) + '\n')
+
+
 def main():
     out = os.environ.get('OUT_DIR', 'hasil')
     if os.environ.get('JADWAL') == 'schedule' and baru_saja_posting():
@@ -180,12 +202,17 @@ def main():
         json.dump(k, f, ensure_ascii=False, indent=1)
     if not uji:
         k['status'] = 'Dibuat'
+        gagal = []
         if os.environ.get('POSTING_IG', 'false').lower() == 'true':
             ig_id = os.environ.get('IG_USER_ID') or '17841438717756877'
-            media = ig.posting_reel_berkas(ig_id, mp4, cap)
-            k['ig'] = ig.permalink(media) or media
-            k['status'] = 'Diposting'
-            log(f"Diposting ke IG: {k['ig']}")
+            try:
+                media = ig.posting_reel_berkas(ig_id, mp4, cap)
+                k['ig'] = ig.permalink(media) or media
+                k['status'] = 'Diposting'
+                log(f"Diposting ke IG: {k['ig']}")
+            except Exception as e:
+                gagal.append(f'IG: {e}')
+                log(f'::warning::IG gagal: {e}'[:900])
         if os.environ.get('POSTING_YT', 'false').lower() == 'true':
             try:
                 k['yt'] = yt.upload(mp4, k['judul_hook'], cap, ['sunnah', 'sirah nabawiyah', 'kisah nabi', 'hadits']
@@ -193,10 +220,14 @@ def main():
                 k['status'] = 'Diposting'
                 log(f"Diposting ke YouTube: {k['yt']}")
             except Exception as e:
-                log(f'::warning::YouTube gagal: {e}')
+                gagal.append(f'YouTube: {e}')
+                log(f'::warning::YouTube gagal: {e}'[:900])
         if k['status'] == 'Diposting':
             k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
         ekstrak.simpan(data)
+        tulis_daftar()
+        if gagal and k['status'] != 'Diposting':
+            raise RuntimeError('Semua posting gagal: ' + ' | '.join(gagal))
     log('\n' + cap)
 
 
