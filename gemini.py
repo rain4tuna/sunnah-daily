@@ -13,9 +13,8 @@ MODEL_TEKS = os.environ.get('MODEL_TEKS', 'gemini-3.8-flash')
 MODEL_TTS = os.environ.get('MODEL_TTS', 'gemini-3.8-flash-tts')
 SUARA = os.environ.get('SUARA', 'Zubenelgenubi')
 GAYA_SUARA = os.environ.get('GAYA_SUARA') or (
-    'laki-laki muda Indonesia yang sedang bercerita ke teman dekat: hangat, ringan, ekspresif dan mengalir '
-    'natural seperti ngobrol, tempo sedang cenderung cepat, intonasi naik-turun hidup, jeda singkat saja, '
-    'tidak berat, tidak kaku, tidak seperti membaca teks')
+    'laki-laki muda yang tenang dan lembut, penuh perasaan seperti sedang merenung, tidak berat, '
+    'tidak kaku, tempo sedang, intonasi halus')
 
 
 def log(*a):
