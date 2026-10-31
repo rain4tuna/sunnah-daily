@@ -1,0 +1,313 @@
+{
+ "episode": 3,
+ "judul": "Sirah Nabawiyah #3 - Nasab Dan Kelahiran Rasulullah",
+ "url": "https://www.youtube.com/watch?v=7o1RLMMduOo",
+ "kisah": [
+  {
+   "menit": "02:34",
+   "judul_hook": "Mengapa Nasab Nabi Sangat Mulia?",
+   "narasi_hook": "Tahukah kamu mengapa Allah memilih nasab terbaik untuk Nabi Muhammad ﷺ?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Allah memilih suku Quraisy dari keturunan Nabi Ismail 'alaihissalam, lalu memilih Bani Hasyim sebagai keluarga termulia.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Kemuliaan nasab ini menjaga beliau agar tidak ada celah bagi musuh untuk merendahkan dakwahnya.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنَّ اللَّهَ اصْطَفَى كِنَانَةَ مِنْ وَلَدِ إِسْمَاعِيلَ، وَاصْطَفَى قُرَيْشًا مِنْ كِنَانَةَ، وَاصْطَفَى مِنْ قُرَيْشٍ بَنِي هَاشِمٍ، وَاصْطَفَانِي مِنْ بَنِي هَاشِمٍ",
+    "terjemah": "Sesungguhnya Allah memilih Kinanah dari keturunan Ismail, memilih Quraisy dari Kinanah, memilih Bani Hasyim dari Quraisy, dan memilihku dari Bani Hasyim.",
+    "sumber": "HR. Muslim no. 2276",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2276"
+   },
+   "faedah": "Allah telah mempersiapkan segala kebaikan sejak awal untuk mendukung tegaknya kebenaran.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "nasab nabi",
+    "kemuliaan rasul"
+   ],
+   "id": "ep003-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "judul": "Mengapa Nasab Nabi Sangat Mulia?",
+     "narasi": "Tahukah kamu mengapa Allah memilih nasab terbaik untuk Nabi Muhammad ﷺ?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Dalam ketetapan-Nya, Allah memilih suku Quraisy yang terhormat dari seluruh garis keturunan Nabi Ismail 'alaihissalam."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Kemudian dari suku Quraisy pilihan tersebut, Allah memilih Bani Hasyim sebagai keluarga yang paling utama dan termulia."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Kemuliaan nasab yang sangat suci ini menjaga beliau di tengah penolakan kaumnya saat berdakwah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Semua ini terjadi agar tidak ada celah sama sekali bagi musuh untuk merendahkan dakwahnya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Mempersiapkan Kebaikan",
+     "narasi": "Sungguh menjadi pelajaran berharga, bahwa Allah telah mempersiapkan segala kebaikan sejak awal untuk mendukung tegaknya kebenaran."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kamu mengagumi hikmah kisah ini. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "yt": "https://youtube.com/shorts/c1IVjds4A9k",
+   "waktu_posting": "2026-10-31T14:24:06"
+  },
+  {
+   "menit": "05:08",
+   "judul_hook": "Mimpi Penemuan Kembali Sumur Zamzam",
+   "narasi_hook": "Bagaimana sumur Zamzam yang terkubur ratusan tahun akhirnya ditemukan kembali?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Kakek Nabi ﷺ, Abdul Muthalib, beberapa kali didatangi mimpi saat tertidur di dekat Ka'bah untuk menggali sumur Zamzam.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Setelah petunjuk lokasi menjadi jelas melalui mimpinya, beliau segera menggali bersama putranya hingga air penuh berkah memancar kembali.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "",
+    "terjemah": "Kisah mimpi Abdul Muthalib tentang perintah menggali Zamzam diriwayatkan oleh Ali bin Abi Thalib radhiyallahu 'anhu.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "hasan",
+    "dari_video": true
+   },
+   "faedah": "Pertolongan dan kemudahan dari Allah akan datang kepada orang yang tulus berikhtiar.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "sumur zamzam",
+    "abdul muthalib"
+   ],
+   "id": "ep003-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "11:03",
+   "judul_hook": "Mukjizat Air di Tengah Gurun",
+   "narasi_hook": "Apa yang terjadi saat kakek Nabi ﷺ kehabisan air di padang pasir?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Ketika menempuh perjalanan jauh dan perbekalan air habis, rombongan Abdul Muthalib pasrah bahkan sempat bersiap menghadapi maut.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Tiba-tiba dari bawah kaki unta Abdul Muthalib memancar air tawar segar yang menyelamatkan mereka dan membuktikan kemuliaannya.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "",
+    "terjemah": "Riwayat tentang keluarnya air dari jejak unta Abdul Muthalib saat perjalanan mencari ketetapan hukum terkait sumur Zamzam.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "hasan",
+    "dari_video": true
+   },
+   "faedah": "Jangan pernah berputus asa dari rahmat Allah di tengah kesulitan yang paling genting.",
+   "latar_faedah": "langit",
+   "tema": [
+    "pertolongan allah",
+    "sejarah makkah"
+   ],
+   "id": "ep003-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "12:56",
+   "judul_hook": "Dialog Raja Romawi Menguji Kenabian",
+   "narasi_hook": "Mengapa Raja Heraklius penasaran dengan garis keturunan Nabi Muhammad ﷺ?",
+   "latar_hook": "kitab",
+   "adegan": [
+    {
+     "narasi": "Heraklius menanyai Abu Sufyan radhiyallahu 'anhu tentang nasab Rasulullah ﷺ di kalangan kaumnya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mendengar bahwa beliau dari nasab paling mulia, Heraklius mengakui bahwa seluruh nabi memang diutus dari keluarga terbaik kaumnya.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "فَكَذَلِكَ الرُّسُلُ تُبْعَثُ فِي أَنْسَابِ قَوْمِهَا",
+    "terjemah": "Demikianlah para rasul, mereka selalu diutus di tengah-tengah nasab yang mulia pada kaumnya.",
+    "sumber": "HR. Bukhari no. 7",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Kemuliaan akhlak dan asal-usul yang baik memperkuat kepercayaan orang terhadap kebenaran.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "heraklius",
+    "tanda kenabian"
+   ],
+   "id": "ep003-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "18:24",
+   "judul_hook": "Tebusan Seratus Unta untuk Ayah",
+   "narasi_hook": "Tahukah kamu bahwa ayah Nabi Muhammad ﷺ hampir saja disembelih?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Abdul Muthalib bernazar jika dikaruniai sepuluh anak laki-laki, salah satunya akan disembelih untuk Allah.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Saat undian jatuh pada Abdullah, kaum Quraisy mencegahnya hingga ditebus dengan menyembelih seratus ekor unta demi keselamatannya.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "",
+    "terjemah": "Kisah nazar Abdul Muthalib dan tebusan seratus ekor unta untuk Abdullah ayah Rasulullah ﷺ.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "masyhur",
+    "dari_video": true
+   },
+   "faedah": "Allah menjaga garis keturunan manusia pilihan-Nya dengan takdir yang penuh hikmah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "ayah nabi",
+    "nazar"
+   ],
+   "id": "ep003-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "26:27",
+   "judul_hook": "Puncak Ujian Kehidupan Seorang Yatim",
+   "narasi_hook": "Mengapa Rasulullah ﷺ ditakdirkan lahir dalam keadaan yatim?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Ayah beliau, Abdullah, wafat di Madinah saat Nabi ﷺ masih berada dalam kandungan sang ibunda.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Allah langsung yang memelihara dan menaungi beliau, menjadikan ketegaran beliau teladan bagi siapa pun yang diuji kesendirian.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
+    "terjemah": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?",
+    "sumber": "QS. Adh-Dhuha: 6",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Ketiadaan orang tua bukanlah penghalang untuk tumbuh menjadi pribadi yang paling mulia.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "kelahiran nabi",
+    "anak yatim"
+   ],
+   "id": "ep003-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "31:04",
+   "judul_hook": "Alasan Mulia Puasa Hari Senin",
+   "narasi_hook": "Mengapa Rasulullah ﷺ begitu istimewa menjaga puasa pada hari Senin?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Ketika para sahabat bertanya tentang puasa hari Senin, beliau menjawab bahwa pada hari itulah beliau dilahirkan ke dunia.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Senin juga hari turunnya wahyu kenabian dan waktu dilaporkannya amalan manusia kepada Allah Yang Maha Kuasa.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "ذَاكَ يَوْمٌ وُلِدْتُ فِيهِ، وَيَوْمٌ بُعِثْتُ فِيهِ، أَوْ أُنْزِلَ عَلَيَّ فِيهِ",
+    "terjemah": "Itu adalah hari aku dilahirkan, dan hari aku diutus atau diturunkan wahyu kepadaku.",
+    "sumber": "HR. Muslim no. 1162",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Bentuk syukur terbaik atas nikmat kelahiran dan hidayah adalah dengan memperbanyak ibadah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "puasa sunnah",
+    "kelahiran nabi"
+   ],
+   "id": "ep003-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "37:36",
+   "judul_hook": "Ikatan Indah Persaudaraan Se-Persusuan",
+   "narasi_hook": "Tahukah kamu siapa saja saudara sepersusuan Rasulullah ﷺ sejak bayi?",
+   "latar_hook": "tenda",
+   "adegan": [
+    {
+     "narasi": "Selain disusui ibundanya, Nabi ﷺ disusui oleh Tsuwaibah, mantan budak Abu Lahab yang merasa gembira atas kelahiran beliau.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Tsuwaibah juga menyusui paman beliau, Hamzah radhiyallahu 'anhu, dan Abu Salamah radhiyallahu 'anhu, sehingga mereka menjadi mahram yang saling menyayangi.",
+     "latar": "tenda"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنَّهَا ابْنَةُ أَخِي مِنَ الرَّضَاعَةِ",
+    "terjemah": "Sesungguhnya dia adalah putri dari saudara sepersusuanku.",
+    "sumber": "HR. Bukhari no. 2645 & Muslim no. 1447",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Syariat Islam menjaga kehormatan hubungan keluarga lewat nasab maupun ikatan persusuan.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "persusuan",
+    "hukum mahram"
+   ],
+   "id": "ep003-08",
+   "status": "Belum"
+  }
+ ]
+}
