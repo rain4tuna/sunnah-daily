@@ -7,6 +7,10 @@ on:
         description: 'Daftar voice Gemini TTS, pisahkan koma'
         required: false
         default: 'Puck,Achird,Umbriel,Sadachbia,Zubenelgenubi'
+      mode:
+        description: 'voice | persona'
+        required: false
+        default: 'voice'
 
 permissions:
   contents: write
@@ -24,6 +28,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SUARA_LIST: ${{ github.event.inputs.suara }}
+          MODE: ${{ github.event.inputs.mode }}
           OUT_DIR: hasil
         run: sudo apt-get install -y -qq ffmpeg && python contoh_suara.py
       - name: Simpan ke branch hasil-suara
