@@ -568,8 +568,9 @@
     "arab": "إِنَّهَا ابْنَةُ أَخِي مِنَ الرَّضَاعَةِ",
     "terjemah": "Sesungguhnya dia adalah putri dari saudara sepersusuanku.",
     "sumber": "HR. Bukhari no. 2645 & Muslim no. 1447",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari & Muslim",
+    "rujukan": "https://sunnah.com/bukhari:2645"
    },
    "faedah": "Syariat Islam menjaga kehormatan hubungan keluarga lewat nasab maupun ikatan persusuan.",
    "latar_faedah": "kitab",
@@ -578,7 +579,13 @@
     "hukum mahram"
    ],
    "id": "ep003-08",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Fakta bahwa Tsuwaibah menyusui Nabi ﷺ, Hamzah bin Abdul Muthallib, dan Abu Salamah radhiyallahu 'anhuma adalah riwayat shahih (HR. Bukhari no. 2645, 5101 dan HR. Muslim no. 1447, 1449). Namun, tambahan narasi bahwa Abu Lahab memerdekakan Tsuwaibah karena gembira atas kelahiran Nabi ﷺ bersumber dari riwayat mursal 'Urwah bin az-Zubair yang diperselisihkan kekuatannya. Al-Hafizh Ibnu Hajar (Fathul Bari 9/145) menjelaskan bahwa menurut riwayat sirah yang masyhur, Tsuwaibah baru dimerdekakan Abu Lahab bertahun-tahun kemudian setelah Nabi ﷺ hijrah ke Madinah, bukan saat kelahiran beliau.",
+    "sumber_cek": []
+   },
+   "layak": false
   }
  ]
 }

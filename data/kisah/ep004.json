@@ -1,0 +1,324 @@
+{
+ "episode": 4,
+ "judul": "Sirah Nabawiyah #4 - Masa Kecil Rasulullah Bersama Halimah Sakdiyah",
+ "url": "https://www.youtube.com/watch?v=SlfUgU-ojQs",
+ "kisah": [
+  {
+   "menit": "01:50",
+   "judul_hook": "Rahasia Bayi Quraisy Dititipkan Desa",
+   "narasi_hook": "Tahukah Anda mengapa anak bangsawan Arab dititipkan ke pedalaman?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Bangsa Quraisy dahulu sengaja mengirim bayi-bayi mereka ke perkampungan Badui untuk disusui. Kota Makkah adalah pusat berkumpulnya berbagai suku sehingga udaranya rentan wabah penyakit dan bahasanya mulai tercampur baur.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Di alam pedalaman yang asri, anak-anak tumbuh dengan fisik yang sehat, udara yang bersih, serta karakter mandiri yang terlatih sejak dini. Mereka juga belajar bahasa Arab yang paling murni dan fasih dari penduduk desa.",
+     "latar": "tenda"
+    }
+   ],
+   "dalil": {
+    "jenis": "ulama",
+    "arab": "«وَأَمَّا دَفْعُ قُرَيْشٍ... أَوْلَادَهُمْ إِلَى الْمَرَاضِعِ، فَقَدْ يَكُونُ ذَلِكَ مِنْهُمْ لِيَنْشَأَ الطِّفْلُ فِي الْأَعْرَابِ، فَيَكُونَ أَفْصَحَ لِلِسَانِهِ، وَأَجْلَدَ لِجِسْمِهِ»",
+    "terjemah": "Kebiasaan orang-orang Quraisy menitipkan anak-anak mereka kepada wanita penyusu (pedalaman) bertujuan agar sang anak tumbuh di lingkungan Badui, sehingga bahasanya lebih fasih dan fisik badannya lebih tangguh.",
+    "sumber": "As-Suhaili, Ar-Raudhul Unuf fi Syarhis Sirah",
+    "derajat": "",
+    "penilai": "",
+    "rujukan": "https://shamela.ws/book/8354"
+   },
+   "faedah": "Lingkungan yang bersih dan sehat sangat menentukan pembentukan karakter serta akhlak anak sejak dini.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Pendidikan Anak",
+    "Adab Badui",
+    "Masa Kecil Nabi"
+   ],
+   "id": "ep004-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Rahasia Bayi Quraisy Dititipkan Desa",
+     "langit": "senja",
+     "narasi": "Tahukah Anda mengapa anak bangsawan Arab dititipkan ke pedalaman?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Kota Makkah kala itu menjadi pusat berkumpulnya berbagai suku, sehingga udaranya rentan wabah penyakit dan bahasanya mulai tercampur baur."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "tenda",
+     "narasi": "Karena alasan itulah, bangsa Quraisy sengaja mengirim bayi-bayi mereka jauh ke perkampungan Badui untuk disusui."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "penduduk desa",
+     "latar": "gurun",
+     "dengan": "",
+     "narasi": "Di alam pedalaman yang asri dan berudara bersih, anak-anak tumbuh dengan fisik yang sehat serta karakter mandiri yang terlatih sejak dini."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "tenda",
+     "narasi": "Selain kesehatan raga, mereka juga menyerap bahasa Arab yang paling murni dan fasih langsung dari penduduk desa."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Karakter dan Lingkungan",
+     "narasi": "Lingkungan yang bersih dan sehat sangat menentukan pembentukan karakter serta akhlak anak sejak dini."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menambah wawasan. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfNzMPxD-Gv/",
+   "yt": "https://youtube.com/shorts/TzVNsxvmdz4",
+   "waktu_posting": "2026-11-01T22:25:58"
+  },
+  {
+   "menit": "05:00",
+   "judul_hook": "Bayi Yatim Pembawa Berkah Melimpah",
+   "narasi_hook": "Siapa sangka bayi yang ditolak membawa berkah luar biasa?",
+   "latar_hook": "tenda",
+   "adegan": [
+    {
+     "narasi": "Rombongan wanita Bani Sa'ad datang ke Makkah mencari bayi susuan demi upah, namun semua menolak bayi Muhammad ﷺ karena beliau anak yatim. Halimah as-Sa'diyah radhiyallahu 'anha yang belum mendapat anak susuan akhirnya memutuskan membawanya pulang daripada pulang dengan tangan hampa.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Seketika keberkahan melimpah ruah menyelimuti keluarganya. Air susu Halimah mengalir deras hingga kedua bayi kenyang dan tidur lelap, unta kurus mereka penuh air susu, bahkan keledai mereka yang semula paling lemah mendadak berjalan paling kencang.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "وَاللَّهِ إِنِّي لأَكْرَهُ أَنْ أَرْجِعَ مِنْ بَيْنِ صَوَاحِبِي وَلَمْ آخُذْ رَضِيعًا",
+    "terjemah": "Demi Allah, sungguh aku enggan pulang bersama teman-temanku tanpa membawa seorang anak susuan.",
+    "sumber": "HR. Ahmad no. 17505 dan Ibnu Ishaq dalam As-Sirah",
+    "derajat_kata_ustadz": "Hasan",
+    "dari_video": true
+   },
+   "faedah": "Mengasuh anak yatim dengan tulus mendatangkan limpahan keberkahan rezeki yang tak disangka-sangka.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Halimah Sakdiyah",
+    "Berkah Anak Yatim",
+    "Masa Kecil Nabi"
+   ],
+   "id": "ep004-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "13:00",
+   "judul_hook": "Malaikat Membelah Dada Nabi Kecil",
+   "narasi_hook": "Bagaimana peristiwa pembelahan dada Rasulullah ﷺ terjadi?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Ketika Rasulullah ﷺ berusia empat tahun di perkampungan Bani Sa'ad, Malaikat Jibril mendatangi beliau saat sedang bermain bersama anak-anak. Jibril membaringkan tubuh Nabi ﷺ, lalu membelah dadanya dan mengeluarkan jantung beliau.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Jibril mencabut gumpalan darah hitam seraya menegaskan bahwa itulah bagian setan yang dicabut darinya. Jantung suci itu kemudian dicuci dengan air zamzam di dalam bejana emas, dipenuhi ketenangan dan keimanan, lalu dijahit kembali dengan sempurna.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "هَذَا حَظُّ الشَّيْطَانِ مِنْكَ",
+    "terjemah": "Ini adalah bagian setan dari dirimu.",
+    "sumber": "HR. Muslim no. 162",
+    "derajat_kata_ustadz": "Shahih",
+    "dari_video": true
+   },
+   "faedah": "Hati yang suci dari bisikan keburukan adalah sumber kebaikan seluruh amal dan akhlak manusia.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Mukjizat Nabi",
+    "Penyucian Hati",
+    "Malaikat Jibril"
+   ],
+   "id": "ep004-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "20:20",
+   "judul_hook": "Mengapa Hati Nabi Dibersihkan Dini?",
+   "narasi_hook": "Mengapa hati Rasulullah ﷺ disucikan sejak masa kanak-kanak?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Para ulama menjelaskan bahwa penyucian hati Rasulullah ﷺ sejak usia belia merupakan penjagaan langsung dari Allah agar akhlak beliau senantiasa terpelihara. Beliau diselamatkan dari lumuran dosa dan kebiasaan buruk masyarakat jahiliyah sepanjang masa pertumbuhannya.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Jika beliau pernah berbuat maksiat di masa muda, kaum musyrikin pasti akan mengungkit aib tersebut saat beliau mengajak kepada Islam. Berkat penjagaan Allah, beliau dikenal sebagai pribadi paling amanah dan suci bahkan sebelum diangkat menjadi nabi.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "terjemah": "Bukankah Kami telah melapangkan dadamu (Muhammad)? Dan Kami pun telah menurunkan bebanmu darimu.",
+    "sumber": "QS. Asy-Syarh: 1-2",
+    "derajat_kata_ustadz": "",
+    "dari_video": false
+   },
+   "faedah": "Menjaga kehormatan sejak usia muda adalah benteng wibawa dan integritas di masa depan.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Integritas Diri",
+    "Penjagaan Allah",
+    "Akhlak Mulia"
+   ],
+   "id": "ep004-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "26:00",
+   "judul_hook": "Air Mata Rasulullah di Makam Ibu",
+   "narasi_hook": "Mengapa Rasulullah ﷺ menangis tersedu di makam ibundanya?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Ibunda Rasulullah ﷺ, Aminah, wafat di al-Abwa saat Nabi ﷺ baru berumur enam tahun dalam perjalanan pulang dari Madinah. Rasulullah ﷺ harus merasakan perihnya kehilangan pelindung utamanya di tengah padang pasir yang sepi.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Puluhan tahun kemudian ketika telah menjadi nabi, beliau menziarahi makam ibundanya lalu menangis tersedu-sedu hingga membuat para sahabat di sekitarnya ikut menangis. Beliau memohon izin kepada Allah untuk memintakan ampunan bagi sang ibu namun tidak diizinkan, dan hanya diizinkan untuk berziarah.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "اسْتَأْذَنْتُ رَبِّي أَنْ أَسْتَغْفِرَ لَهَا فَلَمْ يَأْذَنْ لِي، وَاسْتَأْذَنْتُهُ أَنْ أَزُورَ قَبْرَهَا فَأَذِنَ لِي",
+    "terjemah": "Aku meminta izin kepada Tuhanku untuk memintakan ampunan baginya, namun Dia tidak mengizinkanku; dan aku meminta izin untuk menziarahi kuburnya, maka Dia mengizinkanku.",
+    "sumber": "HR. Muslim no. 976",
+    "derajat_kata_ustadz": "Shahih",
+    "dari_video": true
+   },
+   "faedah": "Kasih sayang dan kerinduan tulus kepada orang tua tidak akan pernah hilang oleh waktu.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Berbakti Kepada Ibu",
+    "Ziarah Kubur",
+    "Kasih Sayang"
+   ],
+   "id": "ep004-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "30:30",
+   "judul_hook": "Permadani Khusus Sang Kakek Penyayang",
+   "narasi_hook": "Siapa satu-satunya anak yang boleh duduk di permadani sang kakek?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Setelah ibunya tiada, Rasulullah ﷺ diasuh kakeknya, Abdul Muththalib, dengan kasih sayang luar biasa. Abdul Muththalib memiliki permadani khusus di samping Ka'bah yang tak seorang pun dari anak-anaknya berani duduk di atasnya karena rasa segan.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Ketika Nabi ﷺ kecil datang dan langsung duduk di atasnya, paman-pamannya segera melarang. Namun Abdul Muththalib membela cucunya seraya memeluk dan mengusap punggung beliau, lalu berucap penuh keyakinan bahwa anak ini kelak akan menjadi orang yang sangat agung.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "دَعُوا ابْنِي هَذَا، فَوَاللَّهِ إِنَّ لَهُ لَشَأْنًا",
+    "terjemah": "Biarkanlah cucuku ini! Demi Allah, sesungguhnya ia kelak memiliki kedudukan yang sangat agung.",
+    "sumber": "Sirah Ibnu Hisyam dan Al-Mustadrak Al-Hakim no. 4211",
+    "derajat_kata_ustadz": "Sanadnya shahih",
+    "dari_video": true
+   },
+   "faedah": "Dukungan penuh dan kasih sayang keluarga membangkitkan rasa percaya diri serta kemuliaan anak.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Kasih Sayang Kakek",
+    "Abdul Muththalib",
+    "Masa Kecil Nabi"
+   ],
+   "id": "ep004-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "36:40",
+   "judul_hook": "Mengapa Semua Nabi Menggembala Kambing?",
+   "narasi_hook": "Tahukah Anda mengapa seluruh nabi pernah menggembalakan kambing?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ menggembalakan kambing milik penduduk Makkah demi mencari nafkah untuk membantu pamannya, Abu Thalib, yang hidup serba kekurangan. Beliau menegaskan bahwa seluruh nabi yang diutus Allah pasti pernah menggembala kambing.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Menggembala kambing melatih sifat tawadhu dan menjauhkan dari kesombongan pemilik kuda atau unta. Mengatur kawanan kambing yang lemah, berpencar, dan beragam tabiat menjadi sarana latihan kesabaran luar biasa sebelum para nabi memimpin umat manusia.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَا بَعَثَ اللَّهُ نَبِيًّا إِلَّا رَعَى الْغَنَمَ",
+    "terjemah": "Tidaklah Allah mengutus seorang nabi melainkan ia pernah menggembalakan kambing.",
+    "sumber": "HR. Bukhari no. 2262",
+    "derajat_kata_ustadz": "Shahih",
+    "dari_video": true
+   },
+   "faedah": "Menekuni pekerjaan sederhana dengan sabar melatih kerendahan hati serta kemampuan memimpin yang bijak.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Menggembala Kambing",
+    "Tawadhu",
+    "Kepemimpinan"
+   ],
+   "id": "ep004-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "49:00",
+   "judul_hook": "Tertidur Sebelum Terjerumus Maksiat",
+   "narasi_hook": "Bagaimana Allah menjaga Nabi ﷺ dari musik jahiliyah?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Di masa remajanya, Rasulullah ﷺ sempat dua kali terbesit ingin begadang menikmati pesta malam bersama para pemuda Makkah. Beliau menitipkan kambingnya kepada seorang kawan sesama gembala lalu berjalan menuju pusat kota.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Namun ketika mulai mendengar alunan musik pesta perkawinan, Allah menidurkan beliau dengan sangat lelap hingga baru terbangun oleh terik matahari pagi. Allah menjaga pendengaran dan diri beliau dari hal-hal yang sia-sia.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "فَمَا هَمَمْتُ بِسُوءٍ مِمَّا يَعْمَلُ أَهْلُ الْجَاهِلِيَّةِ غَيْرَ مَرَّتَيْنِ، كُلُّ ذَلِكَ يَحُولُ اللَّهُ بَيْنِي وَبَيْنَهُ",
+    "terjemah": "Aku tidak pernah berniat melakukan keburukan perbuatan jahiliyah kecuali dua kali, dan setiap kali itu pula Allah menghalangiku darinya.",
+    "sumber": "HR. Al-Hakim no. 4212 dan Al-Baihaqi dalam Dala'il an-Nubuwwah",
+    "derajat_kata_ustadz": "Dipaparkan sebagai riwayat yang diperbincangkan ulama",
+    "dari_video": true
+   },
+   "faedah": "Penjagaan Allah atas seorang hamba kerap hadir lewat terhalangnya jalan menuju perbuatan dosa.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Penjagaan Ilahi",
+    "Masa Remaja Nabi",
+    "Menghindari Maksiat"
+   ],
+   "id": "ep004-08",
+   "status": "Belum"
+  }
+ ]
+}
