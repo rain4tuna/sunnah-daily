@@ -276,11 +276,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "فَكَذَلِكَ الرُّسُلُ تُبْعَثُ فِي أَنْسَابِ قَوْمِهَا",
-    "terjemah": "Demikianlah para rasul, mereka selalu diutus di tengah-tengah nasab yang mulia pada kaumnya.",
+    "arab": "...سَأَلْتُكَ عَنْ نَسَبِهِ، فَذَكَرْتَ أَنَّهُ فِيكُمْ ذُو نَسَبٍ، فَكَذَلِكَ الرُّسُلُ تُبْعَثُ فِي نَسَبِ قَوْمِهَا...",
+    "terjemah": "...Aku menanyaimu tentang nasabnya, lalu engkau menyebutkan bahwa ia orang yang bernasab (mulia) di kalangan kalian; demikianlah para rasul, mereka selalu diutus di tengah nasab (terpandang) kaumnya...",
     "sumber": "HR. Bukhari no. 7",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:7"
    },
    "faedah": "Kemuliaan akhlak dan asal-usul yang baik memperkuat kepercayaan orang terhadap kebenaran.",
    "latar_faedah": "lentera",
@@ -289,7 +290,58 @@
     "tanda kenabian"
    ],
    "id": "ep003-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Dialog Raja Romawi Menguji Kenabian",
+     "langit": "senja",
+     "narasi": "Mengapa Raja Heraklius penasaran dengan garis keturunan Nabi Muhammad ﷺ?"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Heraklius",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Heraklius menanyai Abu Sufyan radhiyallahu 'anhu mengenai garis keturunan Rasulullah ﷺ di kalangan kaumnya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Sang raja ingin menguji tanda-tanda kenabian itu dengan meneliti nasab dan kedudukan beliau di tengah masyarakatnya."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Mendengar pengakuan bahwa beliau berasal dari nasab paling mulia, Heraklius pun menemukan kebenaran yang ia cari."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Ia mengakui bahwa seluruh nabi memang selalu diutus dari keluarga terbaik dan paling terpandang di antara kaumnya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kemuliaan Penguat Kebenaran",
+     "narasi": "Kemuliaan akhlak dan asal-usul yang baik senantiasa memperkuat kepercayaan manusia terhadap risalah kebenaran."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menginspirasimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "yt": "https://youtube.com/shorts/8nrPyMhdx78",
+   "waktu_posting": "2026-11-01T08:48:13"
   },
   {
    "menit": "18:24",
