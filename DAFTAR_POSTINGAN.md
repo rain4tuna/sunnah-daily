@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 19 video. Waktu dalam WIB, terbaru di atas.
+Total: 20 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 01 Nov 2026 18.54 | ep003-06 | Puncak Ujian Kehidupan Seorang Yatim | QS. Adh-Dhuha: 6 | [IG](https://www.instagram.com/reel/DfMq5u_AQPD/) · [YouTube](https://youtube.com/shorts/6DMNuGvAyA4) |
 | 01 Nov 2026 15.48 | ep003-04 | Dialog Raja Romawi Menguji Kenabian | HR. Bukhari no. 7 (shahih) | - · [YouTube](https://youtube.com/shorts/8nrPyMhdx78) |
 | 01 Nov 2026 11.57 | ep003-03 | Mukjizat Air di Tengah Gurun | HR. Al-Baihaqi dalam Dala'il An-Nubuwwah (1/93) dan Ibnu Ishaq dalam As-Siyar wal Maghazi (hlm. 24) (shahih) | - · [YouTube](https://youtube.com/shorts/7pP2Y7Qxuzs) |
 | 01 Nov 2026 05.23 | ep003-02 | Mimpi Penemuan Kembali Sumur Zamzam | Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/142); Al-Bayhaqi, Dala'il An-Nubuwwah (1/93) (shahih) | [IG](https://www.instagram.com/reel/DfLOJUBDfKe/) · [YouTube](https://youtube.com/shorts/MaXoPFzIaXI) |

@@ -360,11 +360,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Kisah nazar Abdul Muthalib dan tebusan seratus ekor unta untuk Abdullah ayah Rasulullah ﷺ.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "masyhur",
-    "dari_video": true
+    "arab": "وَكَانَ عَبْدُ الْمُطَّلِبِ فِيمَا يَزْعُمُونَ نَذَرَ... لَئِنْ وُلِدَ لَهُ عَشَرَةُ نَفَرٍ، ثُمَّ بَلَغُوا مَعَهُ حَتَّى يَمْنَعُوهُ، لَيَنْحَرَنَّ أَحَدَهُمْ لِلَّهِ عِنْدَ الْكَعْبَةِ... فَخَرَجَ الْقَدْحُ عَلَى الْإِبِلِ... فَنُحِرَتْ",
+    "terjemah": "Dan Abdul Muthalib—sebagaimana yang mereka klaim—pernah bernazar: jika dikaruniai sepuluh anak laki-laki yang sanggup melindunginya, ia sungguh akan menyembelih salah satunya untuk Allah di Ka'bah... lalu keluarlah undian pada unta... maka disembelihlah unta-unta tersebut.",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/151-155)",
+    "derajat": "lemah",
+    "penilai": "Syaikh Al-Albani & para muhaqqiq hadits",
+    "rujukan": "https://www.islamweb.net/ar/fatwa/429668/"
    },
    "faedah": "Allah menjaga garis keturunan manusia pilihan-Nya dengan takdir yang penuh hikmah.",
    "latar_faedah": "lentera",
@@ -373,7 +374,13 @@
     "nazar"
    ],
    "id": "ep003-05",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah nazar Abdul Muthalib hendak menyembelih putranya (Abdullah) dan menebusnya dengan 100 ekor unta sangat masyhur dalam literatur tarikh/sirah, namun tidak memiliki satu pun sanad yang shahih. Ibnu Ishaq membawakannya tanpa sanad (mu'allaq) dengan ungkapan keraguan ('fima yaz'umun' / sebagaimana yang mereka duga). Hadits marfu' pendukung yang sering dikaitkan, yaitu sabda Nabi ﷺ 'Aku adalah anak dari dua orang kurban' (HR. Al-Hakim no. 4036), dinilai wahin (sangat lemah) oleh Imam Adz-Dzahabi dan 'la ashla lahu' oleh Syaikh Al-Albani (Silsilah Adh-Dha'ifah no. 331). Karena akun memegang prinsip hadits lemah wajib disebut lemah, kisah ini tidak boleh dibawakan seolah-olah fakta sejarah yang pasti tanpa menegaskan kelemahan riwayatnya.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "26:27",
@@ -395,8 +402,9 @@
     "arab": "أَلَمْ يَجِدْكَ يَتِيمًا فَـَٔاوَىٰ",
     "terjemah": "Bukankah Dia mendapatimu sebagai seorang yatim, lalu Dia melindungimu?",
     "sumber": "QS. Adh-Dhuha: 6",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/93?from=6&to=6"
    },
    "faedah": "Ketiadaan orang tua bukanlah penghalang untuk tumbuh menjadi pribadi yang paling mulia.",
    "latar_faedah": "lentera",
@@ -405,7 +413,57 @@
     "anak yatim"
    ],
    "id": "ep003-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Puncak Ujian Kehidupan Seorang Yatim",
+     "langit": "malam",
+     "narasi": "Mengapa Rasulullah ﷺ ditakdirkan lahir dalam keadaan yatim?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Ayah beliau, Abdullah, wafat di Madinah saat Nabi ﷺ masih berada dalam kandungan sang ibunda."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Sejak awal kehidupan, beliau telah menjalani takdir kesendirian tanpa pernah menatap wajah sang ayah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Namun Allah langsung yang memelihara dan menaungi beliau dalam setiap langkah kehidupannya."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Ketegaran beliau pun menjadi teladan nyata bagi siapa pun yang sedang diuji dengan kesendirian."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Teladan Pribadi Mulia",
+     "narasi": "Ketiadaan orang tua bukanlah penghalang untuk tumbuh menjadi pribadi yang paling mulia."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Alhamdulillah di komentar",
+     "narasi": "Tulis Alhamdulillah di komentar jika kisah ini menguatkan hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfMq5u_AQPD/",
+   "yt": "https://youtube.com/shorts/6DMNuGvAyA4",
+   "waktu_posting": "2026-11-01T11:54:28"
   },
   {
    "menit": "31:04",
