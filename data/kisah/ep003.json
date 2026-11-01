@@ -482,11 +482,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "ذَاكَ يَوْمٌ وُلِدْتُ فِيهِ، وَيَوْمٌ بُعِثْتُ فِيهِ، أَوْ أُنْزِلَ عَلَيَّ فِيهِ",
-    "terjemah": "Itu adalah hari aku dilahirkan, dan hari aku diutus atau diturunkan wahyu kepadaku.",
+    "arab": "ذَاكَ يَوْمٌ وُلِدْتُ فِيهِ، وَيَوْمٌ بُعِثْتُ، أَوْ أُنْزِلَ عَلَيَّ فِيهِ",
+    "terjemah": "Itu adalah hari ketika aku dilahirkan dan hari ketika aku diutus (menjadi rasul) atau diturunkan wahyu kepadaku.",
     "sumber": "HR. Muslim no. 1162",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:1162b"
    },
    "faedah": "Bentuk syukur terbaik atas nikmat kelahiran dan hidayah adalah dengan memperbanyak ibadah.",
    "latar_faedah": "lentera",
@@ -495,7 +496,57 @@
     "kelahiran nabi"
    ],
    "id": "ep003-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "judul": "Alasan Mulia Puasa Hari Senin",
+     "narasi": "Mengapa Rasulullah ﷺ begitu istimewa menjaga puasa pada hari Senin di antara hari-hari lainnya?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "fajar",
+     "narasi": "Ketika para sahabat penasaran dan bertanya tentang rahasia puasa hari Senin, beliau ﷺ memberikan jawaban yang sarat makna."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Rasulullah ﷺ menjawab dengan jelas bahwa pada hari Senin itulah beliau dilahirkan ke muka bumi."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gua",
+     "narasi": "Selain kelahiran beliau, hari Senin juga menjadi hari diturunkannya wahyu kenabian yang membawa petunjuk."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Hari Senin pun menjadi waktu mulia saat seluruh amalan manusia dilaporkan kepada Allah Yang Maha Kuasa."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Syukur Atas Hidayah",
+     "narasi": "Bentuk syukur terbaik dari seorang hamba atas nikmat kelahiran dan agungnya hidayah adalah dengan memperbanyak amal ibadah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Alhamdulillah di komentar",
+     "narasi": "Mari hidupkan puasa sunnah ini dalam keseharian kita. Tulis Alhamdulillah di komentar dan ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfM7gjwkWKY/",
+   "yt": "https://youtube.com/shorts/75QprzkRZiM",
+   "waktu_posting": "2026-11-01T14:19:35"
   },
   {
    "menit": "37:36",
