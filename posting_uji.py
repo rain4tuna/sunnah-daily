@@ -11,7 +11,7 @@ with open(f'{b}_caption.txt') as f:
 tujuan = os.environ.get('TUJUAN', 'ig')
 try:
     if tujuan in ('ig', 'semua'):
-        media = ig.posting_reel_berkas(os.environ.get('IG_USER_ID', '17841438717756877'), f'{b}.mp4', cap)
+        media = ig.posting_reel_aman(os.environ.get('IG_USER_ID', '17841438717756877'), f'{b}.mp4', cap)
         print(f'::notice::IG {ig.permalink(media) or media}')
     if tujuan in ('yt', 'semua'):
         import yt

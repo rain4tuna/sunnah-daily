@@ -103,7 +103,7 @@ jobs:
       - name: Simpan video ke branch hasil (untuk ditinjau)
         if: always()
         run: |
-          [ -d hasil ] && [ "$(ls -A hasil)" ] || exit 0
+          ls hasil/*.mp4 >/dev/null 2>&1 || exit 0     # slot yang dilewati tidak menimpa video terakhir
           mkdir -p /tmp/h && cp hasil/* /tmp/h/
           git checkout -q --orphan hasil-tmp
           git rm -rfq --cached . && git clean -fdq -e hasil

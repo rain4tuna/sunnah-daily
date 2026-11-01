@@ -241,7 +241,7 @@ def main():
         if os.environ.get('POSTING_IG', 'false').lower() == 'true':
             ig_id = os.environ.get('IG_USER_ID') or '17841438717756877'
             try:
-                media = ig.posting_reel_berkas(ig_id, mp4, cap)
+                media = ig.posting_reel_aman(ig_id, mp4, cap)
                 k['ig'] = ig.permalink(media) or media
                 k['status'] = 'Diposting'
                 log(f"Diposting ke IG: {k['ig']}")

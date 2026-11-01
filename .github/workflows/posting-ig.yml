@@ -10,6 +10,14 @@ on:
         description: 'ig | yt | semua | cek-yt'
         required: false
         default: 'ig'
+      run_id:
+        description: 'ID run Buat Video asal video (kosong = ambil dari branch hasil)'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+  actions: read
 
 jobs:
   posting:
@@ -20,7 +28,16 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Ambil video dari artifact run
+        if: github.event.inputs.run_id != ''
+        uses: actions/download-artifact@v4
+        with:
+          run-id: ${{ github.event.inputs.run_id }}
+          github-token: ${{ github.token }}
+          path: .
+          merge-multiple: true
       - name: Ambil video dari branch hasil
+        if: github.event.inputs.run_id == ''
         run: |
           git fetch -q origin hasil
           git show origin/hasil:${{ github.event.inputs.berkas }}.mp4 > ${{ github.event.inputs.berkas }}.mp4
