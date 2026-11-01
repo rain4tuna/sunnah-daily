@@ -187,11 +187,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Riwayat tentang keluarnya air dari jejak unta Abdul Muthalib saat perjalanan mencari ketetapan hukum terkait sumur Zamzam.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "hasan",
-    "dari_video": true
+    "arab": "فَلَمَّا جَلَسَ عَلَى نَاقَتِهِ، وَانْبَعَثَتْ بِهِ، انْفَجَرَتْ عَيْنٌ تَحْتَ خُفِّهَا بِمَاءٍ عَذْبٍ، فَشَرِبُوا وَاسْتَقَوْا... فَقَالُوا: قَدْ وَاللَّهِ قُضِيَ لَكَ، إِنَّ الَّذِي سَقَاكَ هَذَا الْمَاءَ... لَهُوَ الَّذِي سَقَاكَ زَمْزَمَ",
+    "terjemah": "Ketika ia menaiki untanya dan unta itu bangkit berdiri, terpancarlah mata air tawar dari bawah telapak kakinya, lalu mereka minum dan mengambil air... Kaum Quraisy pun berkata: 'Demi Allah, Dia telah memenangkan perkaramu. Yang memberimu air di padang tandus ini sungguh Dialah Yang memberimu Zamzam.'",
+    "sumber": "HR. Al-Baihaqi dalam Dala'il An-Nubuwwah (1/93) dan Ibnu Ishaq dalam As-Siyar wal Maghazi (hlm. 24)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Izalatul Dahsy, hlm. 26)",
+    "rujukan": "https://dorar.net/hadith/sharh/143588"
    },
    "faedah": "Jangan pernah berputus asa dari rahmat Allah di tengah kesulitan yang paling genting.",
    "latar_faedah": "langit",
@@ -200,7 +201,63 @@
     "sejarah makkah"
    ],
    "id": "ep003-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "judul": "Mukjizat Air di Tengah Gurun",
+     "narasi": "Apa yang terjadi saat kakek Nabi ﷺ kehabisan air di padang pasir?"
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Dalam sebuah perjalanan jauh yang melelahkan, perbekalan air rombongan Abdul Muthalib benar-benar habis tak bersisa."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kafilah",
+     "narasi": "Di tengah teriknya gurun tandus, rasa haus mencekik mereka hingga keputusasaan melanda seluruh rombongan."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Rombongan itu bahkan pasrah dan sempat bersiap menghadapi maut yang terasa kian mendekat."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Abdul Muthalib",
+     "latar": "gurun",
+     "dengan": "unta",
+     "narasi": "Namun pertolongan Allah datang tak terduga saat Abdul Muthalib bangkit menaiki untanya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Tiba-tiba, dari bawah kaki untanya memancar mata air tawar yang segar, menyelamatkan mereka semua dan membuktikan kemuliaannya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Rahmat di Tengah Kesulitan",
+     "narasi": "Jangan pernah berputus asa dari rahmat Allah di tengah kesulitan yang paling genting sekalipun."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menguatkan hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "yt": "https://youtube.com/shorts/7pP2Y7Qxuzs",
+   "waktu_posting": "2026-11-01T04:57:28"
   },
   {
    "menit": "12:56",

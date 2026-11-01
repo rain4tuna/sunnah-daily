@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 17 video. Waktu dalam WIB, terbaru di atas.
+Total: 18 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 01 Nov 2026 11.57 | ep003-03 | Mukjizat Air di Tengah Gurun | HR. Al-Baihaqi dalam Dala'il An-Nubuwwah (1/93) dan Ibnu Ishaq dalam As-Siyar wal Maghazi (hlm. 24) (shahih) | - · [YouTube](https://youtube.com/shorts/7pP2Y7Qxuzs) |
 | 01 Nov 2026 05.23 | ep003-02 | Mimpi Penemuan Kembali Sumur Zamzam | Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/142); Al-Bayhaqi, Dala'il An-Nubuwwah (1/93) (shahih) | [IG](https://www.instagram.com/reel/DfLOJUBDfKe/) · [YouTube](https://youtube.com/shorts/MaXoPFzIaXI) |
 | 31 Oct 2026 21.24 | ep003-01 | Mengapa Nasab Nabi Sangat Mulia? | HR. Muslim no. 2276 (shahih) | - · [YouTube](https://youtube.com/shorts/c1IVjds4A9k) |
 | 31 Oct 2026 18.53 | ep002-08 | Saat Realita Tak Sesuai Ekspektasi | QS. Al-Baqarah: 216 | [IG](https://www.instagram.com/reel/DfKGA3UD2i2/) · [YouTube](https://youtube.com/shorts/jcuUfGiLTtI) |
