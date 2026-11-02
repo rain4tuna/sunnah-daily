@@ -504,11 +504,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "فَمَا هَمَمْتُ بِسُوءٍ مِمَّا يَعْمَلُ أَهْلُ الْجَاهِلِيَّةِ غَيْرَ مَرَّتَيْنِ، كُلُّ ذَلِكَ يَحُولُ اللَّهُ بَيْنِي وَبَيْنَهُ",
-    "terjemah": "Aku tidak pernah berniat melakukan keburukan perbuatan jahiliyah kecuali dua kali, dan setiap kali itu pula Allah menghalangiku darinya.",
-    "sumber": "HR. Al-Hakim no. 4212 dan Al-Baihaqi dalam Dala'il an-Nubuwwah",
-    "derajat_kata_ustadz": "Dipaparkan sebagai riwayat yang diperbincangkan ulama",
-    "dari_video": true
+    "arab": "مَا هَمَمْتُ بِشَيْءٍ مِمَّا كَانَ أَهْلُ الْجَاهِلِيَّةِ يَعْمَلُونَ بِهِ غَيْرَ مَرَّتَيْنِ، كُلُّ ذَلِكَ يَحُولُ اللَّهُ بَيْنِي وَبَيْنَهُ...",
+    "terjemah": "Aku tidak pernah berniat melakukan satu pun dari perbuatan kaum jahiliyah kecuali dua kali, dan setiap kali itu Allah menghalangiku darinya...",
+    "sumber": "HR. Al-Hakim (no. 7619) dan Al-Baihaqi dalam Dala'il an-Nubuwwah (2/33)",
+    "derajat": "lemah",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://dorar.net"
    },
    "faedah": "Penjagaan Allah atas seorang hamba kerap hadir lewat terhalangnya jalan menuju perbuatan dosa.",
    "latar_faedah": "lentera",
@@ -518,7 +519,18 @@
     "Menghindari Maksiat"
    ],
    "id": "ep004-08",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah Nabi ﷺ yang terbesit ingin begadang mendengarkan alunan musik pesta malam lalu ditidurkan Allah hingga pagi bersumber secara eksklusif dari riwayat ini yang berderajat lemah (dha'if) menurut Syaikh Al-Albani dan dinilai 'gharib jiddan' oleh Al-Hafizh Ibnu Katsir. Penjagaan Allah atas diri dan fitrah Nabi ﷺ di masa jahiliyah memang benar adanya, namun riwayat spesifik tentang musik perkawinan ini tidak tsabit.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5OvBDKi5g5fK8nWUv72ZvqLa0F4VlvZIU0fYrVmwxkjFHhSGdQwVuXFFqjwO1sulVCudLoRdJ-JZlKbr6wt8AYTeRVvgZR8zMIczJDGgnQGPtIFcoTxlxZZhJUYOTV8RMp38kRi3uOJgPxGPt3DA3RiqvKXBOqGLf4ZXwXTYDeUyiTKjCoXNNj7MKTbOWV1vGvvFZjxkA8g5NitQZcoMhRRD7JDjct25V9TaOvxvTUvFJPRnHmtNi7IMWjvWb_wXJQsKZcKDrgzaSMTTbPIDPAFx8F0jrvrrsxm3VgL71ZTMuSGmdoLO89lXe8BeRRZA1AEk2AA1CzXCEpaB3Pgo-wMsUBkFn8My6hVQXOw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTST9KiZQFvcAaKupkgoYezOIkqVQTZmPMdKSV7WCS-2wMKWywNuYFbvGIuXLlEr_JpuywhER-WMYd8ataVG2O3SJpCp0S3_qxPfiZmXczPxeC3HqFdjZwlE_bwSwokdmjzFteS5Pgteg-1wogALmBFrU5LVr0zALnsnCdNsx4RIVrXrjYKm3DoeSTqTT2EOzH7UizEGiKsAthuHyATPFXgPh8jhYTbMRdVsZt66xxlVM7Qm1mQllb9zcgDcd-WnheDSUkv726aWC57IRxJngO4W7ZS3NjpZo0eWctDr9bQHplW1vI3NKshbTERu7FcYF1njpGUxNSY3rNt1PomXP1suoKa7b7Mw70pJyYyPpTkR_CZG6RJk6Fd1U0T8-0WP1cRit5vmjsDUMKWeeAPoqUSVTx5YlTD3aKZ43Hnk4UjyRR1uc6ikydYj3yjM_eicEfrlECUrLZ7gYHb3PlXYXKV3kKu-44MQ==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnt60BxzYsrvQcXoBUmEPLqhwFlTk05wBpC4pspRk45B6ffjjGiMQyzcEjK0yDzWz2calCXh9bYBWnEhrjBrtQioXUBZXur3Cq3asH_Lx9_QhrVcmq_wqejxExuoc=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEXFUlxmWstmfYEtFjwyUKN_7tyUTPTFR-GIVy-sfVXlBhq1t4oniLAu2orSvRBuTPbB0NLQLRgGPHK0b7DyqR5IbN6K-JNb4NEtFKLiLg0h8AI1kLoXtg-AJpGMeqbxROANGdaXRH31pR8M_tt1XYALqA7LBX4Vq7MbeDbA0w3Pz4oJxDPMISYiSj_p-g86jXmt171u_yb6dZS0JL6KBzJMNn_YqEqcFdgRLqXyYZL0o13O7sWRnH6JxnJS8MY7vG4VhoJpjSTKpezfaSwFyv0xgQYL9yK6jD8SWC0jXcFWRP8YmQfZmXDw2xY6WiquAjfKKB7wHf6PYe40_rDZ8ImWtoYXdSrrYIOM7JoDOdkUfT_-6SufFxl41iOs06RznSIrputJAw_Ks6l6u-0z9eLvONm02IpAVsf6ze0JVWOSHYhqrIg0kdSTtvbPYHxbH4UDCnNZkRwZnb2Fzn_W8VuyYolQQPEa05DT6qzlWV5FlVm2ByEEXviYgINesTB1bjZtDavOSC"
+    ]
+   },
+   "layak": false
   }
  ]
 }

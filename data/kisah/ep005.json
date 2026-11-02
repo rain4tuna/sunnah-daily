@@ -1,0 +1,361 @@
+{
+ "episode": 5,
+ "judul": "Sirah Nabawiyah #5 - Pertemuan Rasulullah Dengan Pendeta Buhaira",
+ "url": "https://www.youtube.com/watch?v=_nY7civwdeE",
+ "kisah": [
+  {
+   "menit": "10:48",
+   "judul_hook": "Sumpah Pembela Orang Lemah",
+   "narasi_hook": "Mengapa Nabi ﷺ begitu membanggakan perjanjian sebelum masa Islam?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Di Makkah sebelum masa Islam, seorang pedagang Yaman dizalimi oleh al-Ash bin Wa'il yang enggan membayar barang dagangannya. Pedagang itu memanjat Gunung Abu Qubais dekat Ka'bah lalu berseru menuntut keadilan.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mendengar seruan tersebut, Zubair bin Abdul Muththalib (paman Nabi ﷺ) tergerak mengumpulkan kabilah-kabilah Quraisy di kediaman Abdullah bin Jud'an untuk bersumpah membela siapa pun yang dizalimi di Makkah. Kesepakatan ini dinamai Hilf al-Fudhul.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Rasulullah ﷺ yang turut hadir saat masih belia memuji perjanjian tersebut seraya menegaskan bahwa beliau tidak ingin menukarnya dengan unta merah, dan akan tetap memenuhinya apabila diajak dalam masa Islam.",
+     "latar": "kabah"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَقَدْ شَهِدْتُ فِي دَارِ عَبْدِ اللَّهِ بْنِ جُدْعَانَ حِلْفًا مَا أُحِبُّ أَنَّ لِي بِهِ حُمْرَ النَّعَمِ، وَلَوْ أُدْعَى بِهِ فِي الْإِسْلَامِ لَأَجَبْتُ",
+    "terjemah": "Sungguh aku telah menghadiri di kediaman Abdullah bin Jud'an suatu perjanjian yang tidak ingin kutukar dengan unta merah, dan seandainya aku diajak kepadanya dalam Islam niscaya aku penuhi.",
+    "sumber": "HR. Al-Bayhaqi dalam As-Sunan Al-Kubra no. 13211 & Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/134)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://dorar.net/hadith/search?q=%D9%84%D9%82%D8%AF+%D8%B4%D9%87%D8%AF%D8%AA+%D9%81%D9%8A+%D8%AF%D8%A7%D8%B1+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D9%84%D9%87+%D8%A8%D9%86+%D8%AC%D8%AF%D8%B9%D8%A7%D9%86+%D8%AD%D9%84%D9%81%D8%A7"
+   },
+   "faedah": "Selalu dukung pembelaan terhadap hak orang yang tertindas walau bersama orang yang berbeda pandangan.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "keadilan",
+    "hilf al-fudhul",
+    "akhlak"
+   ],
+   "id": "ep005-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "1. Penggunaan gelar 'radhiyallahu 'anhu' untuk Zubair bin Abdul Muththalib keliru, karena beliau adalah paman Nabi ﷺ yang wafat pada masa Jahiliyyah sebelum bi'tsah (kenabian), sehingga bukan berstatus sahabat (yang sahabat adalah putranya, Abdullah bin Az-Zubair bin Abdul Muththalib). 2. Penisbatan lafal hadits ini ke 'HR. Ahmad no. 1655' kurang tepat; lafal dalam Musnad Ahmad no. 1655 berbunyi 'شَهِدْتُ حِلْفَ الْمُطَيَّبِينَ مَعَ عُمُومَتِي وَأَنَا غُلَامٌ...', sedangkan lafal lengkap yang menyebut 'di rumah Abdullah bin Jud'an' dan 'seandainya diajak dalam Islam' diriwayatkan secara mursal oleh Al-Bayhaqi dan Ibnu Hisyam, lalu dinilai shahih li ghairihi oleh Syaikh Al-Albani (Fiqhus Sirah, hlm. 72) karena memiliki syawahid penguat.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "judul": "Sumpah Pembela Orang Lemah",
+     "latar": "kabah",
+     "narasi": "Mengapa Nabi ﷺ begitu membanggakan perjanjian sebelum masa Islam?"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "pedagang Yaman",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Di Makkah sebelum masa Islam, seorang pedagang Yaman dizalimi oleh al-Ash bin Wa'il yang enggan membayar barang dagangannya."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Pedagang itu memanjat Gunung Abu Qubais dekat Ka'bah, lalu berseru menuntut keadilan."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Mendengar seruan tersebut, Zubair bin Abdul Muththalib, paman Nabi ﷺ, tergerak mengumpulkan kabilah-kabilah Quraisy di kediaman Abdullah bin Jud'an."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Mereka bersumpah untuk membela siapa pun yang dizalimi di Makkah. Kesepakatan ini dinamai Hilf al-Fudhul."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Rasulullah ﷺ yang turut hadir saat masih belia memuji perjanjian tersebut, seraya menegaskan beliau tidak ingin menukarnya dengan unta merah, dan akan tetap memenuhinya dalam Islam."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Bela Hak Tertindas",
+     "narasi": "Selalu dukung pembelaan terhadap hak orang yang tertindas walau bersama orang yang berbeda pandangan."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis 'Bela Keadilan' di komentar",
+     "narasi": "Tulis 'Bela Keadilan' di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfPhLhrAW5y/",
+   "yt": "https://youtube.com/shorts/GyMU485cGko",
+   "waktu_posting": "2026-11-02T14:27:39"
+  },
+  {
+   "menit": "13:02",
+   "judul_hook": "Nasib Amal Orang Tanpa Tauhid",
+   "narasi_hook": "Apakah kebaikan orang dermawan berguna tanpa iman?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Di masa jahiliyah, Abdullah bin Jud'an sangat dermawan, gemar menyambung silaturahmi, dan selalu memberi makan fakir miskin. Rumahnya senantiasa terbuka bagi orang-orang yang membutuhkan.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Suatu ketika, Aisyah radhiyallahu 'anha bertanya kepada Rasulullah ﷺ apakah seluruh kebaikan Abdullah bin Jud'an itu memberi manfaat baginya di akhirat kelak.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Nabi ﷺ menjawab bahwa amal itu tidak bermanfaat, karena ia tidak pernah sekalipun memohon ampunan kepada Allah atas dosa-dosanya pada hari kiamat dan wafat dalam kemusyrikan.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَا يَنْفَعُهُ إِنَّهُ لَمْ يَقُلْ يَوْمًا رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
+    "terjemah": "Kebaikan itu tidak bermanfaat baginya, karena sesungguhnya dia tidak pernah sekalipun mengucapkan: Wahai Rabbku, ampunilah kesalahanku pada hari pembalasan.",
+    "sumber": "HR. Muslim no. 214",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Tauhid dan keimanan adalah syarat mutlak diterimanya seluruh amal kebajikan di sisi Allah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "tauhid",
+    "amal saleh",
+    "keikhlasan"
+   ],
+   "id": "ep005-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "14:19",
+   "judul_hook": "Berkah Kebaikan Sebelum Masuk Islam",
+   "narasi_hook": "Bagaimana nasib amal baik seseorang sebelum ia memeluk Islam?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Hakim bin Hizam radhiyallahu 'anhu sebelum masuk Islam adalah sosok yang amat dermawan. Ia memerdekakan seratus budak dan menyembelih seratus unta untuk orang-orang miskin.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Setelah memeluk Islam, ia bertanya kepada Rasulullah ﷺ apakah amalan kebajikannya di masa jahiliyah dulu akan tetap mendapatkan ganjaran pahala.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Rasulullah ﷺ menyampaikan kabar gembira dengan bersabda bahwa ia masuk Islam dengan membawa serta seluruh kebaikan yang telah ia kerjakan di masa lalu.",
+     "latar": "masjid"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَسْلَمْتَ عَلَى مَا أَسْلَفْتَ مِنْ خَيْرٍ",
+    "terjemah": "Engkau masuk Islam beserta seluruh kebaikan yang telah engkau lakukan dahulu.",
+    "sumber": "HR. Bukhari no. 1436 dan Muslim no. 123",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Hidayah Islam menyempurnakan dan melipatgandakan pahala kebaikan yang pernah dikerjakan di masa lalu.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "hidayah",
+    "pahala",
+    "keutamaan islam"
+   ],
+   "id": "ep005-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "15:32",
+   "judul_hook": "Islam Datang Menyempurnakan Akhlak Mulia",
+   "narasi_hook": "Untuk apakah sebenarnya Rasulullah ﷺ diutus ke dunia?",
+   "latar_hook": "kitab",
+   "adegan": [
+    {
+     "narasi": "Masyarakat jahiliyah memiliki keburukan moral, namun mereka juga menyimpan budi pekerti luhur seperti memuliakan tamu, kedermawanan, keberanian membela kebenaran, dan kesetiakawanan.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Rasulullah ﷺ diutus bukan untuk menghapus kebaikan yang telah ada, melainkan memurnikannya dari kemusyrikan dan membimbingnya di atas syariat Allah.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Beliau menegaskan bahwa misi utamanya adalah menyempurnakan akhlak-akhlak mulia agar bernilai ibadah dan mendatangkan keridhaan Allah Ta'ala.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاقِ",
+    "terjemah": "Sesungguhnya aku hanyalah diutus untuk menyempurnakan kemuliaan akhlak.",
+    "sumber": "HR. Ahmad no. 8952 dan Al-Bukhari dalam Al-Adab al-Mufrad no. 273",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Jadikan ajaran Islam sebagai penyempurna budi pekerti dan adab mulia dalam kehidupan sehari-hari.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "akhlak mulia",
+    "misi risalah",
+    "adab"
+   ],
+   "id": "ep005-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "22:44",
+   "judul_hook": "Tiga Cara Menguji Karakter Asli",
+   "narasi_hook": "Bagaimana cara mengetahui akhlak seseorang yang sesungguhnya?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Suatu hari, seorang lelaki hendak bersaksi di hadapan khalifah Umar bin al-Khattab radhiyallahu 'anhu, lalu orang lain memujinya sebagai sosok yang terpercaya.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Umar lantas menguji dengan tiga pertanyaan: apakah engkau tetangga dekatnya, pernahkah bertransaksi harta dengannya, dan pernahkah menempuh perjalanan safar bersamanya?",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Orang itu mengaku belum pernah melakukan semuanya. Umar pun menolak persaksiannya, sebab kejujuran dan watak asli seseorang baru teruji lewat tetangga, uang, dan safar.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "فَلَسْتَ تَعْرِفُهُ",
+    "terjemah": "Kalau begitu, engkau belum mengenalnya dengan sesungguhnya.",
+    "sumber": "Diriwayatkan oleh Al-Baihaqi dalam As-Sunan al-Kubra no. 20924",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Kenali integritas seseorang lewat urusan amanah harta, kedekatan bertetangga, dan kebersamaan saat bersafar.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "integritas",
+    "kejujuran",
+    "nasihat umar"
+   ],
+   "id": "ep005-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "25:34",
+   "judul_hook": "Khadijah Menguji Kejujuran Calon Suami",
+   "narasi_hook": "Mengapa Khadijah begitu terpikat pada kemuliaan Rasulullah ﷺ?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Khadijah radhiyallahu 'anha adalah bangsawan Quraisy yang cerdas, menjaga kehormatan, dan kaya raya. Banyak tokoh Quraisy melamarnya, namun ia menolak karena berhati-hati.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mendengar pemuda Muhammad ﷺ terkenal bergelar Al-Amin, Khadijah mengujinya secara cermat dengan memercayakan barang dagangan untuk dibawa berniaga ke negeri Syam.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Khadijah mengutus pembantunya, Maisarah, mendampingi safar tersebut. Maisarah menyaksikan langsung kejujuran dan keelokan budi pekerti Nabi ﷺ hingga Khadijah mantap menikah dengannya.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "ulama",
+    "arab": "",
+    "terjemah": "Khadijah menguji kejujuran Nabi ﷺ melalui amanah harta perniagaan dan laporan safar Maisarah sebelum menikah.",
+    "sumber": "Sirah Ibnu Hisyam dan Ath-Thabaqat al-Kubra karya Ibnu Sa'd",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Teliti rekam jejak amanah dan akhlak calon pasangan sebelum memutuskan untuk menikah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "khadijah",
+    "pernikahan",
+    "kejujuran"
+   ],
+   "id": "ep005-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "30:30",
+   "judul_hook": "Kesetiaan Cinta Nabi Sepanjang Masa",
+   "narasi_hook": "Seberapa besar cinta Rasulullah ﷺ kepada Khadijah?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Bertahun-tahun setelah Khadijah radhiyallahu 'anha wafat, Rasulullah ﷺ senantiasa mengenang dan melantunkan pujian indah untuknya hingga membuat Aisyah radhiyallahu 'anha cemburu.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Aisyah sempat heran mengapa Nabi ﷺ terus menyebut wanita yang telah tiada, sementara Allah telah memberikan ganti istri-istri yang masih muda.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Nabi ﷺ dengan lembut menegaskan bahwa cinta kepada Khadijah adalah rezeki dari Allah, karena Khadijah beriman dan mengorbankan seluruh hartanya saat manusia mendustakan dakwah beliau.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنِّي قَدْ رُزِقْتُ حُبَّهَا",
+    "terjemah": "Sesungguhnya aku telah dianugerahi rezeki berupa rasa cinta kepadanya.",
+    "sumber": "HR. Muslim no. 2435",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Rawat kesetiaan dan kenanglah jasa pasangan hidup yang telah setia menemani masa sulit.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "kesetiaan",
+    "cinta nabi",
+    "khadijah"
+   ],
+   "id": "ep005-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "36:40",
+   "judul_hook": "Salam Istimewa Penguasa Alam Semesta",
+   "narasi_hook": "Siapakah wanita mulia yang mendapat salam dari Allah?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Suatu hari Malaikat Jibril mendatangi Rasulullah ﷺ dan memberitahukan bahwa Khadijah radhiyallahu 'anha sedang berjalan membawakan bejana berisi hidangan makanan untuk beliau.",
+     "latar": "gua"
+    },
+    {
+     "narasi": "Jibril berpesan agar Nabi ﷺ menyampaikan salam penghormatan langsung dari Allah 'Azza wa Jalla serta dari dirinya kepada Khadijah yang mulia itu.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Jibril juga membawa kabar gembira berupa istana surga dari mutiara berongga untuk Khadijah, tempat yang damai tanpa suara bising dan rasa lelah sedikit pun.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "بَشِّرْهَا بِبَيْتٍ فِي الْجَنَّةِ مِنْ قَصَبٍ لَا صَخَبَ فِيهِ وَلَا نَصَبَ",
+    "terjemah": "Sampaikanlah kabar gembira kepadanya tentang sebuah rumah di surga dari mutiara berongga, tiada kegaduhan di dalamnya dan tiada pula kelelahan.",
+    "sumber": "HR. Bukhari no. 3820 dan Muslim no. 2432",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Pengorbanan tulus seorang istri dalam ketaatan akan diganjar kemuliaan tertinggi di surga Allah.",
+   "latar_faedah": "langit",
+   "tema": [
+    "keutamaan khadijah",
+    "kabar gembira",
+    "surga"
+   ],
+   "id": "ep005-08",
+   "status": "Belum"
+  }
+ ]
+}
