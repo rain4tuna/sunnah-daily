@@ -105,12 +105,13 @@
     }
    ],
    "dalil": {
-    "jenis": "hadits",
-    "arab": "وَاللَّهِ إِنِّي لأَكْرَهُ أَنْ أَرْجِعَ مِنْ بَيْنِ صَوَاحِبِي وَلَمْ آخُذْ رَضِيعًا",
-    "terjemah": "Demi Allah, sungguh aku enggan pulang bersama teman-temanku tanpa membawa seorang anak susuan.",
-    "sumber": "HR. Ahmad no. 17505 dan Ibnu Ishaq dalam As-Sirah",
-    "derajat_kata_ustadz": "Hasan",
-    "dari_video": true
+    "jenis": "atsar",
+    "arab": "وَاللَّهِ إِنِّي لَأَكْرَهُ أَنْ أَرْجِعَ مِنْ بَيْنِ صَوَاحِبِي وَلَمْ آخُذْ رَضِيعًا، وَاللَّهِ لَأَذْهَبَنَّ إِلَى ذَلِكَ الْيَتِيمِ فَلَآخُذَنَّهُ",
+    "terjemah": "Demi Allah, sungguh aku tidak suka pulang bersama teman-temanku tanpa membawa seorang anak susuan. Demi Allah, aku benar-benar akan pergi kepada anak yatim itu dan membawanya.",
+    "sumber": "Ibnu Ishaq dalam As-Sirah (Sirah Ibnu Hisyam 1/163), Abu Ya'la (no. 7163), Al-Baihaqi dalam Dala'il An-Nubuwwah (1/132)",
+    "derajat": "lemah",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://dorar.net"
    },
    "faedah": "Mengasuh anak yatim dengan tulus mendatangkan limpahan keberkahan rezeki yang tak disangka-sangka.",
    "latar_faedah": "lentera",
@@ -120,7 +121,13 @@
     "Masa Kecil Nabi"
    ],
    "id": "ep004-02",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "1. Rujukan 'HR. Ahmad no. 17505' keliru; hadits nomor tersebut membahas keutamaan Ali bin Abi Thalib (hadits Hubsyi bin Junadah), bukan kisah Halimah. Kisah panjang Halimah ini tidak ada dalam Musnad Ahmad.\n2. Rincian kisah bahwa semua ibu susuan menolak Nabi ﷺ karena yatim, Halimah mengambil beliau hanya karena tidak mendapat anak lain, keledai lemah mendadak melesat menyalip rombongan, serta unta kurus seketika penuh susu, seluruhnya hanya berasal dari riwayat Ibnu Ishaq ini. Sanad riwayat ini lemah (dha'if) karena perawi Jahm bin Abi Jahm majhul (tidak dikenal) dan sanadnya terputus (munqathi').\n3. Fakta sejarah yang shahih dari jalur lain hanyalah bahwa Nabi ﷺ memang disusukan di Bani Sa'ad oleh Halimah dan peristiwa pembelahan dada (syaqqush shadr) saat beliau kanak-kanak (HR. Muslim no. 162 dan HR. Ahmad no. 17649).",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "13:00",
@@ -139,11 +146,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "هَذَا حَظُّ الشَّيْطَانِ مِنْكَ",
-    "terjemah": "Ini adalah bagian setan dari dirimu.",
+    "arab": "...فَأَخَذَهُ فَصَرَعَهُ، فَشَقَّ عَنْ قَلْبِهِ، فَاسْتَخْرَجَ الْقَلْبَ، فَاسْتَخْرَجَ مِنْهُ عَلَقَةً، فَقَالَ: هَذَا حَظُّ الشَّيْطَانِ مِنْكَ، ثُمَّ غَسَلَهُ فِي طَسْتٍ مِنْ ذَهَبٍ بِمَاءِ زَمْزَمَ، ثُمَّ لَأَمَهُ، ثُمَّ أَعَادَهُ فِي مَكَانِهِ...",
+    "terjemah": "...lalu ia memegang beliau dan membaringkannya, membelah dadanya, mengeluarkan jantungnya, dan mengeluarkan segumpal darah darinya seraya berkata, 'Ini adalah bagian setan dari dirimu.' Kemudian ia mencucinya di dalam bejana emas dengan air zamzam, lalu merapatkannya kembali, kemudian mengembalikannya ke tempatnya...",
     "sumber": "HR. Muslim no. 162",
-    "derajat_kata_ustadz": "Shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:162c"
    },
    "faedah": "Hati yang suci dari bisikan keburukan adalah sumber kebaikan seluruh amal dan akhlak manusia.",
    "latar_faedah": "lentera",
@@ -153,7 +161,18 @@
     "Malaikat Jibril"
    ],
    "id": "ep004-03",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Detail 'dipenuhi ketenangan dan keimanan' keliru karena tertukar/tercampur dengan peristiwa pembelahan dada kedua menjelang Isra' Mi'raj (HR. Al-Bukhari no. 349 dan HR. Muslim no. 163: bejana emas berisi hikmah dan iman yang dituangkan ke dalam dada). Dalam riwayat shahih masa kecil di Bani Sa'ad (HR. Muslim no. 162), jantung beliau dicuci dengan air zamzam lalu dirapatkan kembali (لَأَمَهُ) tanpa disebutkan diisi ketenangan dan keimanan.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8xrcfgRtNfvYIJv8qHBRZnIYIZPrMK6jKDQTwqYfCfTbA_Xr635A5RdDHLoOlTj1tzy3te5vg-K5_RYdqUqxsFqYGD3d5UxYJnTYxK55tNFWAtteptUS4u-ffbamqxUfUdl4D832mp2wF7cZqpaJ1V-NfyLvZT8BfLmbVx-xXUaKX5mNGwyD15tkk4QTHN2DnIoexqhecHNMcM1If1uriT2lvghmCuA4WLH58rucaLSl47cieHWoXAYXRBMppJezJVz_RAZeqm0o02FKJl4aOpqM4XiQNXZ1759bRZrJ_35MX_Qf0RIhIT8bsgVN90QP2iRNAAywC-T49oL4Du5lBdXTNqW8pCJgK_GUC5Vhyj6I1XK6WA3QymbO6XT-r1IN2cnarlcxBMrTbyNDO",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEP518-fN-nKQ_F7CPX95p1quH5oKJ2zoCodffcK5HHeD_Z1dV2LZU9lx-liwkLrBZKIMHFc33h5o9o4WrbwZQRUJ60iK7pE00fNh0VwIF1OirnhfjdxY-m4xX1upBMikcOl6VL5OlqTp4n2I0biUUM7HD9_tM_kBRyil0GsGHSRrAh7ZnmCzbJolFM1M2r6-VRO3bcI7LMFHJwp3ngUt-484xNprSsEuDvflRkaSOQhfi-vMfbj6p3OR7PCp6OE0DtoxwmpdfhzWf-kMqZBydbAqd7lJei2xHUBcQpzi6_EstozFSG7snaBUlZ0uGOFBMkCj7GBS873R6jbvekBW3G-CbmA2wYifwtQR0vjUovh0N9OElVLTP2KY4WY_PQV1_xcSGfA0AA-yLcLBUwqAgPFxy1j_twc0tUEqiSnd102HwtoniuQyDPnkAADkrLOkl3YFNr7AerF4M7T86AmSp1hEZESB_NEW9VGOdKFikBbgNUdH3HXT7iZRCsGGyN",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOXHSpHrEpCruxgKIN5Hv3z4MKqsNuC5vGJmifSTpUL-TZm5CMkMX2S0kVXpu3pZK_lOLMGinkgXvhJRuqoiQvTM3M79aQD8ee23x4r1smGf7ueA==",
+     "https://khutabaa.com/ar/article/%D9%85%D9%88%D9%84%D8%AF-%D8%A7%D9%84%D9%86%D8%A8%D9%8A-%D8%B5%D9%84%D9%89-%D8%A7%D9%84%D9%84%D9%87-%D8%B9%D9%84%D9%8A%D9%87-%D9%88%D8%B3%D9%84%D9%85-2"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "20:20",
@@ -172,11 +191,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ وَوَضَعْنَا عَنكَ وِزْرَكَ",
+    "arab": "أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ ۝ وَوَضَعْنَا عَنْكَ وِزْرَكَ",
     "terjemah": "Bukankah Kami telah melapangkan dadamu (Muhammad)? Dan Kami pun telah menurunkan bebanmu darimu.",
     "sumber": "QS. Asy-Syarh: 1-2",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/94?from=1&to=2"
    },
    "faedah": "Menjaga kehormatan sejak usia muda adalah benteng wibawa dan integritas di masa depan.",
    "latar_faedah": "lentera",
@@ -186,7 +206,59 @@
     "Akhlak Mulia"
    ],
    "id": "ep004-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Mengapa Hati Nabi Dibersihkan Dini?",
+     "langit": "senja",
+     "narasi": "Mengapa hati Rasulullah ﷺ disucikan sejak masa kanak-kanak?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Para ulama menjelaskan bahwa penyucian hati beliau sejak usia belia merupakan penjagaan langsung dari Allah agar akhlaknya senantiasa terpelihara."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Beliau diselamatkan sepenuhnya dari lumuran dosa serta kebiasaan buruk masyarakat jahiliyah sepanjang masa pertumbuhannya."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "kaum musyrikin",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Sebab jika beliau pernah bermaksiat di masa muda, kaum musyrikin tentu akan mengungkit aib tersebut ketika beliau mulai mengajak kepada Islam."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Berkat perlindungan Allah, beliau justru tumbuh dikenal sebagai sosok yang paling amanah dan suci bahkan jauh sebelum diangkat menjadi nabi."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Benteng Integritas Diri",
+     "narasi": "Menjaga kehormatan sejak usia muda adalah benteng wibawa dan integritas yang tak ternilai di masa depan."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kamu tersentuh dengan kisah ini. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfOgC0VgFPM/",
+   "yt": "https://youtube.com/shorts/Zs6bPhVAcbg",
+   "waktu_posting": "2026-11-02T04:57:51"
   },
   {
    "menit": "26:00",

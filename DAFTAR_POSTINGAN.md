@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 22 video. Waktu dalam WIB, terbaru di atas.
+Total: 23 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 02 Nov 2026 11.57 | ep004-04 | Mengapa Hati Nabi Dibersihkan Dini? | QS. Asy-Syarh: 1-2 | [IG](https://www.instagram.com/reel/DfOgC0VgFPM/) · [YouTube](https://youtube.com/shorts/Zs6bPhVAcbg) |
 | 02 Nov 2026 05.25 | ep004-01 | Rahasia Bayi Quraisy Dititipkan Desa | As-Suhaili, Ar-Raudhul Unuf fi Syarhis Sirah | [IG](https://www.instagram.com/reel/DfNzMPxD-Gv/) · [YouTube](https://youtube.com/shorts/TzVNsxvmdz4) |
 | 01 Nov 2026 21.19 | ep003-07 | Alasan Mulia Puasa Hari Senin | HR. Muslim no. 1162 (shahih) | [IG](https://www.instagram.com/reel/DfM7gjwkWKY/) · [YouTube](https://youtube.com/shorts/75QprzkRZiM) |
 | 01 Nov 2026 18.54 | ep003-06 | Puncak Ujian Kehidupan Seorang Yatim | QS. Adh-Dhuha: 6 | [IG](https://www.instagram.com/reel/DfMq5u_AQPD/) · [YouTube](https://youtube.com/shorts/6DMNuGvAyA4) |
