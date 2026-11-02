@@ -277,11 +277,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "اسْتَأْذَنْتُ رَبِّي أَنْ أَسْتَغْفِرَ لَهَا فَلَمْ يَأْذَنْ لِي، وَاسْتَأْذَنْتُهُ أَنْ أَزُورَ قَبْرَهَا فَأَذِنَ لِي",
-    "terjemah": "Aku meminta izin kepada Tuhanku untuk memintakan ampunan baginya, namun Dia tidak mengizinkanku; dan aku meminta izin untuk menziarahi kuburnya, maka Dia mengizinkanku.",
+    "arab": "زَارَ النَّبِيُّ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ قَبْرَ أُمِّهِ، فَبَكَى وَأَبْكَى مَنْ حَوْلَهُ، فَقَالَ: اسْتَأْذَنْتُ رَبِّي فِي أَنْ أَسْتَغْفِرَ لَهَا فَلَمْ يُؤْذَنْ لِي، وَاسْتَأْذَنْتُهُ فِي أَنْ أَزُورَ قَبْرَهَا فَأُذِنَ لِي...",
+    "terjemah": "Nabi ﷺ menziarahi makam ibundanya, lalu beliau menangis dan membuat orang-orang di sekitarnya ikut menangis. Beliau bersabda: 'Aku meminta izin kepada Tuhanku untuk memohonkan ampunan baginya, namun tidak diizinkan bagiku; dan aku meminta izin untuk menziarahi makamnya, maka Dia mengizinkanku...'",
     "sumber": "HR. Muslim no. 976",
-    "derajat_kata_ustadz": "Shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:976b"
    },
    "faedah": "Kasih sayang dan kerinduan tulus kepada orang tua tidak akan pernah hilang oleh waktu.",
    "latar_faedah": "lentera",
@@ -291,7 +292,74 @@
     "Kasih Sayang"
    ],
    "id": "ep004-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "https://www.alukah.net/sharia/0/157025/%D8%A7%D9%84%D9%86%D9%87%D9%8A-%D8%A8%D8%A7%D9%84%D8%AA%D8%AD%D8%B1%D9%8A%D9%85-%D8%B9%D9%86-%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%BA%D9%81%D8%A7%D8%B1-%D9%84%D9%84%D9%85%D8%B4%D8%B1%D9%83%D9%8A%D9%86-%D8%A3%D9%88-%D8%A7%D9%84%D8%AA%D8%B1%D8%AD%D9%85-%D8%B9%D9%84%D9%8A%D9%87%D9%85/"
+    ]
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Air Mata Rasulullah di Makam Ibu",
+     "langit": "senja",
+     "narasi": "Mengapa Rasulullah ﷺ menangis tersedu di makam ibundanya?"
+    },
+    {
+     "jenis": "peta",
+     "judul": "Perjalanan Pulang",
+     "sub": "Madinah ke al-Abwa",
+     "tempat": [
+      {
+       "nama": "Madinah",
+       "x": 0.5,
+       "y": 0.25
+      },
+      {
+       "nama": "al-Abwa",
+       "x": 0.45,
+       "y": 0.65
+      }
+     ],
+     "narasi": "Ibunda beliau, Aminah, wafat di al-Abwa saat dalam perjalanan pulang dari Madinah."
+    },
+    {
+     "jenis": "angka",
+     "label": "Usia Nabi",
+     "angka": 6,
+     "satuan": "tahun",
+     "narasi": "Rasulullah ﷺ baru berumur enam tahun ketika harus merasakan perihnya kehilangan pelindung utama di padang pasir yang sepi."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Puluhan tahun kemudian ketika telah menjadi nabi, beliau kembali menziarahi makam ibunda tercinta."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Beliau menangis tersedu-sedu hingga para sahabat ikut menangis. Beliau memohon izin memintakan ampunan namun tidak diizinkan, dan hanya diizinkan berziarah."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kasih Sayang Sepanjang Waktu",
+     "narasi": "Kasih sayang dan kerinduan tulus kepada orang tua tidak akan pernah hilang oleh waktu."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis doa untuk orang tua di komentar",
+     "narasi": "Tulis doa terbaik untuk orang tua di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfO6Bw-E3s2/",
+   "yt": "https://youtube.com/shorts/0pPciW4B-Us",
+   "waktu_posting": "2026-11-02T08:45:14"
   },
   {
    "menit": "30:30",
