@@ -119,11 +119,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "لَا يَنْفَعُهُ إِنَّهُ لَمْ يَقُلْ يَوْمًا رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ",
-    "terjemah": "Kebaikan itu tidak bermanfaat baginya, karena sesungguhnya dia tidak pernah sekalipun mengucapkan: Wahai Rabbku, ampunilah kesalahanku pada hari pembalasan.",
+    "arab": "... قُلْتُ: يَا رَسُولَ اللهِ، ابْنُ جُدْعَانَ كَانَ فِي الْجَاهِلِيَّةِ يَصِلُ الرَّحِمَ وَيُطْعِمُ الْمِسْكِينَ، فَهَلْ ذَاكَ نَافِعُهُ؟ قَالَ: «لَا يَنْفَعُهُ، إِنَّهُ لَمْ يَقُلْ يَوْمًا: رَبِّ اغْفِرْ لِي خَطِيئَتِي يَوْمَ الدِّينِ»",
+    "terjemah": "... Aku (Aisyah) bertanya: 'Wahai Rasulullah, Ibnu Jud'an di masa jahiliah menyambung silaturahmi dan memberi makan orang miskin, apakah hal itu bermanfaat baginya?' Beliau menjawab: 'Tidak bermanfaat baginya, karena sesungguhnya dia tidak pernah sekalipun mengucapkan: Wahai Rabbku, ampunilah kesalahanku pada hari pembalasan.'",
     "sumber": "HR. Muslim no. 214",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:214"
    },
    "faedah": "Tauhid dan keimanan adalah syarat mutlak diterimanya seluruh amal kebajikan di sisi Allah.",
    "latar_faedah": "lentera",
@@ -133,7 +134,57 @@
     "keikhlasan"
    ],
    "id": "ep005-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "judul": "Nasib Amal Orang Tanpa Tauhid",
+     "narasi": "Apakah kebaikan orang dermawan berguna tanpa iman?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Di masa jahiliyah, Abdullah bin Jud'an sangat dermawan, gemar menyambung silaturahmi, dan selalu memberi makan fakir miskin."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Rumahnya senantiasa terbuka bagi orang-orang yang membutuhkan."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Suatu ketika, Aisyah radhiyallahu 'anha bertanya kepada Rasulullah ﷺ apakah seluruh kebaikan Abdullah bin Jud'an itu memberi manfaat baginya di akhirat kelak."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Nabi ﷺ menjawab bahwa amal itu tidak bermanfaat, karena ia tidak pernah sekalipun memohon ampunan kepada Allah atas dosa-dosanya pada hari kiamat dan wafat dalam kemusyrikan."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Syarat Diterimanya Amal",
+     "narasi": "Tauhid dan keimanan adalah syarat mutlak diterimanya seluruh amal kebajikan di sisi Allah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfQX8VgAqV9/",
+   "yt": "https://youtube.com/shorts/5vxupJBRfHs",
+   "waktu_posting": "2026-11-02T22:25:59"
   },
   {
    "menit": "14:19",

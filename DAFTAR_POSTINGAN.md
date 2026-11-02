@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 26 video. Waktu dalam WIB, terbaru di atas.
+Total: 27 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 03 Nov 2026 05.25 | ep005-02 | Nasib Amal Orang Tanpa Tauhid | HR. Muslim no. 214 (shahih) | [IG](https://www.instagram.com/reel/DfQX8VgAqV9/) · [YouTube](https://youtube.com/shorts/5vxupJBRfHs) |
 | 02 Nov 2026 21.27 | ep005-01 | Sumpah Pembela Orang Lemah | HR. Al-Bayhaqi dalam As-Sunan Al-Kubra no. 13211 & Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/134) (shahih) | [IG](https://www.instagram.com/reel/DfPhLhrAW5y/) · [YouTube](https://youtube.com/shorts/GyMU485cGko) |
 | 02 Nov 2026 18.56 | ep004-07 | Mengapa Semua Nabi Menggembala Kambing? | HR. Bukhari no. 2262 (shahih) | [IG](https://www.instagram.com/reel/DfPP6Sxjgko/) · [YouTube](https://youtube.com/shorts/g1TxqDFnxn0) |
 | 02 Nov 2026 15.45 | ep004-05 | Air Mata Rasulullah di Makam Ibu | HR. Muslim no. 976 (shahih) | [IG](https://www.instagram.com/reel/DfO6Bw-E3s2/) · [YouTube](https://youtube.com/shorts/0pPciW4B-Us) |
