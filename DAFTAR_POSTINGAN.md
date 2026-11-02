@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 24 video. Waktu dalam WIB, terbaru di atas.
+Total: 25 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 02 Nov 2026 18.56 | ep004-07 | Mengapa Semua Nabi Menggembala Kambing? | HR. Bukhari no. 2262 (shahih) | [IG](https://www.instagram.com/reel/DfPP6Sxjgko/) · [YouTube](https://youtube.com/shorts/g1TxqDFnxn0) |
 | 02 Nov 2026 15.45 | ep004-05 | Air Mata Rasulullah di Makam Ibu | HR. Muslim no. 976 (shahih) | [IG](https://www.instagram.com/reel/DfO6Bw-E3s2/) · [YouTube](https://youtube.com/shorts/0pPciW4B-Us) |
 | 02 Nov 2026 11.57 | ep004-04 | Mengapa Hati Nabi Dibersihkan Dini? | QS. Asy-Syarh: 1-2 | [IG](https://www.instagram.com/reel/DfOgC0VgFPM/) · [YouTube](https://youtube.com/shorts/Zs6bPhVAcbg) |
 | 02 Nov 2026 05.25 | ep004-01 | Rahasia Bayi Quraisy Dititipkan Desa | As-Suhaili, Ar-Raudhul Unuf fi Syarhis Sirah | [IG](https://www.instagram.com/reel/DfNzMPxD-Gv/) · [YouTube](https://youtube.com/shorts/TzVNsxvmdz4) |

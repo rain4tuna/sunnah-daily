@@ -368,21 +368,22 @@
    "latar_hook": "kabah",
    "adegan": [
     {
-     "narasi": "Setelah ibunya tiada, Rasulullah ﷺ diasuh kakeknya, Abdul Muththalib, dengan kasih sayang luar biasa. Abdul Muththalib memiliki permadani khusus di samping Ka'bah yang tak seorang pun dari anak-anaknya berani duduk di atasnya karena rasa segan.",
+     "narasi": "Setelah wafatnya sang ibu (Aminah), Rasulullah ﷺ diasuh langsung oleh kakeknya, Abdul Muththalib, dengan kasih sayang yang amat mendalam sebagai anak yatim yang sangat dimuliakan keluarga.",
      "latar": "kabah"
     },
     {
-     "narasi": "Ketika Nabi ﷺ kecil datang dan langsung duduk di atasnya, paman-pamannya segera melarang. Namun Abdul Muththalib membela cucunya seraya memeluk dan mengusap punggung beliau, lalu berucap penuh keyakinan bahwa anak ini kelak akan menjadi orang yang sangat agung.",
+     "narasi": "Adapun rincian dialog Abdul Muththalib yang membela Nabi ﷺ saat duduk di permadani khusus dekat Ka'bah dengan ucapan 'Biarkan cucuku, demi Allah ia memiliki kedudukan agung' merupakan kisah sirah yang sangat masyhur, namun sanad riwayatnya lemah (dha'if) dan tidak sahih secara kaidah hadits, sehingga tidak boleh dipastikan keshahihannya apalagi diklaim shahih.",
      "latar": "kota"
     }
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "دَعُوا ابْنِي هَذَا، فَوَاللَّهِ إِنَّ لَهُ لَشَأْنًا",
-    "terjemah": "Biarkanlah cucuku ini! Demi Allah, sesungguhnya ia kelak memiliki kedudukan yang sangat agung.",
-    "sumber": "Sirah Ibnu Hisyam dan Al-Mustadrak Al-Hakim no. 4211",
-    "derajat_kata_ustadz": "Sanadnya shahih",
-    "dari_video": true
+    "arab": "«دَعُوا ابْنِي، فَوَاللَّهِ إِنَّ لَهُ لَشَأْنًا»",
+    "terjemah": "Biarkanlah cucuku ini! Demi Allah, sesungguhnya ia kelak memiliki kedudukan yang agung.",
+    "sumber": "Sirah Ibnu Hisyam (1/168) dan Dala'il An-Nubuwwah lil-Baihaqi (2/22)",
+    "derajat": "lemah",
+    "penilai": "Ulama Muhaqqiq Hadits (sanad munqathi' dan mubham)",
+    "rujukan": "https://shamela.ws/book/23833/214"
    },
    "faedah": "Dukungan penuh dan kasih sayang keluarga membangkitkan rasa percaya diri serta kemuliaan anak.",
    "latar_faedah": "lentera",
@@ -392,7 +393,13 @@
     "Masa Kecil Nabi"
    ],
    "id": "ep004-06",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah ini sangat masyhur dalam literatur sirah (seperti Sirah Ibnu Hisyam dan Tarikh Ath-Thabari), tetapi sanadnya tergolong lemah (dha'if/mu'dhal). Riwayat Ibnu Ishaq bersumber dari Al-Abbas bin Abdullah bin Ma'bad dari 'sebagian keluarganya' (perawi mubham/tidak dikenal namanya) dan sanadnya terputus (mursal/munqathi') karena tidak ada saksi mata dari generasi sahabat yang tersambung ke masa kecil Nabi ﷺ sebelum kenabian. Selain itu, klaim ustadz/video bahwa dalil ini terdapat dalam 'Al-Mustadrak Al-Hakim no. 4211 dengan sanad shahih' adalah kekeliruan fatal; nomor hadits 4211 di Al-Mustadrak membahas tentang Waraqah bin Naufal, bukan kisah permadani Abdul Muththalib.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "36:40",
@@ -411,11 +418,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا بَعَثَ اللَّهُ نَبِيًّا إِلَّا رَعَى الْغَنَمَ",
-    "terjemah": "Tidaklah Allah mengutus seorang nabi melainkan ia pernah menggembalakan kambing.",
+    "arab": "مَا بَعَثَ اللَّهُ نَبِيًّا إِلَّا رَعَى الْغَنَمَ، فَقَالَ أَصْحَابُهُ: وَأَنْتَ؟ فَقَالَ: نَعَمْ، كُنْتُ أَرْعَاهَا عَلَى قَرَارِيطَ لِأَهْلِ مَكَّةَ",
+    "terjemah": "Tidaklah Allah mengutus seorang nabi melainkan ia pernah menggembalakan kambing. Para sahabat bertanya, 'Dan engkau?' Beliau menjawab, 'Ya, aku dahulu menggembalakannya untuk penduduk Makkah dengan upah beberapa qirath.'",
     "sumber": "HR. Bukhari no. 2262",
-    "derajat_kata_ustadz": "Shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:2262"
    },
    "faedah": "Menekuni pekerjaan sederhana dengan sabar melatih kerendahan hati serta kemampuan memimpin yang bijak.",
    "latar_faedah": "lentera",
@@ -425,7 +433,59 @@
     "Kepemimpinan"
    ],
    "id": "ep004-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Mengapa Semua Nabi Menggembala Kambing?",
+     "langit": "senja",
+     "narasi": "Tahukah Anda mengapa seluruh nabi pernah menggembalakan kambing?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Rasulullah ﷺ dahulu menggembalakan kambing milik penduduk Makkah demi mencari nafkah untuk membantu pamannya, Abu Thalib, yang serba kekurangan."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "penduduk Makkah",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Beliau menegaskan bahwa seluruh nabi yang pernah diutus oleh Allah pasti juga pernah menggembalakan kambing semasa hidupnya."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Pekerjaan sederhana ini melatih sifat tawadhu dan menjauhkan diri dari kesombongan para pemilik kuda atau unta."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Mengatur kawanan kambing yang lemah, berpencar, dan beragam tabiat melatih kesabaran luar biasa sebelum para nabi memimpin umat manusia."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Melatih Kerendahan Hati",
+     "narasi": "Menekuni pekerjaan sederhana dengan sabar melatih kerendahan hati serta kemampuan memimpin yang bijak."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfPP6Sxjgko/",
+   "yt": "https://youtube.com/shorts/g1TxqDFnxn0",
+   "waktu_posting": "2026-11-02T11:56:27"
   },
   {
    "menit": "49:00",
