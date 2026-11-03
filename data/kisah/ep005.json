@@ -302,11 +302,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ مَكَارِمَ الْأَخْلَاقِ",
-    "terjemah": "Sesungguhnya aku hanyalah diutus untuk menyempurnakan kemuliaan akhlak.",
-    "sumber": "HR. Ahmad no. 8952 dan Al-Bukhari dalam Al-Adab al-Mufrad no. 273",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "إِنَّمَا بُعِثْتُ لِأُتَمِّمَ صَالِحَ الْأَخْلَاقِ",
+    "terjemah": "Sesungguhnya aku hanyalah diutus untuk menyempurnakan kesalehan (kemuliaan) akhlak.",
+    "sumber": "HR. Ahmad no. 8952, Al-Bukhari dalam Al-Adab al-Mufrad no. 273; Al-Bayhaqi dalam As-Sunan al-Kubra no. 20819 (dengan lafaz 'مَكَارِمَ')",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/adab:273"
    },
    "faedah": "Jadikan ajaran Islam sebagai penyempurna budi pekerti dan adab mulia dalam kehidupan sehari-hari.",
    "latar_faedah": "lentera",
@@ -316,7 +317,59 @@
     "adab"
    ],
    "id": "ep005-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Narasi kisah sudah benar dan selaras dengan syarah hadits. Terkait teks dalil: redaksi asli dalam Musnad Ahmad (no. 8952) dan Al-Adab al-Mufrad (no. 273) menggunakan lafaz 'صَالِحَ الْأَخْلَاقِ' (shalih al-akhlaq), sedangkan lafaz 'مَكَارِمَ الْأَخْلَاقِ' (makarim al-akhlaq) diriwayatkan oleh Al-Bayhaqi (no. 20819) dan Al-Bazzar (no. 8949). Keduanya dinilai shahih oleh Syaikh Al-Albani (Silsilah Ash-Shahihah no. 45).",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Islam Datang Menyempurnakan Akhlak Mulia",
+     "langit": "malam",
+     "narasi": "Untuk apakah sebenarnya Rasulullah ﷺ diutus ke dunia?"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "penduduk Makkah",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Masyarakat jahiliyah memiliki keburukan moral, namun mereka juga menyimpan budi pekerti luhur seperti memuliakan tamu dan kedermawanan."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "tenda",
+     "narasi": "Mereka pun memiliki keberanian dalam membela kebenaran serta rasa kesetiakawanan yang tinggi."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Rasulullah ﷺ diutus bukan untuk menghapus kebaikan yang telah ada, melainkan memurnikannya dari kemusyrikan dan membimbingnya di atas syariat Allah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Beliau menegaskan bahwa misi utamanya adalah menyempurnakan akhlak-akhlak mulia agar bernilai ibadah dan mendatangkan keridhaan Allah Ta'ala."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Sempurnakan Budi Pekerti",
+     "narasi": "Jadikan ajaran Islam sebagai penyempurna budi pekerti dan adab mulia dalam setiap sendi kehidupan kita sehari-hari."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis 'Akhlak Mulia' di komentar",
+     "narasi": "Tulis 'Akhlak Mulia' di kolom komentar jika kamu sepakat. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfRfAnJFYrV/",
+   "yt": "https://youtube.com/shorts/GvtsurpMK4E",
+   "waktu_posting": "2026-11-03T08:46:55"
   },
   {
    "menit": "22:44",
