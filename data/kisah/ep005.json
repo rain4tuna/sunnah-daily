@@ -601,8 +601,9 @@
     "arab": "إِنِّي قَدْ رُزِقْتُ حُبَّهَا",
     "terjemah": "Sesungguhnya aku telah dianugerahi rezeki berupa rasa cinta kepadanya.",
     "sumber": "HR. Muslim no. 2435",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2435b"
    },
    "faedah": "Rawat kesetiaan dan kenanglah jasa pasangan hidup yang telah setia menemani masa sulit.",
    "latar_faedah": "lentera",
@@ -612,7 +613,69 @@
     "khadijah"
    ],
    "id": "ep005-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti kisah bersumber dari riwayat yang shahih, namun terdapat penggabungan dua peristiwa yang berbeda serta kekeliruan penggambaran sikap Nabi ﷺ: 1) Kalimat 'Sesungguhnya aku dianugerahi rezeki berupa rasa cinta kepadanya' terucap saat Aisyah cemburu melihat Nabi ﷺ membagikan sembelihan kepada sahabat-sahabat Khadijah (HR. Muslim no. 2435). 2) Penjelasan bahwa 'Khadijah beriman saat manusia kafir dan membantunya dengan harta' terjadi pada peristiwa lain ketika Aisyah mengomentari Khadijah telah digantikan oleh yang muda (HR. Ahmad no. 24864, sanad jayyid/hasan). 3) Keterangan 'dengan lembut menegaskan' kurang tepat secara teks, karena dalam riwayat Aisyah radhiyallahu 'anha sendiri menyatakan: 'fá-aghdhabtuhu' (aku sempat membuat beliau marah/rona wajah beliau berubah tanda tidak suka ketika Khadijah dicela).",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGDCygo20he5znEtYiw54Yhp92_DMzjpNVXBtKh4x7-jzRrs2-Dtv1ogOhMtjRnANu8cKkcGv04viWmY33-pAU5jmcrXQfcyZQRENKhTn1FTquxGdQ",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm2VhDrSq7Tl7Ah8UbL4-WVa2t_JCd9AS5gCJ6xZ5j5lzVcEc8Vhpf1jWgwUiat4OoGZMjMA6lo8CLDIDS_21OEMf0MkqyYyEeSdTssecrZafDArnDTV1vGj7NTBIk8k6sc3d_b-cxMFPFrCyiz0lZkHPCOzQTKC3-3S20P_2Xvx1odln_Om3EF5W-k9Xu8nQf2yNhj8O62kDtfn5pFWYr0TTx7oRLlyJKyHg-agHSxur63owKG1vDVJn0HlrExs3ZKQ0S4pMp78hK1JkeWzhSsGBVOdNgHk8-w6Mvyvh5H6fn22Tj_gLJfZBgcqbhKYnomUV_Z9J7Blzhjncmca7zx0mN1H5cC2Xh7BaCcQun9MoRimBrwaYSt8YYVohA1Tb5ZP50fiXeRyokXjvfT4GyY24D1eCGfxSCi7WOBedmR9si1c09spWe-PjtWs1InhovE3AnlruYVU2VPLXv",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjt2sG5k7tduG52F8oQj2UBzVbz8FBjy2DQCw0QEsH7Arc6ATipy0D2P7d2OJS7ffZNImpqXJvS9LmYjBrkAxbKG49GHzQ7DcAfLdwnGXA2Rf2fNjmmr9LsTeKyQ1mMjwROIsn7H9L2MIUvyp6FZg4q4pS-e5zQiLnRi4gJY1irvsvqEmHFtEG2ACQAKD8",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDAQWqNGhYndpD-wPIGxSJdw8qTCTyYOIfaBgi52eqWGVNkdu1TbTh9asFc_OBooZ8BRXN02uLTKp2FzziPrwJJODmNOKMJQHPgQFJ5KFWP9bsR1Ti12w-wtWdYg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGDCygo20he5znEtYiw54Yhp92_DMzjpNVXBtKh4x7-jzRrs2-Dtv1ogOhMtjRnANu8cKkcGv04viWmY33-pAU5jmcrXQfcyZQRENKhTn1FTquxGdQ",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm2VhDrSq7Tl7Ah8UbL4-WVa2t_JCd9AS5gCJ6xZ5j5lzVcEc8Vhpf1jWgwUiat4OoGZMjMA6lo8CLDIDS_21OEMf0MkqyYyEeSdTssecrZafDArnDTV1vGj7NTBIk8k6sc3d_b-cxMFPFrCyiz0lZkHPCOzQTKC3-3S20P_2Xvx1odln_Om3EF5W-k9Xu8nQf2yNhj8O62kDtfn5pFWYr0TTx7oRLlyJKyHg-agHSxur63owKG1vDVJn0HlrExs3ZKQ0S4pMp78hK1JkeWzhSsGBVOdNgHk8-w6Mvyvh5H6fn22Tj_gLJfZBgcqbhKYnomUV_Z9J7Blzhjncmca7zx0mN1H5cC2Xh7BaCcQun9MoRimBrwaYSt8YYVohA1Tb5ZP50fiXeRyokXjvfT4GyY24D1eCGfxSCi7WOBedmR9si1c09spWe-PjtWs1InhovE3AnlruYVU2VPLXv"
+    ]
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Kesetiaan Cinta Nabi Sepanjang Masa",
+     "narasi": "Seberapa besar cinta Rasulullah ﷺ kepada Khadijah?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Bertahun-tahun setelah Khadijah radhiyallahu 'anha wafat, Rasulullah ﷺ senantiasa mengenang dan melantunkan pujian indah untuknya."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Pujian indah yang terus terucap itu hingga membuat Aisyah radhiyallahu 'anha merasa cemburu."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Aisyah sempat heran mengapa Nabi ﷺ terus menyebut wanita yang telah tiada, sementara Allah telah memberikan ganti istri-istri yang masih muda."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Nabi ﷺ dengan lembut menegaskan bahwa cinta kepada Khadijah adalah rezeki dari Allah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Sebab Khadijah beriman dan mengorbankan seluruh hartanya saat manusia mendustakan dakwah beliau."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Rawat Kesetiaan Pasangan",
+     "narasi": "Rawat kesetiaan dan kenanglah selalu jasa pasangan hidup yang telah setia menemani masa sulit."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfS8qwGieDI/",
+   "yt": "https://youtube.com/shorts/TJKLJBngIxc",
+   "waktu_posting": "2026-11-03T22:24:58"
   },
   {
    "menit": "36:40",
