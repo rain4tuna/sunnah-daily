@@ -491,11 +491,12 @@
    ],
    "dalil": {
     "jenis": "ulama",
-    "arab": "",
-    "terjemah": "Khadijah menguji kejujuran Nabi ﷺ melalui amanah harta perniagaan dan laporan safar Maisarah sebelum menikah.",
-    "sumber": "Sirah Ibnu Hisyam dan Ath-Thabaqat al-Kubra karya Ibnu Sa'd",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "وَكَانَتْ خَدِيجَةُ بِنْتُ خُوَيْلِدٍ امْرَأَةً تَاجِرَةً ذَاتَ شَرَفٍ وَمَالٍ... فَلَمَّا بَلَغَهَا عَنْ رَسُولِ اللهِ ﷺ مَا بَلَغَهَا: مِنْ صِدْقِ حَدِيثِهِ، وَعِظَمِ أَمَانَتِهِ، وَكَرَمِ أَخْلَاقِهِ، بَعَثَتْ إِلَيْهِ، فَعَرَضَتْ عَلَيْهِ أَنْ يَخْرُجَ فِي مَالٍ لَهَا إِلَى الشَّامِ تَاجِرًا... مَعَ غُلَامٍ لَهَا يُقَالُ لَهُ مَيْسَرَةُ",
+    "terjemah": "Khadijah binti Khuwailid adalah wanita pedagang yang memiliki kehormatan dan harta... Tatkala sampai kepadanya kabar tentang kejujuran tutur kata Rasulullah ﷺ, keagungan amanahnya, serta kemuliaan akhlaknya, ia pun mengutus orang menemui beliau dan menawarkan agar beliau berniaga membawa hartanya ke Syam... bersama pembantunya yang bernama Maisarah.",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/187-188)",
+    "derajat": "",
+    "penilai": "",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/187/"
    },
    "faedah": "Teliti rekam jejak amanah dan akhlak calon pasangan sebelum memutuskan untuk menikah.",
    "latar_faedah": "lentera",
@@ -505,7 +506,76 @@
     "kejujuran"
    ],
    "id": "ep005-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Narasi kisah inti ini mu'tamad dan disepakati oleh para pakar tarikh serta sirah nabawiyyah (riwayat Ibnu Ishaq dalam Sirah Ibnu Hisyam dan Ibnu Sa'd dalam Ath-Thabaqat al-Kubra). Narasi teks sudah baik dan selamat karena tidak memuat rincian tambahan yang sanadnya bermasalah/lemah, seperti ramalan pendeta Nestorius dan penaungan oleh dua malaikat di tengah perjalanan.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-34uzcDQw-2ImTGIB94B0XxrqTDybddriAnR3xtoK-O3jGytCxhpY4SgbuvKqE_HDl4l34ghKCy10Wn4O59ngZtK8xPGLn0Jo0L43YGkQ_ejhSfFoIQzUugvRQ5SOYfRGeX2p",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8XMJCbO7HYM-15ulA3YEQRgRXFkmBPGmomGZ2wlwoKcp5Q7ZpMS8H71CgISG6OoPjn0R52ML-e3C600GfJdNwcx3_hcw7T58A79yOKRakYjLyeg53rkLvBzsIAQZwJnSRBk2bkw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-34uzcDQw-2ImTGIB94B0XxrqTDybddriAnR3xtoK-O3jGytCxhpY4SgbuvKqE_HDl4l34ghKCy10Wn4O59ngZtK8xPGLn0Jo0L43YGkQ_ejhSfFoIQzUugvRQ5SOYfRGeX2p",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8XMJCbO7HYM-15ulA3YEQRgRXFkmBPGmomGZ2wlwoKcp5Q7ZpMS8H71CgISG6OoPjn0R52ML-e3C600GfJdNwcx3_hcw7T58A79yOKRakYjLyeg53rkLvBzsIAQZwJnSRBk2bkw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnRZoUWl2gO2lT2vTuEtzBEa9OdC5Zh3eSfWTxeLbHCPDGpWELMB8dSdcdzWQ3ZE3Z6A0i0c_-j0V8E3EiyDtvElHLfhh0Z1MoGE-VN-eZWUAqZqxl3NCszZD9ZRrROnpn4F_DCQ=="
+    ]
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Khadijah Menguji Kejujuran Calon Suami",
+     "langit": "senja",
+     "narasi": "Mengapa Khadijah begitu terpikat pada kemuliaan Rasulullah ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Khadijah radhiyallahu 'anha adalah bangsawan Quraisy yang cerdas, menjaga kehormatan, dan kaya raya. Banyak tokoh melamarnya, namun ia menolak karena berhati-hati."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kafilah",
+     "narasi": "Mendengar pemuda Muhammad ﷺ bergelar Al-Amin, Khadijah mengujinya secara cermat dengan memercayakan barang dagangan untuk dibawa berniaga."
+    },
+    {
+     "jenis": "peta",
+     "judul": "Safar Berniaga",
+     "sub": "Makkah ke Syam",
+     "tempat": [
+      {
+       "nama": "Makkah",
+       "x": 0.45,
+       "y": 0.75
+      },
+      {
+       "nama": "Syam",
+       "x": 0.5,
+       "y": 0.2
+      }
+     ],
+     "narasi": "Khadijah mengutus pembantunya, Maisarah, mendampingi safar tersebut menuju negeri Syam."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "tenda",
+     "narasi": "Maisarah menyaksikan langsung kejujuran dan keelokan budi pekerti Nabi ﷺ hingga Khadijah mantap menikah dengannya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Teliti Amanah dan Akhlak",
+     "narasi": "Teliti rekam jejak amanah dan akhlak calon pasangan sebelum memutuskan untuk menikah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Al-Amin di komentar",
+     "narasi": "Tulis Al-Amin di komentar jika kisah ini menyentuh hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfSFOIHD3Fm/",
+   "yt": "https://youtube.com/shorts/LwDqAyrUMNY",
+   "waktu_posting": "2026-11-03T14:20:46"
   },
   {
    "menit": "30:30",
