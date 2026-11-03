@@ -378,25 +378,26 @@
    "latar_hook": "lentera",
    "adegan": [
     {
-     "narasi": "Suatu hari, seorang lelaki hendak bersaksi di hadapan khalifah Umar bin al-Khattab radhiyallahu 'anhu, lalu orang lain memujinya sebagai sosok yang terpercaya.",
+     "narasi": "Suatu hari, seorang lelaki hendak bersaksi di hadapan Khalifah Umar bin al-Khattab radhiyallahu 'anhu. Karena Umar belum mengenalnya, Umar memintanya membawa orang yang bisa memberikan rekomendasi (tazkiyah). Lalu seseorang memujinya sebagai orang yang adil dan terpercaya.",
      "latar": "masjid"
     },
     {
-     "narasi": "Umar lantas menguji dengan tiga pertanyaan: apakah engkau tetangga dekatnya, pernahkah bertransaksi harta dengannya, dan pernahkah menempuh perjalanan safar bersamanya?",
+     "narasi": "Umar lantas menguji orang yang memuji tersebut dengan tiga hal: apakah engkau tetangga dekatnya yang tahu waktu siang-malam serta keluar-masuknya, pernahkah bertransaksi dinar-dirham dengannya untuk melihat sifat wara'nya, dan pernahkah menempuh perjalanan safar bersamanya untuk melihat akhlak aslinya? Orang itu mengaku belum pernah melakukan semua hal tersebut.",
      "latar": "masjid"
     },
     {
-     "narasi": "Orang itu mengaku belum pernah melakukan semuanya. Umar pun menolak persaksiannya, sebab kejujuran dan watak asli seseorang baru teruji lewat tetangga, uang, dan safar.",
+     "narasi": "Umar pun menegurnya: 'Kalau begitu engkau belum mengenalnya!' Lalu Umar berkata kepada calon saksi: 'Bawalah orang yang benar-benar mengenalmu!' Sebab watak asli dan integritas seseorang baru benar-benar teruji lewat hubungan ketetanggaan, transaksi harta, dan kebersamaan dalam safar.",
      "latar": "kota"
     }
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "فَلَسْتَ تَعْرِفُهُ",
-    "terjemah": "Kalau begitu, engkau belum mengenalnya dengan sesungguhnya.",
-    "sumber": "Diriwayatkan oleh Al-Baihaqi dalam As-Sunan al-Kubra no. 20924",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "«...فَهُوَ جَارُكَ الْأَدْنَى...؟ قَالَ: لَا، قَالَ: فَمُعَامِلُكَ بِالدِّينَارِ وَالدِّرْهَمِ...؟ قَالَ: لَا، قَالَ: فَرَفِيقُكَ فِي السَّفَرِ...؟ قَالَ: لَا، قَالَ: لَسْتَ تَعْرِفُهُ، ثُمَّ قَالَ لِلرَّجُلِ: ائْتِ بِمَنْ يَعْرِفُكَ»",
+    "terjemah": "«...Apakah ia tetangga dekatmu...?» Orang itu menjawab: «Bukan.» Umar bertanya: «Pernahkah engkau bertransaksi dinar dan dirham dengannya...?» Ia menjawab: «Tidak.» Umar bertanya: «Apakah engkau pernah menemaninya dalam safar...?» Ia menjawab: «Tidak.» Umar berkata: «Kalau begitu, engkau belum mengenalnya.» Lalu Umar berkata kepada calon saksi: «Bawalah kemari orang yang benar-benar mengenalmu!»",
+    "sumber": "HR. Al-Baihaqi dalam As-Sunan al-Kubra (10/125, no. 20427) dan Al-'Uqaili dalam Adh-Dhu'afa' al-Kabir (3/454)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Irwa' al-Ghalil no. 2637)",
+    "rujukan": "https://dorar.net/hadith"
    },
    "faedah": "Kenali integritas seseorang lewat urusan amanah harta, kedekatan bertetangga, dan kebersamaan saat bersafar.",
    "latar_faedah": "kitab",
@@ -406,7 +407,68 @@
     "nasihat umar"
    ],
    "id": "ep005-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Riwayat kisah ini shahih dari sahabat Umar bin al-Khattab radhiyallahu 'anhu (jalur Kharasyah bin al-Hurr, disahihkan oleh Ibnu as-Sakan dan Syaikh Al-Albani). Namun ada sedikit ketidaktepatan redaksi narasi: Umar bukan langsung menolak saksi karena akhlaknya buruk, melainkan Umar menolak rekomendasi (tazkiyah) dari orang yang memujinya karena terbukti belum mengenalnya secara mendalam, lalu Umar memerintahkan calon saksi tersebut membawa orang lain yang benar-benar mengenalnya.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeJhGqzgdCC3wnDpu4yOqq52gL4Vh4YHq_g7GGIqf8s-gnUGbtuX84AstPHyuBVSZyQoeOhs-mfQqsk_SAVuyxn67d08GmghiPQo_FN2Y6r0fvlMs_Y_gE73P-qbfSO1sA3l6rwJO5zstFa4_ALcA-6ig4i4xdIvsZ-RY7yB0wnA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDIqWI2wyQ_lceCPQN9A53Q91Mr0mGacf4G7mSuMTtyBMac36u5BVUchLJy_4gvTVREooF8ex1aKfQg1gcs6GZzipsCMVfm8EXbyR6JaBBlStnzYr0cQZXBpjAcOtt9JCGKE8hEA6SUSmkXCCHwe3bxsOZkVL4vHBDRxxAAzosHdWF3kGTR0Ytcp3NmKpFxYRzN_IB_ewBTPQsvCttzxri_hN0CL2LLCPoRth4hCGD79w5SyssLTkdUPcool4Mq0aPVwEBwo1Wb4--uSf5t5wUW9UevQCaGeqR_Iem6dtha_dgHQeZUEmkyDEHYGCl7i4tLejJKBBNS99IqnEXHgA7MEe5BrXmDi5mu_D5GNoM_W4Lq-Cn-7MTWqar4LXF7anQhre7YVuyeWgMK8DwwA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh07e-l08q5j9rdR4sArk408Gim7lSPgHuwFs8YWtNDLXPOmwQC1Ee4VUdl-XtjMuT1NgoCSh-3y9VlfKuCbes69q6G-uORqdh5gFoSuemCQLz9VYUGBfsHMHiPebt_DQ="
+    ]
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "judul": "Tiga Cara Menguji Karakter Asli",
+     "narasi": "Bagaimana cara mengetahui akhlak seseorang yang sesungguhnya?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "masjid",
+     "narasi": "Seorang lelaki hendak bersaksi di hadapan Khalifah Umar bin al-Khattab radhiyallahu 'anhu. Karena belum mengenalnya, Umar memintanya membawa orang yang bisa memberikan rekomendasi."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Lalu seseorang datang memuji lelaki tersebut sebagai sosok yang adil dan terpercaya."
+    },
+    {
+     "jenis": "angka",
+     "label": "Ujian Karakter",
+     "angka": 3,
+     "satuan": "perkara",
+     "narasi": "Umar lantas mengujinya dengan tiga hal: apakah engkau tetangga dekatnya, pernah bertransaksi dinar-dirham dengannya, atau pernah menempuh safar bersamanya?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kafilah",
+     "narasi": "Orang itu pun terdiam dan mengaku belum pernah melakukan semua hal tersebut."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Umar menegurnya bahwa ia belum mengenalnya, lalu meminta calon saksi membawa orang yang benar-benar mengenalnya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Uji Karakter Sejati",
+     "narasi": "Kenalilah integritas seseorang lewat urusan amanah harta, kedekatan bertetangga, dan kebersamaan saat bersafar."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfR0sM_mb2Y/",
+   "yt": "https://youtube.com/shorts/eovZZoslZ7Q",
+   "waktu_posting": "2026-11-03T11:56:21"
   },
   {
    "menit": "25:34",

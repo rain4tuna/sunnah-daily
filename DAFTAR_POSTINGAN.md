@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 29 video. Waktu dalam WIB, terbaru di atas.
+Total: 30 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 03 Nov 2026 18.56 | ep005-05 | Tiga Cara Menguji Karakter Asli | HR. Al-Baihaqi dalam As-Sunan al-Kubra (10/125, no. 20427) dan Al-'Uqaili dalam Adh-Dhu'afa' al-Kabir (3/454) (shahih) | [IG](https://www.instagram.com/reel/DfR0sM_mb2Y/) · [YouTube](https://youtube.com/shorts/eovZZoslZ7Q) |
 | 03 Nov 2026 15.46 | ep005-04 | Islam Datang Menyempurnakan Akhlak Mulia | HR. Ahmad no. 8952, Al-Bukhari dalam Al-Adab al-Mufrad no. 273; Al-Bayhaqi dalam As-Sunan al-Kubra no. 20819 (dengan lafaz 'مَكَارِمَ') (shahih) | [IG](https://www.instagram.com/reel/DfRfAnJFYrV/) · [YouTube](https://youtube.com/shorts/GvtsurpMK4E) |
 | 03 Nov 2026 11.55 | ep005-03 | Berkah Kebaikan Sebelum Masuk Islam | HR. Bukhari no. 1436 dan Muslim no. 123 (shahih) | [IG](https://www.instagram.com/reel/DfREhmhnMsi/) · [YouTube](https://youtube.com/shorts/5l_m1Fh-70Q) |
 | 03 Nov 2026 05.25 | ep005-02 | Nasib Amal Orang Tanpa Tauhid | HR. Muslim no. 214 (shahih) | [IG](https://www.instagram.com/reel/DfQX8VgAqV9/) · [YouTube](https://youtube.com/shorts/5vxupJBRfHs) |
