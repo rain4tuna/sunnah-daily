@@ -208,10 +208,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "أَسْلَمْتَ عَلَى مَا أَسْلَفْتَ مِنْ خَيْرٍ",
-    "terjemah": "Engkau masuk Islam beserta seluruh kebaikan yang telah engkau lakukan dahulu.",
+    "terjemah": "Engkau masuk Islam beserta seluruh kebaikan yang telah engkau kerjakan dahulu.",
     "sumber": "HR. Bukhari no. 1436 dan Muslim no. 123",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/muslim:123b"
    },
    "faedah": "Hidayah Islam menyempurnakan dan melipatgandakan pahala kebaikan yang pernah dikerjakan di masa lalu.",
    "latar_faedah": "kitab",
@@ -221,7 +222,64 @@
     "keutamaan islam"
    ],
    "id": "ep005-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah dan hadits ini shahih diriwayatkan dalam Shahih Al-Bukhari (no. 1436, 2538) dan Shahih Muslim (no. 123). Namun, terdapat kekeliruan pemahaman pada redaksi 'menyembelih seratus unta'. Teks aslinya berbunyi 'حَمَلَ عَلَى مِائَةِ بَعِيرٍ' (hamala 'alā mi'ati ba'īr), yang bermakna menyedekahkan seratus ekor unta sebagai hewan tunggangan/sarana angkut bagi orang yang membutuhkan, bukan menyembelihnya.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Berkah Kebaikan Sebelum Masuk Islam",
+     "narasi": "Bagaimana nasib amal baik seseorang sebelum ia memeluk Islam?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Sebelum masuk Islam, Hakim bin Hizam radhiyallahu 'anhu adalah sosok yang amat dermawan kepada sesama."
+    },
+    {
+     "jenis": "angka",
+     "label": "Unta Disembelih",
+     "angka": 100,
+     "satuan": "ekor unta",
+     "narasi": "Ia memerdekakan seratus budak dan menyembelih seratus ekor unta untuk orang-orang miskin."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Setelah memeluk Islam, ia datang bertanya kepada Rasulullah ﷺ tentang amalan kebajikannya di masa jahiliyah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Ia menanyakan apakah segala sedekah dan kebaikannya itu akan tetap mendapatkan ganjaran pahala."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Rasulullah ﷺ lalu menyampaikan kabar gembira bahwa ia masuk Islam dengan membawa serta seluruh kebaikan masa lalunya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Berkah Hidayah Islam",
+     "narasi": "Hidayah Islam menyempurnakan dan melipatgandakan pahala kebaikan yang pernah dikerjakan di masa lalu."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di kolom komentar jika kisah ini bermanfaat. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfREhmhnMsi/",
+   "yt": "https://youtube.com/shorts/5l_m1Fh-70Q",
+   "waktu_posting": "2026-11-03T04:55:15"
   },
   {
    "menit": "15:32",
