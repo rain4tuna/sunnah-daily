@@ -1,0 +1,367 @@
+{
+ "episode": 6,
+ "judul": "Sirah Nabawiyah #6 - Rasulullah Menerima Wahyu 1",
+ "url": "https://www.youtube.com/watch?v=riwGb8wuslg",
+ "kisah": [
+  {
+   "menit": "01:45",
+   "judul_hook": "Kabar Nabi Terakhir Sudah Diramalkan?",
+   "narasi_hook": "Tahukah Anda bahwa kedatangan Rasulullah ﷺ telah lama dinantikan umat terdahulu?",
+   "latar_hook": "kitab",
+   "adegan": [
+    {
+     "narasi": "Ustadz Firanda menerangkan bahwa kabar mengenai kemunculan nabi penutup zaman telah tersiar luas di seantero Jazirah Arab hingga negeri Syam.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Di dalam Al-Qur'an disebutkan Nabi Isa 'alaihissalam telah mengabarkan kepada Bani Israil tentang akan datangnya seorang rasul bernama Ahmad.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Bahkan kaum Yahudi sengaja menetap di Madinah untuk menunggu nabi tersebut, meski akhirnya hasad membuat mereka menolak beriman saat beliau diutus dari bangsa Arab.",
+     "latar": "kebun"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "وَإِذْ قَالَ عِيسَى ابْنُ مَرْيَمَ يَا بَنِي إِسْرَائِيلَ إِنِّي رَسُولُ اللَّهِ إِلَيْكُمْ مُصَدِّقًا لِمَا بَيْنَ يَدَيَّ مِنَ التَّوْرَاةِ وَمُبَشِّرًا بِرَسُولٍ يَأْتِي مِنْ بَعْدِي اسْمُهُ أَحْمَدُ...",
+    "terjemah": "Dan (ingatlah) ketika Isa putra Maryam berkata, 'Wahai Bani Israil, sesungguhnya aku adalah utusan Allah kepadamu, membenarkan kitab sebelumku, yaitu Taurat, dan memberi kabar gembira dengan seorang rasul yang akan datang sesudahku, yang namanya Ahmad...'",
+    "sumber": "QS. As-Saff: 6",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/sura/61/6"
+   },
+   "faedah": "Hindarilah kedengkian, karena dengki dapat membutakan mata hati dari menerima kebenaran nyata.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "nubuat nabi",
+    "bahaya hasad",
+    "bani israil"
+   ],
+   "id": "ep006-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Kabar Nabi Terakhir Sudah Diramalkan?",
+     "langit": "senja",
+     "narasi": "Tahukah Anda bahwa kedatangan Rasulullah ﷺ telah lama dinantikan umat terdahulu?"
+    },
+    {
+     "jenis": "peta",
+     "judul": "Kabar Kenabian",
+     "sub": "Jazirah Arab hingga Syam",
+     "tempat": [
+      {
+       "nama": "Syam",
+       "x": 0.45,
+       "y": 0.25
+      },
+      {
+       "nama": "Madinah",
+       "x": 0.48,
+       "y": 0.65
+      }
+     ],
+     "narasi": "Ustadz Firanda menerangkan bahwa kabar mengenai kemunculan nabi penutup zaman telah tersiar luas di seantero Jazirah Arab hingga negeri Syam."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Di dalam Al-Qur'an disebutkan Nabi Isa 'alaihissalam telah mengabarkan kepada Bani Israil tentang akan datangnya seorang rasul bernama Ahmad."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Bahkan kaum Yahudi sengaja menetap di Madinah demi menunggu kedatangan nabi tersebut."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Meski akhirnya rasa hasad membuat mereka menolak beriman saat beliau diutus dari bangsa Arab."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Bahaya Penyakit Dengki",
+     "narasi": "Hindarilah kedengkian, karena dengki dapat membutakan mata hati dari menerima kebenaran nyata."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis renungan Anda di komentar",
+     "narasi": "Tulis renungan Anda di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfUDm1Tibq4/",
+   "yt": "https://youtube.com/shorts/6r9dtSw-2Cs",
+   "waktu_posting": "2026-11-04T08:44:54"
+  },
+  {
+   "menit": "10:40",
+   "judul_hook": "Batu Mengucapkan Salam pada Nabi?",
+   "narasi_hook": "Pernahkah Anda mendengar bahwa sebuah batu pernah menyapa Rasulullah ﷺ?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Sebelum menerima wahyu pertama, Rasulullah ﷺ kerap mengalami peristiwa menakjubkan sebagai mukadimah kenabian beliau.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Rasulullah ﷺ menceritakan bahwa ada sebuah batu di kota Makkah yang selalu memberi salam kepadanya sebelum beliau diangkat menjadi nabi.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Bahkan setelah bertahun-tahun masa kenabian berlalu, beliau ﷺ masih mengenali dengan pasti keberadaan batu tersebut.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنِّي لأَعْرِفُ حَجَرًا بِمَكَّةَ كَانَ يُسَلِّمُ عَلَيَّ قَبْلَ أَنْ أُبْعَثَ إِنِّي لأَعْرِفُهُ الآنَ",
+    "terjemah": "Sungguh aku mengetahui sebuah batu di Makkah yang dahulu memberi salam kepadaku sebelum aku diutus, sesungguhnya aku mengenalnya sekarang.",
+    "sumber": "HR. Muslim",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Tanda kemuliaan Rasulullah ﷺ telah dipersiapkan Allah jauh sebelum beliau diutus berdakwah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "tanda kenabian",
+    "mukjizat nabi",
+    "keagungan rasulullah"
+   ],
+   "id": "ep006-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "11:35",
+   "judul_hook": "Wahyu Pertama Lewat Mimpi Nyata?",
+   "narasi_hook": "Bagaimanakah wahyu Ilahi mula-mula menyapa relung hati Rasulullah ﷺ?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Aisyah radhiyallahu 'anha menuturkan bahwa awal mula turunnya wahyu kepada Rasulullah ﷺ datang melalui mimpi yang benar di waktu tidur.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Setiap kali beliau bermimpi, apa yang dilihatnya pasti terwujud secara nyata dan sangat jelas laksana terangnya fajar di pagi hari.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Pengalaman mimpi selama berbulan-bulan itulah yang kemudian menumbuhkan kerinduan mendalam di hati beliau untuk menyendiri dan beribadah di Gua Hira.",
+     "latar": "gua"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لاَ يَرَى رُؤْيَا إِلاَّ جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ",
+    "terjemah": "Awal mula wahyu yang dimulai kepada Rasulullah ﷺ adalah mimpi yang benar di dalam tidur. Tidaklah beliau melihat suatu mimpi melainkan datang seperti terangnya fajar subuh.",
+    "sumber": "HR. Bukhari",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Mimpi yang benar bagi orang shalih adalah petunjuk dan kabar gembira dari Allah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "permulaan wahyu",
+    "mimpi benar",
+    "gua hira"
+   ],
+   "id": "ep006-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "18:45",
+   "judul_hook": "Dekapan Dahsyat di Gua Hira",
+   "narasi_hook": "Mengapa Malaikat Jibril memeluk Rasulullah ﷺ dengan begitu kuat?",
+   "latar_hook": "gua",
+   "adegan": [
+    {
+     "narasi": "Tatkala Nabi ﷺ sedang berkhalwat di Gua Hira, Malaikat Jibril mendadak hadir dan memerintahkan beliau untuk membaca.",
+     "latar": "gua"
+    },
+    {
+     "narasi": "Rasulullah ﷺ menjawab bahwa dirinya tidak bisa membaca, lalu malaikat mendekap beliau sekuat tenaga hingga merasa sesak dan kepayahan.",
+     "latar": "gua"
+    },
+    {
+     "narasi": "Dekapan hebat itu diulang hingga tiga kali agar beliau sadar sepenuhnya bahwa kejadian agung ini nyata, bukan sekadar khayalan mimpi.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ . خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+    "terjemah": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. Dia telah menciptakan manusia dari segumpal darah.",
+    "sumber": "QS. Al-'Alaq: 1-2 / HR. Bukhari",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Menerima risalah kebenaran menuntut kesungguhan jiwa serta pengorbanan batin yang amat besar.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "turunnya wahyu",
+    "malaikat jibril",
+    "gua hira"
+   ],
+   "id": "ep006-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "25:17",
+   "judul_hook": "Khadijah, Penenang di Kala Gentar",
+   "narasi_hook": "Bagaimana sikap istri salihah saat sang suami pulang gemetar ketakutan?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Sepulang dari Gua Hira dengan tubuh menggigil ketakutan, Rasulullah ﷺ berseru kepada istrinya, 'Selimuti aku, selimuti aku!'.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Khadijah radhiyallahu 'anha tidak mendesaknya dengan rentetan pertanyaan, melainkan dengan penuh kasih menyelimuti dan menyiramkan air sejuk hingga rasa gundah beliau mereda.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Dengan tutur lembut Khadijah menenangkan, 'Demi Allah, Allah tidak akan menghinakanmu, karena engkau gemar menyambung silaturahmi dan menolong orang lemah'.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "كَلَّا أَبْشِرْ، فَوَاللَّهِ لَا يُخْزِيكَ اللَّهُ أَبَدًا، إِنَّكَ لَتَصِلُ الرَّحِمَ، وَتَصْدُقُ الْحَدِيثَ، وَتَحْمِلُ الْكَلَّ، وَتَقْرِي الضَّيْفَ، وَتُعِينُ عَلَى نَوَائِبِ الْحَقِّ",
+    "terjemah": "Sekali-kali tidak, bergembiralah! Demi Allah, Allah tidak akan menghinakanmu selamanya. Sungguh engkau menyambung silaturahmi, jujur dalam bertutur, menanggung beban orang lemah, memuliakan tamu, dan menolong orang yang tertimpa musibah.",
+    "sumber": "HR. Bukhari",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Istri salihah senantiasa menjadi pelindung rasa cemas dan penopang keteguhan hati suaminya.",
+   "latar_faedah": "kota",
+   "tema": [
+    "khadijah teladan",
+    "keharmonisan keluarga",
+    "akhlak mulia"
+   ],
+   "id": "ep006-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "33:30",
+   "judul_hook": "Pasti Dimusuhi Jika Membawa Kebenaran",
+   "narasi_hook": "Mengapa setiap penyeru kebenaran hampir selalu menghadapi permusuhan kaumnya?",
+   "latar_hook": "kitab",
+   "adegan": [
+    {
+     "narasi": "Khadijah membawa Nabi ﷺ menemui sepupunya, Waraqah bin Naufal, seorang tetua berilmu yang telah memeluk ajaran lurus dan menerjemahkan Injil ke bahasa Arab.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mendengar penuturan beliau, Waraqah yakin bahwa yang datang adalah malaikat pembawa wahyu yang dahulu diutus kepada Nabi Musa.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Waraqah menegaskan sebuah sunnatullah, tak seorang pun membawa ajaran wahyu seperti ini melainkan pasti akan ditentang dan diusir kaumnya sendiri.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "هَذَا النَّامُوسُ الَّذِي أُنْزِلَ عَلَى مُوسَى، يَا لَيْتَنِي فِيهَا جَذَعًا، أَكُونُ حَيًّا حِينَ يُخْرِجُكَ قَوْمُكَ",
+    "terjemah": "Ini adalah Namus (Jibril) yang pernah diturunkan kepada Musa. Duhai sekiranya aku masih muda belia, sekiranya aku masih hidup tatkala kaummu mengusirmu.",
+    "sumber": "HR. Bukhari",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Ujian dan penolakan merupakan sunnatullah dalam jalan dakwah menegakkan syariat Allah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "sunnatullah dakwah",
+    "waraqah bin naufal",
+    "ujian iman"
+   ],
+   "id": "ep006-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "39:45",
+   "judul_hook": "Kebaikan Menepis Kematian yang Buruk",
+   "narasi_hook": "Inginkah Anda terhindar dari akhir kehidupan yang mengenaskan?",
+   "latar_hook": "lentera",
+   "adegan": [
+    {
+     "narasi": "Ustadz Firanda mengutip sabda Rasulullah ﷺ bahwa gemar berbuat kebajikan dapat menjaga seseorang dari kematian yang buruk.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Amalan tulus seperti menyambung persaudaraan, bersedekah, dan meringankan kesulitan sesama akan mendatangkan pertolongan Allah di saat-saat kritis.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Inilah kaidah agung yang disadari Khadijah, sehingga ia yakin insan dermawan seperti Nabi ﷺ pasti memperoleh husnul khatimah.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "صَنَائِعُ الْمَعْرُوفِ تَقِي مَصَارِعَ السُّوءِ",
+    "terjemah": "Perbuatan-perbuatan baik akan menjaga seseorang dari berbagai kematian yang buruk.",
+    "sumber": "HR. Abu Umamah (disebutkan oleh Ustadz)",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Kebaikan yang kita tabur kepada sesama akan menjadi perisai di penghujung usia.",
+   "latar_faedah": "masjid",
+   "tema": [
+    "husnul khatimah",
+    "sedekah",
+    "keutamaan silaturahmi"
+   ],
+   "id": "ep006-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "53:20",
+   "judul_hook": "Air Mata Perpisahan dengan Makkah",
+   "narasi_hook": "Betapa beratnya hati Rasulullah ﷺ tatkala harus meninggalkan tanah kelahirannya?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Saat Waraqah memperingatkan bahwa beliau kelak akan diusir, Nabi ﷺ terkejut dan bertanya lirih, 'Apakah mereka benar-benar akan mengusirku?'.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Meninggalkan kampung halaman yang penuh kenangan masa kecil, tempat keluarga dan leluhurnya bertempat tinggal, adalah ujian batin terberat beliau.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Ketika berhijrah, beliau memandang Makkah penuh cinta seraya bersabda, 'Demi Allah, seandainya kaumku tidak mengusirku, aku tak akan pernah meninggalkanmu'.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "وَاللَّهِ إِنَّكِ لَخَيْرُ أَرْضِ اللَّهِ، وَأَحَبُّ أَرْضِ اللَّهِ إِلَى اللَّهِ، وَلَوْلَا أَنِّي أُخْرِجْتُ مِنْكِ مَا خَرَجْتُ",
+    "terjemah": "Demi Allah, sungguh engkau adalah sebaik-baik bumi Allah dan bumi yang paling dicintai Allah. Seandainya aku tidak diusir darimu, niscaya aku tidak akan keluar.",
+    "sumber": "HR. Tirmidzi & Ahmad",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Mencintai negeri asal dan merawat kedamaian tanah air merupakan fitrah setiap muslim.",
+   "latar_faedah": "kota",
+   "tema": [
+    "cinta tanah air",
+    "hijrah",
+    "kota makkah"
+   ],
+   "id": "ep006-08",
+   "status": "Belum"
+  }
+ ]
+}
