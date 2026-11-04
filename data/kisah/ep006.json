@@ -213,11 +213,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لاَ يَرَى رُؤْيَا إِلاَّ جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ",
-    "terjemah": "Awal mula wahyu yang dimulai kepada Rasulullah ﷺ adalah mimpi yang benar di dalam tidur. Tidaklah beliau melihat suatu mimpi melainkan datang seperti terangnya fajar subuh.",
-    "sumber": "HR. Bukhari",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "أَوَّلُ مَا بُدِئَ بِهِ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مِنَ الْوَحْيِ الرُّؤْيَا الصَّالِحَةُ فِي النَّوْمِ، فَكَانَ لَا يَرَى رُؤْيَا إِلَّا جَاءَتْ مِثْلَ فَلَقِ الصُّبْحِ...",
+    "terjemah": "Awal mula wahyu yang dimulai kepada Rasulullah ﷺ adalah mimpi yang baik (benar) di dalam tidur. Tidaklah beliau melihat suatu mimpi melainkan terwujud nyata seperti terangnya fajar subuh...",
+    "sumber": "HR. Bukhari no. 3 dan Muslim no. 160",
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3"
    },
    "faedah": "Mimpi yang benar bagi orang shalih adalah petunjuk dan kabar gembira dari Allah.",
    "latar_faedah": "lentera",
@@ -227,7 +228,57 @@
     "gua hira"
    ],
    "id": "ep006-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Wahyu Pertama Lewat Mimpi Nyata?",
+     "narasi": "Bagaimanakah wahyu Ilahi mula-mula menyapa relung hati Rasulullah ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Aisyah radhiyallahu 'anha menuturkan bahwa awal mula turunnya wahyu kepada Rasulullah ﷺ datang melalui mimpi yang benar di waktu tidur."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Setiap kali beliau bermimpi, apa yang dilihatnya pasti terwujud secara nyata, sangat jelas laksana terangnya fajar di pagi hari."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "gua",
+     "narasi": "Pengalaman mimpi selama berbulan-bulan itulah yang kemudian menumbuhkan kerinduan mendalam di dalam hati beliau."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gua",
+     "narasi": "Kerinduan tersebut menuntun langkah Rasulullah ﷺ untuk menyendiri dan beribadah di Gua Hira."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kabar Gembira Orang Shalih",
+     "narasi": "Mimpi yang benar bagi seorang yang shalih merupakan petunjuk dan kabar gembira yang datang dari Allah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika tersentuh oleh kisah ini. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfUqBgoGS--/",
+   "yt": "https://youtube.com/shorts/Lc_nLRYylXo",
+   "waktu_posting": "2026-11-04T14:20:59"
   },
   {
    "menit": "18:45",
