@@ -125,11 +125,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "إِنِّي لأَعْرِفُ حَجَرًا بِمَكَّةَ كَانَ يُسَلِّمُ عَلَيَّ قَبْلَ أَنْ أُبْعَثَ إِنِّي لأَعْرِفُهُ الآنَ",
-    "terjemah": "Sungguh aku mengetahui sebuah batu di Makkah yang dahulu memberi salam kepadaku sebelum aku diutus, sesungguhnya aku mengenalnya sekarang.",
-    "sumber": "HR. Muslim",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "إِنِّي لَأَعْرِفُ حَجَرًا بِمَكَّةَ كَانَ يُسَلِّمُ عَلَيَّ قَبْلَ أَنْ أُبْعَثَ، إِنِّي لَأَعْرِفُهُ الْآنَ",
+    "terjemah": "Sesungguhnya aku mengetahui sebuah batu di Makkah yang dahulu memberi salam kepadaku sebelum aku diutus; sungguh aku mengenalnya sekarang.",
+    "sumber": "HR. Muslim no. 2277",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:2277"
    },
    "faedah": "Tanda kemuliaan Rasulullah ﷺ telah dipersiapkan Allah jauh sebelum beliau diutus berdakwah.",
    "latar_faedah": "lentera",
@@ -139,7 +140,57 @@
     "keagungan rasulullah"
    ],
    "id": "ep006-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Batu Mengucapkan Salam pada Nabi?",
+     "langit": "malam",
+     "narasi": "Pernahkah Anda mendengar bahwa sebuah batu pernah menyapa Rasulullah ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Sebelum menerima wahyu pertama, Rasulullah ﷺ kerap mengalami peristiwa menakjubkan sebagai mukadimah kenabian beliau."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Tanda-tanda kebesaran tersebut hadir menyertai perjalanan hari-hari beliau ﷺ sebelum masa kerasulan tiba."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Rasulullah ﷺ menceritakan bahwa ada sebuah batu di kota Makkah yang selalu memberi salam kepadanya sebelum beliau diangkat menjadi nabi."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Bahkan setelah bertahun-tahun masa kenabian berlalu, beliau ﷺ masih mengenali dengan pasti keberadaan batu tersebut."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Tanda Kemuliaan Kenabian",
+     "narasi": "Tanda kemuliaan Rasulullah ﷺ telah dipersiapkan Allah jauh sebelum beliau diutus berdakwah menyebarkan risalah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menyentuh hati Anda. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfUZXwDCXbX/",
+   "yt": "https://youtube.com/shorts/oh20F_lnO5Y",
+   "waktu_posting": "2026-11-04T11:55:10"
   },
   {
    "menit": "11:35",
