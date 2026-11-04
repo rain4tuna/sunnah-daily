@@ -301,11 +301,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ . خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
-    "terjemah": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan. Dia telah menciptakan manusia dari segumpal darah.",
-    "sumber": "QS. Al-'Alaq: 1-2 / HR. Bukhari",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ ۝ خَلَقَ الْإِنْسَانَ مِنْ عَلَقٍ",
+    "terjemah": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan! Dia telah menciptakan manusia dari segumpal darah.",
+    "sumber": "QS. Al-'Alaq: 1-2",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/96?from=1&to=2"
    },
    "faedah": "Menerima risalah kebenaran menuntut kesungguhan jiwa serta pengorbanan batin yang amat besar.",
    "latar_faedah": "kitab",
@@ -315,7 +316,54 @@
     "gua hira"
    ],
    "id": "ep006-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "judul": "Dekapan Dahsyat di Gua Hira",
+     "latar": "gua",
+     "narasi": "Mengapa Malaikat Jibril memeluk Rasulullah ﷺ dengan begitu kuat?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Tatkala Nabi ﷺ sedang berkhalwat seorang diri di Gua Hira, Malaikat Jibril mendadak hadir dan memerintahkan beliau untuk membaca."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Namun Rasulullah ﷺ menjawab bahwa dirinya tidak bisa membaca, lalu malaikat mendekap beliau sekuat tenaga hingga merasa sesak dan kepayahan."
+    },
+    {
+     "jenis": "angka",
+     "label": "Dekapan Dahsyat",
+     "angka": 3,
+     "satuan": "kali",
+     "narasi": "Dekapan hebat itu pun diulang hingga tiga kali, agar beliau sadar sepenuhnya bahwa kejadian agung ini sungguh nyata, bukan sekadar khayalan mimpi belaka."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Pengorbanan Batin Risalah",
+     "narasi": "Pelajaran berharga bagi kita, menerima risalah kebenaran menuntut kesungguhan jiwa serta pengorbanan batin yang amat besar."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menyentuh hatimu. Jangan lupa ikuti Sunnah Daily untuk kisah penuh hikmah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfVhdRTkg0J/",
+   "yt": "https://youtube.com/shorts/cj2teHs4qiA",
+   "waktu_posting": "2026-11-04T22:25:13"
   },
   {
    "menit": "25:17",

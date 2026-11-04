@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 36 video. Waktu dalam WIB, terbaru di atas.
+Total: 37 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 05 Nov 2026 05.25 | ep006-04 | Dekapan Dahsyat di Gua Hira | QS. Al-'Alaq: 1-2 | [IG](https://www.instagram.com/reel/DfVhdRTkg0J/) · [YouTube](https://youtube.com/shorts/cj2teHs4qiA) |
 | 04 Nov 2026 21.20 | ep006-03 | Wahyu Pertama Lewat Mimpi Nyata? | HR. Bukhari no. 3 dan Muslim no. 160 (shahih) | [IG](https://www.instagram.com/reel/DfUqBgoGS--/) · [YouTube](https://youtube.com/shorts/Lc_nLRYylXo) |
 | 04 Nov 2026 18.55 | ep006-02 | Batu Mengucapkan Salam pada Nabi? | HR. Muslim no. 2277 (shahih) | [IG](https://www.instagram.com/reel/DfUZXwDCXbX/) · [YouTube](https://youtube.com/shorts/oh20F_lnO5Y) |
 | 04 Nov 2026 15.44 | ep006-01 | Kabar Nabi Terakhir Sudah Diramalkan? | QS. As-Saff: 6 | [IG](https://www.instagram.com/reel/DfUDm1Tibq4/) · [YouTube](https://youtube.com/shorts/6r9dtSw-2Cs) |
