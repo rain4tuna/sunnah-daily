@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 32 video. Waktu dalam WIB, terbaru di atas.
+Total: 33 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 04 Nov 2026 11.55 | ep005-08 | Salam Istimewa Penguasa Alam Semesta | HR. Bukhari no. 3820 dan Muslim no. 2432 (shahih) | [IG](https://www.instagram.com/reel/DfTpW5uDyB8/) · [YouTube](https://youtube.com/shorts/2v5rDl5itIg) |
 | 04 Nov 2026 05.24 | ep005-07 | Kesetiaan Cinta Nabi Sepanjang Masa | HR. Muslim no. 2435 (shahih) | [IG](https://www.instagram.com/reel/DfS8qwGieDI/) · [YouTube](https://youtube.com/shorts/TJKLJBngIxc) |
 | 03 Nov 2026 21.20 | ep005-06 | Khadijah Menguji Kejujuran Calon Suami | Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/187-188) | [IG](https://www.instagram.com/reel/DfSFOIHD3Fm/) · [YouTube](https://youtube.com/shorts/LwDqAyrUMNY) |
 | 03 Nov 2026 18.56 | ep005-05 | Tiga Cara Menguji Karakter Asli | HR. Al-Baihaqi dalam As-Sunan al-Kubra (10/125, no. 20427) dan Al-'Uqaili dalam Adh-Dhu'afa' al-Kabir (3/454) (shahih) | [IG](https://www.instagram.com/reel/DfR0sM_mb2Y/) · [YouTube](https://youtube.com/shorts/eovZZoslZ7Q) |

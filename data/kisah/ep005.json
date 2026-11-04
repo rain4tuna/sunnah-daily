@@ -698,11 +698,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "بَشِّرْهَا بِبَيْتٍ فِي الْجَنَّةِ مِنْ قَصَبٍ لَا صَخَبَ فِيهِ وَلَا نَصَبَ",
-    "terjemah": "Sampaikanlah kabar gembira kepadanya tentang sebuah rumah di surga dari mutiara berongga, tiada kegaduhan di dalamnya dan tiada pula kelelahan.",
+    "arab": "...فَإِذَا هِيَ أَتَتْكَ فَاقْرَأْ عَلَيْهَا السَّلَامَ مِنْ رَبِّهَا وَمِنِّي، وَبَشِّرْهَا بِبَيْتٍ فِي الْجَنَّةِ مِنْ قَصَبٍ، لَا صَخَبَ فِيهِ وَلَا نَصَبَ",
+    "terjemah": "...Jika ia telah datang kepadamu, sampaikanlah salam kepadanya dari Rabb-nya dan dariku, serta berilah kabar gembira kepadanya dengan sebuah rumah di surga dari mutiara berongga, tiada kegaduhan di dalamnya dan tiada pula keletihan.",
     "sumber": "HR. Bukhari no. 3820 dan Muslim no. 2432",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3820"
    },
    "faedah": "Pengorbanan tulus seorang istri dalam ketaatan akan diganjar kemuliaan tertinggi di surga Allah.",
    "latar_faedah": "langit",
@@ -712,7 +713,57 @@
     "surga"
    ],
    "id": "ep005-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Salam Istimewa Penguasa Alam Semesta",
+     "langit": "senja",
+     "narasi": "Siapakah wanita mulia yang mendapat salam dari Allah?"
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Suatu hari Malaikat Jibril mendatangi Rasulullah ﷺ dan memberitahukan bahwa Khadijah radhiyallahu 'anha sedang berjalan mendekat."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Khadijah datang membawakan bejana berisi hidangan makanan untuk melayani beliau tercinta."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Jibril berpesan agar Nabi ﷺ menyampaikan salam penghormatan langsung dari Allah 'Azza wa Jalla serta dari dirinya kepada Khadijah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Jibril juga membawa kabar gembira berupa istana surga dari mutiara berongga, tempat damai tanpa suara bising maupun rasa lelah."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kemuliaan Pengorbanan Istri",
+     "narasi": "Pengorbanan tulus seorang istri dalam ketaatan akan diganjar kemuliaan tertinggi di surga Allah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menyentuh hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfTpW5uDyB8/",
+   "yt": "https://youtube.com/shorts/2v5rDl5itIg",
+   "waktu_posting": "2026-11-04T04:55:51"
   }
  ]
 }
