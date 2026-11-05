@@ -121,11 +121,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "يٰٓاَيُّهَا الْمُدَّثِّرُ ۙ قُمْ فَاَنْذِرْ",
-    "terjemah": "Wahai orang yang berselimut! Bangunlah, lalu berilah peringatan!",
-    "sumber": "QS. Al-Muddaththir: 1-2",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "يٰٓاَيُّهَا الْمُدَّثِّرُۙ ۝ قُمْ فَاَنْذِرْۖ",
+    "terjemah": "Wahai orang yang berselimut, bangunlah, lalu berilah peringatan!",
+    "sumber": "QS. Al-Muddassir: 1-2",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/74?from=1&to=2"
    },
    "faedah": "Tanggung jawab dakwah menuntut pengorbanan waktu dan kenyamanan hidup duniawi.",
    "latar_faedah": "masjid",
@@ -135,7 +136,62 @@
     "rasulullah"
    ],
    "id": "ep007-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Sejak Hari Itu Beliau Tak Beristirahat",
+     "narasi": "Tahukah kamu satu perintah yang mengubah seluruh sisa hidup Rasulullah ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Saat Rasulullah ﷺ sedang berselimut dalam rasa takutnya, Allah Subhanahu wa Ta'ala menurunkan firman-Nya."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "fajar",
+     "narasi": "Wahyu itu menyeru, 'Wahai orang yang berselimut, bangunlah dan berilah peringatan.'"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Para ulama menjelaskan bahwa sejak ayat ini turun, Rasulullah ﷺ tidak pernah lagi hidup santai beristirahat hingga beliau wafat."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Beliau terus melangkah menapaki jalan perjuangan, berpindah dari satu ujian ke ujian berikutnya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Semua keteguhan itu beliau jalani dengan sabar, demi mengemban risalah dakwah yang sangat berat."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Pengorbanan Menegakkan Risalah",
+     "narasi": "Kisah ini mengajarkan bahwa tanggung jawab dakwah menuntut pengorbanan waktu dan kenyamanan hidup duniawi kita."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis shalawat di komentar",
+     "narasi": "Tulis shalawat untuk Rasulullah ﷺ di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfYGM0XDvm3/",
+   "yt": "https://youtube.com/shorts/FbjzhlFEyrA",
+   "waktu_posting": "2026-11-05T22:24:43"
   },
   {
    "menit": "16:05",
