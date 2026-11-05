@@ -387,10 +387,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "كَلَّا أَبْشِرْ، فَوَاللَّهِ لَا يُخْزِيكَ اللَّهُ أَبَدًا، إِنَّكَ لَتَصِلُ الرَّحِمَ، وَتَصْدُقُ الْحَدِيثَ، وَتَحْمِلُ الْكَلَّ، وَتَقْرِي الضَّيْفَ، وَتُعِينُ عَلَى نَوَائِبِ الْحَقِّ",
-    "terjemah": "Sekali-kali tidak, bergembiralah! Demi Allah, Allah tidak akan menghinakanmu selamanya. Sungguh engkau menyambung silaturahmi, jujur dalam bertutur, menanggung beban orang lemah, memuliakan tamu, dan menolong orang yang tertimpa musibah.",
-    "sumber": "HR. Bukhari",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "terjemah": "Sekali-kali tidak, bergembiralah! Demi Allah, Allah tidak akan menghinakanmu selamanya. Sungguh engkau menyambung silaturahmi, jujur dalam bertutur, menanggung beban orang lemah, memuliakan tamu, dan menolong orang yang membela kebenaran.",
+    "sumber": "HR. Bukhari, no. 4953",
+    "derajat": "shahih",
+    "penilai": "Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:4953"
    },
    "faedah": "Istri salihah senantiasa menjadi pelindung rasa cemas dan penopang keteguhan hati suaminya.",
    "latar_faedah": "kota",
@@ -400,7 +401,13 @@
     "akhlak mulia"
    ],
    "id": "ep006-05",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Narasi kisah mencampuradukkan dua peristiwa yang berbeda. Pada peristiwa kepulangan pertama dari Gua Hira (turunnya awal Surah Al-'Alaq, HR. Bukhari no. 3 dan 4953), Rasulullah ﷺ hanya berseru meminta diselimuti ('زَمِّلُونِي زَمِّلُونِي') dan Khadijah beserta keluarga menyelimuti beliau hingga rasa takutnya hilang; tidak ada keterangan beliau disiram air sejuk. Adapun permintaan disiram air dingin ('دَثِّرُونِي وَصُبُّوا عَلَيَّ مَاءً بَارِدًا') terjadi pada peristiwa berbeda setelah masa terputusnya wahyu (fatrah al-wahyi) ketika beliau melihat Jibril di antara langit dan bumi yang melatarbelakangi turunnya Surah Al-Muddaththir (HR. Bukhari no. 4922 dan Muslim no. 161 dari Jabir bin Abdillah), dan hal itu pun dilakukan atas permintaan beliau sendiri, bukan inisiatif spontan Khadijah.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "33:30",
@@ -422,12 +429,13 @@
     }
    ],
    "dalil": {
-    "jenis": "atsar",
-    "arab": "هَذَا النَّامُوسُ الَّذِي أُنْزِلَ عَلَى مُوسَى، يَا لَيْتَنِي فِيهَا جَذَعًا، أَكُونُ حَيًّا حِينَ يُخْرِجُكَ قَوْمُكَ",
-    "terjemah": "Ini adalah Namus (Jibril) yang pernah diturunkan kepada Musa. Duhai sekiranya aku masih muda belia, sekiranya aku masih hidup tatkala kaummu mengusirmu.",
-    "sumber": "HR. Bukhari",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "jenis": "hadits",
+    "arab": "هَذَا النَّامُوسُ الَّذِي أُنْزِلَ عَلَى مُوسَى، يَا لَيْتَنِي فِيهَا جَذَعًا، أَكُونُ حَيًّا حِينَ يُخْرِجُكَ قَوْمُكَ... لَمْ يَأْتِ رَجُلٌ قَطُّ بِمِثْلِ مَا جِئْتَ بِهِ إِلَّا عُودِيَ",
+    "terjemah": "Ini adalah Namus (Jibril) yang pernah diturunkan kepada Musa. Duhai sekiranya aku masih muda belia, sekiranya aku masih hidup tatkala kaummu mengusirmu... Tidak seorang pun yang datang membawa ajaran seperti yang engkau bawa ini melainkan pasti akan dimusuhi.",
+    "sumber": "HR. Bukhari, no. 6982",
+    "derajat": "shahih",
+    "penilai": "Imam al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:6982"
    },
    "faedah": "Ujian dan penolakan merupakan sunnatullah dalam jalan dakwah menegakkan syariat Allah.",
    "latar_faedah": "lentera",
@@ -437,7 +445,57 @@
     "ujian iman"
    ],
    "id": "ep006-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Pasti Dimusuhi Jika Membawa Kebenaran",
+     "narasi": "Mengapa setiap penyeru kebenaran hampir selalu menghadapi permusuhan kaumnya?"
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Khadijah membawa Nabi ﷺ menemui sepupunya, Waraqah bin Naufal, untuk memperdengarkan kabar yang dialami beliau."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Waraqah adalah seorang tetua berilmu yang telah memeluk ajaran lurus dan menerjemahkan Injil ke dalam bahasa Arab."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Mendengar penuturan beliau, Waraqah meyakini bahwa yang datang adalah malaikat pembawa wahyu yang dahulu diutus kepada Nabi Musa."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Waraqah menegaskan sebuah sunnatullah, tak seorang pun membawa ajaran wahyu seperti ini melainkan pasti akan ditentang dan diusir kaumnya sendiri."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Sunnatullah Penolakan Dakwah",
+     "narasi": "Ujian serta penolakan merupakan sunnatullah yang nyata dalam jalan dakwah menegakkan syariat Allah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Bismillah di komentar",
+     "narasi": "Tulis Bismillah di komentar jika kamu siap membela kebenaran. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfWOQTnlGCG/",
+   "yt": "https://youtube.com/shorts/JndKmUScGSk",
+   "waktu_posting": "2026-11-05T04:56:29"
   },
   {
    "menit": "39:45",
