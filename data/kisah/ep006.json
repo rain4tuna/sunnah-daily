@@ -518,11 +518,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "صَنَائِعُ الْمَعْرُوفِ تَقِي مَصَارِعَ السُّوءِ",
-    "terjemah": "Perbuatan-perbuatan baik akan menjaga seseorang dari berbagai kematian yang buruk.",
-    "sumber": "HR. Abu Umamah (disebutkan oleh Ustadz)",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "صَنَائِعُ الْمَعْرُوفِ تَقِي مَصَارِعَ السُّوءِ، وَصَدَقَةُ السِّرِّ تُطْفِئُ غَضَبَ الرَّبِّ، وَصِلَةُ الرَّحِمِ تَزِيدُ فِي الْعُمْرِ",
+    "terjemah": "Perbuatan-perbuatan kebajikan menjaga seseorang dari berbagai kematian yang buruk, sedekah secara sembunyi-sembunyi meredam kemurkaan Rabb, dan silaturahmi menambah umur.",
+    "sumber": "HR. Ath-Thabarani, Al-Mu'jam Al-Kabir (no. 8014)",
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani (Shahih At-Targhib wa At-Tarhib no. 889)",
+    "rujukan": "https://dorar.net/hadith/sharh/129665"
    },
    "faedah": "Kebaikan yang kita tabur kepada sesama akan menjadi perisai di penghujung usia.",
    "latar_faedah": "masjid",
@@ -532,7 +533,57 @@
     "keutamaan silaturahmi"
    ],
    "id": "ep006-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Kebaikan Menepis Kematian yang Buruk",
+     "langit": "malam",
+     "narasi": "Inginkah Anda terhindar dari akhir kehidupan yang begitu mengenaskan?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Ustadz Firanda mengutip sabda Rasulullah ﷺ, bahwa orang yang gemar berbuat kebajikan senantiasa dijaga dari kematian yang buruk."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Amalan tulus seperti menyambung tali persaudaraan dan rajin bersedekah akan mendatangkan pertolongan Allah di saat-saat kritis."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Kebaikan dalam meringankan kesulitan sesama manusia akan mengundang pertolongan Allah di waktu yang paling genting."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Inilah kaidah agung yang disadari oleh Khadijah, sehingga ia sangat yakin insan dermawan seperti Nabi ﷺ pasti memperoleh husnul khatimah."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Perisai Penghujung Usia",
+     "narasi": "Kebaikan yang kita tabur kepada sesama dengan ikhlas akan menjadi perisai pelindung di penghujung usia."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Husnul Khatimah di komentar",
+     "narasi": "Tulis Husnul Khatimah di kolom komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfWos2ejRDZ/",
+   "yt": "https://youtube.com/shorts/5THIKXJg3W8",
+   "waktu_posting": "2026-11-05T08:47:33"
   },
   {
    "menit": "53:20",
