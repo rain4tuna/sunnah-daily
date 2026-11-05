@@ -34,7 +34,7 @@ function jalankan() {
     method: 'post',
     contentType: 'application/json',
     headers: { Authorization: 'Bearer ' + token, Accept: 'application/vnd.github+json' },
-    payload: JSON.stringify({ ref: 'main', inputs: { uji: 'false', posting_ig: 'true', posting_yt: 'true', tema: 'auto' } }),
+    payload: JSON.stringify({ ref: 'main', inputs: { uji: 'false', posting_ig: 'true', posting_yt: 'true', posting_fb: 'true', tema: 'auto' } }),
     muteHttpExceptions: true
   });
   if (res.getResponseCode() !== 204) throw new Error('GitHub menolak: ' + res.getResponseCode() + ' ' + res.getContentText());

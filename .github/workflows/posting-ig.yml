@@ -7,7 +7,7 @@ on:
         description: 'Nama video di branch hasil, tanpa .mp4 (mis. ep001-03)'
         required: true
       tujuan:
-        description: 'ig | yt | semua | cek-yt'
+        description: 'ig | yt | fb | semua | cek-yt'
         required: false
         default: 'ig'
       run_id:

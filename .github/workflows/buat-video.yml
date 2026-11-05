@@ -33,6 +33,10 @@ on:
         description: 'true = upload ke YouTube Shorts (hanya kalau uji = false)'
         required: false
         default: 'false'
+      posting_fb:
+        description: 'true = posting Reel ke Facebook Page (hanya kalau uji = false)'
+        required: false
+        default: 'true'
 
 permissions:
   contents: write
@@ -73,6 +77,7 @@ jobs:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: '17841438717756877'
           POSTING_YT: ${{ github.event.inputs.posting_yt || 'true' }}
+          POSTING_FB: ${{ github.event.inputs.posting_fb || 'true' }}
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}

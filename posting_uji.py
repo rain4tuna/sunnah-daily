@@ -13,6 +13,9 @@ try:
     if tujuan in ('ig', 'semua'):
         media = ig.posting_reel_aman(os.environ.get('IG_USER_ID', '17841438717756877'), f'{b}.mp4', cap)
         print(f'::notice::IG {ig.permalink(media) or media}')
+    if tujuan in ('fb', 'semua'):
+        import fb
+        print(f"::notice::FB {fb.posting_reel(f'{b}.mp4', cap)}")
     if tujuan in ('yt', 'semua'):
         import yt
         judul = cap.split('\n')[0].replace('🌙', '').strip()

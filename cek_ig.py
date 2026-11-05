@@ -32,3 +32,12 @@ for ujung in ('instagram_accounts', 'owned_instagram_accounts', 'owned_pages', '
 
 coba('media terbaru', lambda: [(m.get('timestamp'), m.get('permalink'), (m.get('caption') or '')[:40])
                                for m in ig.get('17841438717756877/media', fields='timestamp,permalink,caption', limit=15).get('data', [])])
+
+try:
+    import fb
+    pid, tok = fb.page()
+    print('FB page id:', pid)
+    print('izin page:', [p['permission'] + '=' + p['status'] for p in ig.get('me/permissions').get('data', [])
+                         if p['permission'].startswith('pages_')])
+except Exception as e:
+    print('FB: GAGAL', e)

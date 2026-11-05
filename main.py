@@ -17,6 +17,7 @@ import sys
 import tempfile
 
 import ekstrak
+import fb
 import gemini
 import ig
 import motion
@@ -135,6 +136,8 @@ def tulis_daftar():
                     sumber = dl.get('sumber', '') + (f" ({dl['derajat']})" if dl.get('jenis') in ('hadits', 'atsar') and dl.get('derajat') else '')
                     ig_l = f"[IG]({k['ig']})" if k.get('ig') else '-'
                     yt_l = f"[YouTube]({k['yt']})" if k.get('yt') else '-'
+                    if k.get('fb'):
+                        yt_l += f" · [FB]({k['fb']})"
                     baris.append((w or '', f"| {wib} | {k['id']} | {k['judul_hook']} | {sumber} | {ig_l} · {yt_l} |"))
     baris.sort(reverse=True)
     isi = ['# Daftar Postingan Sunnah Daily', '', f'Total: {len(baris)} video. Waktu dalam WIB, terbaru di atas.', '',
@@ -248,6 +251,14 @@ def main():
             except Exception as e:
                 gagal.append(f'IG: {e}')
                 log(f'::warning::IG gagal: {e}'[:900])
+        if os.environ.get('POSTING_FB', 'false').lower() == 'true':
+            try:
+                k['fb'] = fb.posting_reel(mp4, cap)
+                k['status'] = 'Diposting'
+                log(f"Diposting ke Facebook: {k['fb']}")
+            except Exception as e:
+                gagal.append(f'FB: {e}')
+                log(f'::warning::Facebook gagal: {e}'[:900])
         if os.environ.get('POSTING_YT', 'false').lower() == 'true':
             try:
                 k['yt'] = yt.upload(mp4, k['judul_hook'], cap, ['sunnah', 'sirah nabawiyah', 'kisah nabi', 'hadits']
