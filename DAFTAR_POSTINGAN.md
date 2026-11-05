@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 39 video. Waktu dalam WIB, terbaru di atas.
+Total: 40 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 05 Nov 2026 18.53 | ep006-08 | Air Mata Perpisahan dengan Makkah | HR. Tirmidzi no. 3925 & Ahmad no. 18715 (shahih) | [IG](https://www.instagram.com/reel/DfW99y4oHOy/) · [YouTube](https://youtube.com/shorts/c2u_jBRmQN0) |
 | 05 Nov 2026 15.47 | ep006-07 | Kebaikan Menepis Kematian yang Buruk | HR. Ath-Thabarani, Al-Mu'jam Al-Kabir (no. 8014) (hasan) | [IG](https://www.instagram.com/reel/DfWos2ejRDZ/) · [YouTube](https://youtube.com/shorts/5THIKXJg3W8) |
 | 05 Nov 2026 11.56 | ep006-06 | Pasti Dimusuhi Jika Membawa Kebenaran | HR. Bukhari, no. 6982 (shahih) | [IG](https://www.instagram.com/reel/DfWOQTnlGCG/) · [YouTube](https://youtube.com/shorts/JndKmUScGSk) |
 | 05 Nov 2026 05.25 | ep006-04 | Dekapan Dahsyat di Gua Hira | QS. Al-'Alaq: 1-2 | [IG](https://www.instagram.com/reel/DfVhdRTkg0J/) · [YouTube](https://youtube.com/shorts/cj2teHs4qiA) |

@@ -608,9 +608,10 @@
     "jenis": "hadits",
     "arab": "وَاللَّهِ إِنَّكِ لَخَيْرُ أَرْضِ اللَّهِ، وَأَحَبُّ أَرْضِ اللَّهِ إِلَى اللَّهِ، وَلَوْلَا أَنِّي أُخْرِجْتُ مِنْكِ مَا خَرَجْتُ",
     "terjemah": "Demi Allah, sungguh engkau adalah sebaik-baik bumi Allah dan bumi yang paling dicintai Allah. Seandainya aku tidak diusir darimu, niscaya aku tidak akan keluar.",
-    "sumber": "HR. Tirmidzi & Ahmad",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "sumber": "HR. Tirmidzi no. 3925 & Ahmad no. 18715",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (juga dihasan-shahihkan oleh Imam At-Tirmidzi)",
+    "rujukan": "https://sunnah.com/tirmidhi:3925"
    },
    "faedah": "Mencintai negeri asal dan merawat kedamaian tanah air merupakan fitrah setiap muslim.",
    "latar_faedah": "kota",
@@ -620,7 +621,57 @@
     "kota makkah"
    ],
    "id": "ep006-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "judul": "Air Mata Perpisahan dengan Makkah",
+     "narasi": "Betapa beratnya hati Rasulullah ﷺ tatkala harus meninggalkan tanah kelahirannya?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Saat Waraqah memperingatkan bahwa beliau kelak akan diusir, Nabi ﷺ terkejut dan bertanya lirih, 'Apakah mereka benar-benar akan mengusirku?'."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Meninggalkan kampung halaman yang penuh kenangan masa kecil, serta tempat keluarga dan leluhurnya bertempat tinggal, menjadi ujian batin terberat beliau."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Ketika tiba saatnya berhijrah, beliau melangkah pergi seraya memandang Makkah dengan tatapan yang penuh rasa cinta."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Seraya menatap tanah kelahirannya, beliau bersabda, 'Demi Allah, seandainya kaumku tidak mengusirku, aku tak akan pernah meninggalkanmu'."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Fitrah Cinta Tanah Air",
+     "narasi": "Mencintai negeri asal dan merawat kedamaian tanah air senantiasa menjadi fitrah bagi setiap muslim."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis doa untuk negerimu di komentar",
+     "narasi": "Tulis doa terbaik untuk negerimu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfW99y4oHOy/",
+   "yt": "https://youtube.com/shorts/c2u_jBRmQN0",
+   "waktu_posting": "2026-11-05T11:53:19"
   }
  ]
 }
