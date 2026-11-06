@@ -587,11 +587,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "اِنَّهُمْ فِتْيَةٌ اٰمَنُوْا بِرَبِّهِمْ وَزِدْنٰهُمْ هُدًى",
-    "terjemah": "Sesungguhnya mereka adalah pemuda-pemuda yang beriman kepada Tuhan mereka, dan Kami tambahkan petunjuk kepada mereka.",
+    "arab": "... إِنَّهُمْ فِتْيَةٌ آمَنُوا بِرَبِّهِمْ وَزِدْنَاهُمْ هُدًى",
+    "terjemah": "... Sesungguhnya mereka adalah pemuda-pemuda yang beriman kepada Tuhan mereka, dan Kami tambahkan petunjuk kepada mereka.",
     "sumber": "QS. Al-Kahfi: 13",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/18?from=13&to=13"
    },
    "faedah": "Manfaatkan masa muda untuk mencari kebenaran sebelum hati tertutup kesombongan dan kebiasaan.",
    "latar_faedah": "kitab",
@@ -601,7 +602,68 @@
     "sahabat nabi"
    ],
    "id": "ep007-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti narasi dan kutipan penjelasan Ibnu Katsir dalam Tafsir Al-Qur'an Al-'Azhim (surah Al-Kahfi: 13) valid dan sesuai aslinya. Catatan minor pada usia Sa'ad bin Abi Waqqas saat masuk Islam: riwayat yang masyhur dari lisan beliau sendiri menyebutkan usianya 17 tahun (Ath-Thabaqat karya Ibnu Sa'd) atau 19 tahun, bukan 14 tahun. Namun, perbedaan angka ini tidak merusak substansi kisah bahwa para pembela awal dakwah mayoritas berusia belia/muda.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGM5-A4NunGtkKGB7loiFwM7ByZLYflqTjzqIZF1H9bJOO2pGG_egay0VzpbdQZv8q8nkGseptqkJ4DambD477XeGAub_gCVy34yiIkUJGFX1Q77TrZmhSwPrbsRmE2Iovy3dNYf48poA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOF_JHnC3CuQqJ1F61Xb7FDeiTyMhGaee2IL2xZAhi54RYTH1C1fS8cXrmbQeBEZDZDsN6ozy4k_BnPMOzimd67s8Sjhr2avNL1pCQy4N19JyKZgiKCZhawmKvnqn3MBOHyJYytr49cTDJpwM=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp8_1HHY330GWn1ZELoqjTZQqxpqV1eFTDy36urKC6kGfMJxTtsgDghQazm7mTsQ4tecOW0eLCYvjy3z19XiHgXvpfjgqUaQyddaXOBb2EjC_zoQzKrEN_OssfV8CVInkANTN0A_yRorXNZS88gj8VdNBGMJX1qyjcXq3rwB8Co0cyk447CqJDjfiSXOS2GuwM6BbfqItDyNu3Wvd-SGkKC3TT1vb3rcOCTApku6EJVOOnU8n_80BavbfJARhAX5Tf40XjQAjeg5gVLMNyyKIymvFvrrdOtPpXVrh8Zd1wLm69Ec3UryDYryMA4yN3MdhT_FaR5Dki3DxlwBscpeI95W_2jWjglu2k7ZXDbVall7_zyEau4eksfzSVDhNJ22BIM0c="
+    ]
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "fajar",
+     "judul": "Mengapa Pemuda Lebih Cepat Hijrah?",
+     "narasi": "Mengapa barisan pertama pembela dakwah Islam rata-rata masih berusia muda?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Jika kita menilik para sahabat yang pertama masuk Islam, sebagian besar di antara mereka masih berusia belasan hingga tiga puluhan tahun."
+    },
+    {
+     "jenis": "angka",
+     "label": "Usia Ali",
+     "angka": 10,
+     "satuan": "tahun",
+     "narasi": "Bahkan, Ali bin Abi Thalib saat itu tercatat baru berusia sepuluh tahun."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Thalhah dan Zubair kala itu baru lima belas tahun, serta Sa'ad bin Abi Waqqas berusia empat belas tahun."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Ibnu Katsir menjelaskan bahwa jiwa pemuda lebih dinamis dan jujur dalam mencari kebenaran."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Hal ini berbeda dengan orang tua yang kerap terbelenggu gengsi dan tradisi masa lalu."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Manfaatkan Masa Muda",
+     "narasi": "Manfaatkan masa muda kita untuk mencari kebenaran sebelum hati tertutup oleh kesombongan dan kebiasaan."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfaqyP3CsCU/",
+   "yt": "https://youtube.com/shorts/WL923ZL8O6s",
+   "waktu_posting": "2026-11-06T22:24:42"
   },
   {
    "menit": "36:15",
