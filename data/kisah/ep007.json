@@ -494,11 +494,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "اُدْعُوْهُمْ لِاٰبَاۤىِٕهِمْ هُوَ اَقْسَطُ عِنْدَ اللّٰهِ",
-    "terjemah": "Panggillah mereka (anak angkat itu) dengan memakai nama bapak-bapak mereka; itulah yang adil di sisi Allah.",
+    "arab": "اُدْعُوْهُمْ لِاٰبَاۤىِٕهِمْ هُوَ اَقْسَطُ عِنْدَ اللّٰهِ...",
+    "terjemah": "Panggillah mereka (anak-anak angkat itu) dengan (memakai) nama bapak-bapak mereka; itulah yang lebih adil di sisi Allah...",
     "sumber": "QS. Al-Ahzab: 5",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/33?from=5&to=5"
    },
    "faedah": "Kasih sayang dan keluhuran budi pekerti mampu menaklukkan hati melebihi ikatan darah.",
    "latar_faedah": "tenda",
@@ -508,7 +509,62 @@
     "sirah nabawiyah"
    ],
    "id": "ep007-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "judul": "Memilih Jadi Budak Rasulullah ﷺ",
+     "narasi": "Bagaimana mungkin seorang anak memilih tetap menjadi budak daripada bebas bersama ayahnya?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kafilah",
+     "narasi": "Zaid bin Haritsah radhiyallahu 'anhu diculik semasa kecil lalu dijual di pasar budak."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Hingga akhirnya, ia dihadiahkan oleh Khadijah kepada Rasulullah ﷺ."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Ketika ayah dan pamannya datang membawa tebusan harta ke Makkah untuk membebaskannya,"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Nabi ﷺ justru memberi kebebasan penuh kepada Zaid untuk memilih."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Tanpa ragu Zaid berkata bahwa ia telah melihat kemuliaan akhlak pada diri Nabi ﷺ, yang membuatnya tak sudi memilih orang lain selamanya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Akhlak Menaklukkan Hati",
+     "narasi": "Kasih sayang dan keluhuran budi pekerti mampu menaklukkan hati melebihi ikatan darah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfZzjbXFd7X/",
+   "yt": "https://youtube.com/shorts/QdAl0NZtlHU",
+   "waktu_posting": "2026-11-06T14:22:15"
   },
   {
    "menit": "32:00",
