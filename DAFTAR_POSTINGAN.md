@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 44 video. Waktu dalam WIB, terbaru di atas.
+Total: 45 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 06 Nov 2026 18.57 | ep007-05 | Pahala Jariyah Sahabat Pengusaha Sukses | HR. Tirmidzi no. 3747 (shahih) | [IG](https://www.instagram.com/reel/DfZi9PigaWu/) · [YouTube](https://youtube.com/shorts/zBcncO_aFOg) |
 | 06 Nov 2026 15.45 | ep007-04 | Mukjizat Sapi Berbicara dan Abu Bakar | HR. Bukhari no. 3663 (shahih) | [IG](https://www.instagram.com/reel/DfZNChLkaCT/) · [YouTube](https://youtube.com/shorts/GmVyYqZrbuI) |
 | 06 Nov 2026 11.57 | ep007-03 | Satu-satunya Sahabat Tanpa Rasa Ragu | HR. Al-Baihaqi dalam Dala'il an-Nubuwwah (2/164) & Ibnu Ishaq dalam As-Sirah (lemah) | [IG](https://www.instagram.com/reel/DfYy7oLDgLP/) · [YouTube](https://youtube.com/shorts/E6xZxbPJA4g) |
 | 06 Nov 2026 05.24 | ep007-02 | Sejak Hari Itu Beliau Tak Beristirahat | QS. Al-Muddassir: 1-2 | [IG](https://www.instagram.com/reel/DfYGM0XDvm3/) · [YouTube](https://youtube.com/shorts/FbjzhlFEyrA) |

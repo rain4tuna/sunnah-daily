@@ -404,11 +404,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "أَبُو بَكْرٍ فِي الْجَنَّةِ وَعُمَرُ فِي الْجَنَّةِ وَعُثْمَانُ فِي الْجَنَّةِ",
-    "terjemah": "Abu Bakar di surga, Umar di surga, dan Utsman di surga.",
+    "arab": "«أَبُو بَكْرٍ فِي الْجَنَّةِ، وَعُمَرُ فِي الْجَنَّةِ، وَعُثْمَانُ فِي الْجَنَّةِ، وَعَلِيٌّ فِي الْجَنَّةِ، وَطَلْحَةُ فِي الْجَنَّةِ، وَالزُّبَيْرُ فِي الْجَنَّةِ، وَعَبْدُ الرَّحْمَنِ بْنُ عَوْفٍ فِي الْجَنَّةِ، وَسَعْدٌ فِي الْجَنَّةِ...»",
+    "terjemah": "Abu Bakar di surga, Umar di surga, Utsman di surga, Ali di surga, Thalhah di surga, Az-Zubair di surga, Abdurrahman bin Auf di surga, Sa'ad di surga...",
     "sumber": "HR. Tirmidzi no. 3747",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:3747"
    },
    "faedah": "Mengajak orang lain kepada kebaikan mendatangkan pahala jariyah yang tidak pernah terputus.",
    "latar_faedah": "masjid",
@@ -418,7 +419,59 @@
     "sahabat nabi"
    ],
    "id": "ep007-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "judul": "Pahala Jariyah Sahabat Pengusaha Sukses",
+     "narasi": "Bayangkan betapa melimpahnya pahala Abu Bakar Ash-Shiddiq di akhirat kelak!"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kafilah",
+     "narasi": "Setelah memeluk Islam, Abu Bakar radhiyallahu 'anhu memanfaatkan kecerdasan dan pengaruhnya sebagai pedagang terpandang untuk berdakwah secara santun."
+    },
+    {
+     "jenis": "angka",
+     "label": "Pemuda Mulia",
+     "angka": 5,
+     "satuan": "sahabat",
+     "narasi": "Lewat tangan beliau, masuklah lima pemuda mulia ke dalam Islam: Utsman bin Affan, Zubair bin Awwam, Abdurrahman bin Auf, Sa'ad bin Abi Waqqas, dan Thalhah bin Ubaidillah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Kelima sahabat hebat ini kelak digelari sepuluh orang yang dijamin masuk surga oleh Rasulullah ﷺ."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Seluruh amal shalat, sedekah, dan jihad mereka mengalirkan pahala tanpa putus bagi Abu Bakar."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Pahala Kebaikan Mengalir",
+     "narasi": "Mengajak orang lain kepada kebaikan mendatangkan pahala jariyah yang tidak pernah terputus."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menyentuh hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfZi9PigaWu/",
+   "yt": "https://youtube.com/shorts/zBcncO_aFOg",
+   "waktu_posting": "2026-11-06T11:57:06"
   },
   {
    "menit": "28:10",
