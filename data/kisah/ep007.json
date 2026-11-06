@@ -310,11 +310,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "فَإِنِّي أُومِنُ بِذَلِكَ وَأَبُو بَكْرٍ وَعُمَرُ",
-    "terjemah": "Sungguh aku beriman kepadanya, demikian pula Abu Bakar dan Umar.",
+    "arab": "...قَالَ النَّبِيُّ ﷺ: «فَإِنِّي أُومِنُ بِذَلِكَ وَأَبُو بَكْرٍ، وَعُمَرُ بْنُ الْخَطَّابِ»",
+    "terjemah": "...Nabi ﷺ bersabda, 'Sungguh aku beriman pada hal itu, begitu pula Abu Bakar dan Umar bin al-Khaththab.'",
     "sumber": "HR. Bukhari no. 3663",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:3663"
    },
    "faedah": "Iman sejati menerima kabar gaib dari Rasulullah ﷺ tanpa menuntut logika semata.",
    "latar_faedah": "kitab",
@@ -324,7 +325,59 @@
     "abu bakar"
    ],
    "id": "ep007-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Mukjizat Sapi Berbicara dan Abu Bakar",
+     "langit": "senja",
+     "narasi": "Mengapa Rasulullah ﷺ begitu percaya penuh pada keimanan Abu Bakar?"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "seorang pria",
+     "latar": "gurun",
+     "dengan": "",
+     "narasi": "Rasulullah ﷺ menceritakan kisah seorang pria yang menunggangi sapi sambil membebaninya dengan muatan yang sangat berat."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kebun",
+     "narasi": "Tiba-tiba sapi itu menoleh dan berkata bahwa ia tidak diciptakan untuk memikul barang, melainkan untuk membajak sawah."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Mendengar itu, sebagian orang pun terheran-heran bertanya apakah seekor sapi benar-benar bisa berbicara."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "masjid",
+     "narasi": "Nabi ﷺ pun bersabda bahwa beliau, Abu Bakar, dan Umar beriman pada peristiwa itu meski kedua sahabat tersebut sedang tidak berada di sana."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Iman Tanpa Ragu",
+     "narasi": "Iman sejati menerima kabar gaib dari Rasulullah ﷺ dengan sepenuh hati tanpa menuntut pembenaran logika semata."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Aamanna di komentar",
+     "narasi": "Tulis Aamanna di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfZNChLkaCT/",
+   "yt": "https://youtube.com/shorts/GmVyYqZrbuI",
+   "waktu_posting": "2026-11-06T08:45:29"
   },
   {
    "menit": "20:00",
