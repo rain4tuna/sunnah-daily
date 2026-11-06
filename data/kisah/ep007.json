@@ -218,11 +218,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا عَرَضْتُ الإِسْلامَ عَلَى أَحَدٍ إِلا كَانَتْ لَهُ كَبْوَةٌ إِلا أَبَا بَكْرٍ",
-    "terjemah": "Tidaklah aku menawarkan Islam kepada seorang pun melainkan ada keraguan padanya, kecuali Abu Bakar.",
-    "sumber": "HR. Ibnu Ishaq / Baihaqi dalam Dala'il an-Nubuwwah",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "مَا دَعَوْتُ أَحَدًا إِلَى الإِسْلَامِ إِلَّا كَانَتْ لَهُ عَنْهُ كَبْوَةٌ وَتَرَدُّدٌ وَنَظَرٌ، إِلَّا أَبَا بَكْرٍ، مَا عَتَمَ عَنْهُ حِينَ ذَكَرْتُهُ لَهُ، وَمَا تَرَدَّدَ فِيهِ",
+    "terjemah": "Tidaklah aku mengajak seorang pun kepada Islam melainkan padanya ada kebimbangan, keraguan, dan pertimbangan, kecuali Abu Bakar; ia tidak menunda sedikit pun ketika aku menyampaikannya dan tidak pula ragu.",
+    "sumber": "HR. Al-Baihaqi dalam Dala'il an-Nubuwwah (2/164) & Ibnu Ishaq dalam As-Sirah",
+    "derajat": "lemah",
+    "penilai": "Al-Hafizh Ibnu Katsir (sanadnya mursal dari tabi'in Muhammad bin 'Abdirrahman)",
+    "rujukan": "https://dorar.net"
    },
    "faedah": "Mengenal keteladanan seseorang melahirkan kepercayaan yang tulus tanpa keraguan.",
    "latar_faedah": "kitab",
@@ -232,7 +233,57 @@
     "sahabat nabi"
    ],
    "id": "ep007-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Redaksi hadits di atas berstatus mursal (lemah) karena perawinya dari kalangan tabi'in tidak menyebutkan sahabat perantaranya. Namun, substansi kisah bahwa Abu Bakar radhiyallahu 'anhu langsung mempercayai Nabi ﷺ tanpa mendustakannya adalah shahih, sebagaimana diriwayatkan dalam Shahih Al-Bukhari no. 3661: Rasulullah ﷺ bersabda, 'Sesungguhnya Allah mengutusku kepada kalian, lalu kalian berkata: Engkau berdusta, sedangkan Abu Bakar berkata: Engkau benar.'",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "judul": "Satu-satunya Sahabat Tanpa Rasa Ragu",
+     "narasi": "Siapakah sosok yang menerima seruan Islam tanpa ragu walau hanya sedetik?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Rasulullah ﷺ menyampaikan bahwa setiap kali beliau mendakwahkan Islam kepada seseorang, orang tersebut pasti memiliki kebimbangan dan pertimbangan terlebih dahulu."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Namun ada satu pengecualian yang sangat agung, yaitu sahabat tercinta, Abu Bakar Ash-Shiddiq radhiyallahu 'anhu."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Abu Bakar langsung membenarkan dan menyatakan keislamannya seketika itu juga, tanpa ada keraguan sedikit pun di dalam hatinya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Hal ini terjadi karena Abu Bakar telah mengenal dekat kejujuran dan akhlak mulia Nabi ﷺ sejak mereka masih belia."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kepercayaan yang Tulus",
+     "narasi": "Sungguh, mengenal keteladanan seseorang akan melahirkan sebuah kepercayaan yang tulus tanpa ada keraguan."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menyentuh hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfYy7oLDgLP/",
+   "yt": "https://youtube.com/shorts/E6xZxbPJA4g",
+   "waktu_posting": "2026-11-06T04:57:39"
   },
   {
    "menit": "17:10",
