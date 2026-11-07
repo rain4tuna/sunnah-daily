@@ -1,0 +1,39 @@
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:108: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+Kisah ep008-03: Peringatan Terbuka di Bukit Shafa
+   Google Search: 20 kueri, 0 sitasi
+   babak: pemandangan, jejak, tokoh, jendela, pemandangan, dalil, renungan, penutup
+   TTS 1/8
+   TTS 2/8
+   TTS 3/8
+   TTS 4/8
+   TTS 5/8
+   TTS 6/8
+   TTS 7/8
+   TTS 8/8
+Video 75.6 detik -> hasil/ep008-03.mp4
+   percobaan 1: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+   percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+   upload langsung gagal, coba lewat URL: upload gagal: percobaan 1: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}' | percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+Diposting ke IG: https://www.instagram.com/reel/DfcYbV2ithi/
+   FB percobaan 1: HTTP 403 1333954906478984/video_reels -> OAuthException 200/: (#200) Subject does not have permission to post videos on this target, due to lack of pages_manage_posts permission.
+   FB percobaan 2: HTTP 403 1333954906478984/video_reels -> OAuthException 200/: (#200) Subject does not have permission to post videos on this target, due to lack of pages_manage_posts permission.
+   FB percobaan 3: HTTP 403 1333954906478984/video_reels -> OAuthException 200/: (#200) Subject does not have permission to post videos on this target, due to lack of pages_manage_posts permission.
+::warning::Facebook gagal: FB gagal: percobaan 1: HTTP 403 1333954906478984/video_reels -> OAuthException 200/: (#200) Subject does not have permission to post videos on this target, due to lack of pages_manage_posts permission. | percobaan 2: HTTP 403 1333954906478984/video_reels -> OAuthException 200/: (#200) Subject does not have permission to post videos on this target, due to lack of pages_manage_posts permission. | percobaan 3: HTTP 403 1333954906478984/video_reels -> OAuthException 200/: (#200) Subject does not have permission to post videos on this target, due to lack of pages_manage_posts permission.
+Diposting ke YouTube: https://youtube.com/shorts/G1ebUfc_Yho
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:272: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
+
+Peringatan Terbuka di Bukit Shafa 🌙
+
+Ketika Allah menurunkan perintah untuk memperingatkan kerabat terdekat, Rasulullah ﷺ segera menaiki Bukit Shafa. Nabi ﷺ menyeru kabilah-kabilah Quraisy, bibi beliau Shafiyyah, hingga putri tercintanya Fatimah radhiyallahu 'anha satu per satu. Nabi ﷺ menegaskan bahwa harta duniawi bisa beliau berikan, namun urusan keselamatan akhirat dari azab Allah sepenuhnya ada pada amal masing-masing.
+
+📖 "...dan wahai Fatimah putri Muhammad, mintalah kepadaku apa yang engkau kehendaki dari hartaku, (karena) aku tidak dapat melindungimu sedikit pun dari (azab) Allah."
+(HR. Bukhari no. 2753 (lihat pula HR. Muslim no. 205 & 206) · Shahih)
+
+🤍 Faedah: Nasab mulia tidak menjamin surga tanpa keimanan dan amal saleh pribadi.
+
+Faedah dari kajian Sirah Nabawiyah #8 - Dakwah Rasulullah Secara Terang-Terangan, Ust. Dr. Firanda Andirja, M.A.
+Kajian lengkap: https://www.youtube.com/watch?v=V2N3y-VDY8w&t=629s
+
+#sunnahdaily #sirahnabawiyah #kisahnabi #kisahislami #hadits #sunnah #dakwah #nasihatislam #rasulullah #belajarislam #dakwahterbuka #tauhid #keluarga

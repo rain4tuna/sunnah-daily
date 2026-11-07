@@ -1,0 +1,87 @@
+{
+ "menit": "10:29",
+ "judul_hook": "Peringatan Terbuka di Bukit Shafa",
+ "narasi_hook": "Bahkan putri Nabi pun tak luput dari peringatan azab.",
+ "latar_hook": "gurun",
+ "adegan": [
+  {
+   "narasi": "Ketika Allah menurunkan perintah untuk memperingatkan kerabat terdekat, Rasulullah ﷺ segera menaiki Bukit Shafa.",
+   "latar": "gurun"
+  },
+  {
+   "narasi": "Nabi ﷺ menyeru kabilah-kabilah Quraisy, bibi beliau Shafiyyah, hingga putri tercintanya Fatimah radhiyallahu 'anha satu per satu.",
+   "latar": "kota"
+  },
+  {
+   "narasi": "Nabi ﷺ menegaskan bahwa harta duniawi bisa beliau berikan, namun urusan keselamatan akhirat dari azab Allah sepenuhnya ada pada amal masing-masing.",
+   "latar": "kabah"
+  }
+ ],
+ "dalil": {
+  "jenis": "hadits",
+  "arab": "«...وَيَا فَاطِمَةُ بِنْتَ مُحَمَّدٍ، سَلِينِي مَا شِئْتِ مِنْ مَالِي، لَا أُغْنِي عَنْكِ مِنَ اللَّهِ شَيْئًا»",
+  "terjemah": "\"...dan wahai Fatimah putri Muhammad, mintalah kepadaku apa yang engkau kehendaki dari hartaku, (karena) aku tidak dapat melindungimu sedikit pun dari (azab) Allah.\"",
+  "sumber": "HR. Bukhari no. 2753 (lihat pula HR. Muslim no. 205 & 206)",
+  "derajat": "shahih",
+  "penilai": "Bukhari dan Muslim",
+  "rujukan": "https://sunnah.com/bukhari:2753"
+ },
+ "faedah": "Nasab mulia tidak menjamin surga tanpa keimanan dan amal saleh pribadi.",
+ "latar_faedah": "kitab",
+ "tema": [
+  "dakwah terbuka",
+  "tauhid",
+  "keluarga"
+ ],
+ "id": "ep008-03",
+ "status": "Belum",
+ "cek": {
+  "kisah_lemah": false,
+  "catatan": "",
+  "sumber_cek": []
+ },
+ "layak": true,
+ "storyboard": [
+  {
+   "jenis": "pemandangan",
+   "judul": "Peringatan Terbuka di Bukit Shafa",
+   "latar": "kota",
+   "narasi": "Bahkan putri Nabi pun tak luput dari peringatan azab."
+  },
+  {
+   "jenis": "jejak",
+   "tujuan": "kosong",
+   "narasi": "Ketika Allah menurunkan perintah untuk memperingatkan kerabat terdekat, Rasulullah ﷺ segera menaiki Bukit Shafa."
+  },
+  {
+   "jenis": "tokoh",
+   "siapa": "penduduk Makkah",
+   "latar": "kota",
+   "dengan": "",
+   "narasi": "Di hadapan orang-orang yang berkumpul, Nabi ﷺ menyeru kabilah-kabilah Quraisy satu per satu."
+  },
+  {
+   "jenis": "jendela",
+   "langit": "senja",
+   "narasi": "Peringatan itu beliau sampaikan pula kepada bibi beliau Shafiyyah, hingga putri tercintanya Fatimah radhiyallahu 'anha."
+  },
+  {
+   "jenis": "pemandangan",
+   "latar": "langit",
+   "narasi": "Nabi ﷺ menegaskan bahwa harta duniawi bisa beliau berikan, namun urusan keselamatan akhirat dari azab Allah sepenuhnya ada pada amal masing-masing."
+  },
+  {
+   "jenis": "dalil"
+  },
+  {
+   "jenis": "renungan",
+   "judul": "Amal Penentu Keselamatan",
+   "narasi": "Kisah ini mengingatkan bahwa nasab mulia tidak menjamin surga tanpa keimanan dan amal saleh pribadi."
+  },
+  {
+   "jenis": "penutup",
+   "ajakan": "Tulis pengingat ini di komentar",
+   "narasi": "Tulis pengingat ini di komentar agar kita saling menasihati. Ikuti Sunnah Daily untuk kisah berikutnya."
+  }
+ ]
+}
