@@ -114,11 +114,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "",
-    "terjemah": "Aku pada masa jahiliyah meyakini manusia berada di atas kesesatan dan tidak berada di atas kebenaran sedikit pun karena mereka menyembah berhala.",
+    "arab": "كُنْتُ وَأَنَا فِي الْجَاهِلِيَّةِ أَظُنُّ أَنَّ النَّاسَ عَلَى ضَلَالَةٍ، وَأَنَّهُمْ لَيْسُوا عَلَى شَيْءٍ، وَهُمْ يَعْبُدُونَ الْأَوْثَانَ...",
+    "terjemah": "Aku pada masa jahiliyah meyakini bahwa manusia berada di atas kesesatan dan mereka tidak berada di atas kebenaran sedikit pun, karena mereka menyembah berhala...",
     "sumber": "HR. Muslim no. 832",
-    "derajat_kata_ustadz": "shahih riwayat Muslim",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:832"
    },
    "faedah": "Terkadang berjuang di tempat asal lebih bijak daripada tergesa-gesa berpindah.",
    "latar_faedah": "kitab",
@@ -128,7 +129,57 @@
     "kesabaran"
    ],
    "id": "ep008-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "judul": "Pertemuan Rahasia Amr bin Abasah",
+     "narasi": "Bagaimana seorang pencari kebenaran menemukan Rasulullah ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Sejak masa jahiliyah, Amr bin Abasah radhiyallahu 'anhu telah menolak menyembah berhala. Beliau meyakini kaumnya berada dalam kesesatan."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Mendengar kabar kemunculan seorang nabi, beliau segera menunggangi untanya menuju Makkah untuk menemui sang nabi."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Rasulullah ﷺ saat itu masih berdakwah secara sembunyi-sembunyi, dengan pengikut yang baru Abu Bakar radhiyallahu 'anhu dan Bilal radhiyallahu 'anhu."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Amr ingin langsung bergabung bersama beliau, namun Nabi ﷺ memintanya pulang ke kaumnya sampai Islam kelak terbuka luas."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Bijak di Tempat Asal",
+     "narasi": "Kisah ini mengajarkan bahwa terkadang berjuang di tempat asal jauh lebih bijak daripada tergesa-gesa berpindah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menyentuh hatimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfcHzOrDbew/",
+   "yt": "https://youtube.com/shorts/ywkspVLpjg8",
+   "waktu_posting": "2026-11-07T11:57:57"
   },
   {
    "menit": "10:29",
