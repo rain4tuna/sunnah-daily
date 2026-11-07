@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 47 video. Waktu dalam WIB, terbaru di atas.
+Total: 48 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 07 Nov 2026 11.56 | ep007-08 | Nikmatnya Ibadah Tanpa Rasa Takut | HR. Tirmidzi no. 2346 (hasan) | [IG](https://www.instagram.com/reel/DfbXoXFjkMU/) · [YouTube](https://youtube.com/shorts/dZaXPVDsB2o) |
 | 07 Nov 2026 05.24 | ep007-07 | Mengapa Pemuda Lebih Cepat Hijrah? | QS. Al-Kahfi: 13 | [IG](https://www.instagram.com/reel/DfaqyP3CsCU/) · [YouTube](https://youtube.com/shorts/WL923ZL8O6s) |
 | 06 Nov 2026 21.22 | ep007-06 | Memilih Jadi Budak Rasulullah ﷺ | QS. Al-Ahzab: 5 | [IG](https://www.instagram.com/reel/DfZzjbXFd7X/) · [YouTube](https://youtube.com/shorts/QdAl0NZtlHU) |
 | 06 Nov 2026 18.57 | ep007-05 | Pahala Jariyah Sahabat Pengusaha Sukses | HR. Tirmidzi no. 3747 (shahih) | [IG](https://www.instagram.com/reel/DfZi9PigaWu/) · [YouTube](https://youtube.com/shorts/zBcncO_aFOg) |

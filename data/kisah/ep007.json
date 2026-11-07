@@ -691,10 +691,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "مَنْ أَصْبَحَ مِنْكُمْ آمِنًا فِي سِرْبِهِ مُعَافًى فِي جَسَدِهِ عِنْدَهُ قُوتُ يَوْمِهِ فَكَأَنَّمَا حِيزَتْ لَهُ الدُّنْيَا",
-    "terjemah": "Barang siapa di antara kalian merasa aman di tempat tinggalnya, sehat badannya, dan memiliki makanan untuk harinya, seolah-olah dunia telah dikumpulkan untuknya.",
+    "terjemah": "Barang siapa di antara kalian berada di pagi hari dalam keadaan aman pada dirinya (atau keluarga dan tempat tinggalnya), sehat badannya, dan memiliki makanan untuk hari itu, maka seolah-olah dunia telah dikumpulkan untuknya.",
     "sumber": "HR. Tirmidzi no. 2346",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:2346"
    },
    "faedah": "Nikmat rasa aman dalam beribadah harus disyukuri dengan giat beramal shalih.",
    "latar_faedah": "masjid",
@@ -704,7 +705,57 @@
     "ibadah"
    ],
    "id": "ep007-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "judul": "Nikmatnya Ibadah Tanpa Rasa Takut",
+     "narasi": "Pernahkah kita mensyukuri betapa ringannya melangkahkan kaki ke masjid hari ini?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Di awal dakwah Makkah, kaum muslimin terpaksa menyembunyikan keimanan dan ibadah mereka karena ancaman siksaan yang teramat nyata."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Bahkan di masa modern, saudara-saudara kita di beberapa negeri ada yang diintai intelijen hanya karena shalat berjamaah di masjid."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Sementara di negeri kita, kumandang azan dan majelis ilmu terdengar bebas tanpa ada yang melarang atau mengejar."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "masjid",
+     "narasi": "Sungguh rasa aman dalam beribadah adalah nikmat sangat mahal yang wajib disyukuri dengan memakmurkan masjid."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Syukuri Rasa Aman",
+     "narasi": "Nikmat rasa aman dalam beribadah harus kita syukuri dengan senantiasa giat beramal shalih."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Alhamdulillah di komentar",
+     "narasi": "Tulis Alhamdulillah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfbXoXFjkMU/",
+   "yt": "https://youtube.com/shorts/dZaXPVDsB2o",
+   "waktu_posting": "2026-11-07T04:56:54"
   }
  ]
 }
