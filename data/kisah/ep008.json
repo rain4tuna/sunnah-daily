@@ -1,0 +1,356 @@
+{
+ "episode": 8,
+ "judul": "Sirah Nabawiyah #8 - Dakwah Rasulullah Secara Terang-Terangan",
+ "url": "https://www.youtube.com/watch?v=V2N3y-VDY8w",
+ "kisah": [
+  {
+   "menit": "05:07",
+   "judul_hook": "Mengapa Nabi Merahasiakan Pengikut Pertamanya?",
+   "narasi_hook": "Mengapa Nabi merahasiakan pengikut pertamanya?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Di akhir masa dakwah sembunyi-sembunyi selama tiga tahun, ada sekitar lima puluh hingga enam puluh sahabat yang masuk Islam dan bermajelis di Darul Arqam.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Rasulullah ﷺ sengaja tidak mengumumkan nama-nama mereka ke hadapan khalayak Quraisy.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Langkah penuh hikmah ini diambil demi melindungi keselamatan kaum muslimin, khususnya budak dan orang miskin yang belum memiliki perlindungan kabilah yang kuat.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ",
+    "terjemah": "Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat.",
+    "sumber": "QS. Asy-Syu'ara': 214",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/26?from=214&to=214"
+   },
+   "faedah": "Lindungi keselamatan saudara yang lemah sebelum mengambil langkah berisiko tinggi.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "strategi dakwah",
+    "perlindungan sahabat",
+    "sirah nabawiyah"
+   ],
+   "id": "ep008-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Mengapa Nabi Merahasiakan Pengikut Pertamanya?",
+     "langit": "malam",
+     "narasi": "Mengapa Nabi merahasiakan pengikut pertamanya?"
+    },
+    {
+     "jenis": "angka",
+     "label": "Dakwah Sembunyi",
+     "angka": 3,
+     "satuan": "tahun",
+     "narasi": "Di akhir masa dakwah sembunyi-sembunyi selama tiga tahun, majelis utama kaum muslimin bertempat di Darul Arqam."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "rumah",
+     "narasi": "Ada sekitar lima puluh hingga enam puluh sahabat yang masuk Islam dan bermajelis di sana secara rahasia."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Namun, Rasulullah ﷺ sengaja memilih untuk tidak mengumumkan nama-nama mereka ke hadapan khalayak Quraisy."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Langkah penuh hikmah ini diambil demi melindungi keselamatan kaum muslimin, khususnya budak dan orang miskin yang belum memiliki perlindungan kabilah yang kuat."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Lindungi Saudara Lemah",
+     "narasi": "Kisah ini mengajarkan kita untuk selalu melindungi keselamatan saudara yang lemah sebelum mengambil langkah berisiko tinggi."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Hikmah Dakwah di komentar",
+     "narasi": "Tulis hikmah dakwah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/Dfbx2BNkY28/",
+   "yt": "https://youtube.com/shorts/kKhKj3E16M8",
+   "waktu_posting": "2026-11-07T08:45:29"
+  },
+  {
+   "menit": "06:06",
+   "judul_hook": "Pertemuan Rahasia Amr bin Abasah",
+   "narasi_hook": "Bagaimana seorang pencari kebenaran menemukan Rasulullah ﷺ?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Amr bin Abasah as-Sulami radhiyallahu 'anhu sejak masa jahiliyah sudah menolak menyembah berhala dan meyakini kaumnya berada dalam kesesatan.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Mendengar kabar kemunculan seorang nabi, beliau menunggangi untanya menuju Makkah dan menemui Rasulullah ﷺ yang saat itu masih berdakwah sembunyi-sembunyi.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Ketika tahu pengikut Nabi ﷺ saat itu baru Abu Bakar radhiyallahu 'anhu dan Bilal radhiyallahu 'anhu, Amr ingin langsung bergabung, namun Nabi ﷺ memintanya pulang ke kaumnya sampai Islam terbuka luas.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "",
+    "terjemah": "Aku pada masa jahiliyah meyakini manusia berada di atas kesesatan dan tidak berada di atas kebenaran sedikit pun karena mereka menyembah berhala.",
+    "sumber": "HR. Muslim no. 832",
+    "derajat_kata_ustadz": "shahih riwayat Muslim",
+    "dari_video": true
+   },
+   "faedah": "Terkadang berjuang di tempat asal lebih bijak daripada tergesa-gesa berpindah.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "kisah sahabat",
+    "tauhid",
+    "kesabaran"
+   ],
+   "id": "ep008-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "10:29",
+   "judul_hook": "Peringatan Terbuka di Bukit Shafa",
+   "narasi_hook": "Bahkan putri Nabi pun tak luput dari peringatan azab.",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Ketika Allah menurunkan perintah untuk memperingatkan kerabat terdekat, Rasulullah ﷺ segera menaiki Bukit Shafa.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Nabi ﷺ menyeru kabilah-kabilah Quraisy, bibi beliau Shafiyyah, hingga putri tercintanya Fatimah radhiyallahu 'anha satu per satu.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Nabi ﷺ menegaskan bahwa harta duniawi bisa beliau berikan, namun urusan keselamatan akhirat dari azab Allah sepenuhnya ada pada amal masing-masing.",
+     "latar": "kabah"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "",
+    "terjemah": "Wahai Fatimah putri Muhammad, mintalah kepadaku dari hartaku apa yang kau kehendaki, aku tidak bisa menolongmu sedikit pun dari Allah.",
+    "sumber": "HR. Muslim no. 205",
+    "derajat_kata_ustadz": "shahih riwayat Muslim",
+    "dari_video": true
+   },
+   "faedah": "Nasab mulia tidak menjamin surga tanpa keimanan dan amal saleh pribadi.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "dakwah terbuka",
+    "tauhid",
+    "keluarga"
+   ],
+   "id": "ep008-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "17:33",
+   "judul_hook": "Ujian Kejujuran Sang Al-Amin",
+   "narasi_hook": "Apakah musuh mengakui kejujuran Nabi Muhammad ﷺ?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Dari atas Bukit Shafa, Rasulullah ﷺ berseru dengan panggilan darurat yang biasa dipakai bangsa Arab untuk mengumpulkan seluruh warga kota.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Nabi ﷺ bertanya, jika beliau mengabarkan ada pasukan berkuda musuh di balik lembah siap menyerang, apakah mereka akan mempercayainya.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Seluruh tokoh Quraisy serentak menjawab bahwa mereka belum pernah sekali pun mendapati Nabi ﷺ berdusta sepanjang hidupnya.",
+     "latar": "kabah"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَا جَرَّبْنَا عَلَيْكَ إِلَّا صِدْقًا",
+    "terjemah": "Kami tidak pernah mendapati dirimu melainkan selalu jujur.",
+    "sumber": "HR. Bukhari no. 4770 & Muslim no. 208",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Integritas masa lalu adalah modal terkuat agar kata-kata kita dipercaya orang.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "akhlak nabi",
+    "kejujuran",
+    "dakwah"
+   ],
+   "id": "ep008-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "19:02",
+   "judul_hook": "Kutukan Celaka untuk Abu Lahab",
+   "narasi_hook": "Siapakah pembantah pertama dakwah terang-terangan Nabi ﷺ?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Setelah Quraisy mengakui kejujuran Rasulullah ﷺ, Nabi ﷺ menyampaikan peringatan keras tentang ancaman azab neraka bagi pelaku syirik.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Bukannya merenung, paman beliau sendiri, Abu Lahab, justru mengamuk dan mengacungkan tangannya sambil mengutuk Nabi ﷺ karena merasa dikumpulkan sia-sia.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Allah langsung membela kekasih-Nya dengan menurunkan surat Al-Lahab, memvonis celaka kedua tangan Abu Lahab dan istrinya kekal di neraka.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "تَبَّتۡ يَدَاۤ أَبِي لَهَبࣲ وَتَبَّ",
+    "terjemah": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!",
+    "sumber": "QS. Al-Lahab: 1",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Orang yang memusuhi dakwah tauhid pasti menemui kehinaan dan kerugian abadi.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "pembelaan allah",
+    "al-lahab",
+    "ancaman syirik"
+   ],
+   "id": "ep008-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "21:04",
+   "judul_hook": "Islam Memfilter Tradisi, Bukan Sebaliknya",
+   "narasi_hook": "Bolehkah seorang muslim mengadopsi tradisi non-muslim?",
+   "latar_hook": "kitab",
+   "adegan": [
+    {
+     "narasi": "Ketika hendak mengirim surat dakwah kepada raja-raja dunia, para sahabat mengingatkan bahwa para raja tidak mau membaca surat tanpa segel cap.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Rasulullah ﷺ tidak menolak aturan diplomasi tersebut, melainkan segera membuat cincin perak berukir Muhammad Rasulullah sebagai stempel resmi.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Islam mengajarkan untuk menyaring budaya, mempertahankan yang bermanfaat dan membuang perkara yang bertentangan dengan syariat.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "",
+    "terjemah": "Sesungguhnya mereka tidak membaca surat kecuali jika diberi cap stempel. Maka Nabi ﷺ membuat cincin dari perak.",
+    "sumber": "HR. Bukhari no. 65 & Muslim no. 2092",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Ambillah manfaat dari kebiasaan duniawi selama tidak melanggar aturan agama Islam.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "adab dan budaya",
+    "hikmah dakwah",
+    "fikih sunnah"
+   ],
+   "id": "ep008-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "25:08",
+   "judul_hook": "Mengapa Mendakwahi Kerabat Itu Utama?",
+   "narasi_hook": "Mengapa dakwah harus bermula dari keluarga terdekat?",
+   "latar_hook": "tenda",
+   "adegan": [
+    {
+     "narasi": "Secara tabiat naluri, manusia tentu memiliki rasa kasih sayang dan kepedulian yang jauh lebih mendalam kepada kerabat dan keluarga sedarah.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Kerabat biasanya lebih mudah mendengar serta berbaik sangka dibandingkan orang asing yang penuh prasangka.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Jika kerabat menerima kebenaran, mereka akan menjadi benteng pelindung terkuat dalam menghadapi rintangan dakwah, sebagaimana pembelaan Abu Thalib kepada Nabi ﷺ.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "قَالَ لَوۡ أَنَّ لِي بِكُمۡ قُوَّةً أَوۡ ءَاوِيٓ إِلَىٰ رُكۡنࣲ شَدِيدࣲ",
+    "terjemah": "Luth berkata: Seandainya aku mempunyai kekuatan atau aku dapat berlindung kepada keluarga yang kuat.",
+    "sumber": "QS. Hud: 80",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Prioritaskan dakwah kepada keluarga terdekat dengan penuh kelembutan dan kesabaran.",
+   "latar_faedah": "tenda",
+   "tema": [
+    "dakwah keluarga",
+    "hikmah",
+    "silaturahmi"
+   ],
+   "id": "ep008-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "39:39",
+   "judul_hook": "Pengakuan Rahasia Abu Jahl",
+   "narasi_hook": "Apa alasan sebenarnya Abu Jahl menolak Islam?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Bani Makhzum kabilah Abu Jahl selalu bersaing ketat dengan Bani Hasyim dalam memperebutkan kemuliaan, sedekah, dan kehormatan di mata bangsa Arab.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Ketika kedudukan kedua kabilah sudah setara, tiba-tiba Bani Hasyim memiliki Nabi yang menerima wahyu langsung dari langit.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Abu Jahl terang-terangan menolak Islam bukan karena ragu akan kebenarannya, melainkan karena dengki dan tak sudi kabilahnya kalah pamor.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "",
+    "terjemah": "Kami dan Bani Abdu Manaf bersaing dalam kemuliaan... Hingga ketika kami setara, mereka berkata: 'Dari kami ada seorang nabi.' Demi Allah, kami tidak akan pernah beriman kepadanya.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Dengki dan gengsi kelompok kerap menjadi penghalang terbesar menerima kebenaran.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "bahaya hasad",
+    "fanatisme suku",
+    "sirah nabawiyah"
+   ],
+   "id": "ep008-08",
+   "status": "Belum"
+  }
+ ]
+}
