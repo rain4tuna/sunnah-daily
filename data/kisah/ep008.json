@@ -292,11 +292,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا جَرَّبْنَا عَلَيْكَ إِلَّا صِدْقًا",
-    "terjemah": "Kami tidak pernah mendapati dirimu melainkan selalu jujur.",
-    "sumber": "HR. Bukhari no. 4770 & Muslim no. 208",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "...أَرَأَيْتَكُمْ لَوْ أَخْبَرْتُكُمْ أَنَّ خَيْلًا بِالْوَادِي تُرِيدُ أَنْ تُغِيرَ عَلَيْكُمْ، أَكُنْتُمْ مُصَدِّقِيَّ؟ قَالُوا: نَعَمْ، مَا جَرَّبْنَا عَلَيْكَ إِلَّا صِدْقًا...",
+    "terjemah": "...(Nabi ﷺ bertanya): 'Bagaimana pendapat kalian jika aku kabarkan bahwa ada pasukan berkuda di lembah hendak menyerang kalian, apakah kalian mempercayaiku?' Mereka menjawab: 'Ya, kami tidak pernah mendapati dirimu melainkan selalu jujur'...",
+    "sumber": "HR. Bukhari no. 4770 (dan Muslim no. 208 dengan lafaz semakna)",
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari & Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:4770"
    },
    "faedah": "Integritas masa lalu adalah modal terkuat agar kata-kata kita dipercaya orang.",
    "latar_faedah": "lentera",
@@ -306,7 +307,54 @@
     "dakwah"
    ],
    "id": "ep008-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "judul": "Ujian Kejujuran Sang Al-Amin",
+     "latar": "kota",
+     "narasi": "Apakah musuh mengakui kejujuran Nabi Muhammad ﷺ?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "fajar",
+     "narasi": "Dari atas Bukit Shafa, Rasulullah ﷺ berseru lantang menggunakan panggilan darurat, seruan yang biasa dipakai bangsa Arab untuk mengumpulkan seluruh warga kota."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "narasi": "Nabi ﷺ kemudian bertanya, jika beliau mengabarkan ada pasukan berkuda musuh di balik lembah yang siap menyerang, apakah mereka akan mempercayainya?"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "tokoh Quraisy",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Mendengar hal itu, seluruh tokoh Quraisy serentak menjawab bahwa mereka belum pernah sekali pun mendapati Nabi ﷺ berdusta sepanjang hidupnya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Integritas Modal Terkuat",
+     "narasi": "Kisah ini mengajarkan bahwa integritas di masa lalu adalah modal terkuat agar setiap kata-kata kita senantiasa dipercaya oleh orang lain."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Al-Amin di komentar",
+     "narasi": "Tulis Al-Amin di komentar jika kamu ingin meneladani kejujuran beliau. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfdQEKtnN-K/",
+   "yt": "https://youtube.com/shorts/3xyD3QGkzRc",
+   "waktu_posting": "2026-11-07T22:29:06"
   },
   {
    "menit": "19:02",
