@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 50 video. Waktu dalam WIB, terbaru di atas.
+Total: 51 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 07 Nov 2026 21.22 | ep008-03 | Peringatan Terbuka di Bukit Shafa | HR. Bukhari no. 2753 (lihat pula HR. Muslim no. 205 & 206) (shahih) | [IG](https://www.instagram.com/reel/DfcYbV2ithi/) · [YouTube](https://youtube.com/shorts/G1ebUfc_Yho) |
 | 07 Nov 2026 18.57 | ep008-02 | Pertemuan Rahasia Amr bin Abasah | HR. Muslim no. 832 (shahih) | [IG](https://www.instagram.com/reel/DfcHzOrDbew/) · [YouTube](https://youtube.com/shorts/ywkspVLpjg8) |
 | 07 Nov 2026 15.45 | ep008-01 | Mengapa Nabi Merahasiakan Pengikut Pertamanya? | QS. Asy-Syu'ara': 214 | [IG](https://www.instagram.com/reel/Dfbx2BNkY28/) · [YouTube](https://youtube.com/shorts/kKhKj3E16M8) |
 | 07 Nov 2026 11.56 | ep007-08 | Nikmatnya Ibadah Tanpa Rasa Takut | HR. Tirmidzi no. 2346 (hasan) | [IG](https://www.instagram.com/reel/DfbXoXFjkMU/) · [YouTube](https://youtube.com/shorts/dZaXPVDsB2o) |
