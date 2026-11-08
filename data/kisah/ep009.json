@@ -114,8 +114,9 @@
     "arab": "بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ لَا يُشْرِكُ بِهِ شَيْئًا",
     "terjemah": "Bahkan aku berharap Allah mengeluarkan dari sulbi mereka keturunan yang menyembah Allah semata dan tidak menyekutukan-Nya dengan sesuatu pun.",
     "sumber": "HR. Bukhari no. 3231 dan Muslim no. 1795",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3231"
    },
    "faedah": "Doakan kebaikan dan hidayah bagi orang yang menolak kebenaran dengan zalim.",
    "latar_faedah": "gurun",
@@ -125,7 +126,77 @@
     "kesabaran"
    ],
    "id": "ep009-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "judul": "Ujian terberat melebihi Perang Uhud?",
+     "narasi": "Tahukah kamu peristiwa apa yang paling berat dirasakan oleh Rasulullah ﷺ sepanjang hidupnya?"
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Aisyah radhiyallahu 'anha pernah bertanya apakah ada hari yang lebih berat bagi beliau dibanding luka-luka di Perang Uhud."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Rasulullah ﷺ menjawab bahwa penolakan dan penghinaan dari para pembesar kota Thaif adalah saat yang paling menyedihkan dalam hidup beliau."
+    },
+    {
+     "jenis": "peta",
+     "judul": "Thaif",
+     "sub": "Menuju Qarnus Tsa'alib",
+     "tempat": [
+      {
+       "nama": "Thaif",
+       "x": 0.45,
+       "y": 0.65
+      },
+      {
+       "nama": "Qarnus Tsa'alib",
+       "x": 0.55,
+       "y": 0.35
+      }
+     ],
+     "narasi": "Saat beliau berjalan dalam duka hingga tiba di Qarnus Tsa'alib, Malaikat Jibril dan malaikat penjaga gunung datang menyapa."
+    },
+    {
+     "jenis": "angka",
+     "label": "Tawaran malaikat",
+     "angka": 2,
+     "satuan": "gunung besar",
+     "narasi": "Malaikat menawarkan untuk menimpakan dua gunung besar ke penduduk Thaif, namun Nabi ﷺ menolaknya."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Beliau justru berdoa agar kelak dari keturunan mereka lahir orang-orang yang mentauhidkan Allah semata."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Doakan Kebaikan dan Hidayah",
+     "narasi": "Ketika kezaliman dan penolakan terasa amat menyakitkan, balaslah dengan doa kebaikan dan harapan hidayah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis doa di komentar",
+     "narasi": "Tulis doa di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/Dff0WV1j0Uo/",
+   "yt": "https://youtube.com/shorts/lU66L509ik0",
+   "waktu_posting": "2026-11-08T22:24:35"
   },
   {
    "menit": "18:15",
