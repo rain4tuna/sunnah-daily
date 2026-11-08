@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 52 video. Waktu dalam WIB, terbaru di atas.
+Total: 53 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 08 Nov 2026 11.57 | ep008-05 | Kutukan Celaka untuk Abu Lahab | QS. Al-Lahab: 1 | [IG](https://www.instagram.com/reel/Dfd8imclcpG/) · [YouTube](https://youtube.com/shorts/PAFmTxj2mIQ) |
 | 08 Nov 2026 05.29 | ep008-04 | Ujian Kejujuran Sang Al-Amin | HR. Bukhari no. 4770 (dan Muslim no. 208 dengan lafaz semakna) (shahih) | [IG](https://www.instagram.com/reel/DfdQEKtnN-K/) · [YouTube](https://youtube.com/shorts/3xyD3QGkzRc) |
 | 07 Nov 2026 21.22 | ep008-03 | Peringatan Terbuka di Bukit Shafa | HR. Bukhari no. 2753 (lihat pula HR. Muslim no. 205 & 206) (shahih) | [IG](https://www.instagram.com/reel/DfcYbV2ithi/) · [YouTube](https://youtube.com/shorts/G1ebUfc_Yho) |
 | 07 Nov 2026 18.57 | ep008-02 | Pertemuan Rahasia Amr bin Abasah | HR. Muslim no. 832 (shahih) | [IG](https://www.instagram.com/reel/DfcHzOrDbew/) · [YouTube](https://youtube.com/shorts/ywkspVLpjg8) |

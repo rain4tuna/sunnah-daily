@@ -377,11 +377,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "تَبَّتۡ يَدَاۤ أَبِي لَهَبࣲ وَتَبَّ",
+    "arab": "تَبَّتْ يَدَا أَبِي لَهَبٍ وَتَبَّ",
     "terjemah": "Binasalah kedua tangan Abu Lahab dan benar-benar binasa dia!",
     "sumber": "QS. Al-Lahab: 1",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/111?from=1&to=1"
    },
    "faedah": "Orang yang memusuhi dakwah tauhid pasti menemui kehinaan dan kerugian abadi.",
    "latar_faedah": "kitab",
@@ -391,7 +392,64 @@
     "ancaman syirik"
    ],
    "id": "ep008-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Kutukan Celaka untuk Abu Lahab",
+     "langit": "senja",
+     "narasi": "Siapakah pembantah pertama dakwah terang-terangan Nabi ﷺ?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Setelah kaum Quraisy mengakui kejujuran Rasulullah ﷺ, beliau mulai menyampaikan seruan dakwah secara terbuka."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Nabi ﷺ menyampaikan peringatan yang sangat keras tentang ancaman azab neraka bagi para pelaku syirik."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Abu Lahab",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Bukannya merenung, paman beliau sendiri, Abu Lahab, justru mengamuk di hadapan orang banyak."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Abu Lahab mengacungkan tangannya sambil mengutuk Nabi ﷺ karena merasa telah dikumpulkan secara sia-sia."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Allah langsung membela kekasih-Nya dengan menurunkan surat Al-Lahab, memvonis celaka kedua tangan Abu Lahab dan istrinya kekal di neraka."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kerugian Abadi Penentang Tauhid",
+     "narasi": "Sungguh, orang yang memusuhi dakwah tauhid pasti menemui kehinaan dan kerugian abadi."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/Dfd8imclcpG/",
+   "yt": "https://youtube.com/shorts/PAFmTxj2mIQ",
+   "waktu_posting": "2026-11-08T04:57:38"
   },
   {
    "menit": "21:04",
