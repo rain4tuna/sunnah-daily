@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 55 video. Waktu dalam WIB, terbaru di atas.
+Total: 56 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 08 Nov 2026 21.25 | ep009-01 | Hati sesak karena hinaan orang? | QS. Al-Hijr: 97-98 | [IG](https://www.instagram.com/reel/Dfe9izFFIY0/) · [YouTube](https://youtube.com/shorts/boM-RNbzyJA) |
 | 08 Nov 2026 18.55 | ep008-07 | Mengapa Mendakwahi Kerabat Itu Utama? | QS. Hud: 80 | [IG](https://www.instagram.com/reel/DfesU-ogbt5/) · [YouTube](https://youtube.com/shorts/quiSWYhkB4k) |
 | 08 Nov 2026 15.47 | ep008-06 | Islam Memfilter Tradisi, Bukan Sebaliknya | HR. Bukhari no. 65 & Muslim no. 2092 (shahih) | [IG](https://www.instagram.com/reel/DfeWzZ9gJjr/) · [YouTube](https://youtube.com/shorts/_xrkvmCCaTA) |
 | 08 Nov 2026 11.57 | ep008-05 | Kutukan Celaka untuk Abu Lahab | QS. Al-Lahab: 1 | [IG](https://www.instagram.com/reel/Dfd8imclcpG/) · [YouTube](https://youtube.com/shorts/PAFmTxj2mIQ) |

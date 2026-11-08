@@ -658,11 +658,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Kami dan Bani Abdu Manaf bersaing dalam kemuliaan... Hingga ketika kami setara, mereka berkata: 'Dari kami ada seorang nabi.' Demi Allah, kami tidak akan pernah beriman kepadanya.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "تَنَازَعْنَا نَحْنُ وَبَنُو عَبْدِ مَنَافٍ الشَّرَفَ: أَطْعَمُوا فَأَطْعَمْنَا، وَحَمَلُوا فَحَمَلْنَا... حَتَّى إِذَا تَجَاثَيْنَا عَلَى الرُّكَبِ، وَكُنَّا كَفَرَسَيْ رِهَانٍ، قَالُوا: مِنَّا نَبِيٌّ... وَاللَّهِ لَا نُؤْمِنُ بِهِ أَبَدًا وَلَا نُصَدِّقُهُ",
+    "terjemah": "Kami dan Bani Abdu Manaf saling bersaing dalam kemuliaan: mereka memberi makan, kami pun memberi makan; mereka memikul beban, kami pun memikul beban... Hingga ketika kami setara dan seimbang bagai dua kuda pacuan, mereka berkata: 'Dari kabilah kami ada seorang nabi.'... Demi Allah, kami tidak akan pernah beriman kepadanya dan tidak akan membenarkannya.",
+    "sumber": "Sirah Ibnu Hisyam (1/315-316)",
+    "derajat": "lemah",
+    "penilai": "Sanadnya mursal/munqathi' (Ibnu Ishaq dari Az-Zuhri dengan sighah 'annahu hudditsa' tanpa menyebutkan sanad yang bersambung)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/150"
    },
    "faedah": "Dengki dan gengsi kelompok kerap menjadi penghalang terbesar menerima kebenaran.",
    "latar_faedah": "lentera",
@@ -672,7 +673,13 @@
     "sirah nabawiyah"
    ],
    "id": "ep008-08",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "1. Terdapat kekeliruan penyebutan kabilah dalam narasi video: teks riwayat menyebutkan persaingan Bani Makhzum adalah dengan 'Bani Abdu Manaf' (kabilah besar induk dari Bani Hasyim, Bani Muthalib, Bani Abdu Syams, dan Bani Naufal), bukan semata-mata 'Bani Hasyim'. 2. Riwayat dialog antara Abu Jahl dan Al-Akhnas bin Syariq ini sanadnya terputus (mursal/munqathi') menurut kaidah ilmu hadits. Namun, riwayat ini sangat populer dalam kitab-kitab tarikh/sirah, dan substansinya (bahwa pembesar musyrikin menolak Islam bukan karena meragukan kejujuran Nabi, melainkan karena kesombongan dan gengsi kesukuan) dikuatkan oleh Al-Qur'an surah Al-An'am ayat 33.",
+    "sumber_cek": []
+   },
+   "layak": false
   }
  ]
 }
