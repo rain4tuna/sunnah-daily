@@ -565,11 +565,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "قَالَ لَوۡ أَنَّ لِي بِكُمۡ قُوَّةً أَوۡ ءَاوِيٓ إِلَىٰ رُكۡنࣲ شَدِيدࣲ",
-    "terjemah": "Luth berkata: Seandainya aku mempunyai kekuatan atau aku dapat berlindung kepada keluarga yang kuat.",
+    "arab": "قَالَ لَوْ أَنَّ لِي بِكُمْ قُوَّةً أَوْ آوِي إِلَىٰ رُكْنٍ شَدِيدٍ",
+    "terjemah": "Dia (Lut) berkata, \"Sekiranya aku mempunyai kekuatan (untuk menolakmu) atau aku dapat berlindung kepada keluarga yang kuat (tentu aku cegah kamu).\"",
     "sumber": "QS. Hud: 80",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/11?from=80&to=80"
    },
    "faedah": "Prioritaskan dakwah kepada keluarga terdekat dengan penuh kelembutan dan kesabaran.",
    "latar_faedah": "tenda",
@@ -579,7 +580,62 @@
     "silaturahmi"
    ],
    "id": "ep008-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Terdapat kekeliruan narasi pada kalimat: \"Jika kerabat menerima kebenaran, mereka akan menjadi benteng pelindung terkuat... sebagaimana pembelaan Abu Thalib kepada Nabi ﷺ\". Secara historis dan akidah, Abu Thalib membela Nabi ﷺ atas dasar ikatan kekerabatan dan fanatisme kabilah, bukan karena menerima kebenaran (beliau wafat dalam kekafiran). Konteks QS. Hud: 80 sendiri mengisahkan keluh-kesah Nabi Luth yang tidak memiliki kabilah/kerabat ('ruknin syadid') di Sodom untuk membelanya dari kezaliman kaumnya.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "judul": "Mengapa Mendakwahi Kerabat Itu Utama?",
+     "langit": "senja",
+     "narasi": "Mengapa dakwah harus bermula dari keluarga terdekat?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "tenda",
+     "narasi": "Secara naluri, manusia memiliki rasa kasih sayang dan kepedulian yang jauh lebih mendalam kepada kerabat serta keluarga sedarah."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "tenda",
+     "narasi": "Kerabat biasanya jauh lebih mudah mendengar setiap nasihat yang kita sampaikan."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "narasi": "Mereka juga lebih mudah berbaik sangka dibandingkan orang asing yang kerap dipenuhi rasa prasangka."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Jika kerabat menerima kebenaran, mereka akan menjadi benteng pelindung terkuat dalam menghadapi rintangan dakwah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Hal ini tercermin nyata sebagaimana keteguhan pembelaan Abu Thalib kepada Nabi ﷺ."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Dakwahi Kerabat Terdekat",
+     "narasi": "Prioritaskan dakwah kepada keluarga terdekat dengan penuh kelembutan dan kesabaran."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis 'Bismillah' di komentar",
+     "narasi": "Tulis 'Bismillah' di komentar untuk mulai merangkul keluarga. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfesU-ogbt5/",
+   "yt": "https://youtube.com/shorts/quiSWYhkB4k",
+   "waktu_posting": "2026-11-08T11:55:12"
   },
   {
    "menit": "39:39",
