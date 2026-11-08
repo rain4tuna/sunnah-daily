@@ -472,11 +472,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "",
-    "terjemah": "Sesungguhnya mereka tidak membaca surat kecuali jika diberi cap stempel. Maka Nabi ﷺ membuat cincin dari perak.",
+    "arab": "كَتَبَ النَّبِيُّ ﷺ كِتَابًا - أَوْ أَرَادَ أَنْ يَكْتُبَ - فَقِيلَ لَهُ: إِنَّهُمْ لَا يَقْرَءُونَ كِتَابًا إِلَّا مَخْتُومًا، فَاتَّخَذَ خَاتَمًا مِنْ فِضَّةٍ نَقْشُهُ مُحَمَّدٌ رَسُولُ اللَّهِ",
+    "terjemah": "Nabi ﷺ pernah menulis surat—atau hendak menulis surat—lalu dikatakan kepada beliau, 'Sesungguhnya mereka tidak membaca surat kecuali jika diberi cap stempel.' Maka beliau membuat cincin dari perak yang berukirkan: Muhammad Rasulullah.",
     "sumber": "HR. Bukhari no. 65 & Muslim no. 2092",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari & Muslim",
+    "rujukan": "https://sunnah.com/bukhari:65"
    },
    "faedah": "Ambillah manfaat dari kebiasaan duniawi selama tidak melanggar aturan agama Islam.",
    "latar_faedah": "lentera",
@@ -486,7 +487,62 @@
     "fikih sunnah"
    ],
    "id": "ep008-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "lentera",
+     "judul": "Islam Memfilter Tradisi, Bukan Sebaliknya",
+     "narasi": "Bolehkah seorang muslim mengadopsi tradisi non-muslim?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Ketika hendak mengirim surat dakwah kepada para raja dunia, para sahabat mengingatkan sebuah kebiasaan diplomasi."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Para raja tidak berkenan membaca surat penting apa pun tanpa adanya cap stempel resmi."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kota",
+     "narasi": "Rasulullah ﷺ tidak menolak aturan diplomasi tersebut demi kebaikan tersampaikannya dakwah."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "tenda",
+     "narasi": "Beliau segera membuat sebuah cincin perak berukir Muhammad Rasulullah sebagai stempel resmi suratnya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Islam mengajarkan kita untuk menyaring budaya, mempertahankan hal yang bermanfaat dan membuang perkara yang bertentangan dengan syariat."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Ambil Manfaat Duniawi",
+     "narasi": "Ambillah manfaat dari kebiasaan duniawi selama hal tersebut tidak melanggar aturan agama Islam."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini bermanfaat. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfeWzZ9gJjr/",
+   "yt": "https://youtube.com/shorts/_xrkvmCCaTA",
+   "waktu_posting": "2026-11-08T08:47:19"
   },
   {
    "menit": "25:08",
