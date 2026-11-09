@@ -308,11 +308,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "",
-    "terjemah": "Ali bin Abi Thalib radhiyallahu 'anhu menceritakan: Tatkala kami duduk bersama Rasulullah ﷺ di masjid, muncullah Mus'ab bin Umair yang hanya mengenakan sehelai kain bertambal kulit. Melihatnya, Rasulullah ﷺ pun menangis mengenang kemewahan hidupnya dahulu dibandingkan keadaannya sekarang.",
+    "arab": "«إِنَّا لَجُلُوسٌ مَعَ رَسُولِ اللَّهِ ﷺ فِي الْمَسْجِدِ إِذْ طَلَعَ مُصْعَبُ بْنُ عُمَيْرٍ مَا عَلَيْهِ إِلَّا بُرْدَةٌ لَهُ مَرْقُوعَةٌ بِفَرْوٍ، فَلَمَّا رَآهُ رَسُولُ اللَّهِ ﷺ بَكَى لِلَّذِي كَانَ فِيهِ مِنَ النِّعْمَةِ، وَالَّذِي هُوَ الْيَوْمَ فِيهِ...»",
+    "terjemah": "Ali bin Abi Thalib radhiyallahu 'anhu menceritakan: 'Ketika kami sedang duduk bersama Rasulullah ﷺ di masjid, muncullah Mus'ab bin Umair yang hanya mengenakan sehelai burdah bertambal kulit bulu. Tatkala melihatnya, Rasulullah ﷺ menangis mengenang kenikmatan hidupnya dahulu dibandingkan keadaannya sekarang...'",
     "sumber": "HR. Tirmidzi no. 2476",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "lemah",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:2476"
    },
    "faedah": "Kelezatan iman jauh lebih berharga daripada segala kemewahan dan fasilitas dunia.",
    "latar_faedah": "kitab",
@@ -322,7 +323,13 @@
     "Mus'ab bin Umair"
    ],
    "id": "ep009-04",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Adegan Rasulullah ﷺ menangis di masjid melihat Mus'ab mengenakan pakaian bertambal berasal dari HR. Tirmidzi no. 2476 yang sanadnya lemah (terdapat rawi mubham yang tidak disebutkan namanya antara Muhammad bin Ka'ab dan Ali bin Abi Thalib; didha'ifkan oleh Syaikh Al-Albani dalam Dha'if At-Tirmidzi no. 2476 dan Dha'if At-Targhib no. 1921). Namun, riwayat kemewahan Mus'ab di masa jahiliyah dan perubahan fisiknya yang drastis hingga kulitnya bersisik adalah atsar yang tsabit dari Sa'ad bin Abi Waqqas radhiyallahu 'anhu (riwayat Ibnu Sa'ad dan al-Hakim), serta bukti kemiskinannya ditegaskan dalam hadits sahih kafan Uhud (HR. Bukhari no. 1276 dan Muslim no. 940).",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "30:50",
@@ -341,11 +348,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "اللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ",
+    "arab": "اللَّهُمَّ عَلَيْكَ بِقُرَيْشٍ (ثَلَاثَ مَرَّاتٍ)",
     "terjemah": "Ya Allah, binasakanlah orang-orang Quraisy! (Beliau mengucapkannya tiga kali).",
     "sumber": "HR. Bukhari no. 240 dan Muslim no. 1794",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:240"
    },
    "faedah": "Pertolongan Allah selalu menyertai hamba-Nya yang bersabar dalam memperjuangkan tauhid.",
    "latar_faedah": "langit",
@@ -355,7 +363,61 @@
     "doa orang terzalimi"
    ],
    "id": "ep009-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "judul": "Kotoran unta di punggung Nabi?",
+     "narasi": "Pernahkah kamu membayangkan manusia termulia dihinakan sedemikian rupa saat sedang shalat?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Saat Rasulullah ﷺ sedang sujud di dekat Ka'bah, Abu Jahal dan kawan-kawannya menantang siapa yang berani menaruh kotoran isi perut unta ke punggung beliau."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Uqbah bin Abi Mu'ith",
+     "latar": "kabah",
+     "dengan": "",
+     "narasi": "Uqbah bin Abi Mu'ith bangkit memenuhi tantangan itu, lalu menumpahkan kotoran menjijikkan tersebut tepat di pundak Nabi ﷺ."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Kaum musyrikin tertawa terbahak-bahak melihat beliau tetap sujud. Datanglah putri kecil beliau, Fatimah, yang dengan berani membersihkan kotoran dari punggung ayahnya."
+    },
+    {
+     "jenis": "angka",
+     "label": "Gembong Quraisy",
+     "angka": 7,
+     "satuan": "orang",
+     "narasi": "Usai shalat, Nabi ﷺ mendoakan kehancuran tujuh gembong Quraisy yang kelak semuanya tewas di Badar."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Pertolongan Bagi yang Bersabar",
+     "narasi": "Pertolongan Allah selalu menyertai hamba-Nya yang bersabar dalam memperjuangkan tauhid."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Laa ilaha illallah di komentar",
+     "narasi": "Tulis Laa ilaha illallah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/Dfg7kXeDJRW/",
+   "yt": "https://youtube.com/shorts/i5TaOHq41f4",
+   "waktu_posting": "2026-11-09T08:46:50"
   },
   {
    "menit": "35:25",
