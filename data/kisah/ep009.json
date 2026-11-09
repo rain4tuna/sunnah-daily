@@ -215,11 +215,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَإِن جَاهَدَاكَ عَلَىٰ أَن تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا",
-    "terjemah": "Dan jika keduanya memaksamu untuk mempersekutukan dengan Aku sesuatu yang tidak ada pengetahuanmu tentang itu, maka janganlah kamu mengikuti keduanya, dan pergaulilah keduanya di dunia dengan baik.",
+    "arab": "وَإِنْ جَاهَدَاكَ عَلَىٰ أَنْ تُشْرِكَ بِي مَا لَيْسَ لَكَ بِهِ عِلْمٌ فَلَا تُطِعْهُمَا ۖ وَصَاحِبْهُمَا فِي الدُّنْيَا مَعْرُوفًا...",
+    "terjemah": "Dan jika keduanya memaksamu untuk mempersekutukan dengan Aku sesuatu yang tidak ada pengetahuanmu tentang itu, maka janganlah kamu mengikuti keduanya, dan pergaulilah keduanya di dunia dengan baik...",
     "sumber": "QS. Luqman: 15",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/31?from=15&to=15"
    },
    "faedah": "Tetaplah berbakti kepada orang tua tanpa mengorbankan akidah dan ketakwaan kepada Allah.",
    "latar_faedah": "lentera",
@@ -229,7 +230,66 @@
     "sahabat Nabi"
    ],
    "id": "ep009-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "judul": "Ibu mogok makan demi memurtadkannya?",
+     "narasi": "Apa yang akan kamu lakukan jika ibumu mengancam mati kelaparan agar kamu meninggalkan Islam?"
+    },
+    {
+     "jenis": "angka",
+     "label": "Usia Masuk Islam",
+     "angka": 20,
+     "satuan": "tahun",
+     "narasi": "Sa'ad bin Abi Waqqash radhiyallahu 'anhu memeluk Islam di usia belia, sekitar dua puluh tahun."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "tenda",
+     "narasi": "Sang ibu yang amat dicintainya bersumpah tidak akan makan dan minum hingga mati jika Sa'ad tidak mau murtad."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "malam",
+     "narasi": "Melihat ibunya berhari-hari sekarat menahan lapar, keteguhan hati Sa'ad sama sekali tidak goyah."
+    },
+    {
+     "jenis": "angka",
+     "label": "Keteguhan Iman",
+     "angka": 100,
+     "satuan": "nyawa",
+     "narasi": "Ia berkata lembut, seandainya sang ibu memiliki seratus nyawa yang keluar satu per satu, ia tetap tidak akan meninggalkan agamanya."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kitab",
+     "narasi": "Allah pun menurunkan ayat Al-Qur'an yang membenarkan keteguhan dan sikap Sa'ad tersebut."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Bakti Tanpa Korbankan Akidah",
+     "narasi": "Tetaplah berbakti dan bersikap santun kepada orang tua, tanpa mengorbankan akidah dan ketakwaan kepada Allah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar jika kisah ini menginspirasimu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/Dfgg9iGCSQ1/",
+   "yt": "https://youtube.com/shorts/M8I4z2dfApg",
+   "waktu_posting": "2026-11-09T04:54:34"
   },
   {
    "menit": "20:30",
