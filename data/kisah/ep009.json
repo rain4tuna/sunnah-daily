@@ -525,11 +525,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "أَتَقْتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُم بِالْبَيِّنَاتِ مِن رَّبِّكُمْ",
-    "terjemah": "Apakah kamu akan membunuh seorang laki-laki karena dia menyatakan, 'Tuhanku ialah Allah', padahal sungguh dia telah datang kepadamu membawa bukti-bukti yang nyata dari Tuhanmu?",
-    "sumber": "QS. Ghafir: 28 / HR. Bukhari no. 3856",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "أَتَقْتُلُونَ رَجُلًا أَنْ يَقُولَ رَبِّيَ اللَّهُ وَقَدْ جَاءَكُمْ بِالْبَيِّنَاتِ مِنْ رَبِّكُمْ",
+    "terjemah": "Apakah kamu akan membunuh seorang laki-laki karena dia berkata, 'Tuhanku adalah Allah', padahal sungguh dia telah datang kepadamu membawa bukti-bukti yang nyata dari Tuhanmu?",
+    "sumber": "QS. Ghafir: 28",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/40?from=28&to=28"
    },
    "faedah": "Belalah kebenaran dan para pembawanya dari kezaliman dengan segenap kemampuan kita.",
    "latar_faedah": "kitab",
@@ -539,7 +540,64 @@
     "sahabat setia"
    ],
    "id": "ep009-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah pembelaan Abu Bakar Ash-Shiddiq radhiyallahu 'anhu terhadap Rasulullah ﷺ dari cekikan Uqbah bin Abi Mu'ith berstatus shahih (HR. Bukhari no. 3856 dan no. 3678). Kalimat yang diucapkan Abu Bakar adalah kutipan (iqtibas) dari QS. Ghafir: 28. Terdapat catatan redaksional narasi: (1) Frasa 'hingga beliau tersedak' tidak ada dalam matan hadits; teks aslinya menyatakan Uqbah mencekik beliau dengan sangat kuat (فَخَنَقَهُ خَنْقًا شَدِيدًا). (2) Detail Abu Bakar berbicara 'sambil menangis' (وَهُوَ يَبْكِي) berasal dari riwayat lain dalam Musnad Ahmad (no. 7036, dinilai hasan oleh Syaikh Al-Albani) pada peristiwa intimidasi Quraisy yang mirip. (3) Detail 'menerobos kerumunan' adalah dramatisasi tambahan; teks Bukhari menyebutkan Abu Bakar langsung memegang pundak Uqbah dan mendorongnya.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "judul": "Nabi dicekik saat sedang shalat?",
+     "narasi": "Bagaimana seorang sahabat sejati bertaruh nyawa demi menyelamatkan kekasih Allah?"
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "narasi": "Suatu hari di Masjidil Haram, Rasulullah ﷺ sedang berdiri menunaikan shalat dengan tenang."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Langkah keji mendekat ketika Uqbah bin Abi Mu'ith mendatangi Rasulullah ﷺ yang sedang shalat."
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Uqbah bin Abi Mu'ith",
+     "latar": "kabah",
+     "dengan": "",
+     "narasi": "Ia melilitkan pakaiannya ke leher Nabi ﷺ lalu mencekik beliau dengan sangat kuat hingga tersedak."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "masjid",
+     "narasi": "Melihat itu, Abu Bakar Ash-Shiddiq radhiyallahu 'anhu berlari menerobos kerumunan lalu mendorong Uqbah sekuat tenaga."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Abu Bakar membela sambil menangis, apakah kalian hendak membunuh seseorang hanya karena ia berkata Tuhanku adalah Allah, padahal bukti nyata telah datang?"
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Bela Kebenaran",
+     "narasi": "Belalah kebenaran dan para pembawanya dari kezaliman dengan segenap kemampuan kita."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfhiTpdAqRr/",
+   "yt": "https://youtube.com/shorts/K-yFTO-qY4Q",
+   "waktu_posting": "2026-11-09T14:25:26"
   },
   {
    "menit": "41:50",
