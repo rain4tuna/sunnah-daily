@@ -616,11 +616,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Bilal diserahkan kepada anak-anak kecil untuk diarak di lorong-lorong Makkah, sementara ia terus mengulang ucapan: 'Ahad, Ahad (Allah Maha Esa, Allah Maha Esa).'",
-    "sumber": "HR. Ahmad no. 3832 dan Ibnu Majah no. 150",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "«...إِلَّا بِلَالًا، فَإِنَّهُ هَانَتْ عَلَيْهِ نَفْسُهُ فِي اللَّهِ، وَهَانَ عَلَى قَوْمِهِ، فَأَخَذُوهُ فَأَعْطَوْهُ الْوِلْدَانَ، فَجَعَلُوا يَطُوفُونَ بِهِ فِي شِعَابِ مَكَّةَ، وَهُوَ يَقُولُ: أَحَدٌ أَحَدٌ»",
+    "terjemah": "...Kecuali Bilal, dirinya memandang remeh jiwanya di jalan Allah, dan kaumnya pun memandangnya hina. Mereka membawanya dan menyerahkannya kepada anak-anak kecil, lalu mereka mengaraknya berkeliling di lorong-lorong Makkah, sementara ia terus mengulang: 'Ahad, Ahad' (Allah Maha Esa, Allah Maha Esa).",
+    "sumber": "HR. Ibnu Majah no. 150 dan HR. Ahmad no. 3832",
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/ibnmajah:150"
    },
    "faedah": "Keteguhan tauhid sanggup mengalahkan rasa sakit fisik seberat apa pun di dunia.",
    "latar_faedah": "lentera",
@@ -630,7 +631,59 @@
     "pembebasan budak"
    ],
    "id": "ep009-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "gurun",
+     "judul": "Disiksa terik berkata Ahad-Ahad?",
+     "narasi": "Di atas kerikil membara dan ditindih batu cadas, lisannya hanya menyebut satu nama!"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Umayyah bin Khalaf",
+     "latar": "gurun",
+     "dengan": "",
+     "narasi": "Bilal bin Rabah radhiyallahu 'anhu disiksa di padang pasir Makkah oleh majikannya, Umayyah bin Khalaf."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Tubuhnya ditelentangkan di bawah sengatan terik matahari, lalu sebuah batu hitam raksasa ditindihkan di atas dadanya agar ia murtad menyembah berhala."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Dalam penderitaan yang luar biasa, Bilal sengaja memilih kalimat yang paling dibenci majikannya: Ahad! Ahad! Allah Maha Esa!"
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Keteguhan jiwa Bilal tak pernah patah hingga Abu Bakar radhiyallahu 'anhu datang membelinya lalu memerdekakannya."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Keteguhan Tauhid",
+     "narasi": "Keteguhan tauhid sanggup mengalahkan rasa sakit fisik seberat apa pun di dunia."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Ahad di komentar",
+     "narasi": "Tulis Ahad di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfiZjxCgJLv/",
+   "yt": "https://youtube.com/shorts/-t5KhxmPtww",
+   "waktu_posting": "2026-11-09T22:28:18"
   }
  ]
 }

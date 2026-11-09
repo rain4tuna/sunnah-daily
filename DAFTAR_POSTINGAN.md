@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 61 video. Waktu dalam WIB, terbaru di atas.
+Total: 62 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 10 Nov 2026 05.28 | ep009-08 | Disiksa terik berkata Ahad-Ahad? | HR. Ibnu Majah no. 150 dan HR. Ahmad no. 3832 (hasan) | [IG](https://www.instagram.com/reel/DfiZjxCgJLv/) · [YouTube](https://youtube.com/shorts/-t5KhxmPtww) |
 | 09 Nov 2026 21.25 | ep009-07 | Nabi dicekik saat sedang shalat? | QS. Ghafir: 28 | [IG](https://www.instagram.com/reel/DfhiTpdAqRr/) · [YouTube](https://youtube.com/shorts/K-yFTO-qY4Q) |
 | 09 Nov 2026 18.58 | ep009-06 | Abu Jahal hendak menginjak Nabi? | HR. Muslim no. 2797 (shahih) | [IG](https://www.instagram.com/reel/DfhRcD2Dfn-/) · [YouTube](https://youtube.com/shorts/pi5NdOeUmu8) |
 | 09 Nov 2026 15.46 | ep009-05 | Kotoran unta di punggung Nabi? | HR. Bukhari no. 240 dan Muslim no. 1794 (shahih) | [IG](https://www.instagram.com/reel/Dfg7kXeDJRW/) · [YouTube](https://youtube.com/shorts/i5TaOHq41f4) |
