@@ -436,11 +436,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "لَوْ دَنَا مِنِّي لَاخْتَطَفَتْهُ الْمَلَائِكَةُ عُضْوًا عُضْوًا",
+    "arab": "لَوْ دَنَا مِنِّي لَاخْتَطَفَتْهُ الْمَلَائِكَةُ عُضْوًا عُضْوًا",
     "terjemah": "Seandainya dia mendekat kepadaku, niscaya para malaikat akan menyambarnya anggota tubuh demi anggota tubuh.",
     "sumber": "HR. Muslim no. 2797",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2797"
    },
    "faedah": "Kesombongan musuh Islam pasti runtuh di hadapan perlindungan dan kekuasaan Allah.",
    "latar_faedah": "lentera",
@@ -450,7 +451,62 @@
     "kehinaan Abu Jahal"
    ],
    "id": "ep009-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9TmUY1lTIrVfjs4pHaP7Cgl29eFNluf2U4ASXX8-XZTQSBx6cmN-3p1VT8q3bSlhJU6zq2UwsHsDOuHOhRW-iuclch5E7uTpnmEG0KnrM6I0PnuY=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQVPC9k9_2secluvWDCGLtPk8e5DE5BZWilgFfwtBTpWPU-99vr6y_Bp50YPHE954KHLEYxm02hLut7CwJdzj1BN9M-4Mt27S6sO2FWYJBFzYZP3yr1EcUKkSBD6EnLfDawnM="
+    ]
+   },
+   "layak": true,
+   "storyboard": [
+    {
+     "jenis": "pemandangan",
+     "latar": "kabah",
+     "judul": "Abu Jahal hendak menginjak Nabi?",
+     "narasi": "Berniat menginjak leher manusia termulia, Abu Jahal justru gemetar lari ketakutan!"
+    },
+    {
+     "jenis": "tokoh",
+     "siapa": "Abu Jahal",
+     "latar": "kota",
+     "dengan": "",
+     "narasi": "Abu Jahal bersumpah demi berhala Lata dan Uzza akan menginjak leher Rasulullah ﷺ atau membenamkan wajah beliau ke tanah saat sedang sujud."
+    },
+    {
+     "jenis": "jejak",
+     "tujuan": "kosong",
+     "narasi": "Ketika melihat Nabi ﷺ sedang shalat di Ka'bah, Abu Jahal melangkah maju dengan penuh keangkuhan."
+    },
+    {
+     "jenis": "pemandangan",
+     "latar": "langit",
+     "narasi": "Namun tiba-tiba ia mundur ketakutan sambil menepiskan tangannya ke udara, mengaku melihat parit api berkobar dan sayap-sayap malaikat."
+    },
+    {
+     "jenis": "jendela",
+     "langit": "senja",
+     "narasi": "Nabi ﷺ bersabda, seandainya Abu Jahal mendekat selangkah lagi, niscaya malaikat akan menyambarnya sepotong demi sepotong."
+    },
+    {
+     "jenis": "dalil"
+    },
+    {
+     "jenis": "renungan",
+     "judul": "Kekuasaan Allah Meruntuhkan Kesombongan",
+     "narasi": "Ingatlah bahwa kesombongan musuh Islam pasti akan runtuh di hadapan perlindungan dan kekuasaan Allah."
+    },
+    {
+     "jenis": "penutup",
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   ],
+   "ig": "https://www.instagram.com/reel/DfhRcD2Dfn-/",
+   "yt": "https://youtube.com/shorts/pi5NdOeUmu8",
+   "waktu_posting": "2026-11-09T11:58:08"
   },
   {
    "menit": "37:40",
