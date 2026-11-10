@@ -1,0 +1,90 @@
+{
+ "seri": "harian",
+ "judul": "Sunnah Harian",
+ "url": "",
+ "kisah": [
+  {
+   "judul_hook": "Jangan Biarkan Setan Ikut Makan!",
+   "narasi_hook": "Pernahkah kamu menyadari kalau sepiring makanan lezatmu bisa saja ikut disantap oleh setan tanpa kamu tahu?",
+   "adegan": [
+    {
+     "narasi": "Amalan mulia yang diajarkan Rasulullah ﷺ adalah selalu membaca basmalah setiap kali hendak makan atau minum."
+    },
+    {
+     "narasi": "Caranya sangat mudah, cukup ucapkan bismillah tepat sebelum suapan pertama masuk ke dalam mulutmu."
+    },
+    {
+     "narasi": "Nabi ﷺ mengingatkan bahwa setan menganggap halal makanan yang tidak disebutkan nama Allah padanya. Karena itu, ucapan basmalah akan membentengi hidangan kita sehingga setan terhalang ikut memakannya."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنَّ الشَّيْطَانَ يَسْتَحِلُّ الطَّعَامَ أَنْ لَا يُذْكَرَ اسْمُ اللَّهِ عَلَيْهِ",
+    "terjemah": "Sesungguhnya setan menganggap halal (bisa turut menyantap) makanan yang tidak disebutkan nama Allah padanya.",
+    "sumber": "HR. Muslim no. 2017",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2017a"
+   },
+   "faedah": "Yuk, biasakan mengucap bismillah di setiap suapan agar hidangan kita berkah dan terjaga.",
+   "tema": [
+    "adab makan",
+    "bismillah",
+    "keberkahan makanan"
+   ],
+   "alasan": "Hadits shahih riwayat Imam Muslim menegaskan keutamaan menyebut nama Allah sebelum makan agar setan terhalang ikut menyantapnya.",
+   "sumber_riset": [],
+   "id": "h001",
+   "topik": "Membaca bismillah sebelum makan",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu menyadari kalau sepiring makanan lezatmu bisa saja ikut disantap oleh setan?",
+     "ikon": [
+      "piring"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ mengajarkan kita amalan mulia, yaitu selalu membaca basmalah setiap kali hendak makan atau minum.",
+      "label": "Baca Basmalah Sebelum Makan",
+      "ikon": [
+       "gelas",
+       "piring"
+      ]
+     },
+     {
+      "narasi": "Caranya sangat mudah, cukup ucapkan bismillah tepat sebelum suapan pertama masuk ke dalam mulutmu.",
+      "label": "Ucapkan Sebelum Suapan Pertama",
+      "ikon": [
+       "roti"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ mengingatkan bahwa setan menganggap halal makanan tanpa nama Allah, sehingga basmalah akan membentengi hidangan kita agar setan terhalang memakannya.",
+      "label": "Bentengi Makanan dari Setan",
+      "ikon": [
+       "kunci"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, biasakan mengucap bismillah di setiap suapan agar hidangan kita senantiasa berkah dan terjaga.",
+     "ikon": [
+      "hati"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Sudahkah baca bismillah hari ini?",
+     "narasi": "Sudahkah baca bismillah hari ini? Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   }
+  }
+ ]
+}
