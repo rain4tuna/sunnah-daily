@@ -36,7 +36,7 @@
    "sumber_riset": [],
    "id": "h001",
    "topik": "Membaca bismillah sebelum makan",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -84,7 +84,10 @@
      "ajakan": "Sudahkah baca bismillah hari ini?",
      "narasi": "Sudahkah baca bismillah hari ini? Ikuti Sunnah Daily untuk sunnah berikutnya."
     }
-   }
+   },
+   "ig": "https://www.instagram.com/reel/DfjGAp0mqkF/",
+   "yt": "https://youtube.com/shorts/DVBkB7r5ZJw",
+   "waktu_posting": "2026-11-10T04:56:51"
   }
  ]
 }
