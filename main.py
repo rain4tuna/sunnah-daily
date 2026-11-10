@@ -2,8 +2,11 @@
 
 Env:
   GEMINI_API_KEY   wajib
+  SERI             sirah | harian (kosong: slot 11.47 & 18.47 WIB = harian, slot lain = sirah)
+  GAYA             ikon (default, Animasi Ikon papan/flat/kertas) | sirah (gaya Gua Tsur) | lama
+  GAYA_IKON        papan | flat | kertas (kosong = bergiliran per video)
   EPISODE          nomor episode (kosong = episode pertama yang masih punya kisah berstatus Belum)
-  KISAH            nomor urut kisah di episode (kosong = kisah Belum pertama)
+  KISAH            nomor urut kisah di episode / nomor topik Sunnah Harian (kosong = berikutnya)
   TEMA             siang | malam | auto (auto: malam untuk jam 18.00-04.59 WIB)
   UJI              true = hanya buat video (status kisah tidak diubah)
   OUT_DIR          folder hasil (default hasil)
@@ -16,12 +19,15 @@ import re
 import sys
 import tempfile
 
+import animasi_ikon
 import ekstrak
 import fb
+import harian
 import gemini
 import ig
 import motion
 import storyboard
+import storyboard_ikon
 import video
 import yt
 
@@ -113,7 +119,7 @@ def baru_saja_posting(menit=75):
     """True kalau ada postingan dalam `menit` terakhir (cegah dobel saat jadwal GitHub telat)."""
     import glob
     batas = dt.datetime.utcnow() - dt.timedelta(minutes=menit)
-    for p in glob.glob(os.path.join(ekstrak.DIR, 'ep*.json')):
+    for p in glob.glob(os.path.join(ekstrak.DIR, '*.json')):
         with open(p) as f:
             for k in json.load(f).get('kisah', []):
                 w = k.get('waktu_posting')
@@ -126,7 +132,7 @@ def tulis_daftar():
     """DAFTAR_POSTINGAN.md: semua kisah yang sudah tayang, terbaru di atas."""
     import glob
     baris = []
-    for p in glob.glob(os.path.join(ekstrak.DIR, 'ep*.json')):
+    for p in glob.glob(os.path.join(ekstrak.DIR, '*.json')):
         with open(p) as f:
             for k in json.load(f).get('kisah', []):
                 if k.get('status') == 'Diposting':
@@ -181,6 +187,20 @@ def segmen_lama(k, data):
     return segmen
 
 
+def pilih_seri():
+    s = (os.environ.get('SERI') or '').lower()
+    if s in ('sirah', 'harian'):
+        return s
+    # slot 11.47 & 18.47 WIB = Sunnah Harian (berlaku untuk jadwal GitHub maupun pemicu Apps Script)
+    jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+    return 'harian' if jam in (11, 12, 18, 19) else 'sirah'
+
+
+def gaya_ikon(k):
+    g = (os.environ.get('GAYA_IKON') or '').lower()
+    return g if g in animasi_ikon.URUTAN_GAYA else animasi_ikon.URUTAN_GAYA[sum(map(ord, k['id'])) % 3]
+
+
 def main():
     out = os.environ.get('OUT_DIR', 'hasil')
     if os.environ.get('JADWAL') == 'schedule' and baru_saja_posting():
@@ -191,9 +211,15 @@ def main():
     tema = os.environ.get('TEMA', 'auto') or 'auto'
     tema = tema_otomatis() if tema == 'auto' else tema
     eps = episode_list()
+    seri_v = pilih_seri()
+    simpan = harian.simpan if seri_v == 'harian' else ekstrak.simpan
+    log(f'Seri: {seri_v}')
 
     for percobaan in range(5):
-        data, k = pilih(eps, os.environ.get('EPISODE') or None, os.environ.get('KISAH') or None)
+        if seri_v == 'harian':
+            data, k = harian.pilih(os.environ.get('KISAH') or None)
+        else:
+            data, k = pilih(eps, os.environ.get('EPISODE') or None, os.environ.get('KISAH') or None)
         log(f"Kisah {k['id']}: {k['judul_hook']}")
         if 'layak' not in k:
             try:
@@ -203,24 +229,41 @@ def main():
                 k['layak'] = False
             if (k.get('cek') or {}).get('kisah_lemah'):
                 k['layak'] = False
-            ekstrak.simpan(data)
+            if seri_v == 'harian' and (k.get('dalil') or {}).get('derajat') in ('lemah', 'palsu'):
+                k['layak'] = False          # amalan harian hanya dari dalil shahih/hasan
+            simpan(data)
         if k.get('layak'):
             break
         log(f"   dilewati: {(k.get('cek') or {}).get('catatan', '')}")
         k['status'] = 'Dilewati'
-        ekstrak.simpan(data)
+        simpan(data)
         if os.environ.get('KISAH'):
             raise SystemExit('Kisah yang dipilih tidak lolos verifikasi.')
     else:
         raise SystemExit('Tidak menemukan kisah yang lolos verifikasi.')
 
     ep = {'judul': data['judul'], 'url': data['url']}
-    if os.environ.get('GAYA', 'sirah') == 'lama':
+    gaya_v = os.environ.get('GAYA', 'ikon') or 'ikon'
+    if gaya_v == 'ikon':
+        gv = gaya_ikon(k)
+        if seri_v == 'harian':
+            segmen = storyboard_ikon.segmen(k, 'SUNNAH HARIAN', narasi_dalil, seri='Sunnah Harian', lanjut='sunnah')
+        else:
+            m = re.match(r'.*?#\s*(\d+)', data['judul'] or '')
+            kicker = f'SIRAH #{int(m.group(1)):02d}' if m else 'SIRAH NABAWIYAH'
+            segmen = storyboard_ikon.segmen(k, kicker, narasi_dalil, seri=seri(data['judul']),
+                                            kredit=f"Faedah dari kajian {data['judul']}\nUst. Dr. Firanda Andirja, M.A.")
+        simpan(data)
+        log(f'   template: animasi ikon ({gv})')
+
+        def pembuat(sg, tm, mp4, jpg):
+            return animasi_ikon.buat_video(sg, tm, mp4, jpg, gaya_v=gv)
+    elif gaya_v == 'lama':
         segmen = segmen_lama(k, data)
         pembuat = video.buat_video
     else:
         segmen = segmen_storyboard(k, data)
-        ekstrak.simpan(data)                 # storyboard tersimpan: render ulang/posting memakai yang sama
+        simpan(data)                 # storyboard tersimpan: render ulang/posting memakai yang sama
         pembuat = motion.buat_video
     log('   babak: ' + ', '.join(s['jenis'] for s in segmen))
 
@@ -233,7 +276,7 @@ def main():
         durasi = pembuat(segmen, tema, mp4, os.path.join(out, f"{k['id']}_cuplikan.jpg"))
     log(f'Video {durasi:.1f} detik -> {mp4}')
 
-    cap = caption(k, ep)
+    cap = harian.caption(k) if seri_v == 'harian' else caption(k, ep)
     with open(os.path.join(out, f"{k['id']}_caption.txt"), 'w') as f:
         f.write(cap)
     with open(os.path.join(out, f"{k['id']}.json"), 'w') as f:
@@ -261,8 +304,8 @@ def main():
                 log(f'::warning::Facebook gagal: {e}'[:900])
         if os.environ.get('POSTING_YT', 'false').lower() == 'true':
             try:
-                k['yt'] = yt.upload(mp4, k['judul_hook'], cap, ['sunnah', 'sirah nabawiyah', 'kisah nabi', 'hadits']
-                                    + k.get('tema', []))
+                k['yt'] = yt.upload(mp4, k['judul_hook'], cap, (['sunnah', 'amalan sunnah', 'hadits'] if seri_v == 'harian'
+                                    else ['sunnah', 'sirah nabawiyah', 'kisah nabi', 'hadits']) + k.get('tema', []))
                 k['status'] = 'Diposting'
                 log(f"Diposting ke YouTube: {k['yt']}")
             except Exception as e:
@@ -270,7 +313,7 @@ def main():
                 log(f'::warning::YouTube gagal: {e}'[:900])
         if k['status'] == 'Diposting':
             k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
-        ekstrak.simpan(data)
+        simpan(data)
         tulis_daftar()
         if gagal and k['status'] != 'Diposting':
             raise RuntimeError('Semua posting gagal: ' + ' | '.join(gagal))

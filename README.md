@@ -17,3 +17,16 @@ Alur satu video (`main.py`):
 Menjalankan: tab Actions → "Buat Video Sunnah Daily" → Run workflow (uji = true hanya membuat video).
 
 Secrets: `GEMINI_API_KEY`.
+
+## Template Animasi Ikon (default sejak 10/11/2026)
+
+Semua video memakai `animasi_ikon.py`: ikon benda & tempat digambar kode (tanpa makhluk bernyawa), gaya bergiliran
+**papan** / **flat** / **kertas**, palet Pastel Minimalis (`gaya.py`), caption karaoke, kartu dalil + label derajat.
+Babak disusun `storyboard_ikon.py` (1 panggilan Gemini, disimpan di `storyboard_ikon`). Gaya lama tetap ada:
+input `GAYA=sirah` (Gua Tsur) atau `lama`.
+
+## Seri tambahan: Sunnah Harian
+
+`harian.py` + `data/harian_topik.csv` (40 topik amalan & adab). Materi ditulis Gemini + Google Search dari dalil
+shahih/hasan, dicek ulang pemeriksa dalil; riwayat lemah tidak diangkat. Data di `data/kisah/harian.json`.
+Jadwal: slot **11.47** dan **18.47 WIB** = Sunnah Harian, slot lain = Sirah (input `seri` untuk memaksa).

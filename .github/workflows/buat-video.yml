@@ -21,6 +21,14 @@ on:
         description: 'Nomor urut kisah di episode (kosong = otomatis)'
         required: false
         default: ''
+      seri:
+        description: 'sirah | harian (kosong = otomatis: 11.47 & 18.47 harian, lainnya sirah)'
+        required: false
+        default: ''
+      gaya_ikon:
+        description: 'papan | flat | kertas (kosong = bergiliran)'
+        required: false
+        default: ''
       tema:
         description: 'siang | malam | auto'
         required: false
@@ -73,6 +81,8 @@ jobs:
           EPISODE: ${{ github.event.inputs.episode }}
           KISAH: ${{ github.event.inputs.kisah }}
           TEMA: ${{ github.event.inputs.tema || 'auto' }}
+          SERI: ${{ github.event.inputs.seri }}
+          GAYA_IKON: ${{ github.event.inputs.gaya_ikon }}
           POSTING_IG: ${{ github.event.inputs.posting_ig || 'true' }}
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: '17841438717756877'
