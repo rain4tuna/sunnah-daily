@@ -25,9 +25,9 @@ Susun:
 - "poin": 3-5 babak berurutan, tiap babak {{"narasi": "1-2 kalimat lisan", "label": "inti di layar maks 5 kata",
   "ikon": ["1-2 ikon"]}}. Narasi menceritakan ulang materi dengan setia, urutan sama.
 - "faedah": {{"narasi": "1 kalimat menyampaikan faedah", "ikon": ["1 ikon"]}}
-- "penutup": {{"ajakan": "ajakan komentar singkat terkait materi, mis. Tulis Aamiin di komentar",
+- "penutup": {{"ajakan": "ajakan komentar MAKS 5 KATA, mis. Tulis Aamiin di komentar",
   "narasi": "ajakan itu + 'Ikuti Sunnah Daily untuk {lanjut} berikutnya.'"}}
-Total narasi (tanpa dalil) 90-130 kata. Bahasa Indonesia lisan yang tenang, hangat, sederhana.
+Total narasi (tanpa dalil) 75-105 kata, supaya video 45-65 detik. Bahasa Indonesia lisan yang tenang, hangat, sederhana.
 Tulis "Rasulullah ﷺ"/"Nabi ﷺ" dengan simbol ﷺ. Jangan menyebut warna, ikon, atau visual di narasi.
 
 IKON (pilih HANYA dari daftar; hanya benda & tempat, TIDAK ADA makhluk bernyawa): {ikon}

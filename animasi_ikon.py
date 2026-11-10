@@ -620,10 +620,16 @@ def lapisan_penutup(seg, p, tema):
         fs = gaya.font('isi-sedang', 36)
         y = tengah(d, y, seg['seri'], fs, p['sub'], spasi=1.3) + 10
     ajak = seg.get('ajakan') or 'Ikuti untuk sunnah berikutnya'
-    fa = judul_pas(ajak, 'isi-tebal', 42, 30, 1, maks=W - 220)
-    lw = lebar(ajak, fa) + 90
-    d.rounded_rectangle([(W - lw) / 2, y + 20, (W + lw) / 2, y + 112], 46, fill=p['sorot'])
-    tulis(d, (W - lebar(ajak, fa)) / 2, y + 44, ajak, fa, p['di_sorot'])
+    fa = judul_pas(ajak, 'isi-tebal', 42, 32, 2, maks=W - 260)
+    baris = bungkus(ajak, fa, W - 260)[:2]
+    lw = max(lebar(b, fa) for b in baris) + 90
+    tinggi = 44 + len(baris) * fa.size * 1.25
+    d.rounded_rectangle([(W - lw) / 2, y + 20, (W + lw) / 2, y + 20 + tinggi], 46, fill=p['sorot'])
+    yy = y + 42
+    for b in baris:
+        tulis(d, (W - lebar(b, fa)) / 2, yy, b, fa, p['di_sorot'])
+        yy += fa.size * 1.25
+    y += tinggi - 92
     y += 170
     fk = gaya.font('isi-sedang', 30)
     for b in (seg.get('kredit') or '').split('\n'):
