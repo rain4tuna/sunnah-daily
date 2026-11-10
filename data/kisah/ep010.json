@@ -114,11 +114,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ اللَّهِ وَاسِعَةٌ",
-    "terjemah": "Bagi orang-orang yang berbuat baik di dunia ini ada kebaikan. Dan bumi Allah itu luas.",
+    "arab": "قُلْ يَا عِبَادِ الَّذِينَ آمَنُوا اتَّقُوا رَبَّكُمْ ۚ لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ اللَّهِ وَاسِعَةٌ ۗ إِنَّمَا يُوَفَّى الصَّابِرُونَ أَجْرَهُم بِغَيْرِ حِسَابٍ",
+    "terjemah": "Katakanlah (Nabi Muhammad), 'Wahai hamba-hamba-Ku yang beriman, bertakwalah kepada Tuhanmu.' Bagi orang-orang yang berbuat baik di dunia ini ada kebaikan. Dan bumi Allah itu luas. Sesungguhnya hanya orang-orang yang bersabarlah yang disempurnakan pahalanya tanpa batas.",
     "sumber": "QS. Az-Zumar: 10",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/39?from=10&to=10"
    },
    "faedah": "Bila lingkungan menghalangi ibadah, carilah tempat dan komunitas baru yang menjaga ketakwaan.",
    "latar_faedah": "gurun",
@@ -128,7 +129,60 @@
     "menjaga iman"
    ],
    "id": "ep010-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah Anda merasa begitu terhimpit saat mempertahankan ketaatan kepada Allah?",
+     "ikon": [
+      "hati"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat para sahabat di Makkah terus disiksa dan ditindas, turunlah ayat Al-Qur'an yang memberi petunjuk jalan keluar.",
+      "label": "Petunjuk di Tengah Penindasan",
+      "ikon": [
+       "kabah",
+       "quran"
+      ]
+     },
+     {
+      "narasi": "Allah menurunkan Surat Az-Zumar yang mengingatkan bahwa bumi Allah itu sangat luas bagi orang-orang yang berbuat kebaikan.",
+      "label": "Bumi Allah Begitu Luas",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ]
+     },
+     {
+      "narasi": "Ayat ini menjadi isyarat kuat bagi kaum muslimin untuk berhijrah mencari negeri yang aman demi menjaga keimanan dan ibadah mereka.",
+      "label": "Hijrah Menjaga Keimanan",
+      "ikon": [
+       "jejak",
+       "masjid"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Bila lingkungan menghalangi ibadah, carilah tempat dan komunitas baru yang menjaga ketakwaan.",
+     "ikon": [
+      "sajadah"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfkIS8pDyP_/",
+   "yt": "https://youtube.com/shorts/ciOn6GFlhzY",
+   "waktu_posting": "2026-11-10T14:35:59"
   },
   {
    "menit": "05:27",
