@@ -545,9 +545,9 @@ def lapisan_dalil(dl, p, tema):
     derajat = (dl.get('derajat') or '').lower()
     label = None
     if dl.get('jenis') in ('hadits', 'atsar') and derajat:
-        label = {'shahih': ('✓  SHAHIH', c['sage-muda'], c['tinta']), 'hasan': ('✓  HASAN', c['gading-2'], c['tinta']),
-                 'lemah': ('!  HADITS LEMAH' if dl.get('jenis') == 'hadits' else '!  LEMAH', c['terakota-tua'], c['di-terakota']),
-                 'palsu': ('×  PALSU', c['palsu'], c['gading'])}.get(derajat, ('✓  SHAHIH', c['sage-muda'], c['tinta']))
+        label = {'shahih': ('SHAHIH', c['sage-muda'], c['tinta']), 'hasan': ('HASAN', c['gading-2'], c['tinta']),
+                 'lemah': ('HADITS LEMAH' if dl.get('jenis') == 'hadits' else 'LEMAH', c['terakota-tua'], c['di-terakota']),
+                 'palsu': ('PALSU', c['palsu'], c['gading'])}.get(derajat, ('SHAHIH', c['sage-muda'], c['tinta']))
     arab = (dl.get('arab') or '').strip().replace(',', '،').replace(';', '؛').replace('?', '؟').rstrip('.').replace('.', '')
     terj, sumber = (dl.get('terjemah') or '').strip(), (dl.get('sumber') or '').strip()
     bagian = []
