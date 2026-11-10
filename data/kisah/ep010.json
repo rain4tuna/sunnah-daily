@@ -1,0 +1,353 @@
+{
+ "episode": 10,
+ "judul": "Sirah Nabawiyah #10 - Dakwah Rasulullah Di Darul Arqom",
+ "url": "https://www.youtube.com/watch?v=WOm8PHmv4TM",
+ "kisah": [
+  {
+   "menit": "00:54",
+   "judul_hook": "Mengapa Memilih Rumah Darul Arqam?",
+   "narasi_hook": "Tahukah Anda mengapa Rasulullah ﷺ memilih rumah seorang pemuda belia sebagai markas dakwah?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Ketika intimidasi dan siksaan kaum Quraisy makin keras, Rasulullah ﷺ mengumpulkan para sahabat di rumah Al-Arqam bin Abi Al-Arqam radhiyallahu 'anhu di dekat Bukit Shafa.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Al-Arqam saat itu baru berusia sekitar enam belas tahun dan keislamannya dirahasiakan, sehingga kaum musyrikin sama sekali tidak menaruh curiga pada rumahnya.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Pintu masuk rumah yang berada di belakang membuat sekitar enam puluh sahabat bisa berkumpul dan belajar Islam dengan aman tanpa terpantau musuh.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "ulama",
+    "arab": "وَكَانَتْ دَارُ الْأَرْقَمِ بْنِ أَبِي الْأَرْقَمِ الْمَخْزُومِيِّ عَلَى الصَّفَا، وَكَانَتْ بِمَعْزِلٍ عَنْ أَعْيُنِ الطُّغَاةِ وَمَجَالِسِهِمْ، فَكَانَ أَنِ اتَّخَذَهَا مَرْكَزًا لِدَعْوَتِهِ، وَلِاجْتِمَاعِهِ بِالْمُسْلِمِينَ",
+    "terjemah": "Dan rumah Al-Arqam bin Abi Al-Arqam Al-Makhzumi berada di Bukit Shafa, terpencil dari pandangan kaum musyrikin yang zalim dan tempat perkumpulan mereka, maka beliau ﷺ menjadikannya sebagai markas dakwahnya dan tempat berkumpul bersama kaum muslimin.",
+    "sumber": "Shafiyyurrahman Al-Mubarakfuri, Ar-Rahiq Al-Makhtum, hlm. 80",
+    "derajat": "",
+    "penilai": "",
+    "rujukan": "https://islamqa.info/ar/answers/220815"
+   },
+   "faedah": "Menyusun strategi dakwah yang matang dan cermat sangat penting demi menjaga keselamatan umat.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Darul Arqam",
+    "strategi dakwah",
+    "sirah nabawiyah"
+   ],
+   "id": "ep010-01",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti kisah pemilihan Darul Arqam sebagai pusat dakwah rahasia adalah fakta sirah nabawiyah yang disepakati ulama. Namun, terdapat kekeliruan pada penyebutan angka: riwayat-riwayat sejarah (seperti riwayat Ibnu Sa'd dan Ibnu Mandah) menyebutkan jumlah sahabat yang berkumpul dan bersembunyi di sana hingga masuk Islamnya Umar bin Al-Khattab radhiyallahu 'anhu adalah sekitar empat puluh (40) orang, bukan enam puluh (60) orang.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah Anda mengapa Rasulullah ﷺ memilih rumah seorang pemuda belia sebagai markas dakwah?",
+     "ikon": [
+      "rumah"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat intimidasi kaum Quraisy semakin keras, Rasulullah ﷺ mengumpulkan para sahabat di rumah Al-Arqam bin Abi Al-Arqam di dekat Bukit Shafa.",
+      "label": "Markas Dakwah di Shafa",
+      "ikon": [
+       "rumah",
+       "gunung"
+      ]
+     },
+     {
+      "narasi": "Saat itu, Al-Arqam baru berusia sekitar enam belas tahun dan keislamannya dirahasiakan, sehingga kaum musyrikin sama sekali tidak menaruh curiga.",
+      "label": "Bebas dari Curiga Musuh",
+      "ikon": [
+       "kunci"
+      ]
+     },
+     {
+      "narasi": "Letak pintu masuk yang berada di belakang memungkinkan sekitar enam puluh sahabat berkumpul serta belajar Islam dengan aman tanpa terpantau musuh.",
+      "label": "Aman Berkumpul dan Belajar",
+      "ikon": [
+       "pintu",
+       "kitab"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Kisah ini mengajarkan bahwa menyusun strategi dakwah yang matang dan cermat sangat penting demi menjaga keselamatan umat.",
+     "ikon": [
+      "lentera"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Ketik Masya Allah di komentar jika kisah ini menginspirasi A",
+     "narasi": "Ketik Masya Allah di komentar jika kisah ini menginspirasi Anda. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   }
+  },
+  {
+   "menit": "04:57",
+   "judul_hook": "Bumi Allah Begitu Sangat Luas",
+   "narasi_hook": "Pernahkah Anda merasa begitu terhimpit saat mempertahankan ketaatan kepada Allah?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Saat para sahabat di Makkah terus-menerus disiksa dan ditindas, turunlah ayat-ayat Al-Qur'an yang memberi petunjuk jalan keluar.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Allah menurunkan Surat Az-Zumar yang mengingatkan bahwa bumi Allah itu sangat luas bagi orang-orang yang berbuat kebaikan.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Ayat ini menjadi isyarat kuat bagi kaum muslimin untuk berhijrah mencari negeri yang aman demi menjaga keimanan dan ibadah mereka.",
+     "latar": "kafilah"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "لِلَّذِينَ أَحْسَنُوا فِي هَٰذِهِ الدُّنْيَا حَسَنَةٌ ۗ وَأَرْضُ اللَّهِ وَاسِعَةٌ",
+    "terjemah": "Bagi orang-orang yang berbuat baik di dunia ini ada kebaikan. Dan bumi Allah itu luas.",
+    "sumber": "QS. Az-Zumar: 10",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Bila lingkungan menghalangi ibadah, carilah tempat dan komunitas baru yang menjaga ketakwaan.",
+   "latar_faedah": "gurun",
+   "tema": [
+    "hijrah",
+    "bumi Allah luas",
+    "menjaga iman"
+   ],
+   "id": "ep010-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "05:27",
+   "judul_hook": "Raja Adil di Negeri Seberang",
+   "narasi_hook": "Ke mana kaum muslimin pertama kali mencari perlindungan saat tertindas di Makkah?",
+   "latar_hook": "laut",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ memerintahkan para sahabat yang sudah tidak kuat menahan siksaan untuk berhijrah ke negeri Habasyah.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Beliau mengabarkan bahwa di sana ada seorang raja bernama Ashmahah An-Najasyi yang adil dan tidak pernah menzalimi siapa pun.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Para sahabat pun menempuh perjalanan berat menyeberangi lautan menuju negeri asing demi mempertahankan agama mereka dengan aman.",
+     "latar": "laut"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَوْ خَرَجْتُمْ إِلَى أَرْضِ الْحَبَشَةِ فَإِنَّ بِهَا مَلِكًا لَا يُظْلَمُ عِنْدَهُ أَحَدٌ",
+    "terjemah": "Seandainya kalian pergi ke negeri Habasyah, sungguh di sana ada seorang raja yang tidak ada seorang pun dizalimi di sisinya.",
+    "sumber": "HR. Al-Hakim, As-Sirah An-Nabawiyyah",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Keadilan seorang pemimpin adalah tempat bernaung yang aman bagi orang-orang yang tertindas.",
+   "latar_faedah": "laut",
+   "tema": [
+    "hijrah Habasyah",
+    "Raja Najasyi",
+    "keadilan"
+   ],
+   "id": "ep010-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "08:17",
+   "judul_hook": "Pertolongan Tepat di Ujung Pantai",
+   "narasi_hook": "Bagaimana Allah menyelamatkan rombongan sahabat yang dikejar kaum Quraisy?",
+   "latar_hook": "laut",
+   "adegan": [
+    {
+     "narasi": "Sebelas pria dan empat wanita muslimin, termasuk Utsman bin Affan radhiyallahu 'anhu dan istrinya Ruqayyah, keluar diam-diam dari Makkah.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Ketika tiba di pantai, atas takdir Allah telah bersandar dua perahu dagang yang siap berlayar menuju Habasyah.",
+     "latar": "laut"
+    },
+    {
+     "narasi": "Tepat setelah perahu berangkat, musyrikin Quraisy tiba mengejar di tepi pantai, namun mereka telah terlambat.",
+     "latar": "laut"
+    }
+   ],
+   "dalil": {
+    "jenis": "ulama",
+    "arab": "",
+    "terjemah": "Rombongan pertama hijrah ke Habasyah terdiri dari belasan sahabat yang mendapatkan kapal di pantai tepat sebelum kejaran musyrikin Quraisy tiba.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Pertolongan Allah akan datang tepat pada waktunya bagi orang yang bertawakal penuh.",
+   "latar_faedah": "laut",
+   "tema": [
+    "hijrah Habasyah",
+    "pertolongan Allah",
+    "tawakal"
+   ],
+   "id": "ep010-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "09:30",
+   "judul_hook": "Ketika Seluruh Musyrikin Ikut Bersujud",
+   "narasi_hook": "Tahukah Anda ada peristiwa saat kaum musyrikin Quraisy ikut bersujud bersama Nabi ﷺ?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Ketika Rasulullah ﷺ membacakan Surat An-Najm dengan suara lantang dan indah di dekat Ka'bah, seluruh musyrikin tertegun mendengarkannya.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Saat sampai pada ayat terakhir yang memerintahkan sujud, Rasulullah ﷺ bersujud, diikuti seluruh sahabat dan musyrikin yang hadir.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Keindahan dan keagungan firman Allah begitu menggetarkan jiwa mereka sampai-sampai mereka bersujud tanpa sadar.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "فَسَجَدَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَجَدَ مَنْ خَلْفَهُ",
+    "terjemah": "Maka Rasulullah ﷺ bersujud dan bersujud pula orang-orang di belakang beliau.",
+    "sumber": "HR. Bukhari no. 1067 dan Muslim",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Al-Qur'an memiliki mukjizat keindahan bahasa yang sanggup menggetarkan hati manusia terdalam.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "Surat An-Najm",
+    "sujud tilawah",
+    "mukjizat Al-Quran"
+   ],
+   "id": "ep010-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "19:08",
+   "judul_hook": "Pantang Mundur Mengambil Api Mentari",
+   "narasi_hook": "Mampukah ancaman dunia menghentikan dakwah seorang Rasulullah ﷺ?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Tokoh Quraisy mendatangi Abu Thalib untuk mengancam perang jika ia tidak menghentikan dakwah keponakannya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Rasulullah ﷺ menatap ke langit lalu bertanya, apakah mereka sanggup menyalakan api langsung dari panasnya matahari?",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Beliau menegaskan, mustahil bagi beliau meninggalkan dakwah ini, melebihi mustahilnya mengambil api dari matahari itu.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَا أَنَا بِأَقْدَرَ عَلَى أَنْ أَدَعَ ذَلِكَ مِنْكُمْ عَلَى أَنْ تُشْعِلُوا مِنْهَا شُعْلَةً",
+    "terjemah": "Aku tidak lebih mampu meninggalkan urusan dakwah ini daripada ketidakmampuan kalian mengambil sulutan api dari matahari itu.",
+    "sumber": "HR. Ath-Thabrani dalam Al-Mu'jam Al-Kabir",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Keteguhan memegang prinsip kebenaran tidak boleh luntur oleh ancaman dan tawaran dunia.",
+   "latar_faedah": "langit",
+   "tema": [
+    "keteguhan dakwah",
+    "keteguhan iman",
+    "keberanian Nabi"
+   ],
+   "id": "ep010-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "29:19",
+   "judul_hook": "Pukulan Busur yang Berbuah Hidayah",
+   "narasi_hook": "Bagaimana kemarahan Hamzah bin Abdul Muthalib radhiyallahu 'anhu menjadi pintu masuknya hidayah Islam?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Mendengar keponakannya dicaci maki oleh Abu Jahal, Hamzah yang baru pulang berburu langsung mendatangi pelataran Ka'bah.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Dengan penuh keberanian, Hamzah memukulkan busur panahnya ke kepala Abu Jahal hingga terluka parah di depan para pengikutnya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Meski awalnya karena amarah keluarga, Allah akhirnya melapangkan dada Hamzah untuk memeluk Islam dengan tulus dan kokoh.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "أَتَشْتُمُ ابْنَ أَخِي وَأَنَا عَلَى دِينِهِ أَقُولُ مَا يَقُولُ",
+    "terjemah": "Apakah engkau mencaci maki anak saudaraku padahal aku berada di atas agamanya, aku mengatakan apa yang ia katakan?",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Allah Mahakuasa membolak-balikkan hati dan mengubah emosi sesaat menjadi hidayah abadi.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "masuk Islamnya Hamzah",
+    "pembelaan dakwah",
+    "hidayah"
+   ],
+   "id": "ep010-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "35:02",
+   "judul_hook": "Doa Nabi Menggetarkan Hati Singa",
+   "narasi_hook": "Siapakah sosok keras penentang dakwah yang secara khusus didoakan oleh Rasulullah ﷺ?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Umar bin Al-Khattab radhiyallahu 'anhu awalnya sangat keras memusuhi kaum muslimin hingga mereka putus asa atas keislamannya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Namun Rasulullah ﷺ terus berdoa memohon agar Allah mengokohkan Islam dengan salah satu dari dua orang yang paling dicintai-Nya, yaitu Umar.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Allah mengabulkan doa Nabi-Nya, dan keislaman Umar seketika menjadi kejayaan besar bagi seluruh kaum muslimin.",
+     "latar": "kabah"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "اللَّهُمَّ أَعِزَّ الْإِسْلَامَ بِأَحَبِّ هَذَيْنِ الرَّجُلَيْنِ إِلَيْكَ بِأَبِي جَهْلٍ أَوْ بِعُمَرَ بْنِ الْخَطَّابِ",
+    "terjemah": "Ya Allah, muliakanlah Islam dengan salah satu dari dua lelaki yang paling Engkau cintai: Abu Jahal atau Umar bin Al-Khattab.",
+    "sumber": "HR. Ahmad no. 5696 dan At-Tirmidzi no. 3681",
+    "derajat_kata_ustadz": "hasan",
+    "dari_video": true
+   },
+   "faedah": "Jangan pernah berputus asa mendoakan kebaikan bagi orang yang paling keras hatinya.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "doa Nabi",
+    "keislaman Umar",
+    "kejayaan Islam"
+   ],
+   "id": "ep010-08",
+   "status": "Belum"
+  }
+ ]
+}
