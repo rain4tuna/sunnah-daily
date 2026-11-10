@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 64 video. Waktu dalam WIB, terbaru di atas.
+Total: 65 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 10 Nov 2026 19.03 | h002 | Makan Tangan Kiri Temani Setan? | HR. Muslim no. 2020 (shahih) | [IG](https://www.instagram.com/reel/Dfj22qfk284/) · [YouTube](https://youtube.com/shorts/urXoydFkKC4) |
 | 10 Nov 2026 15.49 | ep010-01 | Mengapa Memilih Rumah Darul Arqam? | Shafiyyurrahman Al-Mubarakfuri, Ar-Rahiq Al-Makhtum, hlm. 80 | [IG](https://www.instagram.com/reel/Dfjgrpukgi0/) · [YouTube](https://youtube.com/shorts/LHdwyw1DUPw) |
 | 10 Nov 2026 11.56 | h001 | Jangan Biarkan Setan Ikut Makan! | HR. Muslim no. 2017 (shahih) | [IG](https://www.instagram.com/reel/DfjGAp0mqkF/) · [YouTube](https://youtube.com/shorts/DVBkB7r5ZJw) |
 | 10 Nov 2026 05.28 | ep009-08 | Disiksa terik berkata Ahad-Ahad? | HR. Ibnu Majah no. 150 dan HR. Ahmad no. 3832 (hasan) | [IG](https://www.instagram.com/reel/DfiZjxCgJLv/) · [YouTube](https://youtube.com/shorts/-t5KhxmPtww) |

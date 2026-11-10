@@ -88,6 +88,103 @@
    "ig": "https://www.instagram.com/reel/DfjGAp0mqkF/",
    "yt": "https://youtube.com/shorts/DVBkB7r5ZJw",
    "waktu_posting": "2026-11-10T04:56:51"
+  },
+  {
+   "judul_hook": "Makan Tangan Kiri Temani Setan?",
+   "narasi_hook": "Pernah nggak kamu tanpa sadar ngambil camilan atau memegang gelas minum pakai tangan kiri?",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ secara tegas memerintahkan kita untuk selalu makan dan minum menggunakan tangan kanan."
+    },
+    {
+     "narasi": "Adab ini kita amalkan kapan saja, baik saat menikmati makanan berat maupun sekadar meneguk air putih."
+    },
+    {
+     "narasi": "Sebab, Nabi ﷺ mengingatkan bahwa setan makan dan minum dengan menggunakan tangan kirinya."
+    },
+    {
+     "narasi": "Maka, mendahulukan tangan kanan adalah ikhtiar nyata agar kita tidak menyerupai kebiasaan setan."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا أَكَلَ أَحَدُكُمْ فَلْيَأْكُلْ بِيَمِينِهِ، وَإِذَا شَرِبَ فَلْيَشْرَبْ بِيَمِينِهِ، فَإِنَّ الشَّيْطَانَ يَأْكُلُ بِشِمَالِهِ، وَيَشْرَبُ بِشِمَالِهِ",
+    "terjemah": "Jika salah seorang di antara kalian makan, hendaklah ia makan dengan tangan kanannya, dan jika ia minum, hendaklah minum dengan tangan kanannya, karena sesungguhnya setan makan dengan tangan kirinya dan minum dengan tangan kirinya.",
+    "sumber": "HR. Muslim no. 2020",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2020a"
+   },
+   "faedah": "Mari selalu biasakan makan dan minum dengan tangan kanan sesuai sunnah Nabi ﷺ.",
+   "tema": [
+    "adab makan",
+    "tangan kanan",
+    "sunnah harian"
+   ],
+   "alasan": "Terdapat dalil shahih dari HR. Muslim nomor 2020 yang secara tegas memerintahkan makan dan minum dengan tangan kanan serta menjelaskan larangan menyerupai setan.",
+   "sumber_riset": [],
+   "id": "h002",
+   "topik": "Makan dan minum dengan tangan kanan",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu tanpa sadar mengambil camilan atau memegang gelas minum menggunakan tangan kiri?",
+     "ikon": [
+      "gelas"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ secara tegas memerintahkan kita untuk selalu makan dan minum dengan tangan kanan.",
+      "label": "Gunakan Tangan Kanan",
+      "ikon": [
+       "piring",
+       "gelas"
+      ]
+     },
+     {
+      "narasi": "Adab ini berlaku kapan pun, baik saat menikmati makanan berat maupun sekadar meneguk air putih.",
+      "label": "Makan Maupun Minum",
+      "ikon": [
+       "roti",
+       "tetes_air"
+      ]
+     },
+     {
+      "narasi": "Sebab, Nabi ﷺ mengingatkan bahwa setan makan dan minum dengan tangan kirinya.",
+      "label": "Peringatan Nabi ﷺ",
+      "ikon": [
+       "kitab"
+      ]
+     },
+     {
+      "narasi": "Maka, mendahulukan tangan kanan adalah ikhtiar nyata agar kita tidak menyerupai kebiasaan setan.",
+      "label": "Hindari Kebiasaan Setan",
+      "ikon": [
+       "hati"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari selalu biasakan makan dan minum dengan tangan kanan sesuai sunnah Nabi ﷺ.",
+     "ikon": [
+      "bulan_bintang"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Amalkan sunnah ini bersama",
+     "narasi": "Amalkan sunnah ini bersama. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfj22qfk284/",
+   "yt": "https://youtube.com/shorts/urXoydFkKC4",
+   "waktu_posting": "2026-11-10T12:03:41"
   }
  ]
 }
