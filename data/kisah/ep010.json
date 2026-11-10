@@ -205,11 +205,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "لَوْ خَرَجْتُمْ إِلَى أَرْضِ الْحَبَشَةِ فَإِنَّ بِهَا مَلِكًا لَا يُظْلَمُ عِنْدَهُ أَحَدٌ",
-    "terjemah": "Seandainya kalian pergi ke negeri Habasyah, sungguh di sana ada seorang raja yang tidak ada seorang pun dizalimi di sisinya.",
-    "sumber": "HR. Al-Hakim, As-Sirah An-Nabawiyyah",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "إِنَّ بِأَرْضِ الْحَبَشَةِ مَلِكًا لَا يُظْلَمُ أَحَدٌ عِنْدَهُ، فَالْحَقُوا بِبِلَادِهِ حَتَّى يَجْعَلَ اللَّهُ لَكُمْ فَرَجًا وَمَخْرَجًا مِمَّا أَنْتُمْ فِيهِ",
+    "terjemah": "Sungguh di negeri Habasyah terdapat seorang raja yang tidak ada seorang pun dizalimi di sisinya. Maka berangkatlah ke negerinya hingga Allah memberikan kelapangan dan jalan keluar dari cobaan yang sedang kalian alami.",
+    "sumber": "HR. Al-Bayhaqi dalam As-Sunan Al-Kubra (no. 18190) dan Dala'il An-Nubuwwah (2/301)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (sanadnya jayyid dalam Silsilah Ash-Shahihah no. 3190)",
+    "rujukan": "https://dorar.net"
    },
    "faedah": "Keadilan seorang pemimpin adalah tempat bernaung yang aman bagi orang-orang yang tertindas.",
    "latar_faedah": "laut",
@@ -219,7 +220,59 @@
     "keadilan"
    ],
    "id": "ep010-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti narasi kisah hijrah pertama ke Habasyah shahih dan masyhur dalam sirah nabawiyyah. Catatan perbaikan dalil: Lafazh 'لَوْ خَرَجْتُمْ...' berasal dari riwayat Ibnu Ishaq dalam Sirah Ibnu Hisyam secara mu'dhal (sanad terputus), sedangkan redaksi yang bersambung sanadnya secara shahih/jayyid dari Ummu Salamah radhiyallahu 'anha berlafazh 'إِنَّ بِأَرْضِ الْحَبَشَةِ مَلِكًا...' yang diriwayatkan oleh Al-Bayhaqi.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ke mana kaum muslimin pertama kali mencari perlindungan saat tertindas di Makkah?",
+     "ikon": [
+      "kabah"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ memerintahkan para sahabat yang tidak kuat menahan siksaan untuk berhijrah ke Habasyah.",
+      "label": "Perintah Hijrah ke Habasyah",
+      "ikon": [
+       "pintu",
+       "jejak"
+      ]
+     },
+     {
+      "narasi": "Beliau mengabarkan adanya raja adil bernama Ashmahah An-Najasyi yang tidak pernah menzalimi siapa pun.",
+      "label": "Raja Adil An-Najasyi",
+      "ikon": [
+       "timbangan"
+      ]
+     },
+     {
+      "narasi": "Para sahabat pun menempuh perjalanan berat menyeberangi lautan demi mempertahankan agama mereka dengan aman.",
+      "label": "Perjalanan Menyeberangi Lautan",
+      "ikon": [
+       "jejak",
+       "bulan_bintang"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Keadilan seorang pemimpin adalah tempat bernaung yang aman bagi orang-orang yang tertindas.",
+     "ikon": [
+      "timbangan"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis pendapatmu di komentar",
+     "narasi": "Tulis pendapatmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfk97AjjNqr/",
+   "yt": "https://youtube.com/shorts/RkSqO8wdSPY",
+   "waktu_posting": "2026-11-10T22:24:12"
   },
   {
    "menit": "08:17",
