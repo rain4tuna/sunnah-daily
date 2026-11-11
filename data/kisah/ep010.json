@@ -295,11 +295,12 @@
    ],
    "dalil": {
     "jenis": "ulama",
-    "arab": "",
-    "terjemah": "Rombongan pertama hijrah ke Habasyah terdiri dari belasan sahabat yang mendapatkan kapal di pantai tepat sebelum kejaran musyrikin Quraisy tiba.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "...وَوَفَّقَ اللَّهُ لِلْمُسْلِمِينَ سَاعَةَ جَاؤُوا سَفِينَتَيْنِ لِلتُّجَّارِ حَمَلُوهُمْ فِيهِمَا إِلَى أَرْضِ الْحَبَشَةِ... وَخَرَجَتْ قُرَيْشٌ فِي آثَارِهِمْ حَتَّى جَاؤُوا الْبَحْرَ حَيْثُ رَكِبُوا فَلَمْ يُدْرِكُوا مِنْهُمْ أَحَدًا.",
+    "terjemah": "...Dan Allah memudahkan bagi kaum muslimin saat mereka tiba, dua perahu milik para pedagang yang membawa mereka ke negeri Habasyah... lalu kaum Quraisy keluar menyusul jejak mereka hingga tiba di pantai tempat mereka naik (kapal), namun mereka tidak mendapati seorang pun dari mereka.",
+    "sumber": "Ibnu Sa'd, Ath-Thabaqat al-Kubra (1/204)",
+    "derajat": "",
+    "penilai": "",
+    "rujukan": "https://www.islamweb.net/ar/article/207011/الهجرة-الأولى-والثانية-إلى-الحبشة"
    },
    "faedah": "Pertolongan Allah akan datang tepat pada waktunya bagi orang yang bertawakal penuh.",
    "latar_faedah": "laut",
@@ -309,7 +310,59 @@
     "tawakal"
    ],
    "id": "ep010-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana Allah menyelamatkan rombongan sahabat yang sedang dikejar kaum Quraisy?",
+     "ikon": [
+      "jejak"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sebelas pria dan empat wanita muslimin, termasuk Utsman bin Affan radhiyallahu 'anhu dan istrinya Ruqayyah, keluar diam-diam meninggalkan Makkah.",
+      "label": "Keluar Diam-Diam dari Makkah",
+      "ikon": [
+       "kabah",
+       "pintu"
+      ]
+     },
+     {
+      "narasi": "Setibanya di pantai, atas takdir Allah telah bersandar dua perahu dagang yang siap berlayar menuju Habasyah.",
+      "label": "Dua Perahu Telah Bersandar",
+      "ikon": [
+       "tetes_air"
+      ]
+     },
+     {
+      "narasi": "Tepat setelah perahu berlayar, musyrikin Quraisy tiba mengejar di tepi pantai, namun mereka sudah terlambat.",
+      "label": "Pengejar Quraisy Telah Terlambat",
+      "ikon": [
+       "jam",
+       "jejak"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pertolongan Allah akan selalu datang tepat pada waktunya bagi orang yang bertawakal penuh.",
+     "ikon": [
+      "hati"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Semoga kita selalu bertawakal",
+     "narasi": "Semoga kita selalu bertawakal. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfmFJzCgrYf/",
+   "yt": "https://youtube.com/shorts/ajycxSGK0zg",
+   "waktu_posting": "2026-11-11T08:47:05"
   },
   {
    "menit": "09:30",
