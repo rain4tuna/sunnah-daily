@@ -385,11 +385,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "فَسَجَدَ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ وَسَجَدَ مَنْ خَلْفَهُ",
-    "terjemah": "Maka Rasulullah ﷺ bersujud dan bersujud pula orang-orang di belakang beliau.",
-    "sumber": "HR. Bukhari no. 1067 dan Muslim",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "...فَسَجَدَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ وَسَجَدَ مَنْ خَلْفَهُ...",
+    "terjemah": "...Maka Rasulullah ﷺ bersujud, dan orang-orang di belakang beliau pun ikut bersujud...",
+    "sumber": "HR. Bukhari no. 4863 (lafaz semakna di no. 1067 dan HR. Muslim no. 576)",
+    "derajat": "shahih",
+    "penilai": "Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:4863"
    },
    "faedah": "Al-Qur'an memiliki mukjizat keindahan bahasa yang sanggup menggetarkan hati manusia terdalam.",
    "latar_faedah": "kitab",
@@ -399,7 +400,66 @@
     "mukjizat Al-Quran"
    ],
    "id": "ep010-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Peristiwa kaum musyrikin ikut bersujud saat Rasulullah ﷺ membacakan Surah An-Najm adalah peristiwa yang shahih riwayatnya (HR. Bukhari no. 1067, 1071, 4862, 4863 dan Muslim no. 576). Ibnu Abbas meriwayatkan: 'Nabi ﷺ bersujud pada Surah An-Najm, dan ikut bersujud bersama beliau kaum muslimin, kaum musyrikin, jin, dan manusia' (HR. Bukhari no. 1071). Penjelasan bahwa mereka bersujud karena terpukau dan tergetar oleh keagungan kalam Ilahi merupakan penjelasan para ulama (sebagaimana ditegaskan Syaikh Al-Mubarakfuri dalam Ar-Rahiq Al-Makhtum), dan narasi ini aman dari penyusupan dongeng batil 'Gharaniq' (isu palsu bahwa Nabi memuji berhala). Riwayat shahih juga mencatat ada satu tokoh musyrik (Umayyah bin Khalaf) yang sombong sehingga hanya mengangkat segenggam debu/kerikil ke keningnya, lalu ia tewas terbunuh dalam kekafiran pada Perang Badar.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFx9av5EUNiZ9hXwDOXLnHT_V1RR7wwjC0AD2owoWxGOnsFKnK8dTJxASx-g8D7ZeAZ9Oy_f8LIVVVfEbygLsSzep-59d045AwVCfPMgV-y93C5oBblh1-03iUbfFhGoyWv0Q==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHatzq9faoRYNNf0ZDhiDvuBXKhB5PAhtnlL94r41aUzWBYF_SUK3UozJPOHADjxyiBDVEkukposUN3Wn_wDYEEoJxYFXqzhVYppfMVaFtPwEjQhUsFx2tl8j2FGvyjEdEp8L33yJcMLpzUIubK_fe2cNenNAq0Z9AMMfpQX-BgtW40f0E7jtLa7qax7W2lTSU_Gxf0BDDqWO4Bo7FLxsld5yZ-CBHo8x1_JyCHGuaim6Nvq21l",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7P-7-9bWlE9kestKmJdYxtBlw2p_QFAVWsIjfZmA-wVefl7AhcaLSi1cjIDhONQSATRzokWEiYZMaIj4MKTpt0dpoHsZyLPO7nBTyyYgSL2vgqKNCxeIQfLUp2w==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGA4-jDT5eMGDCPy6Q96jKMn152LX3HA7IRD0pjt7NPZOaCyfwsbEUd0dT7G4S9NZNCHBb-N7Xb_bXXl5FaFJ-AdS1_dzIRc17X0GyErVR6kSscA4rPtUaIvlCpIzA=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-E4XF3BbBxjQC-j8oqzYjh-7ZI4IPv6EMoc4C3rjZcrDZ-txZfxKjQEV5aF-Ei-7DdxBsHGY4CaNK3TRhieoWtLQB5HoAnIyf9sVuoOo86jpNaOlQnhwcgoDkzOmOznW51bKvXs8eOZMEI8hGRofcel_dlGOcXi8sJeLxu1QnWdW_oVOEvA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEf65iVfzsNLQ4OmNJA9eJDaFfiCmlPtKhwBLQccl_YlDY73SGf5p0LIUYEPACcO_DegL_yTI4Xun4pFJYz1jbH6AMdwYzBeJK9JqCJA5ZZaWB6yka9KyDVGFYXUsJJWSAlQ=="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah Anda ada peristiwa saat kaum musyrikin Quraisy ikut bersujud bersama Nabi ﷺ?",
+     "ikon": [
+      "kabah"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat Rasulullah ﷺ membacakan Surat An-Najm di dekat Ka'bah, suara lantang dan indahnya membuat seluruh musyrikin tertegun mendengarkannya.",
+      "label": "Mendengar Surat An-Najm",
+      "ikon": [
+       "kabah",
+       "bintang"
+      ]
+     },
+     {
+      "narasi": "Ketika sampai pada ayat terakhir yang memerintahkan sujud, Rasulullah ﷺ bersujud, lalu diikuti seluruh sahabat dan musyrikin yang hadir.",
+      "label": "Semua Ikut Bersujud",
+      "ikon": [
+       "sajadah"
+      ]
+     },
+     {
+      "narasi": "Keindahan dan keagungan firman Allah begitu menggetarkan jiwa mereka sampai-sampai mereka bersujud tanpa sadar.",
+      "label": "Jiwa yang Tergetar",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Al-Qur'an memiliki mukjizat keindahan bahasa yang sanggup menggetarkan hati manusia terdalam.",
+     "ikon": [
+      "quran"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfnjxdFmlHD/",
+   "yt": "https://youtube.com/shorts/k6EPApHnC20",
+   "waktu_posting": "2026-11-11T22:33:25"
   },
   {
    "menit": "19:08",
