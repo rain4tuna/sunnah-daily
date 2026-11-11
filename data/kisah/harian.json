@@ -185,6 +185,91 @@
    "ig": "https://www.instagram.com/reel/Dfj22qfk284/",
    "yt": "https://youtube.com/shorts/urXoydFkKC4",
    "waktu_posting": "2026-11-10T12:03:41"
+  },
+  {
+   "judul_hook": "Makan Kenyang, Dosa Ikut Gugur?",
+   "narasi_hook": "Pernahkah kamu menyangka kalau makan kenyang ternyata bisa menjadi jalan diampuninya dosa-dosa masa lalu?",
+   "adegan": [
+    {
+     "narasi": "Amalannya sangat ringan, yaitu memuji Allah setelah makan dengan membaca: Alhamdulillahilladzi ath'amani hadza wa rozaqonihi min ghairi haulin minni wa la quwwah."
+    },
+    {
+     "narasi": "Bacalah doa ini tepat setelah kamu selesai menyantap makanan, sebagai bentuk syukur dan pengakuan bahwa rezeki tersebut murni karunia Allah semata."
+    },
+    {
+     "narasi": "Nabi ﷺ mengabarkan bahwa siapa saja yang membaca doa ini seusai makan, dosa-dosanya yang telah lalu akan diampuni oleh Allah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ أَكَلَ طَعَامًا فَقَالَ: الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنِي هَذَا وَرَزَقَنِيهِ مِنْ غَيْرِ حَوْلٍ مِنِّي وَلَا قُوَّةٍ، غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ",
+    "terjemah": "Barang siapa memakan suatu makanan lalu membaca: 'Segala puji bagi Allah yang telah memberiku makanan ini dan merezekikannya kepadaku tanpa daya dan kekuatan dariku', maka diampuni dosanya yang telah lalu.",
+    "sumber": "HR. At-Tirmidzi no. 3458 dan Abu Daud no. 4023",
+    "derajat": "hasan",
+    "penilai": "Imam At-Tirmidzi dan Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:3458"
+   },
+   "faedah": "Yuk, hafalkan dan rutinkan membaca doa ini setiap kali selesai makan!",
+   "tema": [
+    "doa setelah makan",
+    "adab makan",
+    "penggugur dosa"
+   ],
+   "alasan": "Hadits berderajat hasan (dinilai hasan oleh Imam At-Tirmidzi dan Syaikh Al-Albani), memuat lafaz doa setelah makan beserta keutamaan pengampunan dosa secara sahih tanpa tambahan yang lemah.",
+   "sumber_riset": [],
+   "id": "h003",
+   "topik": "Doa setelah makan",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu menyangka kalau makan kenyang ternyata bisa menjadi jalan diampuninya dosa-dosa masa lalu?",
+     "ikon": [
+      "piring"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Amalannya sangat ringan, yaitu memuji Allah setelah makan dengan membaca doa: Alhamdulillahilladzi ath'amani hadza wa rozaqonihi min ghairi haulin minni wa la quwwah.",
+      "label": "Doa Ringan Setelah Makan",
+      "ikon": [
+       "tasbih"
+      ]
+     },
+     {
+      "narasi": "Bacalah doa ini tepat setelah selesai makan, sebagai wujud syukur dan pengakuan bahwa rezeki tersebut murni karunia Allah semata.",
+      "label": "Wujud Syukur Karunia Allah",
+      "ikon": [
+       "hati"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ mengabarkan bahwa siapa saja yang membaca doa ini seusai makan, dosa-dosanya yang telah lalu akan diampuni Allah.",
+      "label": "Dosa Masa Lalu Diampuni",
+      "ikon": [
+       "cahaya"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, hafalkan dan rutinkan membaca doa ini setiap kali selesai makan!",
+     "ikon": [
+      "bintang"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dflq_VsjaFN/",
+   "yt": "https://youtube.com/shorts/dWyhmYFSUrc",
+   "waktu_posting": "2026-11-11T04:58:24"
   }
  ]
 }
