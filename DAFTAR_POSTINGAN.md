@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 69 video. Waktu dalam WIB, terbaru di atas.
+Total: 70 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 11 Nov 2026 18.58 | h004 | Sebelum Melangkah Keluar, Baca Doa Ini! | HR. Abu Dawud no. 5095 dan At-Tirmidzi no. 3426 (shahih) | [IG](https://www.instagram.com/reel/Dfma_NQioY8/) · [YouTube](https://youtube.com/shorts/VAPLiUKzFPM) |
 | 11 Nov 2026 15.47 | ep010-04 | Pertolongan Tepat di Ujung Pantai | Ibnu Sa'd, Ath-Thabaqat al-Kubra (1/204) | [IG](https://www.instagram.com/reel/DfmFJzCgrYf/) · [YouTube](https://youtube.com/shorts/ajycxSGK0zg) |
 | 11 Nov 2026 11.58 | h003 | Makan Kenyang, Dosa Ikut Gugur? | HR. At-Tirmidzi no. 3458 dan Abu Daud no. 4023 (hasan) | [IG](https://www.instagram.com/reel/Dflq_VsjaFN/) · [YouTube](https://youtube.com/shorts/dWyhmYFSUrc) |
 | 11 Nov 2026 05.24 | ep010-03 | Raja Adil di Negeri Seberang | HR. Al-Bayhaqi dalam As-Sunan Al-Kubra (no. 18190) dan Dala'il An-Nubuwwah (2/301) (shahih) | [IG](https://www.instagram.com/reel/Dfk97AjjNqr/) · [YouTube](https://youtube.com/shorts/RkSqO8wdSPY) |
