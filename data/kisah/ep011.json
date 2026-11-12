@@ -114,10 +114,11 @@
    "dalil": {
     "jenis": "ayat",
     "arab": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةً مِّثْلَ صَٰعِقَةِ عَادٍ وَثَمُودَ",
-    "terjemah": "Jika mereka berpaling maka katakanlah: 'Aku telah memperingatkan kamu dengan petir, seperti petir yang menimpa kaum 'Ad dan Samud.'",
+    "terjemah": "Jika mereka berpaling, maka katakanlah, \"Aku telah memperingatkan kamu akan bencana petir, seperti petir yang menimpa kaum 'Ad dan Samud.\"",
     "sumber": "QS. Fussilat: 13",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/surah/41/13"
    },
    "faedah": "Al-Qur'an memiliki mukjizat dan getaran luar biasa yang sanggup menembus hati sekeras apa pun.",
    "latar_faedah": "kitab",
@@ -127,7 +128,58 @@
     "Peringatan Allah"
    ],
    "id": "ep011-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa seorang tokoh musyrik mendadak panik saat mendengar ayat Al-Qur'an?",
+     "ikon": [
+      "quran"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Usai mendengar bujukan Utbah, Rasulullah ﷺ dengan tenang meminta izin untuk membalas perkataannya.",
+      "label": "Ketenangan Rasulullah ﷺ Menjawab",
+      "ikon": [
+       "hati"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ lalu membacakan awal Surah Fushshilat penuh penghayatan, hingga tiba pada ayat ancaman halilintar yang membinasakan kaum terdahulu.",
+      "label": "Ancaman Halilintar Surah Fushshilat",
+      "ikon": [
+       "quran",
+       "awan_hujan"
+      ]
+     },
+     {
+      "narasi": "Seketika Utbah ketakutan, ia bangkit dan membekap mulut Rasulullah ﷺ sambil memohon demi Allah agar bacaan itu dihentikan.",
+      "label": "Utbah Memohon Bacaan Dihentikan",
+      "ikon": [
+       "hati"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Al-Qur'an memiliki mukjizat dan getaran luar biasa yang sanggup menembus hati sekeras apa pun.",
+     "ikon": [
+      "cahaya"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan kisah penuh hikmah ini",
+     "narasi": "Bagikan kisah penuh hikmah ini. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfqHjoODLqy/",
+   "yt": "https://youtube.com/shorts/n-0avh4ipSw",
+   "waktu_posting": "2026-11-12T22:24:47"
   },
   {
    "menit": "07:15",
