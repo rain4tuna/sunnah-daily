@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 71 video. Waktu dalam WIB, terbaru di atas.
+Total: 72 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 12 Nov 2026 11.56 | h005 | Cara Cegah Setan Menginap di Rumah | HR. Muslim no. 2018 (shahih) | [IG](https://www.instagram.com/reel/DfoPmudjd9U/) · [YouTube](https://youtube.com/shorts/dyMjUP7--lo) |
 | 12 Nov 2026 05.33 | ep010-05 | Ketika Seluruh Musyrikin Ikut Bersujud | HR. Bukhari no. 4863 (lafaz semakna di no. 1067 dan HR. Muslim no. 576) (shahih) | [IG](https://www.instagram.com/reel/DfnjxdFmlHD/) · [YouTube](https://youtube.com/shorts/k6EPApHnC20) |
 | 11 Nov 2026 18.58 | h004 | Sebelum Melangkah Keluar, Baca Doa Ini! | HR. Abu Dawud no. 5095 dan At-Tirmidzi no. 3426 (shahih) | [IG](https://www.instagram.com/reel/Dfma_NQioY8/) · [YouTube](https://youtube.com/shorts/VAPLiUKzFPM) |
 | 11 Nov 2026 15.47 | ep010-04 | Pertolongan Tepat di Ujung Pantai | Ibnu Sa'd, Ath-Thabaqat al-Kubra (1/204) | [IG](https://www.instagram.com/reel/DfmFJzCgrYf/) · [YouTube](https://youtube.com/shorts/ajycxSGK0zg) |

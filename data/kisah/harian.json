@@ -360,6 +360,92 @@
    "ig": "https://www.instagram.com/reel/Dfma_NQioY8/",
    "yt": "https://youtube.com/shorts/VAPLiUKzFPM",
    "waktu_posting": "2026-11-11T11:58:10"
+  },
+  {
+   "judul_hook": "Cara Cegah Setan Menginap di Rumah",
+   "narasi_hook": "Tahukah kamu, setan bisa ikut menumpang tidur di dalam rumah kalau kita lalai saat melangkah masuk?",
+   "adegan": [
+    {
+     "narasi": "Banyak yang mengira ada doa khusus yang panjang, padahal riwayat doa tersebut dinilai lemah oleh para ulama."
+    },
+    {
+     "narasi": "Amalan yang shahih justru sangat mudah: cukup baca bismillah dan ucapkan salam saat melangkah masuk ke rumah."
+    },
+    {
+     "narasi": "Rasulullah ﷺ mengabarkan, saat kita menyebut nama Allah ketika masuk, setan akan berkata kepada kawanannya bahwa tidak ada tempat bermalam bagi mereka."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا دَخَلَ الرَّجُلُ بَيْتَهُ، فَذَكَرَ اللهَ عِنْدَ دُخُولِهِ وَعِنْدَ طَعَامِهِ، قَالَ الشَّيْطَانُ: لَا مَبِيتَ لَكُمْ وَلَا عَشَاءَ...",
+    "terjemah": "Jika seseorang memasuki rumahnya lalu menyebut nama Allah ketika masuk dan ketika makan, setan berkata (kepada kawanannya): 'Tidak ada tempat bermalam dan jatah makan malam untuk kalian.'...",
+    "sumber": "HR. Muslim no. 2018",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2018a"
+   },
+   "faedah": "Yuk, biasakan membaca bismillah dan salam setiap kali masuk rumah agar setan terusir!",
+   "tema": [
+    "doa masuk rumah",
+    "adab salam",
+    "dzikir harian"
+   ],
+   "alasan": "Terdapat hadits shahih dalam Shahih Muslim no. 2018 yang menganjurkan berdzikir menyebut nama Allah saat memasuki rumah agar terhindar dari gangguan setan, sekaligus meluruskan doa panjang masuk rumah yang derajatnya dha'if.",
+   "sumber_riset": [],
+   "id": "h005",
+   "topik": "Doa masuk rumah dan mengucapkan salam",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, setan bisa ikut menumpang tidur di rumah jika kita lalai saat melangkah masuk?",
+     "ikon": [
+      "rumah"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Banyak yang mengira ada doa khusus yang panjang, padahal riwayatnya dinilai lemah oleh para ulama.",
+      "label": "Riwayat Doa Panjang Lemah",
+      "ikon": [
+       "kitab"
+      ]
+     },
+     {
+      "narasi": "Amalan shahihnya justru sangat mudah, cukup baca bismillah dan ucapkan salam saat masuk ke rumah.",
+      "label": "Cukup Bismillah dan Salam",
+      "ikon": [
+       "pintu",
+       "jejak"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ mengabarkan, saat kita menyebut nama Allah, setan berkata kepada kawanannya bahwa tidak ada tempat bermalam bagi mereka.",
+      "label": "Setan Tidak Bisa Menginap",
+      "ikon": [
+       "kunci"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, biasakan membaca bismillah dan salam setiap masuk rumah agar setan terusir!",
+     "ikon": [
+      "rumah"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis amalanmu di komentar",
+     "narasi": "Tulis amalanmu di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfoPmudjd9U/",
+   "yt": "https://youtube.com/shorts/dyMjUP7--lo",
+   "waktu_posting": "2026-11-12T04:56:49"
   }
  ]
 }
