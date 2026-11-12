@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 74 video. Waktu dalam WIB, terbaru di atas.
+Total: 75 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 12 Nov 2026 21.23 | ep011-01 | Tawaran Mewah untuk Hentikan Dakwah | HR. Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/293-294) dan Abu Ya'la dalam Musnad-nya (no. 1818) (hasan) | [IG](https://www.instagram.com/reel/DfpQbjlGXzD/) · [YouTube](https://youtube.com/shorts/IG3P49q_E_A) |
 | 12 Nov 2026 18.58 | h007 | Baca Ini Sebelum Menutup Mata | HR. Bukhari no. 2311 (shahih) | [IG](https://www.instagram.com/reel/Dfo_4yAES9n/) · [YouTube](https://youtube.com/shorts/vTNi4y1vd5w) |
 | 12 Nov 2026 15.48 | ep010-08 | Doa Nabi Menggetarkan Hati Singa | HR. At-Tirmidzi no. 3681 dan HR. Ahmad no. 5696 (shahih) | [IG](https://www.instagram.com/reel/DfoqEobJY2m/) · [YouTube](https://youtube.com/shorts/AFlg68mtCeA) |
 | 12 Nov 2026 11.56 | h005 | Cara Cegah Setan Menginap di Rumah | HR. Muslim no. 2018 (shahih) | [IG](https://www.instagram.com/reel/DfoPmudjd9U/) · [YouTube](https://youtube.com/shorts/dyMjUP7--lo) |
