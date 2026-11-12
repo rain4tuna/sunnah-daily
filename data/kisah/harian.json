@@ -446,6 +446,133 @@
    "ig": "https://www.instagram.com/reel/DfoPmudjd9U/",
    "yt": "https://youtube.com/shorts/dyMjUP7--lo",
    "waktu_posting": "2026-11-12T04:56:49"
+  },
+  {
+   "judul_hook": "Jangan Langsung Tidur Sebelum Amalkan Ini!",
+   "narasi_hook": "Pernahkah kamu langsung terlelap tanpa persiapan, padahal ada sunnah indah dari Nabi ﷺ sebelum tidur?",
+   "adegan": [
+    {
+     "narasi": "Ketika malam tiba dan kamu hendak mendatangi tempat tidur, sempatkanlah berwudhu terlebih dahulu. Lakukan wudhu secara sempurna persis seperti wudhu untuk shalat."
+    },
+    {
+     "narasi": "Setelah berwudhu, naiklah ke pembaringan dengan tenang. Rebahkan badanmu dan mulailah berbaring miring di atas sisi tubuh sebelah kanan."
+    },
+    {
+     "narasi": "Rasulullah ﷺ menyampaikan keutamaan yang luar biasa dari amalan ini. Jika seseorang tidur dengan cara ini lalu meninggal dunia di malam itu, ia wafat di atas fitrah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا أَتَيْتَ مَضْجَعَكَ فَتَوَضَّأْ وُضُوءَكَ لِلصَّلَاةِ، ثُمَّ اضْطَجِعْ عَلَى شِقِّكَ الأَيْمَنِ، ثُمَّ قُلِ: اللَّهُمَّ أَسْلَمْتُ وَجْهِي إِلَيْكَ... فَإِنْ مُتَّ مِنْ لَيْلَتِكَ فَأَنْتَ عَلَى الْفِطْرَةِ",
+    "terjemah": "Jika engkau mendatangi tempat tidurmu, berwudhulah sebagaimana wudhumu untuk shalat, lalu berbaringlah pada sisi kanan badanmu, kemudian ucapkanlah: 'Ya Allah, aku menyerahkan diriku kepada-Mu...' Jika engkau meninggal dunia pada malam itu, maka engkau wafat di atas fitrah.",
+    "sumber": "HR. Bukhari no. 247 dan Muslim no. 2710",
+    "derajat": "shahih",
+    "penilai": "",
+    "rujukan": "https://sunnah.com/bukhari:247"
+   },
+   "faedah": "Yuk, biasakan berwudhu dan miring ke kanan setiap hendak tidur malam ini!",
+   "tema": [
+    "adab tidur",
+    "sunnah tidur",
+    "wudhu sebelum tidur"
+   ],
+   "alasan": "Dalil berderajat shahih muttafaqun 'alaih diriwayatkan oleh Imam Al-Bukhari dan Muslim dari sahabat Al-Bara' bin 'Azib radhiyallahu 'anhu.",
+   "sumber_riset": [],
+   "id": "h006",
+   "topik": "Sunnah sebelum tidur: berwudhu dan berbaring ke sisi kanan",
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Narasi keliru karena mengesankan keutamaan 'wafat di atas fitrah' diperoleh semata-mata dengan berwudhu dan berbaring miring ke kanan. Padahal secara tegas dalam hadits, keutamaan tersebut terikat dengan membaca doa pasrah/doa tidur yang diajarkan Nabi ﷺ ('Allahumma aslamtu nafsi/wajhi ilaika...') dan menjadikannya sebagai kalimat terakhir yang diucapkan sebelum tidur.",
+    "sumber_cek": []
+   },
+   "layak": false
+  },
+  {
+   "judul_hook": "Baca Ini Sebelum Menutup Mata",
+   "narasi_hook": "Pernahkah kamu merasa gelisah atau sering mimpi buruk saat tidur di malam hari?",
+   "adegan": [
+    {
+     "narasi": "Ternyata, Nabi ﷺ mengajarkan satu amalan dzikir yang sangat istimewa, yaitu membaca Ayat Kursi."
+    },
+    {
+     "narasi": "Caranya mudah, bacalah ayat ini saat kamu sudah berbaring di tempat tidur dan siap terlelap."
+    },
+    {
+     "narasi": "Keutamaannya luar biasa. Rasulullah ﷺ membenarkan bahwa Allah akan senantiasa menjagamu, dan setan tidak akan mampu mendekat hingga subuh tiba."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا أَوَيْتَ إِلَى فِرَاشِكَ فَاقْرَأْ آيَةَ الْكُرْسِيِّ... لَنْ يَزَالَ عَلَيْكَ مِنَ اللَّهِ حَافِظٌ، وَلَا يَقْرَبُكَ شَيْطَانٌ حَتَّى تُصْبِحَ",
+    "terjemah": "Jika kamu beranjak ke tempat tidurmu, bacalah Ayat Kursi... niscaya senantiasa ada penjaga dari Allah untukmu, dan setan tidak akan mendekatimu sampai pagi.",
+    "sumber": "HR. Bukhari no. 2311",
+    "derajat": "shahih",
+    "penilai": "Imam Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:2311"
+   },
+   "faedah": "Yuk, rutinkan membaca Ayat Kursi malam ini agar tidur kita dijaga Allah sampai pagi.",
+   "tema": [
+    "dzikir sebelum tidur",
+    "adab tidur",
+    "ayat kursi"
+   ],
+   "alasan": "Hadits shahih riwayat Al-Bukhari no. 2311 secara tegas menerangkan anjuran dan keutamaan membaca Ayat Kursi sebelum tidur.",
+   "sumber_riset": [],
+   "id": "h007",
+   "topik": "Dzikir sebelum tidur",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu merasa gelisah atau sering mimpi buruk saat tidur di malam hari?",
+     "ikon": [
+      "bulan_bintang"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Ternyata, Nabi ﷺ mengajarkan satu amalan dzikir yang sangat istimewa, yaitu membaca Ayat Kursi.",
+      "label": "Amalan Dzikir Ayat Kursi",
+      "ikon": [
+       "quran"
+      ]
+     },
+     {
+      "narasi": "Caranya mudah, bacalah ayat ini saat kamu sudah berbaring di tempat tidur dan siap terlelap.",
+      "label": "Dibaca Saat Berbaring Tidur",
+      "ikon": [
+       "lentera"
+      ]
+     },
+     {
+      "narasi": "Keutamaannya luar biasa, Rasulullah ﷺ membenarkan bahwa Allah akan senantiasa menjagamu, dan setan tidak akan mampu mendekat hingga subuh tiba.",
+      "label": "Dijaga Hingga Subuh Tiba",
+      "ikon": [
+       "cahaya",
+       "matahari"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, rutinkan membaca Ayat Kursi malam ini agar tidur kita dijaga Allah sampai pagi.",
+     "ikon": [
+      "hati"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Siap amalkan malam ini?",
+     "narasi": "Siap amalkan malam ini? Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfo_4yAES9n/",
+   "yt": "https://youtube.com/shorts/vTNi4y1vd5w",
+   "waktu_posting": "2026-11-12T11:58:45"
   }
  ]
 }
