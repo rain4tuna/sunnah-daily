@@ -482,11 +482,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا أَنَا بِأَقْدَرَ عَلَى أَنْ أَدَعَ ذَلِكَ مِنْكُمْ عَلَى أَنْ تُشْعِلُوا مِنْهَا شُعْلَةً",
-    "terjemah": "Aku tidak lebih mampu meninggalkan urusan dakwah ini daripada ketidakmampuan kalian mengambil sulutan api dari matahari itu.",
-    "sumber": "HR. Ath-Thabrani dalam Al-Mu'jam Al-Kabir",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "مَا أَنَا بِأَقْدَرَ عَلَى أَنْ أَدَعَ لَكُمْ ذَلِكَ مِنْ أَنْ تُشْعِلُوا مِنْهَا شُعْلَةً",
+    "terjemah": "Aku tidak lebih mampu meninggalkan urusan ini bagi kalian daripada ketidakmampuan kalian mengambil sulutan api dari matahari itu.",
+    "sumber": "HR. Ath-Thabrani dalam Al-Mu'jam Al-Kabir (no. 511, 17/191); Abu Ya'la (no. 6804)",
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani (As-Silsilah Ash-Shahihah no. 92)",
+    "rujukan": "https://dorar.net/hadith/sharh/8515"
    },
    "faedah": "Keteguhan memegang prinsip kebenaran tidak boleh luntur oleh ancaman dan tawaran dunia.",
    "latar_faedah": "langit",
@@ -496,7 +497,13 @@
     "keberanian Nabi"
    ],
    "id": "ep010-06",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Terdapat dua kekeliruan narasi: 1) Bagian 'mengancam perang' tercampur dengan riwayat Ibnu Ishaq yang mursal/lemah (riwayat yang menjadi latar riwayat masyhur namun lemah 'seandainya matahari di tangan kananku...'). Dalam hadits riwayat 'Uqayl bin Abi Thalib yang berstatus hasan ini, Quraisy datang mengeluh bahwa dakwah Nabi ﷺ mengganggu perkumpulan/majelis mereka di seputar Ka'bah. 2) Nabi ﷺ tidak bertanya 'apakah kalian sanggup menyalakan api dari matahari', melainkan bertanya: 'Apakah kalian melihat matahari ini?', lalu menegaskan perumpamaan tersebut setelah mereka menjawab 'Ya'.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "29:19",
@@ -505,25 +512,26 @@
    "latar_hook": "gurun",
    "adegan": [
     {
-     "narasi": "Mendengar keponakannya dicaci maki oleh Abu Jahal, Hamzah yang baru pulang berburu langsung mendatangi pelataran Ka'bah.",
+     "narasi": "Hamzah bin Abdul Muthalib radhiyallahu 'anhu masuk Islam pada fase dakwah Makkah (sekitar tahun keenam kenabian), dan keislaman beliau menjadi salah satu penopang kekuatan besar bagi kaum muslimin.",
      "latar": "kabah"
     },
     {
-     "narasi": "Dengan penuh keberanian, Hamzah memukulkan busur panahnya ke kepala Abu Jahal hingga terluka parah di depan para pengikutnya.",
+     "narasi": "Dengan masuk Islamnya paman Nabi yang sangat disegani ini, kaum musyrikin Quraisy menjadi gentar sehingga mereka menahan diri dari menyakiti Rasulullah ﷺ secara terang-terangan.",
      "latar": "kota"
     },
     {
-     "narasi": "Meski awalnya karena amarah keluarga, Allah akhirnya melapangkan dada Hamzah untuk memeluk Islam dengan tulus dan kokoh.",
+     "narasi": "Adapun rincian kisah pemukulan busur panah ke kepala Abu Jahal di depan Ka'bah sangat masyhur dalam kitab-kitab tarikh, namun secara kritik sanad hadits riwayat tersebut berstatus lemah (mu'dhal).",
      "latar": "lentera"
     }
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "أَتَشْتُمُ ابْنَ أَخِي وَأَنَا عَلَى دِينِهِ أَقُولُ مَا يَقُولُ",
-    "terjemah": "Apakah engkau mencaci maki anak saudaraku padahal aku berada di atas agamanya, aku mengatakan apa yang ia katakan?",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "أَتَشْتُمُهُ وَأَنَا عَلَى دِينِهِ أَقُولُ مَا يَقُولُ؟ فَرُدَّ ذَلِكَ عَلَيَّ إِنِ اسْتَطَعْتَ!",
+    "terjemah": "Apakah engkau mencacinya padahal aku berada di atas agamanya, aku mengatakan apa yang ia katakan? Balaslah tindakanku itu jika engkau sanggup!",
+    "sumber": "Sirah Ibnu Hisyam (1/291); Al-Mustadrak karya Al-Hakim (no. 4878)",
+    "derajat": "lemah",
+    "penilai": "Imam Adz-Dzahabi dan Syaikh Muqbil bin Hadi Al-Wadi'i",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/467"
    },
    "faedah": "Allah Mahakuasa membolak-balikkan hati dan mengubah emosi sesaat menjadi hidayah abadi.",
    "latar_faedah": "lentera",
@@ -533,7 +541,13 @@
     "hidayah"
    ],
    "id": "ep010-07",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Masuk Islamnya Hamzah bin Abdul Muthalib radhiyallahu 'anhu dan perannya yang agung dalam membela dakwah Nabi ﷺ adalah fakta sejarah yang tsabit dan disepakati. Namun, rincian cerita bahwa keislamannya bermula dari memukulkan busur panah ke kepala Abu Jahal bersumber dari riwayat Ibnu Ishaq yang berstatus mu'dhal (terputus sanadnya) serta memuat perawi yang mubham ('seorang laki-laki dari Bani Aslam'). Riwayat ini dilemahkan oleh Imam Adz-Dzahabi (dalam Talkhis Al-Mustadrak) dan Syaikh Muqbil, serta tidak dimasukkan oleh Syaikh Al-Albani ke dalam Shahih As-Sirah An-Nabawiyyah.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "35:02",
@@ -557,10 +571,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "اللَّهُمَّ أَعِزَّ الْإِسْلَامَ بِأَحَبِّ هَذَيْنِ الرَّجُلَيْنِ إِلَيْكَ بِأَبِي جَهْلٍ أَوْ بِعُمَرَ بْنِ الْخَطَّابِ",
-    "terjemah": "Ya Allah, muliakanlah Islam dengan salah satu dari dua lelaki yang paling Engkau cintai: Abu Jahal atau Umar bin Al-Khattab.",
-    "sumber": "HR. Ahmad no. 5696 dan At-Tirmidzi no. 3681",
-    "derajat_kata_ustadz": "hasan",
-    "dari_video": true
+    "terjemah": "Ya Allah, muliakanlah Islam dengan salah satu dari dua orang yang paling Engkau cintai: Abu Jahal atau Umar bin Al-Khattab.",
+    "sumber": "HR. At-Tirmidzi no. 3681 dan HR. Ahmad no. 5696",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Hasan Shahih menurut Imam At-Tirmidzi)",
+    "rujukan": "https://sunnah.com/tirmidhi:3681"
    },
    "faedah": "Jangan pernah berputus asa mendoakan kebaikan bagi orang yang paling keras hatinya.",
    "latar_faedah": "lentera",
@@ -570,7 +585,58 @@
     "kejayaan Islam"
    ],
    "id": "ep010-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Siapakah sosok keras penentang dakwah yang secara khusus didoakan oleh Rasulullah ﷺ?",
+     "ikon": [
+      "lentera"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Umar bin Al-Khattab radhiyallahu 'anhu awalnya sangat keras memusuhi kaum muslimin hingga mereka putus asa atas keislamannya.",
+      "label": "Sikap Keras Memusuhi Islam",
+      "ikon": [
+       "gunung"
+      ]
+     },
+     {
+      "narasi": "Namun Rasulullah ﷺ terus berdoa memohon agar Allah mengokohkan Islam dengan salah satu dari dua orang yang paling dicintai-Nya, yaitu Umar.",
+      "label": "Doa Khusus Rasulullah ﷺ",
+      "ikon": [
+       "sajadah"
+      ]
+     },
+     {
+      "narasi": "Allah mengabulkan doa Nabi-Nya, dan keislaman Umar seketika menjadi kejayaan besar bagi seluruh kaum muslimin.",
+      "label": "Kejayaan Seluruh Kaum Muslimin",
+      "ikon": [
+       "cahaya",
+       "masjid"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jangan pernah berputus asa mendoakan kebaikan bagi orang yang paling keras hatinya.",
+     "ikon": [
+      "hati"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfoqEobJY2m/",
+   "yt": "https://youtube.com/shorts/AFlg68mtCeA",
+   "waktu_posting": "2026-11-12T08:48:09"
   }
  ]
 }

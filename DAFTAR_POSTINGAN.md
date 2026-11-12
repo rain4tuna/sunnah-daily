@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 72 video. Waktu dalam WIB, terbaru di atas.
+Total: 73 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 12 Nov 2026 15.48 | ep010-08 | Doa Nabi Menggetarkan Hati Singa | HR. At-Tirmidzi no. 3681 dan HR. Ahmad no. 5696 (shahih) | [IG](https://www.instagram.com/reel/DfoqEobJY2m/) · [YouTube](https://youtube.com/shorts/AFlg68mtCeA) |
 | 12 Nov 2026 11.56 | h005 | Cara Cegah Setan Menginap di Rumah | HR. Muslim no. 2018 (shahih) | [IG](https://www.instagram.com/reel/DfoPmudjd9U/) · [YouTube](https://youtube.com/shorts/dyMjUP7--lo) |
 | 12 Nov 2026 05.33 | ep010-05 | Ketika Seluruh Musyrikin Ikut Bersujud | HR. Bukhari no. 4863 (lafaz semakna di no. 1067 dan HR. Muslim no. 576) (shahih) | [IG](https://www.instagram.com/reel/DfnjxdFmlHD/) · [YouTube](https://youtube.com/shorts/k6EPApHnC20) |
 | 11 Nov 2026 18.58 | h004 | Sebelum Melangkah Keluar, Baca Doa Ini! | HR. Abu Dawud no. 5095 dan At-Tirmidzi no. 3426 (shahih) | [IG](https://www.instagram.com/reel/Dfma_NQioY8/) · [YouTube](https://youtube.com/shorts/VAPLiUKzFPM) |
