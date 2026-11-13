@@ -148,6 +148,7 @@ jobs:
           ls hasil/*.mp4 >/dev/null 2>&1 || exit 0     # slot yang dilewati tidak menimpa video terakhir
           mkdir -p /tmp/h && cp hasil/* /tmp/h/
           git checkout -q --orphan hasil-tmp
-          git rm -rfq --cached . && git clean -fdq -e hasil
+          # -x: buang juga berkas yang diabaikan git (node_modules Remotion, __pycache__) supaya tidak ikut ter-commit
+          git rm -rfq --cached . && git clean -fdxq -e hasil
           rm -rf hasil && cp /tmp/h/* .
           git add -A && git commit -qm "Hasil run ${{ github.run_number }}" && git push -qf origin HEAD:hasil
