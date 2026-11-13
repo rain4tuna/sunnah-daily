@@ -225,7 +225,55 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Apa yang membuat musuh Nabi pulang dengan wajah pucat pasi?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "kota_malam"
+    },
+    "poin": [
+     {
+      "narasi": "Ketika Utbah bin Rabi'ah berjalan kembali menemui kaumnya, Quraisy terkejut melihat raut wajahnya telah berubah drastis.",
+      "label": "Wajah Utbah Berubah Drastis",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kabah",
+      "tokoh": "takut"
+     },
+     {
+      "narasi": "Utbah bersumpah bahwa kalam yang dibacakan Nabi ﷺ bukanlah syair gubahan, bukan sihir, dan bukan ramalan dukun.",
+      "label": "Bukan Syair Maupun Sihir",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ],
+      "ilustrasi": "quran"
+     },
+     {
+      "narasi": "Ia menasihati Quraisy agar membiarkan dakwah Nabi ﷺ, namun mereka yang keras hati justru menuduh Utbah terkena sihir.",
+      "label": "Ditolak dan Dituduh Tersihir",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "majelis"
+     }
+    ],
+    "faedah": {
+     "narasi": "Kebenaran itu nyata dan diakui nurani, meski hawa nafsu menolak untuk tunduk.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "lentera"
+    },
+    "penutup": {
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   }
   },
   {
    "menit": "11:25",
