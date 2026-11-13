@@ -124,9 +124,15 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None):
                     raise RuntimeError(f'Remotion gagal merender frame {a}-{b}')
                 log(f'   Remotion {b + 1}/{n} frame')
                 lst.write(f"file '{pot.replace(os.sep, '/')}'\n")
+        # Encode ulang ke yuv420p rentang standar (tv): keluaran Remotion berformat yuvj420p "full range", yang ditolak
+        # unggahan langsung Instagram (ProcessingFailedError). Sekaligus memperkecil berkas sekitar separuhnya.
         subprocess.run([*_ffmpeg(), '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', daftar, '-i', wav,
-                        '-map', '0:v', '-map', '1:a', '-c:v', 'copy', '-c:a', 'aac', '-b:a', '160k', '-shortest',
-                        '-movflags', '+faststart', out_mp4], check=True, cwd=RDIR)
+                        '-map', '0:v', '-map', '1:a',
+                        '-vf', 'scale=out_range=tv:out_color_matrix=bt709,format=yuv420p',
+                        '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-profile:v', 'high',
+                        '-color_range', 'tv', '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709',
+                        '-c:a', 'aac', '-b:a', '160k', '-shortest', '-movflags', '+faststart', out_mp4],
+                       check=True, cwd=RDIR)
         if contoh_jpg:
             try:
                 _remotion(['still', *umum, os.path.abspath(contoh_jpg), f'--frame={min(n - 1, int(1.5 * FPS))}',
