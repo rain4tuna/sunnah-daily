@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 76 video. Waktu dalam WIB, terbaru di atas.
+Total: 77 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 13 Nov 2026 11.55 | h012 | Ingin Punya Rumah di Surga? | HR. Muslim no. 728 (shahih) | [IG](https://www.instagram.com/reel/Dfq0SsbmbnH/) · [YouTube](https://youtube.com/shorts/4sHdGvk1Ul4) |
 | 13 Nov 2026 05.24 | ep011-02 | Gemetar Mendengar Ancaman Petir Al-Qur'an | QS. Fussilat: 13 | [IG](https://www.instagram.com/reel/DfqHjoODLqy/) · [YouTube](https://youtube.com/shorts/n-0avh4ipSw) |
 | 12 Nov 2026 21.23 | ep011-01 | Tawaran Mewah untuk Hentikan Dakwah | HR. Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/293-294) dan Abu Ya'la dalam Musnad-nya (no. 1818) (hasan) | [IG](https://www.instagram.com/reel/DfpQbjlGXzD/) · [YouTube](https://youtube.com/shorts/IG3P49q_E_A) |
 | 12 Nov 2026 18.58 | h007 | Baca Ini Sebelum Menutup Mata | HR. Bukhari no. 2311 (shahih) | [IG](https://www.instagram.com/reel/Dfo_4yAES9n/) · [YouTube](https://youtube.com/shorts/vTNi4y1vd5w) |
