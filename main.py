@@ -3,7 +3,8 @@
 Env:
   GEMINI_API_KEY   wajib
   SERI             sirah | harian (kosong: slot 11.47 & 18.47 WIB = harian, slot lain = sirah)
-  GAYA             ikon (default, Animasi Ikon papan/flat/kertas) | sirah (gaya Gua Tsur) | lama
+  GAYA             ikon (default, Animasi Ikon papan/flat/kertas) | remotion (ilustrasi bergerak, butuh Node)
+                   | sirah (gaya Gua Tsur) | lama
   GAYA_IKON        papan | flat | kertas (kosong = bergiliran per video)
   EPISODE          nomor episode (kosong = episode pertama yang masih punya kisah berstatus Belum)
   KISAH            nomor urut kisah di episode / nomor topik Sunnah Harian (kosong = berikutnya)
@@ -26,6 +27,7 @@ import harian
 import gemini
 import ig
 import motion
+import remotion_video
 import storyboard
 import storyboard_ikon
 import video
@@ -241,7 +243,7 @@ def main():
 
     ep = {'judul': data['judul'], 'url': data['url']}
     gaya_v = os.environ.get('GAYA', 'ikon') or 'ikon'
-    if gaya_v == 'ikon':
+    if gaya_v in ('ikon', 'remotion'):
         gv = gaya_ikon(k)
         if seri_v == 'harian':
             segmen = storyboard_ikon.segmen(k, 'SUNNAH HARIAN', narasi_dalil, seri='Sunnah Harian', lanjut='sunnah')
@@ -251,10 +253,15 @@ def main():
             segmen = storyboard_ikon.segmen(k, kicker, narasi_dalil, seri=seri(data['judul']),
                                             kredit=f"Faedah dari kajian {data['judul']}\nUst. Dr. Firanda Andirja, M.A.")
         simpan(data)
-        log(f'   template: animasi ikon ({gv})')
+        if gaya_v == 'remotion':
+            log('   template: remotion — ' + ', '.join(f"{s.get('ilustrasi')}{'+' + s['tokoh'] if s.get('tokoh') else ''}"
+                                                       for s in segmen if s.get('ilustrasi')))
+            pembuat = remotion_video.buat_video
+        else:
+            log(f'   template: animasi ikon ({gv})')
 
-        def pembuat(sg, tm, mp4, jpg):
-            return animasi_ikon.buat_video(sg, tm, mp4, jpg, gaya_v=gv)
+            def pembuat(sg, tm, mp4, jpg):
+                return animasi_ikon.buat_video(sg, tm, mp4, jpg, gaya_v=gv)
     elif gaya_v == 'lama':
         segmen = segmen_lama(k, data)
         pembuat = video.buat_video

@@ -47,3 +47,23 @@ punya `layak` langsung dipakai. Kalau stok habis, workflow kembali riset/cek lew
 `python stok.py status` menampilkan sisa stok. Kebutuhan per hari: 3 kisah Sirah dan 2 Sunnah Harian.
 Folder `stok/` tidak ikut ke repo. Episode Sirah baru bisa ikut distok: `python stok.py minta --episode 2`
 menulis prompt `episode-NN` (Gemini menonton videonya di chat); kisahnya lalu dicek di putaran berikutnya.
+
+## Template Remotion (`GAYA=remotion`)
+
+Template kedua: motion graphic gelap-emas dengan ilustrasi SVG yang bergerak (proyek di `remotion/`, jembatannya
+`remotion_video.py`). Template lama tetap default; pilih lewat input `gaya` saat Run workflow, atau ubah
+`GAYA_TEMPLATE` di `buat-video.yml` untuk jadwal otomatis.
+
+- **Ilustrasi dipilih otomatis.** `storyboard_ikon.py` meminta Gemini memilih satu ilustrasi per babak dari daftar
+  `ILUSTRASI` (15 adegan: badai, kota_malam, quran, kafilah, kabah, masjid, gua, majelis, lentera, fajar, air,
+  hidangan, pintu, sedekah, hati) dan, bila cocok, satu `tokoh` (panik, takut, berdiri, berdoa). Storyboard lama
+  tanpa pilihan ini dipetakan dari ikonnya (`PETA_IKON`).
+- **Aturan gambar.** Manusia dan hewan digambar tanpa wajah (tidak ada mata dan mulut). Nabi ﷺ, sahabat, dan malaikat
+  tidak digambar sama sekali: prompt melarangnya, dan `ilustrasi_babak()` membuang `tokoh` dari babak yang menyebut
+  mereka (`KATA_TANPA_TOKOH`).
+- **Menambah ilustrasi.** Tulis komponennya di `remotion/src/Ilustrasi.tsx`, daftarkan di `JENIS` dan `ADEGAN` di
+  berkas itu, lalu tambahkan kunci dan artinya ke `ILUSTRASI` di `storyboard_ikon.py`. Komposisi `Galeri`
+  (`npx remotion still src/index.ts Galeri out/galeri.png --frame=120`) menampilkan semuanya dalam satu gambar.
+- **Render per potongan.** Video dirender tiap `REMOTION_POTONG` frame lalu digabung dengan audio, supaya potongan
+  yang macet bisa diulang. Di Windows pakai `REMOTION_GL=angle` (default); render perangkat lunak di sana menggantung.
+- **Font** ditanam di `remotion/src/fontdata.ts` (dibuat dari `fonts/`), supaya render tidak memuat apa pun lewat jaringan.

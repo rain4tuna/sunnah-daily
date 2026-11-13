@@ -1,0 +1,87 @@
+{
+ "id": "ep011-02",
+ "kicker": "SIRAH #11",
+ "durasi": 64.51,
+ "segmen": [
+  {
+   "jenis": "hook",
+   "judul": "Gemetar Mendengar Ancaman Petir Al-Qur'an",
+   "narasi": "Mengapa seorang tokoh musyrik mendadak panik saat mendengar ayat Al-Qur'an?",
+   "mulai": 0,
+   "akhir": 5.74,
+   "ucapMulai": 0.15,
+   "ucapAkhir": 5.28,
+   "ilustrasi": "badai",
+   "tokoh": "panik"
+  },
+  {
+   "jenis": "poin",
+   "no": 1,
+   "label": "Ketenangan Rasulullah ﷺ Menjawab",
+   "narasi": "Usai mendengar bujukan Utbah, Rasulullah ﷺ dengan tenang meminta izin untuk membalas perkataannya.",
+   "mulai": 5.74,
+   "akhir": 14.76,
+   "ucapMulai": 6.2,
+   "ucapAkhir": 14.24,
+   "ilustrasi": "kota_malam",
+   "tokoh": ""
+  },
+  {
+   "jenis": "poin",
+   "no": 2,
+   "label": "Ancaman Halilintar Surah Fushshilat",
+   "narasi": "Nabi ﷺ lalu membacakan awal Surah Fushshilat penuh penghayatan, hingga tiba pada ayat ancaman halilintar yang membinasakan kaum terdahulu.",
+   "mulai": 14.76,
+   "akhir": 27.53,
+   "ucapMulai": 15.28,
+   "ucapAkhir": 27.06,
+   "ilustrasi": "badai",
+   "tokoh": ""
+  },
+  {
+   "jenis": "poin",
+   "no": 3,
+   "label": "Utbah Memohon Bacaan Dihentikan",
+   "narasi": "Seketika Utbah ketakutan, ia bangkit dan membekap mulut Rasulullah ﷺ sambil memohon demi Allah agar bacaan itu dihentikan.",
+   "mulai": 27.53,
+   "akhir": 38.09,
+   "ucapMulai": 28.0,
+   "ucapAkhir": 37.64,
+   "ilustrasi": "badai",
+   "tokoh": "takut"
+  },
+  {
+   "jenis": "dalil",
+   "arab": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةً مِّثْلَ صَٰعِقَةِ عَادٍ وَثَمُودَ",
+   "terjemah": "Jika mereka berpaling, maka katakanlah, \"Aku telah memperingatkan kamu akan bencana petir, seperti petir yang menimpa kaum 'Ad dan Samud.\"",
+   "sumber": "QS. Fussilat: 13",
+   "label": "AL-QUR'AN",
+   "derajat": "",
+   "mulai": 38.09,
+   "akhir": 51.27,
+   "ucapMulai": 40.72,
+   "ucapAkhir": 50.74
+  },
+  {
+   "jenis": "faedah",
+   "narasi": "Al-Qur'an memiliki mukjizat dan getaran luar biasa yang sanggup menembus hati sekeras apa pun.",
+   "mulai": 51.27,
+   "akhir": 58.52,
+   "ucapMulai": 51.8,
+   "ucapAkhir": 58.02,
+   "ilustrasi": "quran",
+   "tokoh": ""
+  },
+  {
+   "jenis": "penutup",
+   "ajakan": "Bagikan kisah penuh hikmah ini",
+   "kredit": "Faedah dari kajian Sirah Nabawiyah #11 - Usaha Kaum Quraisy Halangi Dakwah Rasulullah",
+   "ustadz": "Ust. Dr. Firanda Andirja, M.A.",
+   "mulai": 58.52,
+   "akhir": 64.51,
+   "ucapMulai": 59.02,
+   "ucapAkhir": 63.86
+  }
+ ],
+ "handle": "@sun_nahdaily"
+}
