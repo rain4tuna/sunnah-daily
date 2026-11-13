@@ -414,7 +414,7 @@
     "Kekuasaan Allah"
    ],
    "id": "ep011-05",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -422,7 +422,58 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Sejauh mana kesombongan manusia saat menolak bukti kebenaran dari Allah?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati"
+    },
+    "poin": [
+     {
+      "narasi": "Suatu hari, Abdullah bin Abi Umayyah mendatangi Rasulullah ﷺ dengan penuh arogansi dan menolak beriman.",
+      "label": "Arogansi Menolak Iman",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "majelis"
+     },
+     {
+      "narasi": "Ia menantang Nabi ﷺ mendaki tangga ke langit, lalu turun membawa kitab terbuka bersama empat malaikat yang bersaksi.",
+      "label": "Tuntutan Tangga ke Langit",
+      "ikon": [
+       "kitab",
+       "bintang"
+      ],
+      "ilustrasi": "kota_malam"
+     },
+     {
+      "narasi": "Bahkan ia bersumpah tetap takkan percaya, padahal tugas Nabi ﷺ hanyalah seorang manusia yang menyampaikan wahyu.",
+      "label": "Hanyalah Penyampai Wahyu",
+      "ikon": [
+       "gulungan"
+      ],
+      "ilustrasi": "quran"
+     }
+    ],
+    "faedah": {
+     "narasi": "Tugas utama seorang da'i adalah menyampaikan kebenaran, bukan memaksakan hasil kepada manusia.",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "lentera"
+    },
+    "penutup": {
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfstAkZDjes/",
+   "fb": "https://www.facebook.com/reel/1435913488719471",
+   "yt": "https://youtube.com/shorts/ypthsMGKjSw",
+   "waktu_posting": "2026-11-13T22:28:46"
   },
   {
    "menit": "20:14",

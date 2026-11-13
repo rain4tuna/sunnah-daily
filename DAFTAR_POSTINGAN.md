@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 80 video. Waktu dalam WIB, terbaru di atas.
+Total: 81 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 14 Nov 2026 05.28 | ep011-05 | Tuntutan Naik Tangga ke Langit | QS. Al-Isra: 93 | [IG](https://www.instagram.com/reel/DfstAkZDjes/) · [YouTube](https://youtube.com/shorts/ypthsMGKjSw) · [FB](https://www.facebook.com/reel/1435913488719471) |
 | 13 Nov 2026 21.24 | ep011-04 | Tuntutan Mustahil Musyrikin Kota Makkah | Tafsir Ath-Thabari (riwayat Ibnu Ishaq) (lemah) | [IG](https://www.instagram.com/reel/Dfr1kvEGlTW/) · [YouTube](https://youtube.com/shorts/9XBZK7ktMDw) · [FB](https://www.facebook.com/reel/1650424023231769) |
 | 13 Nov 2026 18.57 | h013 | Kunci Delapan Pintu Surga | HR. Muslim no. 234 (shahih) | [IG](https://www.instagram.com/reel/DfrkxYFiL6M/) · [YouTube](https://youtube.com/shorts/ioZm-eBWiaA) · [FB](https://www.facebook.com/reel/1141850578243939) |
 | 13 Nov 2026 15.50 | ep011-03 | Wajah Berubah Usai Dengar Al-Qur'an | Sirah Nabawiyah Ibnu Hisyam (hasan) | [IG](https://www.instagram.com/reel/DfrPJB9j4kJ/) · [YouTube](https://youtube.com/shorts/ftDHnBFzdrw) |
