@@ -50,9 +50,9 @@ menulis prompt `episode-NN` (Gemini menonton videonya di chat); kisahnya lalu di
 
 ## Template Remotion (`GAYA=remotion`)
 
-Template kedua: motion graphic gelap-emas dengan ilustrasi SVG yang bergerak (proyek di `remotion/`, jembatannya
-`remotion_video.py`). Template lama tetap default; pilih lewat input `gaya` saat Run workflow, atau ubah
-`GAYA_TEMPLATE` di `buat-video.yml` untuk jadwal otomatis.
+Template utama sejak 13/11/2026 untuk seri Sirah maupun Sunnah Harian: motion graphic gelap-emas dengan ilustrasi
+SVG yang bergerak (proyek di `remotion/`, jembatannya `remotion_video.py`). Template lama (Animasi Ikon) tetap ada:
+pilih `gaya = ikon` saat Run workflow, atau ubah `GAYA_TEMPLATE` di `buat-video.yml` untuk jadwal otomatis.
 
 - **Ilustrasi dipilih otomatis.** `storyboard_ikon.py` meminta Gemini memilih satu ilustrasi per babak dari daftar
   `ILUSTRASI` (15 adegan: badai, kota_malam, quran, kafilah, kabah, masjid, gua, majelis, lentera, fajar, air,

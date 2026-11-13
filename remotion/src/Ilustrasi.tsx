@@ -545,7 +545,7 @@ const LANGIT: Partial<Record<JenisIlustrasi, [string, string]>> = {
 };
 // Tempat tokoh berdiri (x, skala) per adegan; adegan yang sudah penuh tidak diberi tokoh.
 const TEMPAT_TOKOH: Partial<Record<JenisIlustrasi, [number, number]>> = {
-  badai: [650, 1.02], kota_malam: [700, 0.9], kabah: [800, 0.7], kafilah: [760, 0.82], masjid: [780, 0.62], gua: [250, 0.8], lentera: [730, 0.86],
+  badai: [650, 1.02], kota_malam: [700, 0.9], kabah: [735, 0.66], kafilah: [760, 0.82], masjid: [780, 0.62], gua: [250, 0.8], lentera: [730, 0.86],
   fajar: [700, 0.9], air: [730, 0.86], hidangan: [770, 0.8], pintu: [720, 0.82], quran: [760, 0.8], hati: [760, 0.8],
 };
 

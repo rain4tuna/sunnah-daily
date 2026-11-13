@@ -26,7 +26,7 @@ on:
         required: false
         default: ''
       gaya:
-        description: 'ikon = template lama | remotion = ilustrasi bergerak (kosong = ikon)'
+        description: 'remotion = ilustrasi bergerak | ikon = template lama (kosong = remotion)'
         required: false
         default: ''
       gaya_ikon:
@@ -59,7 +59,7 @@ concurrency:
 
 env:
   # Template untuk jadwal otomatis diatur di sini (ikon | remotion); input "gaya" hanya berlaku untuk run manual.
-  GAYA_TEMPLATE: ${{ github.event.inputs.gaya || 'ikon' }}
+  GAYA_TEMPLATE: ${{ github.event.inputs.gaya || 'remotion' }}
 
 jobs:
   video:
