@@ -715,7 +715,7 @@
    ],
    "id": "h013",
    "topik": "Doa setelah wudhu",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -723,7 +723,71 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu menyadari ada satu amalan doa singkat yang sanggup membuka semua pintu surga?",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "pintu",
+     "tokoh": "berdiri"
+    },
+    "poin": [
+     {
+      "narasi": "Amalannya sangat mudah, cukup membaca doa setiap kali kita selesai berwudhu.",
+      "label": "Doa Setelah Berwudhu",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "air",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Pastikan kita menyempurnakan wudhu sesuai sunnah Rasulullah ﷺ sebelum melafalkannya.",
+      "label": "Sempurnakan Wudhu Sesuai Sunnah",
+      "ikon": [
+       "tetes_air",
+       "cahaya"
+      ],
+      "ilustrasi": "masjid"
+     },
+     {
+      "narasi": "Lalu bacalah kalimat syahadat yang diajarkan beliau tanpa perlu ditambah-tambah.",
+      "label": "Baca Syahadat Tanpa Tambahan",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati"
+     },
+     {
+      "narasi": "Keutamaannya begitu agung, delapan pintu surga akan dibukakan dan kita bebas memilih pintu mana saja.",
+      "label": "Delapan Pintu Surga Terbuka",
+      "ikon": [
+       "pintu",
+       "bintang"
+      ],
+      "ilustrasi": "fajar",
+      "tokoh": "berdoa"
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari biasakan membaca doa tauhid ini setiap kali selesai berwudhu.",
+     "ikon": [
+      "tasbih"
+     ],
+     "ilustrasi": "lentera",
+     "tokoh": "berdoa"
+    },
+    "penutup": {
+     "ajakan": "Tulis aamiin di komentar",
+     "narasi": "Tulis aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfrkxYFiL6M/",
+   "fb": "https://www.facebook.com/reel/1141850578243939",
+   "yt": "https://youtube.com/shorts/ioZm-eBWiaA",
+   "waktu_posting": "2026-11-13T11:57:44"
   },
   {
    "judul_hook": "Jangan Diam Saat Saudaramu Bersin!",

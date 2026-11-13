@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 78 video. Waktu dalam WIB, terbaru di atas.
+Total: 79 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 13 Nov 2026 18.57 | h013 | Kunci Delapan Pintu Surga | HR. Muslim no. 234 (shahih) | [IG](https://www.instagram.com/reel/DfrkxYFiL6M/) · [YouTube](https://youtube.com/shorts/ioZm-eBWiaA) · [FB](https://www.facebook.com/reel/1141850578243939) |
 | 13 Nov 2026 15.50 | ep011-03 | Wajah Berubah Usai Dengar Al-Qur'an | Sirah Nabawiyah Ibnu Hisyam (hasan) | [IG](https://www.instagram.com/reel/DfrPJB9j4kJ/) · [YouTube](https://youtube.com/shorts/ftDHnBFzdrw) |
 | 13 Nov 2026 11.55 | h012 | Ingin Punya Rumah di Surga? | HR. Muslim no. 728 (shahih) | [IG](https://www.instagram.com/reel/Dfq0SsbmbnH/) · [YouTube](https://youtube.com/shorts/4sHdGvk1Ul4) |
 | 13 Nov 2026 05.24 | ep011-02 | Gemetar Mendengar Ancaman Petir Al-Qur'an | QS. Fussilat: 13 | [IG](https://www.instagram.com/reel/DfqHjoODLqy/) · [YouTube](https://youtube.com/shorts/n-0avh4ipSw) |
