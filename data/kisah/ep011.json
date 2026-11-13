@@ -314,7 +314,7 @@
     "Hati yang Keras"
    ],
    "id": "ep011-04",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Riwayat ini sering disebutkan dalam kitab-kitab Sirah dan Tafsir (seperti Thabari dan Ibnu Hisyam) melalui jalur Ibnu Ishaq, status sanadnya lemah (dhaif) karena terputus, namun maknanya sejalan dengan ayat Al-Qur'an (Al-Isra) terkait permintaan mukjizat kaum musyrikin.",
@@ -322,7 +322,61 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa kaum Quraisy nekat mengajukan syarat yang sangat tidak masuk akal?",
+     "ikon": [
+      "gunung"
+     ],
+     "ilustrasi": "kota_malam",
+     "tokoh": "berdiri"
+    },
+    "poin": [
+     {
+      "narasi": "Setelah bujukan mereka gagal, kaum Quraisy berganti taktik dengan menuntut bukti mukjizat yang mengada-ada.",
+      "label": "Taktik Baru Kaum Quraisy",
+      "ikon": [
+       "gulungan"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Mereka meminta Nabi ﷺ menyingkirkan gunung-gunung Makkah agar tanahnya luas, serta memancarkan sungai seperti di Syam dan Irak.",
+      "label": "Tuntutan Singkirkan Gunung Makkah",
+      "ikon": [
+       "gunung",
+       "tetes_air"
+      ],
+      "ilustrasi": "air"
+     },
+     {
+      "narasi": "Bahkan, mereka meminta leluhur mereka, Qushay bin Kilab, dibangkitkan dari kubur demi memvalidasi kebenaran risalah Nabi ﷺ.",
+      "label": "Syarat Bangkitkan Leluhur Mereka",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "badai"
+     }
+    ],
+    "faedah": {
+     "narasi": "Orang yang hatinya menolak kebenaran akan selalu mencari dalih dengan tuntutan yang mengada-ada.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "takut"
+    },
+    "penutup": {
+     "ajakan": "Bagikan renungan ini ke sahabatmu",
+     "narasi": "Bagikan renungan ini ke sahabatmu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfr1kvEGlTW/",
+   "fb": "https://www.facebook.com/reel/1650424023231769",
+   "yt": "https://youtube.com/shorts/9XBZK7ktMDw",
+   "waktu_posting": "2026-11-13T14:24:32"
   },
   {
    "menit": "14:38",
