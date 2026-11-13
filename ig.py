@@ -1,6 +1,8 @@
 """Instagram Graph API (lewat token system user / halaman Facebook)."""
 import json
 import os
+import shutil
+import subprocess
 import time
 import urllib.error
 import urllib.parse
@@ -69,6 +71,19 @@ def tunggu_container(cid, maks_detik=300):
     raise IGError(f'container {cid} belum selesai setelah {maks_detik} detik')
 
 
+def _upload_curl(url, h, path, ke):
+    """Unggah lewat curl; HTTP >= 400 dilempar sebagai IGError berisi badan respons."""
+    perintah = ['curl', '-sS', '-X', 'POST', url, '-w', '\n%{http_code}', '--max-time', '600',
+                '--data-binary', f'@{path}']
+    for k, v in h.items():
+        perintah += ['-H', f'{k}: {v}']
+    r = subprocess.run(perintah, capture_output=True, text=True)
+    badan, _, kode = (r.stdout or '').rpartition('\n')
+    if r.returncode != 0 or not kode.isdigit() or int(kode) >= 400:
+        raise IGError(f'curl HTTP {kode or "?"} {badan[:160]} {r.stderr[:120]}'.strip())
+    print(f'   upload ok curl (percobaan {ke}): {badan[:120]}', flush=True)
+
+
 def posting_reel_berkas(ig_id, path, caption, share_to_feed=True, percobaan=4):
     """Unggah Reel langsung dari berkas lokal (resumable upload), tanpa hosting luar.
     Upload kadang gagal sementara di sisi Meta (ProcessingFailedError); container yang gagal tidak bisa
@@ -81,14 +96,17 @@ def posting_reel_berkas(ig_id, path, caption, share_to_feed=True, percobaan=4):
         c = post(f'{ig_id}/media', media_type='REELS', upload_type='resumable', caption=caption,
                  share_to_feed='true' if share_to_feed else 'false', thumb_offset='800')
         cid = c['id']
+        url = f'https://rupload.facebook.com/ig-api-upload/{VERSI}/{cid}'
         h = {'Authorization': f'OAuth {os.environ["IG_TOKEN"]}', 'offset': '0', 'file_size': str(ukuran)}
-        if i % 2:
-            h['Content-Type'] = 'application/octet-stream'
-        req = urllib.request.Request(f'https://rupload.facebook.com/ig-api-upload/{VERSI}/{cid}',
-                                     data=data, method='POST', headers=h)
         try:
-            with urllib.request.urlopen(req, timeout=600) as r:
-                print(f'   upload ok (percobaan {i + 1}): {r.read()[:120]!r}', flush=True)
+            if i % 2 == 0 and shutil.which('curl'):
+                # persis contoh resmi Meta: curl --data-binary (urllib selalu ditolak ProcessingFailedError)
+                _upload_curl(url, h, path, i + 1)
+            else:
+                req = urllib.request.Request(url, data=data, method='POST',
+                                             headers={**h, 'Content-Type': 'application/octet-stream'})
+                with urllib.request.urlopen(req, timeout=600) as r:
+                    print(f'   upload ok urllib (percobaan {i + 1}): {r.read()[:120]!r}', flush=True)
             tunggu_container(cid, 600)
             return post(f'{ig_id}/media_publish', creation_id=cid)['id']
         except urllib.error.HTTPError as e:

@@ -124,8 +124,8 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None):
                     raise RuntimeError(f'Remotion gagal merender frame {a}-{b}')
                 log(f'   Remotion {b + 1}/{n} frame')
                 lst.write(f"file '{pot.replace(os.sep, '/')}'\n")
-        # Encode ulang ke yuv420p rentang standar (tv): keluaran Remotion berformat yuvj420p "full range", yang ditolak
-        # unggahan langsung Instagram (ProcessingFailedError). Sekaligus memperkecil berkas sekitar separuhnya.
+        # Encode ulang ke yuv420p rentang standar (tv), format paling aman untuk IG/FB/YouTube; berkas juga jadi
+        # sekitar separuhnya.
         subprocess.run([*_ffmpeg(), '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', daftar, '-i', wav,
                         '-map', '0:v', '-map', '1:a',
                         '-vf', 'scale=out_range=tv:out_color_matrix=bt709,format=yuv420p',
