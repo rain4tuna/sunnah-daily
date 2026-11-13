@@ -78,7 +78,7 @@ def path_ep(no):
 def ekstrak(no, judul, url, n=8):
     p = path_ep(no)
     if os.path.exists(p):
-        with open(p) as f:
+        with open(p, encoding='utf-8') as f:
             return json.load(f)
     latar = ', '.join(f'{k} ({v})' for k, v in ilustrasi.LATAR.items())
     gemini.log(f'Menonton episode {no}: {judul}')
@@ -94,22 +94,39 @@ def ekstrak(no, judul, url, n=8):
 
 def simpan(data):
     os.makedirs(DIR, exist_ok=True)
-    with open(path_ep(data['episode']), 'w') as f:
+    with open(path_ep(data['episode']), 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 
-def verifikasi(k):
-    """Cek dalil & kisah. Mengubah k di tempat, kembalikan True kalau layak tayang."""
+def prompt_cek(k):
     narasi = ' '.join([k.get('narasi_hook', '')] + [a['narasi'] for a in k.get('adegan', [])])
-    teks, sumber = gemini.cari(PROMPT_CEK.format(narasi=narasi, dalil=json.dumps(k['dalil'], ensure_ascii=False)))
-    hasil = gemini.ambil_json(teks)
+    return PROMPT_CEK.format(narasi=narasi, dalil=json.dumps(k['dalil'], ensure_ascii=False))
+
+
+def verifikasi(k):
+    """Cek dalil & kisah lewat Gemini + Google Search. Mengubah k di tempat, kembalikan True kalau layak tayang."""
+    teks, sumber = gemini.cari(prompt_cek(k))
+    return terapkan_cek(k, gemini.ambil_json(teks), [s['uri'] for s in sumber[:6]])
+
+
+def aturan_layak(k, harian=False):
+    """Aturan tambahan setelah cek: kisah dari riwayat lemah tidak tayang; Sunnah Harian hanya shahih/hasan."""
+    if (k.get('cek') or {}).get('kisah_lemah'):
+        k['layak'] = False
+    if harian and (k.get('dalil') or {}).get('derajat') in ('lemah', 'palsu'):
+        k['layak'] = False
+    return k['layak']
+
+
+def terapkan_cek(k, hasil, sumber_cek=()):
+    """Pasang jawaban pemeriksa dalil (dari API atau dari stok manual) ke kisah k."""
     dl = hasil.get('dalil') or {}
     if not dl.get('terjemah') or not dl.get('sumber'):
         raise ValueError('verifikasi tanpa dalil yang lengkap')
     dl['derajat'] = (dl.get('derajat') or '').lower().replace('dhaif', 'lemah').replace("dha'if", 'lemah')
     k['dalil'] = dl
     k['cek'] = {'kisah_lemah': hasil.get('kisah_lemah'), 'catatan': hasil.get('catatan_kisah', ''),
-                'sumber_cek': [s['uri'] for s in sumber[:6]]}
+                'sumber_cek': list(sumber_cek)}
     pengganti = hasil.get('narasi_perbaikan') or []
     if pengganti and len(pengganti) == len(k['adegan']):
         for a, n in zip(k['adegan'], pengganti):

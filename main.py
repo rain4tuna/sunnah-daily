@@ -227,10 +227,7 @@ def main():
             except Exception as e:
                 log(f'   verifikasi gagal: {e}')
                 k['layak'] = False
-            if (k.get('cek') or {}).get('kisah_lemah'):
-                k['layak'] = False
-            if seri_v == 'harian' and (k.get('dalil') or {}).get('derajat') in ('lemah', 'palsu'):
-                k['layak'] = False          # amalan harian hanya dari dalil shahih/hasan
+            ekstrak.aturan_layak(k, harian=seri_v == 'harian')
             simpan(data)
         if k.get('layak'):
             break

@@ -43,19 +43,19 @@ Kembalikan JSON saja:
 
 def muat():
     if os.path.exists(PATH):
-        with open(PATH) as f:
+        with open(PATH, encoding='utf-8') as f:
             return json.load(f)
     return {'seri': 'harian', 'judul': 'Sunnah Harian', 'url': '', 'kisah': []}
 
 
 def simpan(data):
     os.makedirs(ekstrak.DIR, exist_ok=True)
-    with open(PATH, 'w') as f:
+    with open(PATH, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=1)
 
 
 def daftar_topik():
-    with open(TOPIK) as f:
+    with open(TOPIK, encoding='utf-8') as f:
         return [r for r in csv.DictReader(f)]
 
 
@@ -63,6 +63,20 @@ def tulis(topik, kategori):
     teks, sumber = gemini.cari(PROMPT.format(topik=topik, kategori=kategori))
     k = gemini.ambil_json(teks)
     k['sumber_riset'] = [s['uri'] for s in sumber[:6]]
+    return k
+
+
+def id_topik(t):
+    return f"h{int(t['No']):03d}"
+
+
+def pasang(data, t, k):
+    """Masukkan materi k (hasil riset topik t, dari API atau stok manual) ke data; dalilnya belum dicek."""
+    k['id'] = id_topik(t)
+    k['topik'] = t['Topik']
+    k['status'] = 'Belum' if k.get('layak', True) and k.get('adegan') and k.get('dalil') else 'Dilewati'
+    k.pop('layak', None)
+    data['kisah'] = [x for x in data['kisah'] if x['id'] != k['id']] + [k]
     return k
 
 
@@ -86,11 +100,7 @@ def pilih(no=None):
         except Exception as e:
             gemini.log(f'   gagal menulis materi: {e}')
             continue
-        k['id'] = f"h{int(t['No']):03d}"
-        k['topik'] = t['Topik']
-        k['status'] = 'Belum' if k.get('layak', True) and k.get('adegan') and k.get('dalil') else 'Dilewati'
-        k.pop('layak', None)
-        data['kisah'] = [x for x in data['kisah'] if x['id'] != k['id']] + [k]
+        pasang(data, t, k)
         simpan(data)
         if k['status'] == 'Belum':
             return data, k
