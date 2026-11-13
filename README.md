@@ -45,5 +45,5 @@ punya `layak` langsung dipakai. Kalau stok habis, workflow kembali riset/cek lew
 5. Baca perubahannya (`git diff data/kisah`), lalu commit dan push ke `main`.
 
 `python stok.py status` menampilkan sisa stok. Kebutuhan per hari: 3 kisah Sirah dan 2 Sunnah Harian.
-Folder `stok/` tidak ikut ke repo. Episode Sirah baru tetap diekstrak lewat API (Gemini menonton videonya),
-1 panggilan per 8 kisah.
+Folder `stok/` tidak ikut ke repo. Episode Sirah baru bisa ikut distok: `python stok.py minta --episode 2`
+menulis prompt `episode-NN` (Gemini menonton videonya di chat); kisahnya lalu dicek di putaran berikutnya.

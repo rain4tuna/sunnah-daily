@@ -8,9 +8,10 @@ lagi. Kalau stok habis, workflow otomatis kembali riset/cek lewat API seperti bi
   python stok.py gabung   baca jawaban JSON di stok/jawab/ lalu pasang ke data/kisah
 
 Pilihan untuk minta: --cek N (maks kisah dicek, default 12), --riset N (maks topik Sunnah Harian, default 8),
---per N (jumlah tugas per file prompt, default 4).
+--episode N (maks episode Sirah baru yang diekstrak dari videonya, default 0), --per N (tugas per file, default 4).
 """
 import argparse
+import csv
 import glob
 import json
 import os
@@ -55,6 +56,16 @@ def topik_tersisa():
     return [t for t in harian.daftar_topik() if t['Topik'] not in sudah]
 
 
+def episode_baru():
+    """Episode Sirah yang belum diekstrak (belum punya data/kisah/epNNN.json), berurutan."""
+    with open(os.path.join(ROOT, 'data', 'episode.csv'), encoding='utf-8') as f:
+        return [e for e in csv.DictReader(f) if not os.path.exists(ekstrak.path_ep(e['No']))]
+
+
+def id_ep(e):
+    return f"ep{int(e['No']):03d}"
+
+
 def status():
     siap = {'Sirah': 0, 'Sunnah Harian': 0}
     belum = dict(siap)
@@ -70,6 +81,7 @@ def status():
         print(f'{nama}: {siap[nama]} siap tayang (cukup ~{siap[nama] / per_hari[nama]:.1f} hari), '
               f'{belum[nama]} menunggu cek dalil')
     print(f'Topik Sunnah Harian yang belum diriset: {len(topik_tersisa())}')
+    print(f'Episode Sirah yang belum diekstrak: {len(episode_baru())}')
 
 
 def tulis_prompt(awalan, tugas, per):
@@ -85,14 +97,17 @@ def tulis_prompt(awalan, tugas, per):
     return berkas
 
 
-def minta(maks_cek, maks_riset, per):
+def minta(maks_cek, maks_riset, maks_episode, per):
     cek = [(k['id'], ekstrak.prompt_cek(k)) for data, _ in semua_data() for k in data['kisah'] if perlu_cek(k)]
     riset = [(harian.id_topik(t), harian.PROMPT.format(topik=t['Topik'], kategori=t.get('Kategori', '')))
              for t in topik_tersisa()]
+    tonton = [(id_ep(e), f"Tonton video YouTube ini sampai habis: {e['Link']}\n\n"
+               + ekstrak.prompt_ekstrak(e['Judul Episode'])) for e in episode_baru()]
     shutil.rmtree(MINTA, ignore_errors=True)
     for d in (MINTA, JAWAB):
         os.makedirs(d, exist_ok=True)
-    berkas = tulis_prompt('cek', cek[:maks_cek], per) + tulis_prompt('riset', riset[:maks_riset], per)
+    berkas = (tulis_prompt('cek', cek[:maks_cek], per) + tulis_prompt('riset', riset[:maks_riset], per)
+              + tulis_prompt('episode', tonton[:maks_episode], 1))
     if not berkas:
         print('Tidak ada yang perlu dicek atau diriset.')
         return
@@ -101,7 +116,8 @@ def minta(maks_cek, maks_riset, per):
     print(f'\n1. Buka tiap file di atas, tempel isinya ke chat Gemini BARU (satu file = satu chat).\n'
           f'2. Simpan jawaban JSON-nya sebagai file di {os.path.relpath(JAWAB, ROOT)} (nama bebas, mis. cek-01.json).\n'
           f'3. Jalankan: python stok.py gabung\n'
-          f'Topik yang baru diriset masih perlu dicek dalilnya: jalankan minta sekali lagi setelah gabung.')
+          f'Topik yang baru diriset dan episode yang baru diekstrak masih perlu dicek dalilnya:\n'
+          f'jalankan minta sekali lagi setelah gabung.')
 
 
 def daftar_hasil(teks):
@@ -124,6 +140,17 @@ def pasang_riset(h, topik, data_harian):
     if k['status'] == 'Belum':
         return f"materi masuk, dalil BELUM dicek: {k.get('judul_hook', '')}"
     return f"DILEWATI (tidak ada dalil shahih): {k.get('alasan', '')}"
+
+
+def pasang_episode(h, semua):
+    e = next((x for x in episode_baru() if id_ep(x) == h['id']), None)
+    if not e:
+        return 'episode sudah ada atau id tidak dikenal, tidak ditimpa'
+    kisah = [k for k in h['kisah'] if isinstance(k, dict) and k.get('adegan') and k.get('dalil')]
+    if not kisah:
+        raise ValueError('tidak ada kisah yang lengkap (adegan + dalil)')
+    semua.append((ekstrak.bentuk(e['No'], e['Judul Episode'], e['Link'], kisah), ekstrak.simpan))
+    return f'{len(kisah)} kisah masuk, dalil BELUM dicek'
 
 
 def pasang_cek(h, k, harian_kah):
@@ -166,7 +193,9 @@ def gabung():
                 if not id_:
                     raise ValueError('tanpa id')
                 h['id'] = id_
-                if 'adegan' in h:
+                if isinstance(h.get('kisah'), list):
+                    pesan = pasang_episode(h, semua)
+                elif 'adegan' in h:
                     pesan = pasang_riset(h, topik, data_harian)
                 else:
                     cocok = [(d, k) for d, _ in semua for k in d['kisah'] if k.get('id') == id_]
@@ -196,11 +225,12 @@ if __name__ == '__main__':
     ap.add_argument('perintah', choices=['status', 'minta', 'gabung'])
     ap.add_argument('--cek', type=int, default=12)
     ap.add_argument('--riset', type=int, default=8)
+    ap.add_argument('--episode', type=int, default=0)
     ap.add_argument('--per', type=int, default=4)
     a = ap.parse_args()
     if a.perintah == 'status':
         status()
     elif a.perintah == 'minta':
-        minta(a.cek, a.riset, max(1, a.per))
+        minta(a.cek, a.riset, a.episode, max(1, a.per))
     else:
         gabung()

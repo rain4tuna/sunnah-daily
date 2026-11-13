@@ -80,15 +80,24 @@ def ekstrak(no, judul, url, n=8):
     if os.path.exists(p):
         with open(p, encoding='utf-8') as f:
             return json.load(f)
-    latar = ', '.join(f'{k} ({v})' for k, v in ilustrasi.LATAR.items())
     gemini.log(f'Menonton episode {no}: {judul}')
-    hasil = gemini.teks(PROMPT_EKSTRAK.format(judul=judul, n=n, latar=latar), video=url, suhu=0.3)
-    kisah = hasil.get('kisah') if isinstance(hasil, dict) else hasil
+    hasil = gemini.teks(prompt_ekstrak(judul, n), video=url, suhu=0.3)
+    data = bentuk(no, judul, url, hasil.get('kisah') if isinstance(hasil, dict) else hasil)
+    simpan(data)
+    return data
+
+
+def prompt_ekstrak(judul, n=8):
+    latar = ', '.join(f'{k} ({v})' for k, v in ilustrasi.LATAR.items())
+    return PROMPT_EKSTRAK.format(judul=judul, n=n, latar=latar)
+
+
+def bentuk(no, judul, url, kisah):
+    """Data episode dari daftar kisah hasil ekstraksi (API atau stok manual); semua berstatus Belum."""
     data = {'episode': int(no), 'judul': judul, 'url': url, 'kisah': kisah or []}
     for i, k in enumerate(data['kisah']):
         k['id'] = f'ep{int(no):03d}-{i + 1:02d}'
         k['status'] = 'Belum'
-    simpan(data)
     return data
 
 
