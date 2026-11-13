@@ -202,11 +202,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
+    "arab": "وَاللَّهِ لَقَدْ سَمِعْتُ قَوْلًا مَا سَمِعْتُ مِثْلَهُ قَطُّ، وَاللَّهِ مَا هُوَ بِالشِّعْرِ، وَلَا بِالسِّحْرِ، وَلَا بِالْكِهَانَةِ",
     "terjemah": "Demi Allah, aku telah mendengar perkataan yang belum pernah kudengar semisalnya sama sekali. Demi Allah, itu bukan syair, bukan sihir, dan bukan tenung.",
     "sumber": "Sirah Nabawiyah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://almanhaj.or.id/"
    },
    "faedah": "Kebenaran itu nyata dan diakui nurani, meski hawa nafsu menolak untuk tunduk.",
    "latar_faedah": "lentera",
@@ -216,7 +217,15 @@
     "Hidayah"
    ],
    "id": "ep011-03",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "11:25",
@@ -238,12 +247,13 @@
     }
    ],
    "dalil": {
-    "jenis": "ayat",
-    "arab": "",
+    "jenis": "hadits",
+    "arab": "مَا بِهَذَا بُعِثْتُ إِلَيْكُمْ، إِنَّمَا بَلَّغْتُكُمْ مَا أُرْسِلْتُ بِهِ",
     "terjemah": "Bukan untuk ini aku diutus kepada kalian, melainkan aku menyampaikan apa yang diutus Allah kepadaku.",
     "sumber": "Tafsir Ath-Thabari (riwayat Ibnu Ishaq)",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "lemah",
+    "penilai": "Ulama Hadits (Riwayat Mursal/Dhaif)",
+    "rujukan": "https://tafsirweb.com/"
    },
    "faedah": "Orang yang hatinya menolak kebenaran selalu mencari dalih dengan tuntutan yang mengada-ada.",
    "latar_faedah": "kota",
@@ -253,7 +263,15 @@
     "Hati yang Keras"
    ],
    "id": "ep011-04",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Riwayat ini sering disebutkan dalam kitab-kitab Sirah dan Tafsir (seperti Thabari dan Ibnu Hisyam) melalui jalur Ibnu Ishaq, status sanadnya lemah (dhaif) karena terputus, namun maknanya sejalan dengan ayat Al-Qur'an (Al-Isra) terkait permintaan mukjizat kaum musyrikin.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "14:38",
@@ -276,11 +294,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "قُلْ سُبْحَانَ رَبِّى هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+    "arab": "قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
     "terjemah": "Katakanlah: 'Maha Suci Tuhanku, bukankah aku ini hanya seorang manusia yang menjadi rasul?'",
     "sumber": "QS. Al-Isra: 93",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/surah/17/93"
    },
    "faedah": "Tugas utama seorang da'i adalah menyampaikan kebenaran, bukan memaksakan hasil kepada manusia.",
    "latar_faedah": "kitab",
@@ -290,7 +309,15 @@
     "Kekuasaan Allah"
    ],
    "id": "ep011-05",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "20:14",
@@ -313,11 +340,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَمَن يَخْرُجْ مِنۢ بَيْتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدْرِكْهُ ٱلْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُۥ عَلَى ٱللَّهِ",
+    "arab": "وَمَن يَخْرُجْ مِن بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ",
     "terjemah": "Barang siapa keluar dari rumahnya dengan maksud berhijrah karena Allah dan Rasul-Nya, kemudian kematian menimpanya, maka sungguh, pahalanya telah ditetapkan di sisi Allah.",
     "sumber": "QS. An-Nisa: 100",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/surah/4/100"
    },
    "faedah": "Pahala niat ikhlas berhijrah dicatat sempurna di sisi Allah meski ajal lebih dahulu menjemput.",
    "latar_faedah": "lentera",
@@ -327,7 +355,15 @@
     "Ketetapan Ajal"
    ],
    "id": "ep011-06",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "24:00",
@@ -350,11 +386,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Sungguh telah berlindung ke negeri tuan beberapa pemuda bodoh dari kaum kami, mereka meninggalkan agama kaumnya dan tidak pula masuk ke dalam agama tuan.",
+    "arab": "أَيُّهَا الْمَلِكُ، إِنَّهُ قَدْ ضَوَى إِلَى بَلَدِكَ مِنَّا غِلْمَانٌ سُفَهَاءُ، فَارَقُوا دِينَ قَوْمِهِمْ، وَلَمْ يَدْخُلُوا فِي دِينِكَ...",
+    "terjemah": "Wahai Raja, sungguh telah berlindung ke negeri tuan beberapa pemuda bodoh dari kaum kami, mereka meninggalkan agama kaumnya dan tidak pula masuk ke dalam agama tuan.",
     "sumber": "Musnad Ahmad no. 1740",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "hasan",
+    "penilai": "Syu'aib Al-Arnauth",
+    "rujukan": "https://hadits.in/ahmad/1740"
    },
    "faedah": "Keadilan seorang pemimpin sejati tidak akan goyah oleh suap dan provokasi sepihak.",
    "latar_faedah": "kota",
@@ -364,7 +401,15 @@
     "Ujian Hijrah"
    ],
    "id": "ep011-07",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "30:14",
@@ -390,8 +435,9 @@
     "arab": "وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ",
     "terjemah": "Dan apabila mereka mendengarkan apa yang diturunkan kepada Rasul, kamu melihat mata mereka mencucurkan air mata disebabkan kebenaran yang telah mereka ketahui.",
     "sumber": "QS. Al-Ma'idah: 83",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/surah/5/83"
    },
    "faedah": "Kebenaran firman Allah mampu menyatukan hati orang-orang yang tulus mencari petunjuk ilahi.",
    "latar_faedah": "kitab",
@@ -401,7 +447,15 @@
     "Diplomasi Islam"
    ],
    "id": "ep011-08",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   }
  ]
 }

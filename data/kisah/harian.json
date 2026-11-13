@@ -573,6 +573,747 @@
    "ig": "https://www.instagram.com/reel/Dfo_4yAES9n/",
    "yt": "https://youtube.com/shorts/vTNi4y1vd5w",
    "waktu_posting": "2026-11-12T11:58:45"
+  },
+  {
+   "judul_hook": "Ingin Punya Rumah di Surga?",
+   "narasi_hook": "Bayangkan, kamu bisa punya rumah sendiri di surga cuma dengan amalan harian ini.",
+   "adegan": [
+    {
+     "narasi": "Nabi ﷺ mengajarkan kita untuk menjaga shalat sunnah rawatib."
+    },
+    {
+     "narasi": "Totalnya ada dua belas rakaat dalam sehari semalam yang mengiringi shalat fardhu."
+    },
+    {
+     "narasi": "Rinciannya adalah empat rakaat sebelum Dzuhur, dua sesudahnya, dua setelah Maghrib, dua setelah Isya, dan dua sebelum Subuh."
+    },
+    {
+     "narasi": "Siapa yang rutin mengerjakannya, Allah janjikan dibangunkan sebuah rumah di surga."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ صَلَّى اثْنَتَيْ عَشْرَةَ رَكْعَةً فِي يَوْمٍ وَلَيْلَةٍ بُنِيَ لَهُ بِهِنَّ بَيْتٌ فِي الْجَنَّةِ",
+    "terjemah": "Barangsiapa mengerjakan shalat (sunnah) dua belas rakaat dalam sehari semalam, niscaya dibangunkan untuknya sebuah rumah di surga.",
+    "sumber": "HR. Muslim no. 728",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:728"
+   },
+   "faedah": "Yuk, mulai jaga shalat rawatib dua belas rakaat dari sekarang!",
+   "tema": [
+    "Shalat Sunnah",
+    "Rawatib",
+    "Pahala Surga"
+   ],
+   "alasan": "Terdapat dalil yang jelas dan shahih dari riwayat Muslim tentang keutamaan shalat rawatib 12 rakaat.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h012",
+   "topik": "Shalat sunnah rawatib",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Kunci Delapan Pintu Surga",
+   "narasi_hook": "Pernahkah kamu sadar kalau satu doa singkat ini bisa membuka semua pintu surga?",
+   "adegan": [
+    {
+     "narasi": "Amalannya sangat mudah, yaitu membaca doa setiap kali kita selesai berwudhu."
+    },
+    {
+     "narasi": "Pastikan wudhu kita sempurna sesuai sunnah Rasulullah ﷺ sebelum membacanya."
+    },
+    {
+     "narasi": "Lalu bacalah syahadat yang diajarkan beliau tanpa perlu ditambah-tambah."
+    },
+    {
+     "narasi": "Keutamaannya luar biasa, delapan pintu surga terbuka dan kita bebas masuk dari mana saja."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَا مِنْكُمْ مِنْ أَحَدٍ يَتَوَضَّأُ فَيُسْبِغُ الْوُضُوءَ ثُمَّ يَقُولُ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ... إِلَّا فُتِحَتْ لَهُ أَبْوَابُ الْجَنَّةِ الثَّمَانِيَةُ",
+    "terjemah": "Tidaklah salah seorang di antara kalian berwudhu lalu menyempurnakan wudhunya, kemudian mengucapkan 'Asyhadu an laa ilaaha illallah...', melainkan akan dibukakan untuknya delapan pintu surga...",
+    "sumber": "HR. Muslim no. 234",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:234"
+   },
+   "faedah": "Biasakan baca doa tauhid ini setiap selesai wudhu, ya!",
+   "tema": [
+    "Wudhu",
+    "Doa",
+    "Pintu Surga"
+   ],
+   "alasan": "Keutamaan doa setelah wudhu didukung dalil shahih riwayat Muslim yang tegas menyebutkan dibukanya 8 pintu surga.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h013",
+   "topik": "Doa setelah wudhu",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Jangan Diam Saat Saudaramu Bersin!",
+   "narasi_hook": "Bersin itu nikmat dari Allah yang punya adab indah dan saling mendoakan di dalamnya.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ mengajarkan, saat kita bersin ucapkanlah Alhamdulillah."
+    },
+    {
+     "narasi": "Bagi saudara muslim yang mendengar, disunnahkan membalas dengan doa Yarhamukallah yang artinya semoga Allah merahmatimu."
+    },
+    {
+     "narasi": "Lalu yang bersin kembali mendoakan dengan kalimat Yahdikumullah wa yushlihu baalakum."
+    },
+    {
+     "narasi": "Saling mendoakan ini menumbuhkan kasih sayang dan ukhuwah antar sesama muslim."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّهِ وَلْيَقُلْ لَهُ أَخُوهُ يَرْحَمُكَ اللَّهُ فَإِذَا قَالَ لَهُ يَرْحَمُكَ اللَّهُ فَلْيَقُلْ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ",
+    "terjemah": "Jika salah seorang dari kalian bersin, hendaklah ia mengucapkan Alhamdulillah, dan hendaklah saudaranya mengucapkan Yarhamukallah. Jika saudaranya mengucapkan Yarhamukallah, hendaklah ia membalas Yahdikumullah wa yushlihu baalakum.",
+    "sumber": "HR. Bukhari no. 6224",
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:6224"
+   },
+   "faedah": "Yuk hidupkan sunnah saling mendoakan saat bersin ini setiap hari!",
+   "tema": [
+    "Adab Bersin",
+    "Doa",
+    "Hak Muslim"
+   ],
+   "alasan": "Terdapat tata cara dan lafaz mendoakan bersin (tasymit) yang tegas dalam hadits shahih Bukhari.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h014",
+   "topik": "Adab bersin dan mendoakan yang bersin",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Panen Pahala di Samping Orang Sakit",
+   "narasi_hook": "Menjenguk saudara yang sakit ternyata bukan cuma soal empati, tapi juga jalan panen pahala.",
+   "adegan": [
+    {
+     "narasi": "Islam sangat memuliakan adab saling peduli antar sesama muslim yang sedang diuji kesakitan."
+    },
+    {
+     "narasi": "Saat kita melangkahkan kaki untuk menjenguk, ada keutamaan sangat besar menanti di sana."
+    },
+    {
+     "narasi": "Rasulullah ﷺ menyebutkan bahwa orang yang menjenguk orang sakit itu ibarat sedang berada di kebun surga."
+    },
+    {
+     "narasi": "Pahala ini akan terus ia dapatkan sampai ia melangkah kembali pulang ke rumah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ عَادَ مَرِيضًا لَمْ يَزَلْ فِي خُرْفَةِ الْجَنَّةِ حَتَّى يَرْجِعَ",
+    "terjemah": "Barangsiapa menjenguk orang sakit, maka ia senantiasa berada di kebun surga hingga ia kembali.",
+    "sumber": "HR. Muslim no. 2568",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:2568"
+   },
+   "faedah": "Luangkan waktu sejenak menjenguk teman yang sakit, raih pahalanya!",
+   "tema": [
+    "Menjenguk Sakit",
+    "Akhlak",
+    "Surga"
+   ],
+   "alasan": "Dalil shahih dari Muslim secara gamblang mengibaratkan menjenguk orang sakit seperti berada di kebun surga.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h015",
+   "topik": "Menjenguk orang sakit",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Jangan Lupa Baca Surah Al-Kahfi",
+   "narasi_hook": "Setiap hari Jumat tiba, ada satu amalan istimewa yang sangat sayang jika kita lewatkan begitu saja.",
+   "adegan": [
+    {
+     "narasi": "Amalan tersebut adalah membaca surah Al-Kahfi, yang bisa kita lakukan pada malam Jumat atau di siang harinya."
+    },
+    {
+     "narasi": "Waktunya sangat luas, kamu bisa membacanya sekaligus atau dicicil perlahan hingga batas waktu Jumat sore sebelum maghrib tiba."
+    },
+    {
+     "narasi": "Nabi ﷺ mengabarkan keutamaannya yang luar biasa, yaitu Allah akan menyinari kita dengan cahaya keberkahan di antara dua Jumat."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ قَرَأَ سُورَةَ الْكَهْفِ فِي يَوْمِ الْجُمُعَةِ أَضَاءَ لَهُ مِنَ النُّورِ مَا بَيْنَ الْجُمُعَتَيْنِ",
+    "terjemah": "Barangsiapa yang membaca surah Al-Kahfi pada hari Jumat, dia akan disinari cahaya di antara dua Jumat.",
+    "sumber": "HR. Al-Hakim (2/399) dan Al-Baihaqi (3/249)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://rumaysho.com/202-jangan-lupakan-membaca-surat-al-kahfi-di-hari-jumat.html"
+   },
+   "faedah": "Yuk, luangkan sedikit waktumu hari ini untuk membaca Al-Kahfi agar hidup makin bercahaya!",
+   "tema": [
+    "surat al-kahfi",
+    "hari jumat",
+    "amalan sunnah"
+   ],
+   "alasan": "Terdapat hadits shahih yang diriwayatkan oleh An-Nasa'i dan Al-Baihaqi tentang anjuran membaca surah Al-Kahfi di hari Jumat.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h020",
+   "topik": "Membaca Al-Kahfi di hari Jumat",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Amalan Mudah Berpahala Sangat Melimpah",
+   "narasi_hook": "Di hari Jumat yang penuh berkah ini, ada amalan ringan di lisan yang sangat dicintai oleh Nabi ﷺ.",
+   "adegan": [
+    {
+     "narasi": "Amalan tersebut adalah memperbanyak membaca shalawat kepada suri tauladan kita, Rasulullah ﷺ."
+    },
+    {
+     "narasi": "Kamu bisa membaca shalawat ini di mana saja, baik saat sedang berjalan, berkendara, atau ketika sedang bersantai."
+    },
+    {
+     "narasi": "Keutamaannya sangat besar, siapa yang bershalawat sekali saja, maka Allah akan membalas dengan bershalawat kepadanya sebanyak sepuluh kali."
+    },
+    {
+     "narasi": "Selain itu, memperbanyak shalawat di hari Jumat akan membuat kita semakin dekat kedudukannya dengan beliau di hari kiamat kelak."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ صَلَّى عَلَيَّ وَاحِدَةً صَلَّى اللهُ عَلَيْهِ عَشْرًا",
+    "terjemah": "Barangsiapa yang bershalawat kepadaku sekali, maka Allah akan bershalawat kepadanya sepuluh kali.",
+    "sumber": "HR. Muslim no. 408",
+    "derajat": "shahih",
+    "penilai": "",
+    "rujukan": "https://rumaysho.com/171-perbanyaklah-shalawat-di-hari-jumat.html"
+   },
+   "faedah": "Tunggu apa lagi? Yuk basahi lisan kita dengan banyak bershalawat sekarang juga!",
+   "tema": [
+    "shalawat",
+    "hari jumat",
+    "amalan ringan"
+   ],
+   "alasan": "Terdapat hadits shahih riwayat Muslim mengenai keutamaan membaca shalawat.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h021",
+   "topik": "Memperbanyak shalawat di hari Jumat",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Cara Masuk Masjid Sesuai Sunnah",
+   "narasi_hook": "Ternyata melangkah masuk ke dalam masjid itu ada adabnya lho menurut sunnah yang diajarkan oleh Nabi ﷺ.",
+   "adegan": [
+    {
+     "narasi": "Langkah pertama yang sangat dianjurkan adalah memastikan kita masuk dengan mendahulukan kaki kanan."
+    },
+    {
+     "narasi": "Setelah itu, jangan lupa untuk membaca doa memohon dibukakan pintu rahmat kepada Allah."
+    },
+    {
+     "narasi": "Dengan menjaga adab sederhana ini, kita sedang mengundang rahmat Allah sejak langkah pertama kita masuk."
+    },
+    {
+     "narasi": "Adab ini menunjukkan betapa mulianya masjid sebagai rumah Allah yang harus kita hormati setiap saat."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلْيَقُلِ: اللَّهُمَّ افْتَحْ لِي أَبْوَابَ رَحْمَتِكَ",
+    "terjemah": "Jika salah seorang di antara kalian masuk masjid, maka ucapkanlah: Ya Allah, bukakanlah pintu-pintu rahmat-Mu untukku.",
+    "sumber": "HR. Muslim no. 713",
+    "derajat": "shahih",
+    "penilai": "",
+    "rujukan": "https://rumaysho.com/12835-adab-masuk-dan-keluar-masjid.html"
+   },
+   "faedah": "Hafalkan doanya dan amalkan selalu setiap kali kamu melangkah ke rumah Allah ya!",
+   "tema": [
+    "adab masjid",
+    "doa masuk masjid",
+    "sunnah nabi"
+   ],
+   "alasan": "Terdapat hadits shahih dari riwayat Muslim yang dengan tegas menyebutkan bacaan doa saat masuk masjid.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h022",
+   "topik": "Masuk masjid dengan kaki kanan dan doanya",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Jangan Langsung Duduk di Masjid",
+   "narasi_hook": "Saat baru masuk ke dalam masjid, tahan dulu niat kamu untuk langsung rebahan atau duduk bersantai.",
+   "adegan": [
+    {
+     "narasi": "Nabi ﷺ sangat menganjurkan kita untuk langsung berdiri mengerjakan shalat sunnah tahiyatul masjid terlebih dahulu."
+    },
+    {
+     "narasi": "Lakukan shalat ringan sebanyak dua rakaat ini sebagai bentuk adab dan penghormatan kita pada rumah Allah."
+    },
+    {
+     "narasi": "Bahkan di hari Jumat saat khatib sudah naik mimbar dan berkhutbah, kita tetap dianjurkan mengerjakannya secara ringkas."
+    },
+    {
+     "narasi": "Jangan sampai kita melewatkan pahala sunnah ini hanya karena terburu-buru ingin segera duduk bersama jamaah yang lain."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا دَخَلَ أَحَدُكُمُ الْمَسْجِدَ فَلَا يَجْلِسْ حَتَّى يُصَلِّيَ رَكْعَتَيْنِ",
+    "terjemah": "Jika salah seorang di antara kalian masuk masjid, maka janganlah ia duduk sampai ia mengerjakan shalat dua rakaat.",
+    "sumber": "HR. Bukhari no. 444 dan Muslim no. 714",
+    "derajat": "shahih",
+    "penilai": "",
+    "rujukan": "https://rumaysho.com/1826-shalat-tahiyatul-masjid.html"
+   },
+   "faedah": "Yuk biasakan shalat dua rakaat dulu setiap kali kakimu melangkah ke dalam masjid!",
+   "tema": [
+    "shalat sunnah",
+    "tahiyatul masjid",
+    "adab masjid"
+   ],
+   "alasan": "Terdapat hadits mutafaqun 'alaih (Bukhari dan Muslim) yang dengan tegas melarang duduk sebelum shalat tahiyatul masjid dua rakaat.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h023",
+   "topik": "Shalat tahiyatul masjid",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Amalan Ringan Berpahala Sangat Besar",
+   "narasi_hook": "Pernah terpikir ada amalan ringan yang pahalanya luar biasa besar dan disukai Allah?",
+   "adegan": [
+    {
+     "narasi": "Ternyata, Rasulullah ﷺ sangat menjaga amalan bersiwak sebelum mendirikan shalat."
+    },
+    {
+     "narasi": "Membersihkan mulut ini bukan sekadar wangi, tapi bentuk penghormatan terbaik saat menghadap Allah."
+    },
+    {
+     "narasi": "Saking pentingnya, beliau ﷺ menyampaikan bahwa seandainya tidak memberatkan, pasti amalan ini sudah diwajibkan lho."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَوْلَا أَنْ أَشُقَّ عَلَى أُمَّتِي لَأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلَاةٍ",
+    "terjemah": "Seandainya tidak memberatkan umatku, niscaya sungguh aku perintahkan mereka bersiwak setiap kali shalat.",
+    "sumber": "HR. Bukhari no. 887",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:887"
+   },
+   "faedah": "Yuk siapkan siwak di sakumu, dan rutinkan sebelum shalat dimulai!",
+   "tema": [
+    "bersiwak",
+    "kebersihan",
+    "sunnah shalat"
+   ],
+   "alasan": "Terdapat dalil shahih riwayat Bukhari dan Muslim yang sangat jelas menganjurkan bersiwak setiap kali shalat.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h008",
+   "topik": "Bersiwak",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Rahasia Sederhana Menuju Pintu Surga",
+   "narasi_hook": "Tahukah kamu rahasia sederhana agar kita saling mencintai karena Allah?",
+   "adegan": [
+    {
+     "narasi": "Nabi ﷺ mengajarkan kita untuk selalu menyebarkan salam kepada sesama muslim."
+    },
+    {
+     "narasi": "Ucapan salam bukan sekadar sapaan biasa, melainkan doa keselamatan dan rahmat untuk saudara kita."
+    },
+    {
+     "narasi": "Bahkan, menyebarkan salam menjadi jalan tumbuhnya iman yang bisa mengantarkan kita ke surga."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَا تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلَا تُؤْمِنُوا حَتَّى تَحَابُّوا... أَفْشُوا السَّلَامَ بَيْنَكُمْ",
+    "terjemah": "Kalian tidak akan masuk surga sampai kalian beriman, dan tidak beriman sampai kalian saling mencintai. Maukah kutunjukkan sesuatu yang jika dilakukan kalian saling mencintai? Sebarkanlah salam di antara kalian.",
+    "sumber": "HR. Muslim no. 54",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:54"
+   },
+   "faedah": "Mari biasakan menebar ucapan salam saat berpapasan dengan saudara muslim lainnya.",
+   "tema": [
+    "menebar salam",
+    "akhlak mulia",
+    "persaudaraan"
+   ],
+   "alasan": "Terdapat dalil shahih riwayat Muslim tentang keutamaan menyebarkan salam sebagai syarat sempurnanya iman.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h009",
+   "topik": "Menyebarkan salam",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Cara Sedekah Gratis Setiap Hari",
+   "narasi_hook": "Pengen rutin bersedekah tiap hari tapi lagi nggak punya uang lebih?",
+   "adegan": [
+    {
+     "narasi": "Tenang saja, dalam Islam sedekah itu sangat luas dan nggak melulu harus pakai harta benda."
+    },
+    {
+     "narasi": "Nabi ﷺ bersabda bahwa sekadar memberikan senyuman kepada saudara kita itu sudah dihitung sebagai sedekah."
+    },
+    {
+     "narasi": "Senyuman yang tulus bisa menenangkan hati orang lain sekaligus mencatatkan pahala buat diri kita sendiri."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ",
+    "terjemah": "Senyummu di hadapan saudaramu adalah sedekah bagimu.",
+    "sumber": "HR. Tirmidzi no. 1956",
+    "derajat": "hasan",
+    "penilai": "At-Tirmidzi",
+    "rujukan": "https://sunnah.com/tirmidhi:1956"
+   },
+   "faedah": "Tebarkan senyum manismu hari ini dan kumpulkan pahala sedekah sebanyak-banyaknya!",
+   "tema": [
+    "senyum",
+    "sedekah",
+    "akhlak"
+   ],
+   "alasan": "Hadits riwayat Tirmidzi ini dinilai hasan shahih dan sangat masyhur diamalkan tentang keutamaan tersenyum.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h010",
+   "topik": "Senyum kepada saudara adalah sedekah",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Dua Rakaat Senilai Ratusan Sedekah",
+   "narasi_hook": "Pagi yang sibuk kadang membuat kita lupa memberikan hak untuk tubuh kita sendiri.",
+   "adegan": [
+    {
+     "narasi": "Padahal, setiap persendian di tubuh kita yang berjumlah ratusan itu berhak mendapatkan sedekah setiap paginya."
+    },
+    {
+     "narasi": "Kabar baiknya, Nabi ﷺ memberi tahu bahwa semua beban sedekah itu bisa dicukupi dengan satu amalan mudah."
+    },
+    {
+     "narasi": "Cukup luangkan waktu sejenak untuk menunaikan dua rakaat shalat Dhuha, maka hak tubuh kita sudah terpenuhi lho."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "يُصْبِحُ عَلَى كُلِّ سُلَامَى مِنْ أَحَدِكُمْ صَدَقَةٌ... وَيُجْزِئُ مِنْ ذَلِكَ رَكْعَتَانِ يَرْكَعُهُمَا مِنَ الضُّحَى",
+    "terjemah": "Setiap persendian dari salah seorang di antara kalian ada sedekahnya... dan itu semua dicukupi dengan dua rakaat shalat Dhuha.",
+    "sumber": "HR. Muslim no. 720",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:720"
+   },
+   "faedah": "Sempatkan rutinkan shalat Dhuha minimal dua rakaat ya, jangan sampai terlewat!",
+   "tema": [
+    "shalat dhuha",
+    "sedekah persendian",
+    "sunnah pagi"
+   ],
+   "alasan": "Hadits riwayat Muslim yang shahih dengan tegas menyebutkan dua rakaat dhuha mencukupi sedekah persendian.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h011",
+   "topik": "Shalat dhuha",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Rahasia di balik hari Senin!",
+   "narasi_hook": "Pernah bertanya-tanya kenapa Rasulullah ﷺ sangat rutin melaksanakan puasa sunnah pada hari Senin dan Kamis?",
+   "adegan": [
+    {
+     "narasi": "Ternyata, di dua hari yang istimewa ini, seluruh amalan perbuatan kita sedang disetorkan dan dilaporkan langsung ke langit, lho."
+    },
+    {
+     "narasi": "Rasulullah ﷺ sangat suka dan berharap, ketika catatan amal beliau diangkat, beliau sedang dalam keadaan berpuasa."
+    },
+    {
+     "narasi": "Coba bayangkan betapa indahnya kalau amalan puasa kita ikut menghiasi laporan mingguan tersebut di hadapan Allah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "تُعْرَضُ الأَعْمَالُ يَوْمَ الاِثْنَيْنِ وَالْخَمِيسِ فَأُحِبُّ أَنْ يُعْرَضَ عَمَلِي وَأَنَا صَائِمٌ",
+    "terjemah": "Amal-amal (manusia) diperlihatkan (kepada Allah) pada hari Senin dan Kamis, maka aku suka jika amalku diperlihatkan saat aku sedang berpuasa.",
+    "sumber": "HR. Tirmidzi no. 747",
+    "derajat": "hasan",
+    "penilai": "Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:747"
+   },
+   "faedah": "Yuk, kita rutinkan puasa Senin dan Kamis agar laporan amal mingguan kita makin bersinar!",
+   "tema": [
+    "puasa sunnah",
+    "senin kamis",
+    "amal"
+   ],
+   "alasan": "Dalil hasan yang jelas menyebutkan keutamaan puasa Senin Kamis secara spesifik.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h016",
+   "topik": "Puasa Senin dan Kamis",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Pahala puasa sebulan penuh, mau?",
+   "narasi_hook": "Ada satu amalan puasa ringan yang pahalanya sangat luar biasa, seolah-olah kita berpuasa terus-menerus tanpa henti.",
+   "adegan": [
+    {
+     "narasi": "Namanya puasa Ayyamul Bidh, yaitu berpuasa selama tiga hari pada pertengahan bulan Hijriah, tepatnya tanggal tiga belas, empat belas, dan lima belas."
+    },
+    {
+     "narasi": "Saking pentingnya, Nabi ﷺ secara khusus mewasiatkan amalan istimewa ini kepada sahabat mulia Abu Hurairah agar jangan sampai ditinggalkan."
+    },
+    {
+     "narasi": "Karena setiap satu kebaikan itu dilipatgandakan sepuluh kali, puasa tiga hari ini nilainya benar-benar sama seperti puasa sebulan penuh!"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَوْصَانِي خَلِيلِي صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ بِثَلاَثٍ: صِيَامِ ثَلاَثَةِ أَيَّامٍ مِنْ كُلِّ شَهْرٍ، وَرَكْعَتَيِ الضُّحَى، وَأَنْ أُوتِرَ قَبْلَ أَنْ أَنَامَ",
+    "terjemah": "Kekasihku ﷺ mewasiatkan kepadaku tiga hal: puasa tiga hari setiap bulan, dua rakaat Dhuha, dan shalat Witir sebelum tidur.",
+    "sumber": "HR. Bukhari no. 1981",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:1981"
+   },
+   "faedah": "Jangan sampai terlewatkan puasa Ayyamul Bidh bulan ini, pasang pengingat di HP kamu sekarang ya!",
+   "tema": [
+    "puasa sunnah",
+    "ayyamul bidh",
+    "wasiat nabi"
+   ],
+   "alasan": "Terdapat dalil shahih disepakati Bukhari-Muslim tentang anjuran puasa tiga hari setiap bulan.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h017",
+   "topik": "Puasa tiga hari setiap bulan (ayyamul bidh)",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Hadits ini secara redaksi hanya menyebutkan anjuran puasa tiga hari setiap bulan secara mutlak, tidak membatasi harus Ayyamul Bidh (13, 14, 15). Namun secara fiqih, pelaksanaannya yang paling utama (afdhal) memang di hari Ayyamul Bidh berdasarkan riwayat lainnya. Kisah bisa diterima dengan catatan ini.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Perisai ampuh hadapi kerasnya hari!",
+   "narasi_hook": "Apakah kamu sering merasa hari-harimu begitu berat dan butuh ketenangan ekstra dari perlindungan Allah?",
+   "adegan": [
+    {
+     "narasi": "Allah memerintahkan kita secara langsung di dalam Al-Qur'an untuk selalu mengingat-Nya dan bertasbih di waktu pagi dan petang."
+    },
+    {
+     "narasi": "Merutinkan dzikir pagi dan petang ini ibarat membangun benteng pertahanan seorang mukmin dari segala keburukan dan kegelisahan jiwa."
+    },
+    {
+     "narasi": "Dengan membiasakannya setiap hari, hati kita pasti menjadi lebih tenang dan seluruh aktivitas seharian dipenuhi dengan keberkahan dari-Nya."
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "يَا أَيُّهَا الَّذِينَ آمَنُوا اذْكُرُوا اللَّهَ ذِكْرًا كَثِيرًا وَسَبِّحُوهُ بُكْرَةً وَأَصِيلًا",
+    "terjemah": "Wahai orang-orang yang beriman, berzikirlah (dengan menyebut nama) Allah dengan zikir yang sebanyak-banyaknya. Dan bertasbihlah kepada-Nya pada waktu pagi dan petang.",
+    "sumber": "QS. Al-Ahzab: 41-42",
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/surah/33/41-42"
+   },
+   "faedah": "Yuk, luangkan waktu cuma beberapa menit saja untuk dzikir pagi dan petang mulai hari ini!",
+   "tema": [
+    "dzikir",
+    "pagi petang",
+    "ketenangan"
+   ],
+   "alasan": "Perintah dzikir pagi dan petang sangat shahih dan tegas bersumber langsung dari Al-Qur'an.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h018",
+   "topik": "Dzikir pagi dan petang",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Solusi cepat untuk semua masalahmu!",
+   "narasi_hook": "Tahukah kamu bahwa ada satu amalan lisan yang sangat ringan namun menjadi kunci pembuka segala pintu kesulitan?",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ yang dosa-dosanya telah diampuni dan dijamin masuk surga saja, sama sekali tidak pernah terlepas dari amalan mulia ini."
+    },
+    {
+     "narasi": "Beliau bahkan bersumpah bahwa beliau selalu beristighfar dan bertaubat kepada Allah lebih dari tujuh puluh kali di dalam sehari!"
+    },
+    {
+     "narasi": "Terus memperbanyak istighfar tidak hanya berfungsi menggugurkan dosa, tapi juga ampuh mengundang derasnya rezeki dan jalan keluar dari masalah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "وَاللَّهِ إِنِّي لَأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي اليَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً",
+    "terjemah": "Demi Allah, sesungguhnya aku sungguh beristighfar kepada Allah dan bertaubat kepada-Nya dalam sehari lebih dari tujuh puluh kali.",
+    "sumber": "HR. Bukhari no. 6307",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:6307"
+   },
+   "faedah": "Selalu basahi lisanmu dengan istighfar setiap saat, dan rasakan sendiri keajaibannya dalam hidupmu!",
+   "tema": [
+    "istighfar",
+    "dzikir",
+    "taubat"
+   ],
+   "alasan": "Dalil shahih riwayat Bukhari menunjukkan praktik nyata Nabi dalam memperbanyak istighfar harian.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h019",
+   "topik": "Memperbanyak istighfar",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   }
  ]
 }
