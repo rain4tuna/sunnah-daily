@@ -612,7 +612,7 @@
    ],
    "id": "h012",
    "topik": "Shalat sunnah rawatib",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -620,7 +620,62 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bayangkan, kamu bisa punya rumah sendiri di surga hanya dengan menjaga amalan harian ini.",
+     "ikon": [
+      "rumah"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Nabi ﷺ mengajarkan kita untuk senantiasa menjaga shalat sunnah rawatib.",
+      "label": "Shalat Sunnah Rawatib",
+      "ikon": [
+       "sajadah",
+       "masjid"
+      ]
+     },
+     {
+      "narasi": "Totalnya ada dua belas rakaat dalam sehari semalam yang mengiringi shalat fardhu.",
+      "label": "Dua Belas Rakaat Sehari",
+      "ikon": [
+       "jam",
+       "kalender"
+      ]
+     },
+     {
+      "narasi": "Rinciannya yaitu empat rakaat sebelum Dzuhur, dua sesudahnya, dua setelah Maghrib, dua setelah Isya, dan dua sebelum Subuh.",
+      "label": "Waktu Pelaksanaan Rawatib",
+      "ikon": [
+       "matahari",
+       "bulan_bintang"
+      ]
+     },
+     {
+      "narasi": "Siapa yang rutin mengerjakannya, Allah janjikan dibangunkan sebuah rumah di surga.",
+      "label": "Janji Rumah di Surga",
+      "ikon": [
+       "rumah",
+       "bintang"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, mulai jaga shalat rawatib dua belas rakaat dari sekarang!",
+     "ikon": [
+      "hati"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfq0SsbmbnH/",
+   "yt": "https://youtube.com/shorts/4sHdGvk1Ul4",
+   "waktu_posting": "2026-11-13T04:55:57"
   },
   {
    "judul_hook": "Kunci Delapan Pintu Surga",
