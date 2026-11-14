@@ -937,7 +937,7 @@
    ],
    "id": "h015",
    "topik": "Menjenguk orang sakit",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -945,7 +945,70 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, menjenguk saudara yang sakit bukan cuma tanda empati, tapi juga jalan panen pahala?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati"
+    },
+    "poin": [
+     {
+      "narasi": "Islam sangat memuliakan adab saling peduli kepada sesama muslim yang sedang diuji dengan sakit.",
+      "label": "Adab Peduli Sesama Muslim",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdoa"
+     },
+     {
+      "narasi": "Saat kita melangkahkan kaki untuk menjenguknya, ada keutamaan yang sangat besar menanti di sana.",
+      "label": "Langkah Penuh Keutamaan",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Rasulullah ﷺ menyebutkan bahwa orang yang menjenguk orang sakit itu ibarat sedang berada di kebun surga.",
+      "label": "Berada di Kebun Surga",
+      "ikon": [
+       "pohon_kurma",
+       "cahaya"
+      ],
+      "ilustrasi": "fajar"
+     },
+     {
+      "narasi": "Pahala istimewa ini akan terus ia dapatkan sampai ia melangkah pulang kembali ke rumahnya.",
+      "label": "Pahala Sampai Pulang Rumah",
+      "ikon": [
+       "rumah",
+       "jejak"
+      ],
+      "ilustrasi": "kota_malam",
+      "tokoh": "berdiri"
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari luangkan waktu sejenak menjenguk teman yang sakit dan raih pahala besarnya.",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "majelis"
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfuJv5PDapB/",
+   "fb": "https://www.facebook.com/reel/1486096076704311",
+   "yt": "https://youtube.com/shorts/jJVg95d11rU",
+   "waktu_posting": "2026-11-14T11:59:28"
   },
   {
    "judul_hook": "Jangan Lupa Baca Surah Al-Kahfi",

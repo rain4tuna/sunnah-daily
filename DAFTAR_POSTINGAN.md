@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 83 video. Waktu dalam WIB, terbaru di atas.
+Total: 84 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 14 Nov 2026 18.59 | h015 | Panen Pahala di Samping Orang Sakit | HR. Muslim no. 2568 (shahih) | [IG](https://www.instagram.com/reel/DfuJv5PDapB/) · [YouTube](https://youtube.com/shorts/jJVg95d11rU) · [FB](https://www.facebook.com/reel/1486096076704311) |
 | 14 Nov 2026 15.49 | ep011-06 | Wafat di Tengah Perjalanan Hijrah | QS. An-Nisa: 100 | [IG](https://www.instagram.com/reel/Dftz-nxAaTb/) · [YouTube](https://youtube.com/shorts/1B1HAU_Q1tk) · [FB](https://www.facebook.com/reel/1868521044278999) |
 | 14 Nov 2026 11.59 | h014 | Jangan Diam Saat Saudaramu Bersin! | HR. Bukhari no. 6224 (shahih) | [IG](https://www.instagram.com/reel/DftZp9dCGU6/) · [YouTube](https://youtube.com/shorts/AmZNrMESll4) · [FB](https://www.facebook.com/reel/2155587815054175) |
 | 14 Nov 2026 05.28 | ep011-05 | Tuntutan Naik Tangga ke Langit | QS. Al-Isra: 93 | [IG](https://www.instagram.com/reel/DfstAkZDjes/) · [YouTube](https://youtube.com/shorts/ypthsMGKjSw) · [FB](https://www.facebook.com/reel/1435913488719471) |
