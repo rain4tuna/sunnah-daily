@@ -1,0 +1,35 @@
+name: Gabung Stok dari Routine
+
+# Routine cloud pengisi stok mendorong ke main; kalau ditolak, ia mendorong ke branch claude/stok-*.
+# Workflow ini menggabungkan branch itu ke main, HANYA bila yang berubah cuma data/kisah.
+on:
+  push:
+    branches: ['claude/stok-**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gabung-stok
+  cancel-in-progress: false
+
+jobs:
+  gabung:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Periksa isi perubahan dan gabung ke main
+        run: |
+          set -e
+          git config user.name sunnah-daily-bot
+          git config user.email actions@users.noreply.github.com
+          git fetch -q origin main
+          lain=$(git diff --name-only origin/main...HEAD | grep -v '^data/kisah/' || true)
+          if [ -n "$lain" ]; then
+            echo "Ditolak: ada perubahan di luar data/kisah:"; echo "$lain"; exit 1
+          fi
+          git rebase -q origin/main
+          git push origin HEAD:main
+          git push origin --delete "$GITHUB_REF_NAME"
