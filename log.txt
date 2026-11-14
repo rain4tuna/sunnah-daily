@@ -1,0 +1,45 @@
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:116: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:197: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+Seri: sirah
+Kisah ep011-07: Siasat Menyuap Pembesar Negeri Habasyah
+   template: remotion — sedekah, kafilah, majelis, badai, hati
+   babak: hook, poin, poin, poin, dalil, faedah, penutup
+   TTS 1/7
+   TTS 2/7
+   TTS 3/7
+   TTS 4/7
+   TTS 5/7
+   TTS 6/7
+   TTS 7/7
+   Remotion 300/1762 frame
+   Remotion 600/1762 frame
+   Remotion 900/1762 frame
+   Remotion 1200/1762 frame
+   Remotion 1500/1762 frame
+   Remotion 1762/1762 frame
+Video 58.7 detik -> hasil/ep011-07.mp4
+   percobaan 1: curl HTTP 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+   percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+   upload langsung gagal, coba lewat URL: upload gagal: percobaan 1: curl HTTP 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}} | percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+   url 1: container 18126188738290592 ERROR: Error: Media upload has failed with error code 2207077
+Diposting ke IG: https://www.instagram.com/reel/DfuaaeZD1jc/
+Diposting ke Facebook: https://www.facebook.com/reel/1156280563512718
+Diposting ke YouTube: https://youtube.com/shorts/BS4mfu6Weps
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:319: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
+
+Siasat Menyuap Pembesar Negeri Habasyah 🌙
+
+Geram melihat kaum muslimin hidup damai, Quraisy mengirim Amr bin Al-Ash dan Abdullah bin Abi Rabi'ah ke Habasyah. Mereka membawa banyak hadiah kulit mahal untuk menyogok para uskup istana agar memengaruhi keputusan Raja Najasyi. Para utusan meminta agar kaum muhajirin dipulangkan tanpa diberi kesempatan berbicara sedikit pun di hadapan raja.
+
+📖 Wahai Raja, sungguh telah berlindung ke negeri tuan beberapa pemuda bodoh dari kaum kami, mereka meninggalkan agama kaumnya dan tidak pula masuk ke dalam agama tuan.
+(Musnad Ahmad no. 1740 · Hasan)
+
+🤍 Faedah: Keadilan seorang pemimpin sejati tidak akan goyah oleh suap dan provokasi sepihak.
+
+Faedah dari kajian Sirah Nabawiyah #11 - Usaha Kaum Quraisy Halangi Dakwah Rasulullah, Ust. Dr. Firanda Andirja, M.A.
+Kajian lengkap: https://www.youtube.com/watch?v=gjptAVhChog&t=1440s
+
+#sunnahdaily #sirahnabawiyah #kisahnabi #kisahislami #hadits #sunnah #dakwah #nasihatislam #rasulullah #belajarislam #keadilanpemimpin #tipudayamusuh #ujianhijrah

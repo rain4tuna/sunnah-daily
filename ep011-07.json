@@ -1,0 +1,92 @@
+{
+ "menit": "24:00",
+ "judul_hook": "Siasat Menyuap Pembesar Negeri Habasyah",
+ "narasi_hook": "Bisakah sogokan hadiah mengalahkan perlindungan bagi orang-orang yang beriman?",
+ "latar_hook": "laut",
+ "adegan": [
+  {
+   "narasi": "Geram melihat kaum muslimin hidup damai, Quraisy mengirim Amr bin Al-Ash dan Abdullah bin Abi Rabi'ah ke Habasyah.",
+   "latar": "kota"
+  },
+  {
+   "narasi": "Mereka membawa banyak hadiah kulit mahal untuk menyogok para uskup istana agar memengaruhi keputusan Raja Najasyi.",
+   "latar": "tenda"
+  },
+  {
+   "narasi": "Para utusan meminta agar kaum muhajirin dipulangkan tanpa diberi kesempatan berbicara sedikit pun di hadapan raja.",
+   "latar": "kota"
+  }
+ ],
+ "dalil": {
+  "jenis": "atsar",
+  "arab": "أَيُّهَا الْمَلِكُ، إِنَّهُ قَدْ ضَوَى إِلَى بَلَدِكَ مِنَّا غِلْمَانٌ سُفَهَاءُ، فَارَقُوا دِينَ قَوْمِهِمْ، وَلَمْ يَدْخُلُوا فِي دِينِكَ...",
+  "terjemah": "Wahai Raja, sungguh telah berlindung ke negeri tuan beberapa pemuda bodoh dari kaum kami, mereka meninggalkan agama kaumnya dan tidak pula masuk ke dalam agama tuan.",
+  "sumber": "Musnad Ahmad no. 1740",
+  "derajat": "hasan",
+  "penilai": "Syu'aib Al-Arnauth",
+  "rujukan": "https://hadits.in/ahmad/1740"
+ },
+ "faedah": "Keadilan seorang pemimpin sejati tidak akan goyah oleh suap dan provokasi sepihak.",
+ "latar_faedah": "kota",
+ "tema": [
+  "Keadilan Pemimpin",
+  "Tipu Daya Musuh",
+  "Ujian Hijrah"
+ ],
+ "id": "ep011-07",
+ "status": "Belum",
+ "cek": {
+  "kisah_lemah": false,
+  "catatan": "",
+  "sumber_cek": [
+   "manual"
+  ]
+ },
+ "layak": true,
+ "storyboard_ikon": {
+  "hook": {
+   "narasi": "Bisakah tumpukan hadiah mewah mengalahkan perlindungan bagi orang-orang yang beriman?",
+   "ikon": [
+    "timbangan"
+   ],
+   "ilustrasi": "sedekah"
+  },
+  "poin": [
+   {
+    "narasi": "Geram melihat kaum muslimin hidup damai, kaum Quraisy mengutus Amr bin Al-Ash dan Abdullah bin Abi Rabi'ah menuju Habasyah.",
+    "label": "Utusan Quraisy Menuju Habasyah",
+    "ikon": [
+     "jejak"
+    ],
+    "ilustrasi": "kafilah"
+   },
+   {
+    "narasi": "Mereka membawa banyak hadiah kulit mahal untuk menyogok para uskup agar memengaruhi keputusan Raja Najasyi.",
+    "label": "Siasat Suap Uskup Istana",
+    "ikon": [
+     "koin"
+    ],
+    "ilustrasi": "majelis"
+   },
+   {
+    "narasi": "Para utusan mendesak agar kaum muhajirin segera dipulangkan, tanpa diberi ruang untuk membela diri sedikit pun.",
+    "label": "Upaya Memulangkan Kaum Muhajirin",
+    "ikon": [
+     "gulungan"
+    ],
+    "ilustrasi": "badai"
+   }
+  ],
+  "faedah": {
+   "narasi": "Keadilan seorang pemimpin sejati tidak akan pernah goyah oleh suap dan provokasi sepihak.",
+   "ikon": [
+    "timbangan"
+   ],
+   "ilustrasi": "hati"
+  },
+  "penutup": {
+   "ajakan": "Tulis pendapatmu di komentar",
+   "narasi": "Tulis pendapatmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+  }
+ }
+}
