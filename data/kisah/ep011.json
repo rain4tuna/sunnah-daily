@@ -609,7 +609,7 @@
     "Ujian Hijrah"
    ],
    "id": "ep011-07",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -617,7 +617,57 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bisakah tumpukan hadiah mewah mengalahkan perlindungan bagi orang-orang yang beriman?",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "sedekah"
+    },
+    "poin": [
+     {
+      "narasi": "Geram melihat kaum muslimin hidup damai, kaum Quraisy mengutus Amr bin Al-Ash dan Abdullah bin Abi Rabi'ah menuju Habasyah.",
+      "label": "Utusan Quraisy Menuju Habasyah",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kafilah"
+     },
+     {
+      "narasi": "Mereka membawa banyak hadiah kulit mahal untuk menyogok para uskup agar memengaruhi keputusan Raja Najasyi.",
+      "label": "Siasat Suap Uskup Istana",
+      "ikon": [
+       "koin"
+      ],
+      "ilustrasi": "majelis"
+     },
+     {
+      "narasi": "Para utusan mendesak agar kaum muhajirin segera dipulangkan, tanpa diberi ruang untuk membela diri sedikit pun.",
+      "label": "Upaya Memulangkan Kaum Muhajirin",
+      "ikon": [
+       "gulungan"
+      ],
+      "ilustrasi": "badai"
+     }
+    ],
+    "faedah": {
+     "narasi": "Keadilan seorang pemimpin sejati tidak akan pernah goyah oleh suap dan provokasi sepihak.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "hati"
+    },
+    "penutup": {
+     "ajakan": "Tulis pendapatmu di komentar",
+     "narasi": "Tulis pendapatmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfuaaeZD1jc/",
+   "fb": "https://www.facebook.com/reel/1156280563512718",
+   "yt": "https://youtube.com/shorts/BS4mfu6Weps",
+   "waktu_posting": "2026-11-14T14:24:55"
   },
   {
    "menit": "30:14",
