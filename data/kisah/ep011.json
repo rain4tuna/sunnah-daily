@@ -705,7 +705,7 @@
     "Diplomasi Islam"
    ],
    "id": "ep011-08",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -713,7 +713,62 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana ayat Al-Qur'an sanggup membuat seorang raja dan para uskupnya menangis tersedu?",
+     "ikon": [
+      "quran"
+     ],
+     "ilustrasi": "majelis",
+     "tokoh": "berdiri"
+    },
+    "poin": [
+     {
+      "narasi": "Raja Najasyi menolak menyerahkan kaum muslimin sebelum mendengar langsung pembelaan dari perwakilan mereka.",
+      "label": "Keadilan Raja Najasyi",
+      "ikon": [
+       "timbangan"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Ja'far bin Abi Thalib radhiyallahu 'anhu maju menjelaskan keindahan Islam, lalu membacakan Surah Maryam dengan penuh keimanan.",
+      "label": "Lantunan Surah Maryam",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ],
+      "ilustrasi": "quran"
+     },
+     {
+      "narasi": "Mendengar kisah Isa dan Maryam, Raja Najasyi beserta para pendetanya menangis haru hingga janggut mereka basah kuyup.",
+      "label": "Tangisan Haru Sang Raja",
+      "ikon": [
+       "tetes_air",
+       "hati"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdoa"
+     }
+    ],
+    "faedah": {
+     "narasi": "Kebenaran firman Allah mampu menyatukan hati orang-orang yang tulus mencari petunjuk ilahi.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati"
+    },
+    "penutup": {
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfvRrO7lRzX/",
+   "fb": "https://www.facebook.com/reel/1631244391816416",
+   "yt": "https://youtube.com/shorts/IkLQ5AeKv-Q",
+   "waktu_posting": "2026-11-14T22:27:45"
   }
  ]
 }

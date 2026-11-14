@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 85 video. Waktu dalam WIB, terbaru di atas.
+Total: 86 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 15 Nov 2026 05.27 | ep011-08 | Surah Maryam yang Menggetarkan Najasyi | QS. Al-Ma'idah: 83 | [IG](https://www.instagram.com/reel/DfvRrO7lRzX/) · [YouTube](https://youtube.com/shorts/IkLQ5AeKv-Q) · [FB](https://www.facebook.com/reel/1631244391816416) |
 | 14 Nov 2026 21.24 | ep011-07 | Siasat Menyuap Pembesar Negeri Habasyah | Musnad Ahmad no. 1740 (hasan) | [IG](https://www.instagram.com/reel/DfuaaeZD1jc/) · [YouTube](https://youtube.com/shorts/BS4mfu6Weps) · [FB](https://www.facebook.com/reel/1156280563512718) |
 | 14 Nov 2026 18.59 | h015 | Panen Pahala di Samping Orang Sakit | HR. Muslim no. 2568 (shahih) | [IG](https://www.instagram.com/reel/DfuJv5PDapB/) · [YouTube](https://youtube.com/shorts/jJVg95d11rU) · [FB](https://www.facebook.com/reel/1486096076704311) |
 | 14 Nov 2026 15.49 | ep011-06 | Wafat di Tengah Perjalanan Hijrah | QS. An-Nisa: 100 | [IG](https://www.instagram.com/reel/Dftz-nxAaTb/) · [YouTube](https://youtube.com/shorts/1B1HAU_Q1tk) · [FB](https://www.facebook.com/reel/1868521044278999) |
