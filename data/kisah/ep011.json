@@ -511,7 +511,7 @@
     "Ketetapan Ajal"
    ],
    "id": "ep011-06",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -519,7 +519,59 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana nasib seseorang yang wafat sebelum sempat sampai di tempat tujuan hijrahnya?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "lentera"
+    },
+    "poin": [
+     {
+      "narasi": "Akibat penindasan di Makkah yang kian berat, para sahabat berhijrah untuk kedua kalinya menuju Habasyah.",
+      "label": "Hijrah kedua ke Habasyah",
+      "ikon": [
+       "kabah",
+       "jejak"
+      ],
+      "ilustrasi": "badai"
+     },
+     {
+      "narasi": "Sahabat Khalid bin Hizam radhiyallahu 'anhu ikut menempuh perjalanan berat tersebut demi menyelamatkan agamanya.",
+      "label": "Menyelamatkan agama demi Allah",
+      "ikon": [
+       "jejak",
+       "gunung"
+      ],
+      "ilustrasi": "kafilah"
+     },
+     {
+      "narasi": "Namun di tengah perjalanan, beliau disengat ular berbisa hingga wafat sebelum menginjakkan kaki di tanah Habasyah.",
+      "label": "Wafat di tengah perjalanan",
+      "ikon": [
+       "jam"
+      ],
+      "ilustrasi": "kota_malam"
+     }
+    ],
+    "faedah": {
+     "narasi": "Pahala niat ikhlas berhijrah dicatat sempurna di sisi Allah meski ajal lebih dahulu menjemput.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "hati"
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dftz-nxAaTb/",
+   "fb": "https://www.facebook.com/reel/1868521044278999",
+   "yt": "https://youtube.com/shorts/1B1HAU_Q1tk",
+   "waktu_posting": "2026-11-14T08:49:05"
   },
   {
    "menit": "24:00",
