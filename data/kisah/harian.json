@@ -827,7 +827,7 @@
    ],
    "id": "h014",
    "topik": "Adab bersin dan mendoakan yang bersin",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -835,7 +835,69 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu bahwa bersin adalah nikmat dari Allah yang memiliki adab saling mendoakan?",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "lentera"
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ mengajarkan, saat kita bersin, hendaklah kita mengucapkan kalimat Alhamdulillah.",
+      "label": "Ucapkan Alhamdulillah Saat Bersin",
+      "ikon": [
+       "kitab"
+      ],
+      "ilustrasi": "quran"
+     },
+     {
+      "narasi": "Bagi saudara muslim yang mendengarnya, disunnahkan membalas dengan doa Yarhamukallah, semoga Allah merahmatimu.",
+      "label": "Balas Dengan Doa Yarhamukallah",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "berdoa"
+     },
+     {
+      "narasi": "Lalu orang yang bersin mendoakan kembali dengan mengucapkan Yahdikumullah wa yushlihu baalakum.",
+      "label": "Balas Dengan Doa Yahdikumullah",
+      "ikon": [
+       "bintang"
+      ],
+      "ilustrasi": "fajar",
+      "tokoh": "berdoa"
+     },
+     {
+      "narasi": "Saling mendoakan ini begitu indah menumbuhkan rasa kasih sayang dan ukhuwah sesama muslim.",
+      "label": "Tumbuhkan Kasih Sayang Ukhuwah",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berdiri"
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, kita hidupkan sunnah saling mendoakan saat bersin ini setiap hari.",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "masjid",
+     "tokoh": "berdoa"
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DftZp9dCGU6/",
+   "fb": "https://www.facebook.com/reel/2155587815054175",
+   "yt": "https://youtube.com/shorts/AmZNrMESll4",
+   "waktu_posting": "2026-11-14T04:59:18"
   },
   {
    "judul_hook": "Panen Pahala di Samping Orang Sakit",
