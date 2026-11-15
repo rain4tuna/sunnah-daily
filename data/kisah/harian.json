@@ -1148,7 +1148,7 @@
    ],
    "id": "h021",
    "topik": "Memperbanyak shalawat di hari Jumat",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1156,7 +1156,70 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Di hari Jumat yang penuh berkah, tahukah kamu amalan ringan lisan yang sangat dicintai Nabi ﷺ?",
+     "ikon": [
+      "kalender"
+     ],
+     "ilustrasi": "fajar"
+    },
+    "poin": [
+     {
+      "narasi": "Amalan tersebut adalah memperbanyak membaca shalawat kepada suri tauladan kita, Rasulullah ﷺ.",
+      "label": "Perbanyak Shalawat Kepada Nabi ﷺ",
+      "ikon": [
+       "tasbih",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera"
+     },
+     {
+      "narasi": "Amalan ini begitu mudah dan bisa dibaca di mana saja, saat berjalan, berkendara, atau bersantai.",
+      "label": "Mudah Diamalkan Kapan Saja",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kota_malam",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Keutamaannya amat besar, siapa yang bershalawat sekali saja, Allah akan membalasnya sepuluh kali bershalawat kepadanya.",
+      "label": "Dibalas Sepuluh Kali Shalawat",
+      "ikon": [
+       "timbangan",
+       "bintang"
+      ],
+      "ilustrasi": "masjid",
+      "tokoh": "berdoa"
+     },
+     {
+      "narasi": "Bahkan di hari kiamat kelak, memperbanyak shalawat akan membuat kedudukan kita semakin dekat dengan Rasulullah ﷺ.",
+      "label": "Dekat Dengan Rasulullah ﷺ",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "majelis"
+     }
+    ],
+    "faedah": {
+     "narasi": "Tunggu apa lagi, yuk segera basahi lisan kita dengan banyak bershalawat sekarang juga!",
+     "ikon": [
+      "tetes_air"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa"
+    },
+    "penutup": {
+     "ajakan": "Tulis shalawat di komentar",
+     "narasi": "Tulis shalawat di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfwurRMEf0Z/",
+   "fb": "https://www.facebook.com/reel/29040219675643511",
+   "yt": "https://youtube.com/shorts/01PYBdUUNLc",
+   "waktu_posting": "2026-11-15T12:00:22"
   },
   {
    "judul_hook": "Cara Masuk Masjid Sesuai Sunnah",
