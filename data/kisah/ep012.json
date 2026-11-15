@@ -118,11 +118,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Aku keluar di suatu malam untuk buang air kecil, tiba-tiba aku mendengar gemeretak di bawah air seniku. Ternyata sepotong kulit unta kering, lalu kuambil dan kucuci...",
-    "sumber": "Hilyatul Auliya' karya Abu Nu'aim",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "خَرَجْتُ مِنَ اللَّيْلِ أَبُولُ، وَإِذَا أَنَا أَسْمَعُ بِقَعْقَعَةِ شَيْءٍ تَحْتَ بَوْلِي، فَإِذَا قِطْعَةُ جِلْدِ بَعِيرٍ، فَأَخَذْتُهَا فَغَسَلْتُهَا، ثُمَّ أَحْرَقْتُهَا، فَوَضَعْتُهَا بَيْنَ حَجَرَيْنِ، ثُمَّ اسْتَفَفْتُهَا، وَشَرِبْتُ عَلَيْهَا مِنَ الْمَاءِ، فَقَوِيتُ عَلَيْهَا ثَلَاثًا",
+    "terjemah": "Aku keluar di suatu malam untuk buang air kecil, tiba-tiba aku mendengar gemeretak sesuatu di bawah air seniku. Ternyata sepotong kulit unta, lalu kuambil dan kubersihkan, kemudian kubakar lalu kutumbuk di antara dua batu, lalu kutelan dan kuminumkan air, hingga aku bertenaga selama tiga hari karenanya.",
+    "sumber": "Abu Nu'aim, Hilyatul Auliya' (1/93)",
+    "derajat": "lemah",
+    "penilai": "Syaikh Syu'aib Al-Arna'uth",
+    "rujukan": "https://shamela.ws/book/1090/144"
    },
    "faedah": "Kesabaran para sahabat dalam mempertahankan keimanan menjadi teladan ketabahan menghadapi ujian hidup.",
    "latar_faedah": "kitab",
@@ -132,7 +133,20 @@
     "sahabat nabi"
    ],
    "id": "ep012-02",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "1. Riwayat memakan kulit unta ini lemah karena sanadnya munqathi' (terputus) serta terdapat perawi mubham/tidak disebutkan namanya ('an ba'dhi aali Sa'd / dari sebagian keluarga Sa'ad). 2. Pengaitan kisah ini dengan tiga tahun pemboikotan Quraisy di Syi'ib Abi Thalib keliru secara historis, karena pemboikotan itu diberlakukan kepada Bani Hasyim dan Bani Al-Muththalib, sedangkan Sa'ad berasal dari kabilah Bani Zuhrah. Teks atsar pun hanya menyebut masa sulit di Makkah secara umum, bukan pemboikotan Syi'ib. 3. Riwayat shahih tentang ujian kelaparan Sa'ad dan para sahabat adalah saat mereka tidak memiliki makanan kecuali daun berduri (hublah dan samur) hingga kotoran mereka seperti kotoran kambing (HR. Bukhari no. 5453 dan Muslim no. 2966).",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_UuTVt-bUAqK8frNTzdWnNTa0Mepj0SCpOsBqeSYrgyudoqu40rTWWTM8euO6A_aLL4HqbSDswO77uV5DDrr-VSpW8ZOwP7Qpwpy6nSLJsN9zIwvHLTBelAI3iEPrB817898Ep8C4XAh3QxDroAs3Iyy6fT34WRAn6qs-jxbl-DqOemwM5AyI0YAoHfiErhlqttWr2q1lsWYHKssnuajN2ZzurADmK9So5mxul2al_FZkjwOiebUsngoXeIsxSOD9Ug1xsAiXIPvLn1mJYz8TFGydlaP0xd-POLO1Wn-G2YUOApOTLcLjMMKxRYdDPWUpHk6PuBwZwxY3HhVbq_DsfkC9bmIjnOM_xhtOI5-0q1jtMA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_AUTGlfc3ajX7eWPmtJ1j8idN3o3PVV93NUTJlW-5xw4Mo3FijTL6fRUIZMz5hzuh0cRhsdRr8Nc3PfQW_0jjzJin8_7vo3ebXJTfHgmcI3_4RLFRjXXRXL3PE1Vc8UwqSUE=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF2Gp5zPLetUapjhQmbvOk_1rwieS-zKyxXeqVYrvsmXSW-r5os3cOSF1foag_i0T_QWrVDgTPwIVREGRCfSMMdH5xTuOM_xZNXkJaON5FDmB3K_uuHRZg45c-wdCz4TcWoRqadAtLqXDJsgwBe8vIBHd4FliWI9oFZBz26AMIEMHo_wwCuRCd8Jd9qp1SLiC-atErVSbWmavgvjOSkEIk6lp773WbtPeg3EL0IztnlEV2esI-IGP2Kzi9NMg9H1BzO_hM3PO8yX0XTOTozH_KIg40rVgZdNSXm5xIGwQiV1qQuwPujnLMNROAhz7BL6w3l_pofcQ0Ohi4nIZZZem5XUntFyLGBXfTFX32MxAyywB-ehi3UGJ7uw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGA0Wm9heJjkuhrPum3WhZyjRI0AaIss9Nd405ZbbSihmgIvXNXKg5q2RMjI_tufEB7cu0fgj1l6OCrIKVjdiTh0zY573ettMIEpgxaMEajFFBcuBfJ29BvGavtTGmUL0oUJ-k--VEUEcNYiQbGIZKxLPYZUUtVO4GA23wUX1yhYH64IKh6BE__B-wDrXMz-bS0wKzE4H3GFjpg0G4e2peKSVDZkDNTYTm0WFl3gaaYNTHzjOKOYYWanj89_dRD8aIvSN1sPKbjTiYK1E2uSxXKZr8Ea2vWo3_vZvCFm-tkEETURUuLToE",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt0rGKvEZxUKhZfHjh6GGaqvsoTIoHlG5KjNvvmNTar2avtToPCfcTLdVFOiMreymA0pIgUq1EA2Wwiimc5MH8BGHvmjZM0Zdi2n2_sd6kbXTQW7tdlusH4RC2pzRjocmjLg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjEfdc90zvpSoeT8EG68YAtiwTlxaVfIkWVeTJMMx7QU1_PeTNdbwnKapEdcolUkx8megjv1mMwIB3_UIviTOVtti2QStDDJK6tG7mmEYUZOnLLq9qxR72GNswuA=="
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "11:00",
@@ -155,11 +169,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ",
-    "terjemah": "Dan tolong-menolonglah kamu dalam mengerjakan kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan.",
+    "arab": "... وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ ۖ وَلَا تَعَاوَنُوا عَلَى الْإِثْمِ وَالْعُدْوَانِ ...",
+    "terjemah": "... Dan tolong-menolonglah kamu dalam (mengerjakan) kebajikan dan takwa, dan jangan tolong-menolong dalam berbuat dosa dan permusuhan ...",
     "sumber": "QS. Al-Ma'idah: 2",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/5?from=2&to=2"
    },
    "faedah": "Jangan pernah ragu menolong sesama yang tertindas walau harus sembunyi-sembunyi.",
    "latar_faedah": "lentera",
@@ -169,7 +184,94 @@
     "keberanian"
    ],
    "id": "ep012-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah Hisyam bin 'Amr al-'Amiri mengantarkan makanan dengan unta ke Syi'ib Abi Thalib diriwayatkan dalam kitab-kitab rujukan sirah (seperti Sirah Ibnu Hisyam dan Tarikh Ath-Thabari dari riwayat Ibnu Ishaq). Gelar radhiyallahu 'anhu tepat disematkan karena Hisyam bin 'Amr akhirnya masuk Islam pada peristiwa Fathu Makkah (statusnya sahabat Nabi ﷺ), kendati saat pemboikotan tersebut ia bertindak atas dasar nurani kemanusiaan dan hubungan kekerabatan.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyvGWHM0UOh_ghBxqCRV5LLhxzwGU9UQMHPDw6a0dGww35kEK51RIYiMlzMx7V-FHfOUxvzX19uFLaXfI14Bl00MR_9_oU5shJeo50Pe5oEe_6wT__Zscx-dPKDwdvLsnui7Y9Q0AX3zKWUwKOVZUBRuwHVE0CE1DWGqJdBZSi7Qg6moMZR_5Z7-XqrNAxvYJAvzmTlD4zCHLTn9KVWic-VoW9hxaJa6swxWhDMs16YkjGFdEd_MGj1_nvfu3rD5BmpkARtRCHulQcBVYBEpFe2Gu-_RN58MlvS14MQq94YwhEmFTCsJOSOkPoHrmqtpicZf_-bYTyh0Hj4P4Lw9O5-9a_xVJzoQiLFlGkhHkw5HQi1t9xpZgZq_jIlTbtnK1IZSsu6ukRGnqkf1L-41Mifd40uLqEjzg4PT1O4ErDEo_w2r9_hspvJuEKntLih6nfxB4=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYZghLY-7mnUq-r40LLNbmQ7DTP6uRl_R6aw8r87dTP-GzTd3o6BbXwcbfHQjBTmpexKYb-hz2U5F-xCLlyixyesAZfOkur1d_V4yjXrIiZNbxBqUJ2OTvHOEJRwx4LamC1aW4ImxU8f5JlnK4NcP2obyGQnZNM3f57BDWJk4LdQT-nP3xfRbUyV90zQKd1kFrmX17CJWDn97wbBhd6AZ4_AwVCq4v9y1NZ0saAY0z0tCs-T-S_tcmmW-uoCqvZd0dggsArZ8cRxhJGPMIPu8HnpdkG9Zk0bDKNxiorSq-u2IXifOwaPUPf7bQFf4zG0amCGCvXUuk_Pd7oqevfRPZBX_kNo3Rru4ByjeH22DUXCszypj9CmqhEJASGw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQq3z2egONWdyxi2F13vve_UsBLz1tnZ4wlQwxBn4GOO3m_GjX3TmQx3asAVHrktGy4x5mje_Bm2tcZ-diIOdsqgQeVxiAs2B77N_r58x14PJj9IluzJlOHT6EKn0PhtsY_OJFSwPV0gGF1P6ZTVTuZWod8NFQ6hLoIucUEy0FH5QmOm_r-W66SGu5OnUTwKKTSmmVitvDZ2W__Ntc8NK8o1n7xri__pz_yD_Q2FgjXshXR8EZxwwFy-fGGwYkXW2ZbO5cKXqs6fCgYAeJ_ClyzJ7o9Kt2cdLIeEzLU9iLyO3_m9PrKCU5rW25Dy0ldIlZ4XhztoCfTBrMNylzR5SU7EwIjgLmTsDmR_BdwQ7YyhpWIqyk5oWj0e3fX02AqIQL1EWxWTDwEoITqdNvD6rvBlJR-fO60fLde1uCqb8x8VxqDkS7pGKMgD9tfAOG-t92zSen9dU5rhRNuEAWf4cW98mdKNzzkPUnuAtUky7QPys0_mASgCy4MRc9asah5ehTffxe4qeXnriDyHrI_gEqk7dSs095E9heULHpmYMekwPrFZLFEf_m3O6APu3B-q2iiGP47ViAHgkBHxJFNg0n1IfzjgnrExIMzbAPPRGLZZOz-87Bsod_spCdnFgGE7Y_Aj6I_mX9Ax7v_uqF3JIZCxgT8gEFdc6Rb1fBL6ZjzhqHswpUOBO5Tsaod2q-oDEJnTvRlR_D6KB3SH0fUorcgzvMENSLx7Q9yKyuVPRh1rWv-6xfP8B6gfqRbg6QNP36xbFeskGHlT8fK46Uj6JKb7ufucCTiMFQaYA0ILD4vAYTIWVvnNzMhI96ynKV7es=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgWQ4DNVjBE7ARx3uJfUq5TNC90PVaSTrKB-6OMHR2II4NXwNJLJbYykeqTP-2WonkS3-VrBGjXtsL6EzOvUUkZXIFICHMi1lI3JKeZuRPkPLen54VbJWr_nq-6eQ1WWVEhF7otCb0bOWzS8yyQ_l98J802fgkOft8_lEKJM7FMve_ZYxhb5YBOOPU4LCWzgWHrbLO2lAJdHdLfQ=="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu bahwa kebaikan akan selalu menemukan jalannya sendiri?",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "light",
+      "dawn"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat kaum Quraisy melarang keras penjualan makanan kepada Bani Hasyim, nurani sebagian orang tidak tega melihat anak-anak kelaparan.",
+      "label": "Boikot Kejam Kaum Quraisy",
+      "ikon": [
+       "piring",
+       "hati"
+      ],
+      "ilustrasi": "badai",
+      "tokoh": "takut",
+      "stiker": [
+       "plate",
+       "storm"
+      ]
+     },
+     {
+      "narasi": "Di keheningan malam, Hisyam bin 'Amr radhiyallahu 'anhu diam-diam menuntun unta yang sarat muatan gandum.",
+      "label": "Bantuan Rahasia Malam Hari",
+      "ikon": [
+       "bulan_bintang",
+       "lentera"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "night",
+       "grain",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Tiba di mulut lembah Syi'ib tempat kaum muslimin terisolasi, ia memukul unta itu agar berlari masuk membawa makanan.",
+      "label": "Menembus Lembah Boikot",
+      "ikon": [
+       "gunung",
+       "roti"
+      ],
+      "ilustrasi": "gua",
+      "stiker": [
+       "valley",
+       "mountain",
+       "bread"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jangan pernah ragu menolong sesama yang tertindas, walau harus dilakukan secara sembunyi-sembunyi.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "lantern"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfw_JMJAoje/",
+   "fb": "https://www.facebook.com/reel/30077942505126816",
+   "yt": "https://youtube.com/shorts/3QHfXJTkLJY",
+   "waktu_posting": "2026-11-15T14:24:24"
   },
   {
    "menit": "16:50",
