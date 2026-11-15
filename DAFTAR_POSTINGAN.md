@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 87 video. Waktu dalam WIB, terbaru di atas.
+Total: 88 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 15 Nov 2026 15.49 | ep012-01 | Pengorbanan Mengharukan Menjaga Rasulullah ﷺ | QS. Al-Qalam: 4 | [IG](https://www.instagram.com/reel/DfwY1nNFm3a/) · [YouTube](https://youtube.com/shorts/PL7w5OgS_Eg) · [FB](https://www.facebook.com/reel/1665780328665647) |
 | 15 Nov 2026 11.56 | h020 | Jangan Lupa Baca Surah Al-Kahfi | HR. Al-Hakim (2/399) dan Al-Baihaqi (3/249) (shahih) | [IG](https://www.instagram.com/reel/Dfv-M4GiLqp/) · [YouTube](https://youtube.com/shorts/a7nmPRF24Zk) · [FB](https://www.facebook.com/reel/1161023249678828) |
 | 15 Nov 2026 05.27 | ep011-08 | Surah Maryam yang Menggetarkan Najasyi | QS. Al-Ma'idah: 83 | [IG](https://www.instagram.com/reel/DfvRrO7lRzX/) · [YouTube](https://youtube.com/shorts/IkLQ5AeKv-Q) · [FB](https://www.facebook.com/reel/1631244391816416) |
 | 14 Nov 2026 21.24 | ep011-07 | Siasat Menyuap Pembesar Negeri Habasyah | Musnad Ahmad no. 1740 (hasan) | [IG](https://www.instagram.com/reel/DfuaaeZD1jc/) · [YouTube](https://youtube.com/shorts/BS4mfu6Weps) · [FB](https://www.facebook.com/reel/1156280563512718) |
