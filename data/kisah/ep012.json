@@ -294,11 +294,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ",
-    "terjemah": "Barang siapa di antara kalian melihat kemungkaran, hendaklah ia mengubahnya dengan tangannya.",
+    "arab": "مَنْ رَأَى مِنْكُمْ مُنْكَرًا فَلْيُغَيِّرْهُ بِيَدِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِلِسَانِهِ، فَإِنْ لَمْ يَسْتَطِعْ فَبِقَلْبِهِ، وَذَلِكَ أَضْعَفُ الْإِيمَانِ",
+    "terjemah": "Barang siapa di antara kalian melihat suatu kemungkaran, hendaklah ia mengubahnya dengan tangannya. Jika tidak mampu, maka dengan lisannya. Dan jika tidak mampu, maka dengan hatinya, dan itu adalah selemah-lemah iman.",
     "sumber": "HR. Muslim no. 49",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:49a"
    },
    "faedah": "Keberanian satu orang memulai kebaikan dapat menggerakkan banyak hati melawan kezaliman.",
    "latar_faedah": "kitab",
@@ -308,7 +309,85 @@
     "ukhuwah"
    ],
    "id": "ep012-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bisakah langkah satu orang menghentikan kezaliman yang disepakati bersama?",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "city",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Merasa sedih melihat saudaranya kelaparan akibat pemboikotan, Hisyam bin 'Amr mendatangi Zuhair dan mengingatkannya pada ikatan kekerabatan.",
+      "label": "Mengingatkan Hubungan Kekerabatan",
+      "ikon": [
+       "hati",
+       "roti"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "bread",
+       "house"
+      ]
+     },
+     {
+      "narasi": "Meski Zuhair merasa tak berdaya seorang diri, Hisyam meyakinkannya bahwa kini mereka telah berdua.",
+      "label": "Menyatukan Tekad Bersama",
+      "ikon": [
+       "lentera"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lamp",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Hisyam terus menemui tokoh lain hingga terkumpul lima orang yang sepakat merobek dan membatalkan piagam pemboikotan.",
+      "label": "Lima Tokoh Membatalkan Piagam",
+      "ikon": [
+       "gulungan",
+       "kunci"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "scroll",
+       "key"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Keberanian satu orang untuk memulai kebaikan mampu menggerakkan banyak hati demi melawan kezaliman.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "sunrise",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis pendapatmu di komentar",
+     "narasi": "Tulis pendapatmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfx21PkD9zX/",
+   "fb": "https://www.facebook.com/reel/1659898548926256",
+   "yt": "https://youtube.com/shorts/f5odf1SF484",
+   "waktu_posting": "2026-11-15T22:30:49"
   },
   {
    "menit": "24:00",

@@ -1,10 +1,12 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 90 video. Waktu dalam WIB, terbaru di atas.
+Total: 92 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 16 Nov 2026 05.30 | ep012-04 | Satu Orang Menggerakkan Perubahan Besar | HR. Muslim no. 49 (shahih) | [IG](https://www.instagram.com/reel/Dfx21PkD9zX/) · [YouTube](https://youtube.com/shorts/f5odf1SF484) · [FB](https://www.facebook.com/reel/1659898548926256) |
 | 15 Nov 2026 21.24 | ep012-03 | Bantuan Rahasia Menembus Lembah Boikot | QS. Al-Ma'idah: 2 | [IG](https://www.instagram.com/reel/Dfw_JMJAoje/) · [YouTube](https://youtube.com/shorts/3QHfXJTkLJY) · [FB](https://www.facebook.com/reel/30077942505126816) |
+| 15 Nov 2026 21.18 | h022 | Cara Masuk Masjid Sesuai Sunnah | HR. Muslim no. 713 (shahih) | [IG](https://www.instagram.com/reel/Dfw-ctJD09y/) · - |
 | 15 Nov 2026 19.00 | h021 | Amalan Mudah Berpahala Sangat Melimpah | HR. Muslim no. 408 (shahih) | [IG](https://www.instagram.com/reel/DfwurRMEf0Z/) · [YouTube](https://youtube.com/shorts/01PYBdUUNLc) · [FB](https://www.facebook.com/reel/29040219675643511) |
 | 15 Nov 2026 15.49 | ep012-01 | Pengorbanan Mengharukan Menjaga Rasulullah ﷺ | QS. Al-Qalam: 4 | [IG](https://www.instagram.com/reel/DfwY1nNFm3a/) · [YouTube](https://youtube.com/shorts/PL7w5OgS_Eg) · [FB](https://www.facebook.com/reel/1665780328665647) |
 | 15 Nov 2026 11.56 | h020 | Jangan Lupa Baca Surah Al-Kahfi | HR. Al-Hakim (2/399) dan Al-Baihaqi (3/249) (shahih) | [IG](https://www.instagram.com/reel/Dfv-M4GiLqp/) · [YouTube](https://youtube.com/shorts/a7nmPRF24Zk) · [FB](https://www.facebook.com/reel/1161023249678828) |
