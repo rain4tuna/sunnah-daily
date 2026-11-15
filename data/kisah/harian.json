@@ -1267,7 +1267,93 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ternyata melangkah masuk ke dalam masjid itu ada adabnya lho menurut sunnah Nabi ﷺ.",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "mosque",
+      "night city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Langkah pertama yang sangat dianjurkan adalah memastikan kita masuk dengan mendahulukan kaki kanan.",
+      "label": "Dahulukan Kaki Kanan",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri",
+      "stiker": [
+       "door",
+       "footstep"
+      ]
+     },
+     {
+      "narasi": "Setelah itu, jangan lupa untuk membaca doa memohon dibukakan pintu rahmat kepada Allah.",
+      "label": "Berdoa Memohon Rahmat Allah",
+      "ikon": [
+       "pintu",
+       "kunci"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdoa",
+      "stiker": [
+       "lantern",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Dengan menjaga adab sederhana ini, kita sedang mengundang rahmat Allah sejak langkah pertama kita masuk.",
+      "label": "Mengundang Rahmat Allah",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berdiri",
+      "stiker": [
+       "heart",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Adab ini menunjukkan betapa mulianya masjid sebagai rumah Allah yang harus kita hormati setiap saat.",
+      "label": "Hormati Rumah Allah",
+      "ikon": [
+       "masjid",
+       "cahaya"
+      ],
+      "ilustrasi": "masjid",
+      "tokoh": "berdiri",
+      "stiker": [
+       "mosque",
+       "dome"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hafalkan doanya dan amalkan selalu setiap kali kamu melangkah ke rumah Allah ya!",
+     "ikon": [
+      "tasbih"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "prayer beads",
+      "sunrise"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   }
   },
   {
    "judul_hook": "Jangan Langsung Duduk di Masjid",
