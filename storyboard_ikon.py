@@ -73,6 +73,11 @@ Isi "tokoh" HANYA bila babak itu menceritakan orang yang BUKAN Nabi ﷺ, BUKAN n
 beliau, dan BUKAN malaikat: misalnya tokoh musyrik, kaum terdahulu, atau orang umum ("kita", "seseorang").
 Kalau babak itu menyebut Nabi ﷺ, sahabat, atau malaikat, "tokoh" WAJIB "" (kosong). Kalau ragu, kosongkan.
 
+STIKER = di tiap babak hook, poin, dan faedah tambahkan "stiker": 2-4 kata benda KONKRET dalam bahasa Inggris
+(1-2 kata) yang muncul atau tersirat di narasi babak itu, untuk dicarikan ikon benda: mis. "water", "date fruit",
+"door", "sword", "coins", "moon", "bed". HANYA benda, tempat, alam, atau waktu. JANGAN manusia, bagian wajah, hewan,
+malaikat, atau simbol agama lain.
+
 Kembalikan JSON saja: {{"hook": {{...}}, "poin": [{{...}}], "faedah": {{...}}, "penutup": {{...}}}}"""
 
 
@@ -99,6 +104,9 @@ def _visual(asal, b):
         b['ilustrasi'] = asal['ilustrasi']
     if asal.get('tokoh') in TOKOH:
         b['tokoh'] = asal['tokoh']
+    st = [str(x).strip()[:30] for x in (asal.get('stiker') or []) if isinstance(x, str) and str(x).strip()]
+    if st:
+        b['stiker'] = st[:4]
     return b
 
 
@@ -168,4 +176,5 @@ def segmen(k, kicker, narasi_dalil, seri='', kredit='', lanjut='kisah'):
         s['kicker'] = kicker
         if b:
             s['ilustrasi'], s['tokoh'] = ilustrasi_babak(b)
+            s['stiker_en'] = b.get('stiker') or []
     return seg

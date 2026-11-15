@@ -16,6 +16,7 @@ import subprocess
 import tempfile
 import wave
 
+import stiker
 import video
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -51,13 +52,25 @@ def _panjang_suara(path, cadangan):
 def susun_props(segmen):
     """Ubah segmen pipeline (sudah berisi mulai/durasi dari susun_audio) jadi props komposisi SunnahDaily."""
     hasil, no = [], 0
-    for s in segmen:
+    dipakai = set()
+    benih = segmen[0].get('judul') or segmen[0].get('ucap') or ''
+    for i, s in enumerate(segmen):
         mulai, durasi = s['mulai'], s['durasi']
         suara = min(durasi, _panjang_suara(s['wav'], durasi - video.JEDA))
         b = {'jenis': s['jenis'], 'mulai': round(mulai, 3), 'akhir': round(mulai + durasi, 3),
              'ucapMulai': round(mulai + 0.1, 3), 'ucapAkhir': round(mulai + suara, 3)}
         if s.get('ilustrasi'):
             b['ilustrasi'], b['tokoh'] = s['ilustrasi'], s.get('tokoh') or ''
+        if s['jenis'] in ('hook', 'poin', 'faedah'):
+            teks = ' '.join(x for x in (s.get('narasi') or '', s['ucap']) if x)
+            st = stiker.props(s['ucap'] if s['jenis'] != 'poin' else teks, s.get('ilustrasi') or '', s.get('stiker_en') or (),
+                              f'{benih}|{i}', n=3, sudah=dipakai)
+            # stiker muncul saat bendanya disebut; yang tidak disebut langsung menyebar rata di sepanjang suara
+            for j, x in enumerate(st):
+                rel = x.pop('pos')
+                rel = min(rel, 0.9) if rel is not None else (j + 0.4) / (len(st) + 0.4)
+                x['muncul'] = round(0.1 + rel * max(0.5, suara - 0.6), 2)
+            b['stiker'] = st
         if s['jenis'] == 'hook':
             b.update(judul=s.get('judul') or '', narasi=s['ucap'])
         elif s['jenis'] == 'poin':

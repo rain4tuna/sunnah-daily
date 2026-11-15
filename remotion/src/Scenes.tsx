@@ -3,6 +3,7 @@ import { AbsoluteFill, interpolate, spring, useCurrentFrame, useVideoConfig } fr
 import { theme } from "./theme";
 import { Bintang, Entrance, Garis, Karaoke, Scene, WordReveal, clamp } from "./Motion";
 import { Ilustrasi, JenisIlustrasi, Pose } from "./Ilustrasi";
+import { DenganStiker, StikerData } from "./Stiker";
 
 export type Segmen = {
   jenis: "hook" | "poin" | "dalil" | "faedah" | "penutup";
@@ -10,7 +11,7 @@ export type Segmen = {
   judul?: string; narasi?: string; no?: number; label?: string;
   arab?: string; terjemah?: string; sumber?: string; derajat?: string;
   ajakan?: string; kredit?: string; ustadz?: string;
-  ilustrasi?: JenisIlustrasi; tokoh?: Pose | "";
+  ilustrasi?: JenisIlustrasi; tokoh?: Pose | ""; stiker?: StikerData[];
 };
 
 const sisi = theme.safe.side;
@@ -31,7 +32,11 @@ export const Hook: React.FC<{ s: Segmen }> = ({ s }) => {
   return (
     <Scene>
       <div style={{ ...isi, alignItems: "center", textAlign: "center" }}>
-        {s.ilustrasi ? <Ilustrasi jenis={s.ilustrasi} tokoh={s.tokoh} tinggi={500} delay={1} /> : <Bintang ukuran={230} delay={2} />}
+        {s.ilustrasi ? (
+          <DenganStiker stiker={s.stiker} sudut={["kananAtas", "kiriBawah", "kananBawah"]}>
+            <Ilustrasi jenis={s.ilustrasi} tokoh={s.tokoh} tinggi={500} delay={1} />
+          </DenganStiker>
+        ) : <Bintang ukuran={230} delay={2} />}
         <WordReveal text={s.judul ?? ""} delay={10} per={4} sorot={kata.length - 1}
           style={{ ...display, fontSize: 100, lineHeight: 1.08, justifyContent: "center", marginTop: 52 }} />
         <Entrance delay={28} style={{ marginTop: 44 }}>
@@ -51,14 +56,14 @@ export const Poin: React.FC<{ s: Segmen }> = ({ s }) => {
   return (
     <Scene>
       <div style={isi}>
-        <div style={{ position: "relative" }}>
+        <DenganStiker stiker={s.stiker} sudut={["kananAtas", "kananBawah", "kiriBawah"]}>
           <Ilustrasi jenis={s.ilustrasi} tokoh={s.tokoh} tinggi={530} delay={1} />
           <div style={{ ...display, position: "absolute", left: 30, top: 18, fontSize: 132, lineHeight: 1, color: "transparent",
             WebkitTextStroke: `3px ${theme.colors.hero}`, opacity: p, fontVariantNumeric: "tabular-nums",
             transform: `translateX(${interpolate(p, [0, 1], [-50, 0])}px) scale(${interpolate(p, [0, 1], [0.8, 1])})`, transformOrigin: "left top" }}>
             {String(s.no).padStart(2, "0")}
           </div>
-        </div>
+        </DenganStiker>
         <WordReveal text={s.label ?? ""} delay={12} per={4} style={{ ...display, fontSize: 80, lineHeight: 1.1, marginTop: 50 }} />
         <Garis delay={22} lebar={190} style={{ marginTop: 34, marginBottom: 38 }} />
         <Entrance delay={26}>
@@ -114,7 +119,9 @@ export const Faedah: React.FC<{ s: Segmen }> = ({ s }) => {
   return (
     <Scene>
       <div style={{ ...isi, alignItems: "center", textAlign: "center" }}>
-        <Ilustrasi jenis={s.ilustrasi} tokoh={s.tokoh} tinggi={460} delay={1} />
+        <DenganStiker stiker={s.stiker} sudut={["kiriAtas", "kananBawah", "kananAtas"]}>
+          <Ilustrasi jenis={s.ilustrasi} tokoh={s.tokoh} tinggi={460} delay={1} />
+        </DenganStiker>
         <Entrance delay={8} style={{ marginTop: 52 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 26 }}>
             <Garis delay={14} lebar={90} />
