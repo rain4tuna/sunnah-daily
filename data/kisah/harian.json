@@ -1045,7 +1045,7 @@
    ],
    "id": "h020",
    "topik": "Membaca Al-Kahfi di hari Jumat",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1053,7 +1053,62 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu ada satu amalan istimewa di hari Jumat yang sangat sayang bila terlewatkan?",
+     "ikon": [
+      "kalender"
+     ],
+     "ilustrasi": "masjid",
+     "tokoh": "berdiri"
+    },
+    "poin": [
+     {
+      "narasi": "Amalan tersebut adalah membaca surah Al-Kahfi, baik di malam Jumat maupun di siang harinya.",
+      "label": "Membaca Surah Al-Kahfi",
+      "ikon": [
+       "quran"
+      ],
+      "ilustrasi": "quran",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Waktunya sangat luas, kita bisa membacanya sekaligus atau mencicilnya hingga Jumat sore sebelum maghrib tiba.",
+      "label": "Waktu Luang Membaca",
+      "ikon": [
+       "jam",
+       "matahari"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdiri"
+     },
+     {
+      "narasi": "Nabi ﷺ mengabarkan bahwa Allah akan menyinari orang yang membacanya dengan cahaya keberkahan di antara dua Jumat.",
+      "label": "Cahaya Di Antara Dua Jumat",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "hati"
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari luangkan sedikit waktu kita hari ini untuk membaca Al-Kahfi agar hidup semakin bercahaya.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdoa"
+    },
+    "penutup": {
+     "ajakan": "Sudah baca Al-Kahfi hari ini?",
+     "narasi": "Sudah baca Al-Kahfi hari ini? Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfv-M4GiLqp/",
+   "fb": "https://www.facebook.com/reel/1161023249678828",
+   "yt": "https://youtube.com/shorts/a7nmPRF24Zk",
+   "waktu_posting": "2026-11-15T04:56:52"
   },
   {
    "judul_hook": "Amalan Mudah Berpahala Sangat Melimpah",
