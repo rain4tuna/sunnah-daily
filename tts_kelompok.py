@@ -68,14 +68,25 @@ def cari_jeda(sampel, rate):
     return jeda
 
 
+ALASAN = ''   # alasan terakhir potong() menolak (untuk log)
+
+
+def _tolak(alasan):
+    global ALASAN
+    ALASAN = alasan
+    return None
+
+
 def potong(sampel, rate, teks):
     """Potong audio jadi len(teks) bagian di jeda terpanjang. Kembalikan daftar potongan atau None bila meragukan."""
     k = len(teks)
     if k == 1:
         return [sampel]
     jeda = cari_jeda(sampel, rate)
+    panjang = sorted(((b - a) / rate for a, b in jeda), reverse=True)
+    ringkas = f"audio {len(sampel) / rate:.1f}s, {len(jeda)} jeda, terpanjang {[round(x, 2) for x in panjang[:k + 2]]}"
     if len(jeda) < k - 1:
-        return None
+        return _tolak(f'jeda kurang ({ringkas})')
     # tiap batas babak dicari di sekitar posisi yang diperkirakan dari panjang teks, lalu dipilih jeda terpanjang di
     # sana; jeda di dalam kalimat yang jauh dari perkiraan tidak pernah terpilih
     total_teks = sum(len(t) for t in teks)
@@ -86,13 +97,15 @@ def potong(sampel, rate, teks):
         perkiraan = len(sampel) * kumulatif / total_teks
         calon = [(a, b) for a, b in jeda if a > sebelumnya and abs((a + b) / 2 - perkiraan) <= toleransi]
         if not calon:
-            return None
+            return _tolak(f'batas {len(titik)}: tidak ada jeda dekat perkiraan {perkiraan / rate:.1f}s ({ringkas})')
         calon.sort(key=lambda r: r[1] - r[0], reverse=True)
         a, b = calon[0]
         # jeda antar babak harus panjang dan jelas lebih panjang dari jeda kalimat di sekitarnya; kalau tidak,
         # mungkin TTS melewatkan jeda paragraf -> lebih aman dibacakan ulang per babak
         if (b - a) < BATAS_MIN * rate or (len(calon) > 1 and (b - a) < 1.25 * (calon[1][1] - calon[1][0])):
-            return None
+            kedua = (calon[1][1] - calon[1][0]) / rate if len(calon) > 1 else 0
+            return _tolak(f'batas {len(titik)}: jeda {(b - a) / rate:.2f}s vs kedua {kedua:.2f}s '
+                          f'di sekitar {perkiraan / rate:.1f}s ({ringkas})')
         sebelumnya = b
         titik.append((a + b) // 2)
     titik.append(len(sampel))
@@ -103,7 +116,7 @@ def potong(sampel, rate, teks):
     for b, t in zip(bagian, teks):
         rasio = (len(b) / total_audio) / (len(t) / total_teks)
         if not 0.45 <= rasio <= 2.2:
-            return None
+            return _tolak(f'rasio panjang {rasio:.2f} ({ringkas})')
     return bagian
 
 
@@ -124,7 +137,7 @@ def bacakan_kelompok(teks, wav_keluar, tmp, nama='kelompok'):
     sampel, rate = _baca(gabung)
     bagian = potong(sampel, rate, teks)
     if bagian is None:
-        log(f'   {nama}: jeda antar babak tidak jelas, dibacakan ulang per babak ({len(teks)} permintaan)')
+        log(f'   {nama}: jeda antar babak tidak jelas, dibacakan ulang per babak ({len(teks)} permintaan): {ALASAN}')
         for t, w in zip(teks, wav_keluar):
             gemini.bacakan(t, w)
         return 1 + len(teks)

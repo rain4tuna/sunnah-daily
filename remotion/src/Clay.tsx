@@ -102,8 +102,10 @@ const Tokoh: React.FC<{ t: TokohClay; ke: number }> = ({ t, ke }) => {
   const kiri = t.dari !== "kanan";
   const awal = kiri ? -300 : W + 300;
   const x = lama ? interpolate(f, [0, lama], [awal, t.x], { ...clamp, easing: theme.ease.out }) : t.x;
-  const berjalan = lama > 0 && f < lama;
-  const file = berjalan ? t.jalan![Math.floor(f / 7) % 2] : t.diam;
+  // sebelum mulai berjalan f negatif; Math.floor(-1/7) % 2 = -1 di JS -> jalan[-1] undefined -> staticFile error
+  const berjalan = lama > 0 && f >= 0 && f < lama;
+  const file = (berjalan ? t.jalan![Math.floor(f / 7) % 2] : undefined) ?? t.diam ?? t.jalan?.[0];
+  if (!file) return null;
   const pantul = berjalan ? -Math.abs(Math.sin(f / 7 * Math.PI)) * 12 : 0;
   const napas = 1 + Math.sin(frame / 20 + ke) * 0.012;
   const muncul = lama ? (f >= 0 ? 1 : 0) : spring({ frame: f, fps, config: theme.spring.smooth });

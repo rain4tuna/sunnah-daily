@@ -18,9 +18,11 @@ Env:
 
 Hasil di OUT_DIR: epXXX_panjang.mp4, _cuplikan.jpg (thumbnail kasar), _deskripsi.txt (deskripsi + chapter YouTube).
 """
+import hashlib
 import json
 import os
 import re
+import shutil
 import sys
 import tempfile
 
@@ -37,6 +39,9 @@ ROOT = os.path.dirname(os.path.abspath(__file__))
 URUTAN = ['pertama', 'kedua', 'ketiga', 'keempat', 'kelima', 'keenam', 'ketujuh', 'kedelapan', 'kesembilan', 'kesepuluh',
           'kesebelas', 'kedua belas']
 USTADZ = 'Ust. Dr. Firanda Andirja, M.A.'
+# Cache naskah anak & suara per babak (dipulihkan/disimpan workflow lewat actions/cache): render yang gagal bisa
+# diulang tanpa memakai kuota TTS lagi.
+CACHE = os.environ.get('CACHE_PANJANG') or ''
 GAYA_SUARA = ('narator laki-laki dewasa yang tenang, hangat dan berwibawa, seperti membawakan kajian kisah; '
               'tempo sedang cenderung pelan, jeda wajar antar kalimat, intonasi mengalir, tidak terburu-buru')
 
@@ -224,7 +229,17 @@ def jalankan():
             if pratinjau and not k.get('storyboard_ikon'):
                 k['storyboard_ikon'] = storyboard_ikon.rapikan({}, k, 'kisah')   # tanpa Gemini
             storyboard_ikon.buat(k)              # storyboard tersimpan dipakai; yang belum ada dibuat (Gemini)
+            simpan = os.path.join(CACHE, f"naskah_{k['id']}.json") if CACHE and not pratinjau else ''
+            if simpan and os.path.exists(simpan):
+                with open(simpan, encoding='utf-8') as f:
+                    naskah[k['id']] = json.load(f)
+                log(f"   naskah anak {k['id']} dari cache")
+                continue
             naskah[k['id']] = contoh_naskah(k) if pratinjau else naskah_anak.tulis_ulang(k)
+            if simpan and naskah[k['id']]:
+                os.makedirs(CACHE, exist_ok=True)
+                with open(simpan, 'w', encoding='utf-8') as f:
+                    json.dump(naskah[k['id']], f, ensure_ascii=False)
         log('   naskah anak: ' + ', '.join(f"{i}={'ok' if v else 'asli'}" for i, v in naskah.items()))
         with open(os.path.join(out, f'{nama}_naskah.json'), 'w', encoding='utf-8') as f:
             json.dump(naskah, f, ensure_ascii=False, indent=1)
@@ -262,12 +277,25 @@ def jalankan():
         log(f'   suara: {gemini.SUARA}')
         for i, s in enumerate(segmen):
             s['wav'] = os.path.join(tmp, f'suara{i:03d}.wav')
+        def kunci(i):
+            teks = '|'.join((gemini.SUARA, gemini.GAYA_SUARA, main.lisan(segmen[i]['ucap'])))
+            return os.path.join(CACHE, 'tts_' + hashlib.sha1(teks.encode('utf-8')).hexdigest()[:20] + '.wav')
+
         kelompok = kelompok_tts(segmen)
         dipakai = 0
         for j, kel in enumerate(kelompok, 1):
+            if CACHE and all(os.path.exists(kunci(i)) for i in kel):
+                for i in kel:
+                    shutil.copyfile(kunci(i), segmen[i]['wav'])
+                log(f'   TTS kelompok {j}/{len(kelompok)} ({len(kel)} babak) dari cache')
+                continue
             log(f'   TTS kelompok {j}/{len(kelompok)} ({len(kel)} babak)')
             dipakai += tts_kelompok.bacakan_kelompok([main.lisan(segmen[i]['ucap']) for i in kel],
                                                      [segmen[i]['wav'] for i in kel], tmp, nama=f'k{j:02d}')
+            if CACHE:
+                os.makedirs(CACHE, exist_ok=True)
+                for i in kel:
+                    shutil.copyfile(segmen[i]['wav'], kunci(i))
         log(f'   permintaan TTS: {dipakai} (tanpa pengelompokan: {len(segmen)})')
         mp4 = os.path.join(out, f'{nama}.mp4')
         durasi = remotion_video.buat_video(

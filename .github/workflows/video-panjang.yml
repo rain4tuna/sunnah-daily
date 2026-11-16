@@ -67,8 +67,17 @@ jobs:
           npm ci --no-audit --no-fund
           npx remotion browser ensure
 
+      # Naskah anak & suara per babak dari run sebelumnya: render yang gagal diulang tanpa memakai kuota TTS lagi.
+      - name: Pulihkan cache naskah & suara
+        uses: actions/cache/restore@v4
+        with:
+          path: cache_panjang
+          key: panjang-${{ github.run_id }}
+          restore-keys: panjang-
+
       - name: Buat video panjang
         env:
+          CACHE_PANJANG: cache_panjang
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EPISODE: ${{ github.event.inputs.episode }}
           SUARA_PANJANG: ${{ github.event.inputs.suara }}
@@ -84,6 +93,14 @@ jobs:
           mkdir -p hasil
           set -o pipefail
           python video_panjang.py 2>&1 | tee hasil/log.txt
+
+      - name: Simpan cache naskah & suara
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: cache_panjang
+          key: panjang-${{ github.run_id }}
 
       - name: Unggah hasil (7 hari)
         if: always()
