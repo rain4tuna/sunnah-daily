@@ -70,8 +70,10 @@ jobs:
           SUARA_PANJANG: ${{ github.event.inputs.suara }}
           MAKS_KISAH: ${{ github.event.inputs.maks_kisah }}
           GAYA_PANJANG: ${{ github.event.inputs.gaya }}
-          REMOTION_POTONG_PANJANG: '900'
-          REMOTION_KONKURENSI: '4'
+          # Konkurensi 4 membuat font (delayRender "font") melewati batas waktu; 2 seperti render Shorts.
+          REMOTION_POTONG_PANJANG: '300'
+          REMOTION_KONKURENSI: '2'
+          REMOTION_TIMEOUT: '180000'
           OUT_DIR: hasil
         run: |
           mkdir -p hasil

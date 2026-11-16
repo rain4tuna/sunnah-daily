@@ -6,7 +6,8 @@ sudah punya 'wav' hasil TTS), tulis MP4 9:16 dan kembalikan durasinya.
 Video dirender PER POTONGAN lalu digabung dengan audio: render panjang sekali jalan bisa macet di mesin ber-RAM
 kecil, sedangkan potongan pendek bisa diulang sendiri-sendiri.
 
-Env (opsional): REMOTION_POTONG (frame per potong), REMOTION_KONKURENSI, REMOTION_GL (mis. angle), FFMPEG.
+Env (opsional): REMOTION_POTONG (frame per potong), REMOTION_KONKURENSI, REMOTION_GL (mis. angle),
+REMOTION_TIMEOUT (ms), FFMPEG.
 """
 import json
 import math
@@ -27,6 +28,7 @@ NPX = 'npx.cmd' if os.name == 'nt' else 'npx'
 POTONG = int(os.environ.get('REMOTION_POTONG') or (150 if os.name == 'nt' else 300))
 KONKURENSI = os.environ.get('REMOTION_KONKURENSI') or ('1' if os.name == 'nt' else '2')
 GL = os.environ.get('REMOTION_GL', 'angle' if os.name == 'nt' else '')
+TIMEOUT = os.environ.get('REMOTION_TIMEOUT') or '60000'   # ms; font kadang lambat dimuat saat mesin sibuk
 LABEL_DALIL = {'ayat': "AL-QUR'AN", 'hadits': 'HADITS', 'atsar': 'ATSAR', 'ulama': 'PERKATAAN ULAMA'}
 
 
@@ -123,7 +125,7 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
         props = os.path.join(tmp, 'props.json')
         with open(props, 'w', encoding='utf-8') as f:
             json.dump({**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}, f, ensure_ascii=False)
-        umum = ['src/index.ts', komposisi, f'--props={props}', '--log=error', '--timeout=60000',
+        umum = ['src/index.ts', komposisi, f'--props={props}', '--log=error', f'--timeout={TIMEOUT}',
                 f'--concurrency={KONKURENSI}'] + ([f'--gl={GL}'] if GL else []) +                ([f'--public-dir={public_dir}'] if public_dir else [])
         n = math.ceil(total * FPS)
         daftar = os.path.join(tmp, 'daftar.txt')
