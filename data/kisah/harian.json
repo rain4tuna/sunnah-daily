@@ -1395,7 +1395,7 @@
    ],
    "id": "h023",
    "topik": "Shalat tahiyatul masjid",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1403,7 +1403,97 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Saat baru melangkah masuk ke dalam masjid, tahan dulu keinginanmu untuk langsung duduk bersantai.",
+     "ikon": [
+      "pintu"
+     ],
+     "ilustrasi": "pintu",
+     "tokoh": "berdiri",
+     "stiker": [
+      "door",
+      "mosque"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Nabi ﷺ sangat menganjurkan kita untuk langsung berdiri menunaikan shalat sunnah tahiyatul masjid terlebih dahulu.",
+      "label": "Anjuran Shalat Tahiyatul Masjid",
+      "ikon": [
+       "sajadah"
+      ],
+      "ilustrasi": "masjid",
+      "stiker": [
+       "prayer rug",
+       "mosque"
+      ]
+     },
+     {
+      "narasi": "Cukup kerjakan shalat ringan dua rakaat ini sebagai wujud adab dan penghormatan pada rumah Allah.",
+      "label": "Bentuk Adab Memuliakan Masjid",
+      "ikon": [
+       "rumah",
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berdoa",
+      "stiker": [
+       "house",
+       "heart"
+      ]
+     },
+     {
+      "narasi": "Bahkan saat khutbah Jumat sedang berlangsung di mimbar, kita tetap dianjurkan menunaikannya secara ringkas.",
+      "label": "Tetap Dikerjakan Saat Khutbah",
+      "ikon": [
+       "kalender",
+       "jam"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "berdiri",
+      "stiker": [
+       "calendar",
+       "clock"
+      ]
+     },
+     {
+      "narasi": "Jangan sampai kita melewatkan pahala sunnah ini hanya karena terburu-buru ingin segera duduk bersama jamaah.",
+      "label": "Jangan Terburu-buru Duduk",
+      "ikon": [
+       "timbangan",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdiri",
+      "stiker": [
+       "scale",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, biasakan shalat dua rakaat dulu setiap kali kakimu melangkah ke dalam masjid!",
+     "ikon": [
+      "jejak"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "footprint",
+      "mosque"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Amalkan sunnah indah ini",
+     "narasi": "Amalkan sunnah indah ini. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfyjIV-iX7s/",
+   "fb": "https://www.facebook.com/reel/1000301983149418",
+   "yt": "https://youtube.com/shorts/W_C3MCoANks",
+   "waktu_posting": "2026-11-16T04:57:54"
   },
   {
    "judul_hook": "Amalan Ringan Berpahala Sangat Besar",
