@@ -396,25 +396,26 @@
    "latar_hook": "kabah",
    "adegan": [
     {
-     "narasi": "Allah Subhanahu wa Ta'ala memberi kabar gaib kepada Rasulullah ﷺ bahwa piagam pemboikotan yang tergantung di dalam Ka'bah telah dimakan rayap.",
+     "narasi": "Bagaimana Allah menolong hamba-Nya yang tertindas? Selama sekitar tiga tahun, Rasulullah ﷺ dan para sahabat serta Bani Hasyim menghadapi pemboikotan kejam kaum Quraisy di Syi'ib Abi Thalib hingga mengalami kelaparan parah.",
      "latar": "kabah"
     },
     {
-     "narasi": "Abu Thalib lalu menantang kaum Quraisy untuk memeriksa lembaran tersebut dan berjanji menyerahkan Nabi ﷺ jika kabar itu dusta.",
+     "narasi": "Allah Subhanahu wa Ta'ala kemudian menggagalkan tipu daya kaum musyrikin dengan menggerakkan hati nurani beberapa pemuka Quraisy sendiri—seperti Hisyam bin 'Amr, Zuhair bin Abi Umayyah, dan Al-Muth'im bin 'Adi—yang merasa iba dan menentang pemutusan tali silaturahmi.",
      "latar": "kota"
     },
     {
-     "narasi": "Ketika pintu Ka'bah dibuka, mereka mendapati seluruh tulisan yang berisi kezaliman telah musnah dimakan rayap, menyisakan hanya nama Allah: 'Bismikallahumma'.",
+     "narasi": "Mereka bersepakat menyuarakan penolakan di hadapan kaum Quraisy di dekat Ka'bah dan merobek piagam pemboikotan yang zalim itu, sehingga kaum muslimin akhirnya terbebas dari kepungan.",
      "latar": "kabah"
     }
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
-    "terjemah": "Mereka membuat tipu daya dan Allah menggagalkan tipu daya itu. Dan Allah sebaik-baik pembalas tipu daya.",
+    "arab": "... وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
+    "terjemah": "...Mereka membuat tipu daya dan Allah menggagalkan tipu daya itu. Dan Allah adalah sebaik-baik pembalas tipu daya.",
     "sumber": "QS. Al-Anfal: 30",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/8?from=30&to=30"
    },
    "faedah": "Makar manusia sekuat apa pun akan hancur lebur di hadapan kekuasaan Allah.",
    "latar_faedah": "kitab",
@@ -424,7 +425,20 @@
     "makar musuh"
    ],
    "id": "ep012-05",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah tentang piagam pemboikotan yang dimakan rayap hingga hanya menyisakan nama Allah (atau tulisan 'Bismikallahumma') serta tantangan Abu Thalib tidak memiliki sanad yang shahih. Riwayat ini datang secara balaghah/mu'allaq tanpa sanad pada Ibnu Ishaq, serta secara mursal dan munqathi' pada Al-Baihaqi dan Ibnu Sa'd. Para pakar tahqiq sirah (seperti Dr. Mahdi Rizqullah Ahmad dan Dr. Akram Dhiya' Al-Umari) menyatakan riwayat rayap ini tidak tsabit/lemah. Peristiwa berakhirnya pemboikotan yang terbukti secara historis adalah pergerakan dari sejumlah tokoh Quraisy (seperti Hisyam bin 'Amr, Zuhair bin Abi Umayyah, dan Al-Muth'im bin 'Adi) yang tergerak rasa kekerabatannya untuk membatalkan dan merobek piagam pemboikotan yang zalim tersebut.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbvIaYFDafTgLL_L9FOyYffWk1NCsLrCTgGoYJBbbS1WyWVQodrSBJcEallzK2VsMwtnLgJ5mZCIGrdcSuz4mmbDdio3XT5rqh4UTyTDTiSAcHoo2CG5QgrPfPQXopaCEhNOF-Wco64NWhGf27kPZK46wqT8tf9d0RY8-39fzY8vq0y69kNPY0UQ2oDTEwCiaD7dk4AmLsu_7HRH85Q96pYbx_jAF2pPhsz1HTKMyrDpaw9bSUXvg=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv0NXbwi9LZyGiunI605A05vpHgNCrR3FMHo2W8HAptk7jZwVC1eWdlIn31DGG3MbWtQXIhvWQEZeQ9RO1VPCLGl3PlIPhwcwuyYMCQ5BQ418xWLnw1fopkKH8bxbeYbhrZjSks-vtCIjfaRcuhDcZw4CqB6pP7Aqb0N9qBpCzlMhtHnKab2ylFyyiwMiMw3_QUqELtp7fTicAWTrIBnbA_oeZ7gkCk1jJfWVNbkwIgiIo5VKO5KdHv7Ifkc9nTQkbnXxKFjCOqQnjwRmDd0WqyfHnDq2TEoo44mIwRgpetb_xJjwXcK5VtTXiObQv_kv241vot9sXtVl-Y962GHpONxSxR8ELNGVIzG9uqFCdhyuBr9wYlHaEmdPCLueygz5xI5NyTMeV6w7AVrgKn5enKNm7lSLl2bws4_XN8BgQkNhXoS003K2cREPisFeO6I_hR_ngGMgCtAJvS-cejvTO8CgiKMqUM6netEH7iUjUiScI2zCRuN-XbMCn7XEcaE9CIEArmTri4CcWYUooqyl9eiY3bt81vo3VVVdpOWeLSUbK8iyjcscHanU78R1Hv13_BToz06HSQHyWUYn8cXzSaN2ig87ITfxFcjMj2yUjAxNiIBygSRtNCkylmtnlspl5aKwJTU8lNuKVBbs6r1lXp7ZVjFzBbcPU9zySLDVr8iBubpv6VsFk3gOCNJJ6lro2Fx-sCZlZWehgtVTVuqgui0aG3Iu7XNBsEjdzJl-NeJFjNwY_OEImNLNE8OBwPStpb6U9wf2-bwZjuG3EklgW",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy_YqZMNI-S9KHi4YsFUIgZENVrZSIphi74YklQ7exzi4TsrWrsNafd-wYkqqPJXoFFOipOB98e7U7KRri9-qIBG8MDq_9wk2ApFsuyhW-NYVHJZ9DB1ZEFgdfwDVsSgu_",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTrlnwY_GTDzzr8YCSqdQXn_WUhqAnoh9fQnEk_GQTN1zT24PX6rI8bk1G0L_KcsYCCJ5G-cFGP_TaWQnx5uret8luTRQceFegcHHVYbU4hx4sKmHXYq4Sn3Oh5MpJGlJuL4Qgw3bGeF3VyXK77Iis9DYbeai0gmuF5Bnv0_wOyD_a9rvY",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF6O4LVpkgQqjDBGDvU7Zqt7kfBdgIDVrLD9roGuNFTbtMrqEkwa_aMAZXHVk__ySnLisq7ITjLLqMqLOfNi210K4f0hc3f_2lKmwEUuxGx7VC3aQe1sb9qkvokMHf_NWkcoJTcxt-i3SsywUVkGLiCqCNkZPBX1yCp0Bb_25Wb1UzVxeJYv8dVA1iI1-yzP6ZAY14zIJoHaMiBC5-_QTlTs6RdW9nxX9FoDpfd6QG1ryg1qqxIviuR20GfV9UDWyZSMBOgFBwYsyJazCqXt1NRn4QnjsLkJkw_ExAt7GjuacDMglZBeGDqt4gf_CpiB7KRnh0rPrw=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHv0NXbwi9LZyGiunI605A05vpHgNCrR3FMHo2W8HAptk7jZwVC1eWdlIn31DGG3MbWtQXIhvWQEZeQ9RO1VPCLGl3PlIPhwcwuyYMCQ5BQ418xWLnw1fopkKH8bxbeYbhrZjSks-vtCIjfaRcuhDcZw4CqB6pP7Aqb0N9qBpCzlMhtHnKab2ylFyyiwMiMw3_QUqELtp7fTicAWTrIBnbA_oeZ7gkCk1jJfWVNbkwIgiIo5VKO5KdHv7Ifkc9nTQkbnXxKFjCOqQnjwRmDd0WqyfHnDq2TEoo44mIwRgpetb_xJjwXcK5VtTXiObQv_kv241vot9sXtVl-Y962GHpONxSxR8ELNGVIzG9uqFCdhyuBr9wYlHaEmdPCLueygz5xI5NyTMeV6w7AVrgKn5enKNm7lSLl2bws4_XN8BgQkNhXoS003K2cREPisFeO6I_hR_ngGMgCtAJvS-cejvTO8CgiKMqUM6netEH7iUjUiScI2zCRuN-XbMCn7XEcaE9CIEArmTri4CcWYUooqyl9eiY3bt81vo3VVVdpOWeLSUbK8iyjcscHanU78R1Hv13_BToz06HSQHyWUYn8cXzSaN2ig87ITfxFcjMj2yUjAxNiIBygSRtNCkylmtnlspl5aKwJTU8lNuKVBbs6r1lXp7ZVjFzBbcPU9zySLDVr8iBubpv6VsFk3gOCNJJ6lro2Fx-sCZlZWehgtVTVuqgui0aG3Iu7XNBsEjdzJl-NeJFjNwY_OEImNLNE8OBwPStpb6U9wf2-bwZjuG3EklgW"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "28:50",
@@ -448,10 +462,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "يَا عَمِّ، قُلْ: لَا إِلَهَ إِلَّا اللَّهُ، كَلِمَةً أُحَاجُّ لَكَ بِهَا عِنْدَ اللَّهِ",
-    "terjemah": "Wahai pamanku, ucapkanlah Laa ilaha illallah, sebuah kalimat yang dengannya aku akan membelamu di sisi Allah.",
-    "sumber": "HR. Bukhari no. 1360 & Muslim no. 24",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "terjemah": "Wahai pamanku, ucapkanlah Laa ilaha illallah, sebuah kalimat yang dengannya aku akan berhujah (membelamu) di hadapan Allah.",
+    "sumber": "HR. Bukhari no. 3884, 4772 & Muslim no. 24",
+    "derajat": "shahih",
+    "penilai": "",
+    "rujukan": "https://sunnah.com/bukhari:4772"
    },
    "faedah": "Gengsi dan takut celaan manusia sering kali menjadi penghalang terbesar menerima kebenaran.",
    "latar_faedah": "kitab",
@@ -461,7 +476,92 @@
     "sakaratul maut"
    ],
    "id": "ep012-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Alur kisah sepenuhnya valid dan bersumber dari riwayat-riwayat shahih. Ungkapan 'Apakah engkau membenci agama Abdul Muthalib?' dilontarkan oleh Abu Jahal bersama Abdullah bin Abi Umayyah (HR. Bukhari no. 1360 & Muslim no. 24). Alasan bahwa Abu Thalib menolak karena khawatir celaan Quraisy (takut dianggap mengucapkannya karena takut mati) bersumber dari riwayat Abu Hurairah yang juga shahih dalam HR. Muslim no. 25. Catatan redaksi hadits: lafaz 'uhaajju' (أُحَاجُّ) terdapat pada Shahih Bukhari no. 3884 & 4772, sedangkan pada Bukhari no. 1360 dan Muslim no. 24 menggunakan lafaz 'asyhadu' (أَشْهَدُ - kujadikan saksi).",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG92MOKnFYsypf9OSTDYGFFa1MhzK1C6kgrK0L5SQoEvS8glibTYB-nkFLmifVc4bagknZwFI-LYdSslYOiMM4i9pvFd_48ef2OddjfmO1bR4sQa7yXMYY=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUb2iTJ53YDQaa_KTZG6Pb0GmTtJ9j7IHtFrs2bkSj28GZucOw0yamSBB16xrwC3f1eeRet-Y24AswydSr1SNF8TwhLN6mWHRZx5KV9fGGHR4UTQ==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz2brimAxlpizOQGSagzKfg55CImUM96Ttds191OGTRIX5XgCN4ju-RzNmhsy391ZJLLnfrYdeK3EtBXepSv71SvUTKz91DBQicahaS2etCp9xSXXAPiGI5HTnOr0jHLDZ0tJmWZVuyXPY9kQ9AfC5U7dTQpGrl3TuzzrUh7t3TYbkHnjtJkE0jbWrzAIVk_qZJfhLotG_iq5I8UoTAEuSthXgNJa7g1MEmy8CSLFa7BaIL2cyQdDME1PiZG98nuzDIhfIxJurQbZogr0rXVaa7UbQHK4f-78rceIQRDUXAmPxKKK2Iu2ZaGcg0JKNpANvQykKbSWzieEgi-PAy06zcqxDsCV9P94D4T5U6inH2jCcj3J1c_xzOv1QT7uty8y2_nZ6n_JRpgnMAHzvBPjgZeYcktWgrGXAPRc1SwLcEBWksLZKVP1g-YF5Qz9QedpcnYAfGcm-zDGTWkxbCzGsAsj6NF_my-duDOoYREM1SYypfPDAf2AOci81wJskeYll7hIBHZ2ukvg_WKrif5EV8GDlNmH1VGjZPIjBhouCAuFwlvLWr301yf8DtIbK0Bt30pbo0UCuaMNOCfKwZ5-3-gCTtn1jIPOndkd2pTW9EoSFrbb16yw7wquUKl1LZgUYL-z_nUSdMwBlGoSK0OFFUOYFEmHVXa00-4l-s2dE4X3btrkxf72SK-QOgGzboRoaadLoJ0NRCNIN_SKw",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG92MOKnFYsypf9OSTDYGFFa1MhzK1C6kgrK0L5SQoEvS8glibTYB-nkFLmifVc4bagknZwFI-LYdSslYOiMM4i9pvFd_48ef2OddjfmO1bR4sQa7yXMYY=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHAP8bF597ttC2hnWGFSCZ7ykfjmHoJMM4VPDJeimVIvWK1FFPP22mtRum1JjeJxfM-541LPX5Zf2NGJkA33MYjo42HWLqzqGquYEV-Eu4FP7wFvkhl2j9AEAIKIq3RrM9o5AaRWDYAzsH3Tx2NqhMZrd0qpQu7DzywhaVFrVsJOqaMyf-TReic-M="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Saat ajal kian mendekat, harapan apa yang sebenarnya paling kita cari?",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "clock",
+      "night",
+      "city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Menjelang wafatnya sang paman, Abu Thalib, Rasulullah ﷺ datang menjenguk dengan hati penuh kasih dan harapan.",
+      "label": "Kasih Nabi Menjenguk Paman",
+      "ikon": [
+       "pintu",
+       "hati"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "house"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ bersabda, 'Wahai pamanku, ucapkanlah Laa ilaha illallah, satu kalimat yang akan kujadikan pembela bagimu di hadapan Allah.'",
+      "label": "Ajakan Pada Kalimat Tauhid",
+      "ikon": [
+       "cahaya",
+       "timbangan"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Namun Abu Jahal terus memprovokasi, hingga akhirnya Abu Thalib wafat tanpa kalimat tauhid karena takut celaan kaumnya.",
+      "label": "Bisikan Celaan Kaum Musyrik",
+      "ikon": [
+       "awan_hujan"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "clouds"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Gengsi dan takut celaan manusia sering kali menjadi penghalang terbesar untuk menerima kebenaran.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "scales"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Semoga Allah teguhkan iman kita",
+     "narasi": "Semoga Allah teguhkan iman kita. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Dfy98CpjROK/",
+   "fb": "https://www.facebook.com/reel/2996509860726492",
+   "yt": "https://youtube.com/shorts/3BRQNX9BgcY",
+   "waktu_posting": "2026-11-16T08:52:31"
   },
   {
    "menit": "32:00",
