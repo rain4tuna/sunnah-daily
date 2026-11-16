@@ -584,11 +584,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ",
-    "terjemah": "Sungguh, engkau tidak dapat memberi petunjuk kepada orang yang engkau cintai, tetapi Allah memberi petunjuk kepada orang yang Dia kehendaki.",
+    "arab": "إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَن يَشَاءُ ۚ وَهُوَ أَعْلَمُ بِالْمُهْتَدِينَ",
+    "terjemah": "Sungguh, engkau (Muhammad) tidak dapat memberi petunjuk kepada orang yang engkau cintai, tetapi Allah memberi petunjuk kepada orang yang Dia kehendaki, dan Dia lebih mengetahui orang-orang yang mau menerima petunjuk.",
     "sumber": "QS. Al-Qashas: 56",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/sura/28/56"
    },
    "faedah": "Tugas kita berdakwah dengan penuh kelembutan, hasil hidayah pasrahkan sepenuhnya kepada Allah.",
    "latar_faedah": "kitab",
@@ -598,7 +599,87 @@
     "tawakal"
    ],
    "id": "ep012-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa orang yang sangat kita cintai terkadang begitu sulit untuk berubah?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "road"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ merasakan kesedihan yang amat mendalam saat paman yang merawat dan membelanya wafat dalam kekufuran.",
+      "label": "Kesedihan Mendalam Rasulullah ﷺ",
+      "ikon": [
+       "awan_hujan"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "night",
+       "rain cloud"
+      ]
+     },
+     {
+      "narasi": "Cinta Nabi ﷺ kepada Abu Thalib sangatlah besar, namun hidayah bukanlah milik manusia, melainkan hak mutlak Allah semata.",
+      "label": "Hidayah Hak Mutlak Allah",
+      "ikon": [
+       "lentera",
+       "kunci"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "key"
+      ]
+     },
+     {
+      "narasi": "Allah menurunkan firman-Nya untuk menghibur beliau, bahwa engkau tidak dapat memberi petunjuk kepada yang engkau cintai, melainkan Allah yang memberi petunjuk.",
+      "label": "Firman Penghibur dari Allah",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ],
+      "ilustrasi": "quran",
+      "stiker": [
+       "holy book",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Tugas kita berdakwah dengan penuh kelembutan, hasil hidayah pasrahkan sepenuhnya kepada Allah.",
+     "ikon": [
+      "tasbih"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdoa",
+     "stiker": [
+      "sun",
+      "dawn"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfzJorVAvcD/",
+   "fb": "https://www.facebook.com/reel/1092326080476397",
+   "yt": "https://youtube.com/shorts/ExYmgaFzS28",
+   "waktu_posting": "2026-11-16T10:34:29"
   },
   {
    "menit": "40:30",
