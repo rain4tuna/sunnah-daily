@@ -146,11 +146,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "",
-    "terjemah": "Nabi ﷺ menikahiku setelah Khadijah wafat, sebelum beliau keluar menuju Madinah.",
-    "sumber": "HR. Ahmad no. 25769",
-    "derajat_kata_ustadz": "sanadnya shahih",
-    "dari_video": true
+    "arab": "تَزَوَّجَنِي رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مُتَوَفَّى خَدِيجَةَ، قَبْلَ مَخْرَجِهِ إِلَى الْمَدِينَةِ...",
+    "terjemah": "Rasulullah ﷺ menikahiku setelah wafatnya Khadijah, sebelum kepergian beliau menuju Madinah...",
+    "sumber": "HR. Ahmad no. 26397",
+    "derajat": "shahih",
+    "penilai": "Syu'aib Al-Arna'uth",
+    "rujukan": "https://dorar.net/hadith/sharh/116773"
    },
    "faedah": "Pernikahan Rasulullah ﷺ penuh hikmah untuk memuliakan orang-orang yang berjuang di jalan Allah.",
    "latar_faedah": "lentera",
@@ -160,7 +161,83 @@
     "kemuliaan akhlak"
    ],
    "id": "ep013-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Ada dua kekeliruan penting: 1) Lafaz dalil 'Nabi menikahiku...' (تَزَوَّجَنِي) adalah perkataan Ummul Mukminin 'Aisyah radhiyallahu 'anha mengenai pernikahannya sendiri (HR. Ahmad no. 26397, shahih sesuai syarat Muslim), bukan perkataan Saudah binti Zam'ah. Adapun HR. Ahmad no. 25769 adalah hadits riwayat Khaulah binti Hakim yang mengusulkan Saudah dan 'Aisyah kepada Nabi ﷺ (sanadnya hasan). 2) Anggapan Saudah 'sudah berusia lanjut/tua renta' dan 'sebatang kara' saat dinikahi di Makkah tidak tepat; dalam riwayat shahih beliau disebut sebagai 'tsayyib' (janda), ayahnya (Zam'ah bin Qais) masih hidup dan menjadi walinya, serta saudaranya ('Abd bin Zam'ah) ada di Makkah. Saudah baru berusia lanjut ketika sudah bertahun-tahun tinggal di Madinah, hingga beliau menghibahkan giliran harinya kepada 'Aisyah (HR. Bukhari no. 5212).",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa Rasulullah ﷺ menikahi seorang wanita yang telah lanjut usia?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "lantern",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Setelah Khadijah radhiyallahu 'anha wafat, Rasulullah ﷺ menikahi Saudah binti Zam'ah radhiyallahu 'anha.",
+      "label": "Pernikahan Setelah Wafatnya Khadijah",
+      "ikon": [
+       "rumah"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "house",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Saudah adalah janda yang suaminya wafat, sepulang dari perjalanan hijrah yang berat ke negeri Habasyah.",
+      "label": "Hijrah Berat ke Habasyah",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "desert",
+       "footprints"
+      ]
+     },
+     {
+      "narasi": "Beliau hidup sebatang kara di usia senja. Pernikahan ini adalah bentuk pemuliaan Rasulullah ﷺ kepada pejuang yang teguh menjaga iman.",
+      "label": "Pemuliaan Wanita Pejuang Iman",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "light",
+       "sun"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pernikahan Rasulullah ﷺ selalu sarat hikmah, terutama untuk memuliakan orang-orang yang berkorban di jalan Allah.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "sunrise",
+      "mountain"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfzxTh8j5qH/",
+   "fb": "https://www.facebook.com/reel/4412452829066119",
+   "yt": "https://youtube.com/shorts/BlQqzMr_HJU",
+   "waktu_posting": "2026-11-16T16:21:03"
   },
   {
    "menit": "11:02",

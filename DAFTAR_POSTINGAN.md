@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 98 video. Waktu dalam WIB, terbaru di atas.
+Total: 99 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 16 Nov 2026 23.21 | ep013-02 | Menikahi Janda Pejuang Hijrah | HR. Ahmad no. 26397 (shahih) | [IG](https://www.instagram.com/reel/DfzxTh8j5qH/) · [YouTube](https://youtube.com/shorts/BlQqzMr_HJU) · [FB](https://www.facebook.com/reel/4412452829066119) |
 | 16 Nov 2026 21.34 | ep013-01 | Dua Puluh Lima Tahun Setia | HR. Muslim no. 2435 (shahih) | [IG](https://www.instagram.com/reel/DfzlFWPoVpJ/) · [YouTube](https://youtube.com/shorts/1zBxjKWXuao) · [FB](https://www.facebook.com/reel/2203108380292371) |
 | 16 Nov 2026 21.20 | ep012-08 | Balasan Jasa di Alam Akhirat | HR. Bukhari no. 3883 & Muslim no. 209 (shahih) | [IG](https://www.instagram.com/reel/DfzjiUhD46e/) · [YouTube](https://youtube.com/shorts/gqs3VsMzqC4) · [FB](https://www.facebook.com/reel/1654060739787904) |
 | 16 Nov 2026 18.58 | h008 | Amalan Ringan Berpahala Sangat Besar | HR. Bukhari no. 887 (shahih) | [IG](https://www.instagram.com/reel/DfzTT_NEiJU/) · [YouTube](https://youtube.com/shorts/Ij-qN-VgLt8) · [FB](https://www.facebook.com/reel/1136780445911820) |
