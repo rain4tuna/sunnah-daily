@@ -256,11 +256,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "وَلَمْ يَمُرَّ عَلَيْنَا يَوْمٌ إِلَّا يَأْتِينَا فِيهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَرَفَيْ النَّهَارِ بُكْرَةً وَعَشِيَّةً",
-    "terjemah": "Tidaklah berlalu satu hari pun atas kami melainkan Rasulullah ﷺ mendatangi kami pada kedua ujung siang, pagi dan sore.",
+    "arab": "«...وَلَمْ يَمُرَّ عَلَيْنَا يَوْمٌ إِلَّا يَأْتِينَا فِيهِ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ طَرَفَيِ النَّهَارِ بُكْرَةً وَعَشِيَّةً...»",
+    "terjemah": "\"...Tidaklah berlalu satu hari pun atas kami melainkan Rasulullah ﷺ mendatangi kami pada kedua ujung siang; pagi dan petang...\"",
     "sumber": "HR. Bukhari no. 3905",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:3905"
    },
    "faedah": "Jalinlah persahabatan erat yang saling menguatkan dalam ketaatan dan dakwah.",
    "latar_faedah": "kitab",
@@ -270,7 +271,89 @@
     "dakwah"
    ],
    "id": "ep013-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu membayangkan, seberapa erat persahabatan sejati yang terjalin karena Allah?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Aisyah radhiyallahu 'anha mengisahkan, hampir tiada hari di Makkah tanpa kehadiran Rasulullah ﷺ yang berkunjung ke rumah Abu Bakar Ash-Shiddiq.",
+      "label": "Kunjungan Rutin di Makkah",
+      "ikon": [
+       "rumah",
+       "jejak"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "house",
+       "door",
+       "footprints"
+      ]
+     },
+     {
+      "narasi": "Beliau ﷺ selalu datang menyambangi sahabat tercintanya itu di kedua ujung siang, baik pada waktu pagi maupun petang hari.",
+      "label": "Hadir Saat Pagi dan Petang",
+      "ikon": [
+       "matahari",
+       "jam"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sun",
+       "morning",
+       "clock"
+      ]
+     },
+     {
+      "narasi": "Pertemuan rutin ini bukan sekadar silaturahmi biasa, melainkan untuk memperjuangkan dakwah dan menguatkan urusan agama.",
+      "label": "Bersatu Memperjuangkan Dakwah",
+      "ikon": [
+       "cahaya",
+       "bintang"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jalinlah persahabatan erat yang senantiasa saling menguatkan dalam ketaatan dan dakwah di jalan Allah.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "path"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df0beFSD6OR/",
+   "fb": "https://www.facebook.com/reel/1860465364945408",
+   "yt": "https://youtube.com/shorts/FX6GcjL7swo",
+   "waktu_posting": "2026-11-16T22:29:35"
   },
   {
    "menit": "14:10",
