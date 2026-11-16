@@ -1,0 +1,364 @@
+{
+ "episode": 13,
+ "judul": "Sirah Nabawiyah #13 - Wafatnya Ummul Mukminin Khadijah",
+ "url": "https://www.youtube.com/watch?v=dZ_uyXCIbIo",
+ "kisah": [
+  {
+   "menit": "01:45",
+   "judul_hook": "Dua Puluh Lima Tahun Setia",
+   "narasi_hook": "Tahukah kamu rahasia kesetiaan Rasulullah ﷺ?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Selama dua puluh lima tahun menikah dengan Khadijah radhiyallahu 'anha, Rasulullah ﷺ tidak pernah berpoligami. Khadijah telah mengorbankan seluruh harta, waktu, dan jiwanya untuk membela dakwah Nabi ﷺ.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Beliau selalu menjadi penyejuk hati dan tempat pulang ternyaman bagi Rasulullah ﷺ tatkala menghadapi cercaan kaum musyrikin. Demi menjaga perasaan istri tercintanya, Rasulullah ﷺ tidak menduakan Khadijah hingga beliau wafat.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنِّي قَدْ رُزِقْتُ حُبَّهَا",
+    "terjemah": "Sesungguhnya aku telah dianugerahi rasa cinta kepadanya.",
+    "sumber": "HR. Muslim no. 2435",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:2435b"
+   },
+   "faedah": "Hargailah pengorbanan pasangan dengan menjaga kesetiaan dan tidak melukai perasaannya.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "kesetiaan",
+    "rumah tangga",
+    "Khadijah"
+   ],
+   "id": "ep013-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu rahasia di balik kesetiaan Rasulullah ﷺ?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Selama dua puluh lima tahun menikah dengan Khadijah radhiyallahu 'anha, Rasulullah ﷺ tidak pernah berpoligami.",
+      "label": "Dua Puluh Lima Tahun Setia",
+      "ikon": [
+       "kalender",
+       "jam"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "calendar",
+       "clock"
+      ]
+     },
+     {
+      "narasi": "Khadijah telah mengorbankan seluruh harta, waktu, dan jiwanya demi membela dakwah Nabi ﷺ.",
+      "label": "Pengorbanan Harta dan Jiwa",
+      "ikon": [
+       "koin",
+       "lentera"
+      ],
+      "ilustrasi": "sedekah",
+      "stiker": [
+       "coins",
+       "wealth"
+      ]
+     },
+     {
+      "narasi": "Beliau selalu menjadi penyejuk hati dan tempat pulang ternyaman tatkala Nabi ﷺ menghadapi cercaan kaum musyrikin.",
+      "label": "Tempat Pulang Ternyaman",
+      "ikon": [
+       "rumah",
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "home",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Demi menjaga perasaan istri tercintanya, beliau tidak menduakan Khadijah hingga Khadijah wafat.",
+      "label": "Menjaga Perasaan Istri Tercinta",
+      "ikon": [
+       "bintang",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "star",
+       "lantern"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hargailah pengorbanan pasangan kita dengan menjaga kesetiaan dan tidak melukai perasaannya.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "scale",
+      "sunrise"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfzlFWPoVpJ/",
+   "fb": "https://www.facebook.com/reel/2203108380292371",
+   "yt": "https://youtube.com/shorts/1zBxjKWXuao",
+   "waktu_posting": "2026-11-16T14:34:12"
+  },
+  {
+   "menit": "06:44",
+   "judul_hook": "Menikahi Janda Pejuang Hijrah",
+   "narasi_hook": "Mengapa Rasulullah ﷺ menikahi wanita tua?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Setelah Khadijah radhiyallahu 'anha wafat, Rasulullah ﷺ menikahi Saudah binti Zam'ah radhiyallahu 'anha. Saudah adalah janda yang suaminya wafat sepulang dari hijrah berat ke negeri Habasyah.",
+     "latar": "laut"
+    },
+    {
+     "narasi": "Saudah saat itu sudah berusia lanjut dan hidup sebatang kara. Pernikahan ini menjadi bentuk pemuliaan Rasulullah ﷺ kepada wanita mukminah yang rela berkorban mempertahankan keimanannya.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "",
+    "terjemah": "Nabi ﷺ menikahiku setelah Khadijah wafat, sebelum beliau keluar menuju Madinah.",
+    "sumber": "HR. Ahmad no. 25769",
+    "derajat_kata_ustadz": "sanadnya shahih",
+    "dari_video": true
+   },
+   "faedah": "Pernikahan Rasulullah ﷺ penuh hikmah untuk memuliakan orang-orang yang berjuang di jalan Allah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Saudah",
+    "sirah nabawiyah",
+    "kemuliaan akhlak"
+   ],
+   "id": "ep013-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "11:02",
+   "judul_hook": "Persahabatan Karena Allah Tiada Duanya",
+   "narasi_hook": "Seberapa erat persahabatan sejati dibangun?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Aisyah radhiyallahu 'anha mengisahkan bahwa hampir tiada hari berlalu di Makkah melainkan Rasulullah ﷺ pasti berkunjung ke rumah Abu Bakar Ash-Shiddiq radhiyallahu 'anhu, baik di waktu pagi maupun sore hari.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Pertemuan setiap hari ini bukan sekadar silaturahmi biasa, melainkan untuk memperjuangkan dakwah dan urusan agama. Ketika dua hati dipersatukan karena iman, kebersamaan mereka melahirkan kekuatan dakwah yang luar biasa.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "وَلَمْ يَمُرَّ عَلَيْنَا يَوْمٌ إِلَّا يَأْتِينَا فِيهِ رَسُولُ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ طَرَفَيْ النَّهَارِ بُكْرَةً وَعَشِيَّةً",
+    "terjemah": "Tidaklah berlalu satu hari pun atas kami melainkan Rasulullah ﷺ mendatangi kami pada kedua ujung siang, pagi dan sore.",
+    "sumber": "HR. Bukhari no. 3905",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Jalinlah persahabatan erat yang saling menguatkan dalam ketaatan dan dakwah.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "persahabatan",
+    "Abu Bakar",
+    "dakwah"
+   ],
+   "id": "ep013-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "14:10",
+   "judul_hook": "Orang Baik Tak Boleh Pergi",
+   "narasi_hook": "Mengapa musuh pun menahan kepergiannya?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Saat penindasan di Makkah makin kejam, Abu Bakar Ash-Shiddiq radhiyallahu 'anhu hendak hijrah ke Habasyah. Di Barkul Ghimad, ia bertemu Ibnu Dughunnah, seorang tokoh musyrik Quraisy.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Ibnu Dughunnah menahannya seraya berkata bahwa orang sebaik Abu Bakar tak boleh keluar atau diusir. Abu Bakar selalu membantu orang miskin, menyambung silaturahmi, memikul beban orang susah, dan menolong korban bencana.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "إِنَّ مِثْلَكَ يَا أَبَا بَكْرٍ لَا يَخْرُجُ وَلَا يُخْرَجُ إِنَّكَ تَكْسِبُ الْمَعْدُومَ وَتَصِلُ الرَّحِمَ",
+    "terjemah": "Sesungguhnya orang seperti engkau wahai Abu Bakar tidak boleh keluar dan tidak boleh diusir. Engkau membantu orang tak berpunya dan menyambung silaturahmi.",
+    "sumber": "HR. Bukhari no. 3905",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Kebaikan yang tulus akan diakui dan dihormati bahkan oleh orang yang berbeda keyakinan.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "Abu Bakar",
+    "akhlak mulia",
+    "kebaikan"
+   ],
+   "id": "ep013-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "19:33",
+   "judul_hook": "Tangisan Al-Qur'an Penakluk Hati",
+   "narasi_hook": "Bagaimana lantunan ayat membuat musyrikin gemetar?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Abu Bakar Ash-Shiddiq radhiyallahu 'anhu membangun tempat shalat di pelataran rumahnya di Makkah. Beliau adalah lelaki berhati lembut yang senantiasa menangis tersedu-sedu setiap kali membaca Al-Qur'an.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Wanita dan anak-anak kaum musyrikin berkerumun kagum mendengarkan lantunannya. Tokoh Quraisy ketakutan keluarga mereka terpesona lalu masuk Islam, hingga menuntut Abu Bakar berhenti membaca Al-Qur'an secara terang-terangan.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "وَكَانَ أَبُو بَكْرٍ رَجُلًا بَكَّاءً لَا يَمْلِكُ عَيْنَيْهِ إِذَا قَرَأَ الْقُرْآنَ",
+    "terjemah": "Abu Bakar adalah seorang lelaki yang mudah menangis, ia tidak mampu menahan air matanya bila membaca Al-Qur'an.",
+    "sumber": "HR. Bukhari no. 3905",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Bacalah Al-Qur'an dengan penghayatan mendalam hingga melembutkan hati yang keras.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "Al-Qur'an",
+    "Abu Bakar",
+    "kekhusyukan"
+   ],
+   "id": "ep013-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "27:14",
+   "judul_hook": "Luka Paling Pedih di Thaif",
+   "narasi_hook": "Kapan hari terberat dalam hidup Rasulullah ﷺ?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ berjalan kaki sejauh delapan puluh kilometer ke Thaif demi mencari perlindungan dakwah. Namun para pembesar Thaif menolak dengan hinaan yang sangat keji.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mereka memprovokasi anak-anak dan orang-orang bodoh untuk melemparinya batu. Kaki Nabi ﷺ berdarah dan kepala Zaid bin Haritsah radhiyallahu 'anhu terluka parah saat melindungi beliau keluar dari kota itu.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَقَدْ لَقِيتُ مِنْ قَوْمِكِ مَا لَقِيتُ وَكَانَ أَشَدَّ مَا لَقِيتُ مِنْهُمْ يَوْمَ الْعَقَبَةِ",
+    "terjemah": "Sungguh aku telah mengalami dari kaummu apa yang kualami, dan yang paling berat adalah pada hari 'Aqabah (di Thaif).",
+    "sumber": "HR. Bukhari no. 3231 & Muslim no. 1795",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Jalan kebenaran sering dipenuhi ujian berat; kesabaran adalah kunci utama menghadapinya.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "Thaif",
+    "kesabaran",
+    "sirah nabawiyah"
+   ],
+   "id": "ep013-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "33:30",
+   "judul_hook": "Menolak Membalas Memilih Mendoakan",
+   "narasi_hook": "Maukah kamu memaafkan orang yang melukaimu?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Saat Rasulullah ﷺ terduduk berlumuran darah sepulang dari Thaif, Malaikat Gunung datang memberi salam. Ia menawarkan untuk menimpakan dua gunung besar ke atas penduduk yang telah menyakiti beliau.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Namun Rasulullah ﷺ menolaknya dengan penuh kasih sayang. Beliau justru berdoa penuh harap: semoga kelak dari keturunan mereka lahir orang-orang yang mentauhidkan Allah dan tidak berbuat syirik.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ لَا يُشْرِكُ بِهِ شَيْئًا",
+    "terjemah": "Bahkan aku berharap Allah mengeluarkan dari tulang sulbi mereka orang yang menyembah Allah semata dan tidak menyekutukan-Nya dengan sesuatu pun.",
+    "sumber": "HR. Bukhari no. 3231 & Muslim no. 1795",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Balaslah keburukan dengan doa dan kebaikan, bukan dengan dendam kesumat.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "rahmat",
+    "pemaaf",
+    "doa Nabi"
+   ],
+   "id": "ep013-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "38:30",
+   "judul_hook": "Nabi Tak Pernah Lupa Budi",
+   "narasi_hook": "Bagaimana Rasulullah ﷺ membalas jasa seorang musyrik?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Sepulang dari Thaif, Rasulullah ﷺ hanya bisa masuk kembali ke Makkah berkat jaminan keamanan dari Al-Mut'im bin 'Adi, seorang tokoh musyrik Quraisy yang berhati dermawan.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Tahun-tahun berlalu usai Perang Badar, Rasulullah ﷺ bersabda: andai Al-Mut'im masih hidup lalu meminta pembebasan seluruh tawanan musyrikin Makkah, niscaya Nabi ﷺ akan melepaskan mereka semua tanpa tebusan demi membalas budinya.",
+     "latar": "tenda"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَوْ كَانَ الْمُطْعِمُ بْنُ عَدِيٍّ حَيًّا ثُمَّ كَلَّمَنِي فِي هَؤُلَاءِ النَّتْنَى لَتَرَكْتُهُمْ لَهُ",
+    "terjemah": "Seandainya Al-Mut'im bin 'Adi masih hidup lalu berbicara kepadaku tentang orang-orang busuk ini, niscaya aku serahkan mereka kepadanya.",
+    "sumber": "HR. Bukhari no. 4024",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Ingat dan balaslah kebaikan orang lain, sekalipun ia berbeda keyakinan dengan kita.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "membalas budi",
+    "akhlak mulia",
+    "keadilan"
+   ],
+   "id": "ep013-08",
+   "status": "Belum"
+  }
+ ]
+}
