@@ -311,6 +311,8 @@ def susun_audio(segmen, out_wav, tmp):
         s['durasi'] = _durasi(norm)
         if s['jenis'] == 'dalil':
             s['durasi'] = max(s['durasi'], 6.0)
+        if s.get('tahan'):                       # jeda ekstra setelah suara (mis. hitung mundur kuis)
+            s['durasi'] += s['tahan']
         s['mulai'] = t
         t += s['durasi']
         potong.append(norm)

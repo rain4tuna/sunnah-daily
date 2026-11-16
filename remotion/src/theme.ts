@@ -11,6 +11,8 @@ export const theme = {
     text: "#F6F1E7",
     dim: "rgba(246,241,231,0.30)",
     soft: "rgba(246,241,231,0.62)",
+    benar: "#3FA66B",
+    merah: "#E0442E",
   },
   font: {
     display: "Fraunces",

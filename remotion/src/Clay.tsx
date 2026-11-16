@@ -33,7 +33,8 @@ export type AdeganClay = {
 };
 export type DataClay = DataPanjang & { adegan: AdeganClay[]; label?: Record<string, string> };
 
-const LABEL_ID = { pelajaran: "PELAJARAN", faedah: "FAEDAH", ajak: "Subscribe & bagikan" };
+const LABEL_ID = { pelajaran: "KISAH", faedah: "PELAJARAN BUAT KITA", ajak: "Subscribe & bagikan", kuis: "KUIS!",
+  suka: "Suka", subscribe: "Subscribe" };
 
 /** Latar: klip Flow (diperlambat secukupnya, lalu beralih ke gambar) atau gambar dengan gerak kamera pelan. */
 const Latar: React.FC<{ a: AdeganClay; kabur?: boolean }> = ({ a, kabur }) => {
@@ -237,10 +238,108 @@ const Adegan: React.FC<{ s: SegmenPanjang; a: AdeganClay; label: Record<string, 
     );
   }
 
+  if (s.jenis === "ajak") {
+    return (
+      <AbsoluteFill style={{ opacity: keluar }}>
+        <Panggung a={a} />
+        <TombolAjak label={label} />
+        <Teks s={s} />
+      </AbsoluteFill>
+    );
+  }
+
+  if (s.jenis === "kuis" || s.jenis === "jawab") {
+    return (
+      <AbsoluteFill style={{ opacity: s.jenis === "jawab" ? keluar : 1 }}>
+        <Latar a={a} kabur />
+        <KartuKuis s={s} label={label} bintang={a.bintang} />
+      </AbsoluteFill>
+    );
+  }
+
   return (
     <AbsoluteFill style={{ opacity: keluar }}>
       <Panggung a={a} />
       <Teks s={s} judul={s.jenis === "faedah" ? label.faedah : s.label} />
+    </AbsoluteFill>
+  );
+};
+
+/** Tombol Suka & Subscribe yang muncul lalu "ditekan" (ajakan di tengah video). */
+const TombolAjak: React.FC<{ label: Record<string, string> }> = ({ label }) => {
+  const frame = useCurrentFrame();
+  const { fps } = useVideoConfig();
+  const tombol = (teks: string, ikon: React.ReactNode, warna: string, muncul: number, tekan: number) => {
+    const p = spring({ frame: frame - muncul, fps, config: theme.spring.bouncy });
+    const ditekan = frame >= tekan;
+    const dip = interpolate(frame, [tekan - 4, tekan, tekan + 6], [1, 0.86, 1], clamp);
+    return (
+      <div style={{ display: "flex", alignItems: "center", gap: 18, padding: "22px 44px", borderRadius: 999,
+        background: ditekan ? warna : "rgba(246,241,231,0.95)", color: ditekan ? theme.colors.text : theme.colors.bg,
+        fontFamily: theme.font.body, fontWeight: 700, fontSize: 46, boxShadow: "0 24px 50px -14px rgba(0,0,0,0.55)",
+        transform: `scale(${p * dip})` }}>
+        {ikon}{teks}
+      </div>
+    );
+  };
+  const jempol = (
+    <svg width={52} height={52} viewBox="0 0 24 24" fill="currentColor"><path d="M2 21h4V9H2v12zm20-11c0-1.1-.9-2-2-2h-6.3l1-4.6v-.3c0-.4-.2-.8-.4-1.1L13.2 1 6.6 7.6c-.4.3-.6.8-.6 1.4V19c0 1.1.9 2 2 2h9c.8 0 1.5-.5 1.8-1.2l3-7.1c.1-.2.2-.5.2-.7v-2z" /></svg>
+  );
+  const lonceng = (
+    <svg width={50} height={50} viewBox="0 0 24 24" fill="currentColor"><path d="M12 22c1.1 0 2-.9 2-2h-4c0 1.1.9 2 2 2zm6-6v-5c0-3.1-1.6-5.6-4.5-6.3V4c0-.8-.7-1.5-1.5-1.5S10.5 3.2 10.5 4v.7C7.6 5.4 6 7.9 6 11v5l-2 2v1h16v-1l-2-2z" /></svg>
+  );
+  return (
+    <div style={{ position: "absolute", top: 250, left: 0, right: 0, display: "flex", justifyContent: "center", gap: 40 }}>
+      {tombol(label.suka, jempol, theme.colors.teal, 8, 40)}
+      {tombol(label.subscribe, lonceng, theme.colors.merah, 16, 64)}
+    </div>
+  );
+};
+
+/** Kartu kuis: soal + 3 pilihan; 'kuis' memberi hitung mundur, 'jawab' menyalakan jawaban yang benar. */
+const KartuKuis: React.FC<{ s: SegmenPanjang; label: Record<string, string>; bintang?: string }> = ({ s, label, bintang }) => {
+  const frame = useCurrentFrame();
+  const { fps, durationInFrames } = useVideoConfig();
+  const jawab = s.jenis === "jawab";
+  const habisSuara = Math.round((s.ucapAkhir - s.mulai) * fps);
+  const sisa = Math.ceil((durationInFrames - frame) / fps);
+  const hitung = !jawab && frame > habisSuara && sisa >= 1 && sisa <= 5 ? sisa : 0;
+  const p = spring({ frame: frame - 2, fps, config: theme.spring.bouncy });
+  return (
+    <AbsoluteFill style={{ alignItems: "center", justifyContent: "center", paddingBottom: 30 }}>
+      <div style={{ width: 1400, borderRadius: 44, padding: "40px 64px 46px", background: "rgba(12,26,29,0.86)",
+        border: `3px solid ${theme.colors.hero}`, boxShadow: "0 50px 90px -30px rgba(0,0,0,0.7)", transform: `scale(${jawab ? 1 : p})` }}>
+        <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
+          <div style={{ fontFamily: theme.font.display, fontWeight: 600, fontSize: 64, color: theme.colors.hero }}>{label.kuis}</div>
+          {hitung ? (
+            <div style={{ width: 110, height: 110, borderRadius: "50%", background: theme.colors.hero, color: theme.colors.bg,
+              display: "flex", alignItems: "center", justifyContent: "center", fontFamily: theme.font.display, fontWeight: 600, fontSize: 70,
+              transform: `scale(${1 + 0.15 * Math.max(0, 1 - ((frame % fps) / 8))})` }}>{hitung}</div>
+          ) : null}
+        </div>
+        <div style={{ fontFamily: theme.font.body, fontWeight: 600, fontSize: 46, lineHeight: 1.35, color: theme.colors.text, marginTop: 18 }}>{s.tanya}</div>
+        <div style={{ display: "flex", flexDirection: "column", gap: 18, marginTop: 32 }}>
+          {(s.pilihan ?? []).map((t, i) => {
+            const benar = jawab && i === s.jawab;
+            const masuk = spring({ frame: frame - (jawab ? 0 : 14 + i * 8), fps, config: theme.spring.smooth });
+            return (
+              <div key={i} style={{ display: "flex", alignItems: "center", gap: 26, padding: "18px 30px", borderRadius: 24,
+                background: benar ? theme.colors.benar : "rgba(246,241,231,0.08)", border: `2px solid ${benar ? theme.colors.benar : theme.colors.line}`,
+                opacity: jawab && !benar ? 0.4 : masuk, transform: `translateX(${interpolate(masuk, [0, 1], [-40, 0])}px) scale(${benar ? 1.03 : 1})` }}>
+                <div style={{ width: 64, height: 64, borderRadius: "50%", background: theme.colors.hero, color: theme.colors.bg, flexShrink: 0,
+                  display: "flex", alignItems: "center", justifyContent: "center", fontFamily: theme.font.body, fontWeight: 700, fontSize: 36 }}>{"ABC"[i]}</div>
+                <div style={{ fontFamily: theme.font.body, fontWeight: 600, fontSize: 40, color: theme.colors.text }}>{t}{benar ? "  ✓" : ""}</div>
+              </div>
+            );
+          })}
+        </div>
+      </div>
+      {jawab && bintang ? [0, 1, 2, 3, 4, 5, 6, 7].map((i) => {
+        const q = spring({ frame: frame - 4 - i * 2, fps, config: theme.spring.bouncy });
+        const sudut = (i / 8) * Math.PI * 2;
+        return <Img key={i} src={staticFile(bintang)} style={{ position: "absolute", left: W / 2 + Math.cos(sudut) * 900 * q - 40,
+          top: H / 2 + Math.sin(sudut) * 500 * q - 40, width: 80, opacity: q, transform: `rotate(${frame * 3 + i * 40}deg)` }} />;
+      }) : null}
     </AbsoluteFill>
   );
 };

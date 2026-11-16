@@ -96,7 +96,11 @@ def susun_props(segmen):
                      label=LABEL_DALIL.get(dl.get('jenis'), 'DALIL'),
                      derajat='' if dl.get('jenis') in ('ayat', 'ulama') or derajat == 'ayat' else derajat)
         elif s['jenis'] == 'faedah':
+            b.update(narasi=s.get('narasi') or s['ucap'])
+        elif s['jenis'] == 'ajak':
             b.update(narasi=s['ucap'])
+        elif s['jenis'] in ('kuis', 'jawab'):
+            b.update(narasi=s['ucap'], tanya=s.get('tanya') or '', pilihan=s.get('pilihan') or [], jawab=s.get('jawab', -1))
         else:
             kredit = (s.get('kredit') or '').split('\n')
             b.update(ajakan=s.get('ajakan') or '', kredit=kredit[0], ustadz=kredit[1] if len(kredit) > 1 else '')

@@ -12,9 +12,9 @@ on:
         required: true
         default: '11'
       suara:
-        description: 'Voice Gemini TTS (mis. Charon, Iapetus, Sadaltager, Algieba, Schedar, Rasalgethi)'
+        description: 'Voice Gemini TTS (kosong = Puck untuk naskah anak, Charon untuk naskah asli)'
         required: false
-        default: 'Charon'
+        default: ''
       maks_kisah:
         description: 'Batasi jumlah kisah untuk uji cepat (kosong = semua)'
         required: false
@@ -23,6 +23,10 @@ on:
         description: 'clay (aset clay) | svg (ilustrasi SVG lama)'
         required: false
         default: 'clay'
+      naskah:
+        description: 'anak (ceria + ajakan + kuis) | asli (narasi storyboard apa adanya)'
+        required: false
+        default: 'anak'
 
 permissions:
   contents: write
@@ -70,6 +74,7 @@ jobs:
           SUARA_PANJANG: ${{ github.event.inputs.suara }}
           MAKS_KISAH: ${{ github.event.inputs.maks_kisah }}
           GAYA_PANJANG: ${{ github.event.inputs.gaya }}
+          GAYA_NASKAH: ${{ github.event.inputs.naskah }}
           # Konkurensi 4 membuat font (delayRender "font") melewati batas waktu; 2 seperti render Shorts.
           REMOTION_POTONG_PANJANG: '300'
           REMOTION_KONKURENSI: '2'

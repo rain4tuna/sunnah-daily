@@ -9,10 +9,11 @@ dalil tetap dari data kisah yang sudah diverifikasi (sumber + nomor + derajat). 
 Env:
   GEMINI_API_KEY      wajib (TTS; storyboard hanya kalau kisah belum punya storyboard_ikon)
   EPISODE             nomor episode Sirah (wajib)
-  SUARA_PANJANG       voice Gemini TTS (default Charon); GAYA_SUARA_PANJANG = gaya bacanya
+  SUARA_PANJANG       voice Gemini TTS (default Puck untuk naskah anak, Charon untuk asli); GAYA_SUARA_PANJANG = gaya baca
   MAKS_KISAH          batasi jumlah kisah (untuk uji cepat; kosong = semua)
   OUT_DIR             folder hasil (default hasil)
   GAYA_PANJANG        clay (default) | svg
+  GAYA_NASKAH         anak (default: naskah ceria + ajakan + kuis, naskah_anak.py) | asli
   PRATINJAU           true = tanpa TTS: durasi ditaksir dari jumlah kata, tulis props contoh untuk Remotion Studio
 
 Hasil di OUT_DIR: epXXX_panjang.mp4, _cuplikan.jpg (thumbnail kasar), _deskripsi.txt (deskripsi + chapter YouTube).
@@ -28,6 +29,7 @@ import gemini
 import main
 import remotion_video
 import adegan_clay
+import naskah_anak
 import storyboard_ikon
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -36,6 +38,20 @@ URUTAN = ['pertama', 'kedua', 'ketiga', 'keempat', 'kelima', 'keenam', 'ketujuh'
 USTADZ = 'Ust. Dr. Firanda Andirja, M.A.'
 GAYA_SUARA = ('narator laki-laki dewasa yang tenang, hangat dan berwibawa, seperti membawakan kajian kisah; '
               'tempo sedang cenderung pelan, jeda wajar antar kalimat, intonasi mengalir, tidak terburu-buru')
+
+
+GAYA_SUARA_ANAK = ('pendongeng ceria untuk anak-anak dan remaja, hangat, ekspresif dan bersemangat, senyum terdengar '
+                   'di suara, tempo sedang, jelas, membangun rasa penasaran, seperti kakak yang asyik bercerita kepada '
+                   'adik-adiknya; tetap tenang dan hormat saat membacakan ayat dan hadits')
+
+
+def contoh_naskah(k):
+    """Pratinjau tanpa Gemini: storyboard asli + soal kuis CONTOH (bukan untuk tayang)."""
+    sb = k['storyboard_ikon']
+    return {'bab': sb['hook']['narasi'], 'poin': [{'narasi': p['narasi'], 'label': p.get('label') or ''} for p in sb['poin']],
+            'faedah': f"Pelajaran buat kita: {k['faedah']}",
+            'kuis': {'tanya': '(Contoh tampilan) Soal kuis dari Gemini akan muncul di sini?',
+                     'pilihan': ['Pilihan pertama', 'Pilihan kedua', 'Pilihan ketiga'], 'jawab': 0}}
 
 
 def log(*a):
@@ -60,11 +76,15 @@ def nomor_ep(data):
     return int(m.group(1)) if m else int(data.get('episode') or 0)
 
 
-def susun_segmen(data, kisah):
+def susun_segmen(data, kisah, anak=False, naskah=None):
+    """anak=True: naskah ceria (naskah_anak.py) + ajakan like/subscribe di tengah + kuis sebelum penutup.
+    naskah = {id_kisah: hasil naskah_anak.tulis_ulang}; kisah yang tidak punya naskah memakai storyboard asli."""
     no_ep = nomor_ep(data)
     kicker = f'SIRAH NABAWIYAH #{no_ep:02d}'
     topik = judul_pendek(data['judul'])
     n = len(kisah)
+    if anak:
+        return _susun_anak(data, kisah, naskah or {}, kicker, topik, no_ep)
     segmen = [{'jenis': 'pembuka', 'judul': topik, 'kajian': f'Faedah dari kajian Sirah Nabawiyah #{no_ep} · {USTADZ}',
                'ucap': (f'Bismillah. Di video ini kita akan menyimak {n} pelajaran dari kajian Sirah Nabawiyah '
                         f'bagian ke-{no_ep}, tentang {topik}, yang disampaikan oleh Ustadz Doktor Firanda Andirja.')}]
@@ -82,6 +102,41 @@ def susun_segmen(data, kisah):
                    'ucap': ('Semoga bermanfaat. Kajian lengkapnya bisa disimak di channel Ustadz Firanda Andirja, '
                             'tautannya ada di deskripsi. Jangan lupa subscribe Sunnah Daily, dan bagikan video ini, '
                             'semoga menjadi amal jariyah untuk kita semua.')})
+    for s in segmen:
+        s['kicker'] = kicker
+    return segmen
+
+
+def _susun_anak(data, kisah, naskah, kicker, topik, no_ep):
+    n = len(kisah)
+    segmen = [{'jenis': 'pembuka', 'judul': topik, 'kajian': f'Kisah dari kajian Sirah Nabawiyah #{no_ep} · {USTADZ}',
+               'ucap': naskah_anak.pembuka(n, topik, no_ep)}]
+    tengah = (n + 1) // 2 if n >= 3 else 0
+    for i, k in enumerate(kisah, 1):
+        bagian = [s for s in storyboard_ikon.segmen(k, kicker, main.narasi_dalil) if s['jenis'] != 'penutup']
+        nk = naskah.get(k['id'])
+        poin = iter((nk or {}).get('poin') or [])
+        for s in bagian:
+            s['bab'] = i
+            if s['jenis'] == 'hook':
+                s['jenis'] = 'bab'
+                pembuka_bab = nk['bab'] if nk else s['ucap']
+                s['ucap'] = f"Kisah {URUTAN[i - 1] if i <= len(URUTAN) else f'ke-{i}'}! {pembuka_bab}"
+            elif s['jenis'] == 'poin' and nk:
+                p = next(poin)
+                s['narasi'] = s['ucap'] = p['narasi']
+                s['label'] = p['label'] or s.get('label')
+            elif s['jenis'] == 'faedah' and nk:
+                s['narasi'] = s['ucap'] = nk['faedah']
+        segmen += bagian
+        if i == tengah:
+            segmen.append({'jenis': 'ajak', 'bab': i, 'ucap': naskah_anak.AJAK})
+    kuis = next((naskah[k['id']] for k in reversed(kisah) if (naskah.get(k['id']) or {}).get('kuis')), None)
+    if kuis:
+        segmen.append({'jenis': 'kuis', 'bab': n, 'ucap': naskah_anak.kuis(kuis), 'tahan': 5.0, **kuis['kuis']})
+        segmen.append({'jenis': 'jawab', 'bab': n, 'ucap': naskah_anak.jawab(kuis), **kuis['kuis']})
+    segmen.append({'jenis': 'penutup', 'ajakan': 'Like, subscribe & ajak temanmu nonton!',
+                   'kredit': f"Kisah dari kajian {data['judul']}\n{USTADZ}", 'ucap': naskah_anak.PENUTUP})
     for s in segmen:
         s['kicker'] = kicker
     return segmen
@@ -143,12 +198,23 @@ def jalankan():
     if not kisah:
         raise SystemExit('Tidak ada kisah yang lolos verifikasi di episode ini.')
     log(f"Episode: {data['judul']} — {len(kisah)} kisah: " + ', '.join(k['id'] for k in kisah))
-    segmen = susun_segmen(data, kisah)
-    log(f'   {len(segmen)} babak')
-    gemini.SUARA = os.environ.get('SUARA_PANJANG') or 'Charon'
-    gemini.GAYA_SUARA = os.environ.get('GAYA_SUARA_PANJANG') or GAYA_SUARA
     nama = f"ep{nomor_ep(data):03d}_panjang"
     pratinjau = os.environ.get('PRATINJAU', '').lower() == 'true'
+    anak = (os.environ.get('GAYA_NASKAH') or 'anak').lower() == 'anak'
+    naskah = {}
+    if anak:
+        for k in kisah:
+            if pratinjau and not k.get('storyboard_ikon'):
+                k['storyboard_ikon'] = storyboard_ikon.rapikan({}, k, 'kisah')   # tanpa Gemini
+            storyboard_ikon.buat(k)              # storyboard tersimpan dipakai; yang belum ada dibuat (Gemini)
+            naskah[k['id']] = contoh_naskah(k) if pratinjau else naskah_anak.tulis_ulang(k)
+        log('   naskah anak: ' + ', '.join(f"{i}={'ok' if v else 'asli'}" for i, v in naskah.items()))
+        with open(os.path.join(out, f'{nama}_naskah.json'), 'w', encoding='utf-8') as f:
+            json.dump(naskah, f, ensure_ascii=False, indent=1)
+    segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v})
+    log(f'   {len(segmen)} babak')
+    gemini.SUARA = os.environ.get('SUARA_PANJANG') or ('Puck' if anak else 'Charon')
+    gemini.GAYA_SUARA = os.environ.get('GAYA_SUARA_PANJANG') or (GAYA_SUARA_ANAK if anak else GAYA_SUARA)
 
     clay = (os.environ.get('GAYA_PANJANG') or 'clay').lower() == 'clay'
     komposisi = 'SunnahClay' if clay else 'SunnahPanjang'
@@ -168,6 +234,7 @@ def jalankan():
                 s['durasi'] = remotion_video._panjang_suara(s['wav'], 3) + remotion_video.video.JEDA
                 if s['jenis'] == 'dalil':
                     s['durasi'] = max(s['durasi'], 6.0)
+                s['durasi'] += s.get('tahan') or 0
                 t += s['durasi']
             props = {**remotion_video.susun_props(segmen), **tambahan(segmen)}
             tujuan = os.path.join(remotion_video.RDIR, 'src', 'contoh_clay.json' if clay else 'contoh_panjang.json')
