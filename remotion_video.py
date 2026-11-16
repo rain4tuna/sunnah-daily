@@ -17,6 +17,7 @@ import subprocess
 import tempfile
 import wave
 
+import sfx
 import stiker
 import video
 
@@ -126,9 +127,16 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
     with tempfile.TemporaryDirectory() as tmp:
         wav = os.path.join(tmp, 'suara.wav')
         total = video.susun_audio(segmen, wav, tmp)
+        isi = {**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}
+        try:
+            n_sfx = sfx.campur(wav, isi, komposisi)
+            if n_sfx:
+                log(f'   SFX: {n_sfx} efek dipasang')
+        except Exception as e:                  # efek suara hanya hiasan: gagal -> narasi saja
+            log(f'   SFX dilewati: {e}')
         props = os.path.join(tmp, 'props.json')
         with open(props, 'w', encoding='utf-8') as f:
-            json.dump({**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}, f, ensure_ascii=False)
+            json.dump(isi, f, ensure_ascii=False)
         umum = ['src/index.ts', komposisi, f'--props={props}', '--log=error', f'--timeout={TIMEOUT}',
                 f'--concurrency={KONKURENSI}'] + ([f'--gl={GL}'] if GL else []) +                ([f'--public-dir={public_dir}'] if public_dir else [])
         n = math.ceil(total * FPS)

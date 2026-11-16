@@ -1,0 +1,91 @@
+{
+ "sumber": "https://github.com/wyzowl/sfx-kit (SFX Kit by Wyzowl), commit 92780e7ab0cdfb557497a988089c47f46e8c7412",
+ "lisensi": "CC0-1.0",
+ "format": "WAV 24 kHz mono 16-bit (diubah dari 48 kHz 24-bit)",
+ "suara": {
+  "celebration-confetti": {
+   "sync": 0.166,
+   "durasi": 2.05,
+   "lufs": -27,
+   "bawah_suara_db": -5,
+   "deskripsi": "A burst of confetti: a soft puff, then tiny paper flakes falling."
+  },
+  "click-mouse-firm": {
+   "sync": 0.009,
+   "durasi": 0.094,
+   "lufs": -25,
+   "bawah_suara_db": -1,
+   "deskripsi": "A firm, crisp mouse click with a clear release."
+  },
+  "impact-light-soft": {
+   "sync": 0.012,
+   "durasi": 0.166,
+   "lufs": -25,
+   "bawah_suara_db": -2,
+   "deskripsi": "A light, muffled landing: something small dropping onto a cushion."
+  },
+  "pop-medium-bubble": {
+   "sync": 0.011,
+   "durasi": 0.126,
+   "lufs": -22.5,
+   "bawah_suara_db": -2,
+   "deskripsi": "A clean bubble plip with a small one after it."
+  },
+  "pop-medium-in": {
+   "sync": 0.011,
+   "durasi": 0.06,
+   "lufs": -22.5,
+   "bawah_suara_db": -2,
+   "deskripsi": "A round, friendly pop that lifts into place."
+  },
+  "pop-small-in": {
+   "sync": 0.01,
+   "durasi": 0.04,
+   "lufs": -25,
+   "bawah_suara_db": -2,
+   "deskripsi": "A tiny, bright pop that lifts as it appears."
+  },
+  "props-page-turn": {
+   "sync": 0,
+   "durasi": 0.54,
+   "lufs": -26,
+   "bawah_suara_db": -3,
+   "deskripsi": "A page turning: lifted at the corner, swung over and falling flat."
+  },
+  "time-clock": {
+   "sync": 0,
+   "durasi": 3.037,
+   "lufs": -27,
+   "bawah_suara_db": -1,
+   "deskripsi": "A clock ticking: tick, tock, once a second."
+  },
+  "whoosh-fast-soft": {
+   "sync": 0.099,
+   "durasi": 0.25,
+   "lufs": -24,
+   "bawah_suara_db": -2,
+   "deskripsi": "A quick, gentle puff of air with a soft edge and no weight."
+  },
+  "whoosh-medium-medium": {
+   "sync": 0.209,
+   "durasi": 0.517,
+   "lufs": -20.5,
+   "bawah_suara_db": -3,
+   "deskripsi": "A balanced swish of air: a clear rise, a defined peak and a smooth fade."
+  },
+  "whoosh-medium-soft": {
+   "sync": 0.229,
+   "durasi": 0.543,
+   "lufs": -24,
+   "bawah_suara_db": -2,
+   "deskripsi": "A smooth, gentle sweep of air that rises and fades without an edge."
+  },
+  "writing-marker-tick": {
+   "sync": 0.15,
+   "durasi": 0.243,
+   "lufs": -25,
+   "bawah_suara_db": -1,
+   "deskripsi": "A marker on a whiteboard, ticking a box."
+  }
+ }
+}
