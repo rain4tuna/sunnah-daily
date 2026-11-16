@@ -5,6 +5,10 @@ import data from "./data.json";
 import { Grade, Grain, Kepala, Latar, Vignette } from "./Layers";
 import { Dalil, Faedah, Hook, Penutup, Poin, Segmen } from "./Scenes";
 import { Ilustrasi, JENIS, POSE } from "./Ilustrasi";
+import { DataPanjang, H, VideoPanjang, W } from "./Panjang";
+import contohPanjang from "./contoh_panjang.json";
+import { DataClay, VideoClay } from "./Clay";
+import contohClay from "./contoh_clay.json";
 
 const FPS = 30;
 
@@ -67,6 +71,26 @@ export const Root: React.FC = () => (
       fps={FPS}
       durationInFrames={Math.ceil((data as Data).durasi * FPS)}
       defaultProps={data as Data}
+      calculateMetadata={({ props }) => ({ durationInFrames: props.frame ?? Math.ceil(props.durasi * FPS) })}
+    />
+    <Composition
+      id="SunnahPanjang"
+      component={VideoPanjang}
+      width={W}
+      height={H}
+      fps={FPS}
+      durationInFrames={Math.ceil((contohPanjang as DataPanjang).durasi * FPS)}
+      defaultProps={contohPanjang as DataPanjang}
+      calculateMetadata={({ props }) => ({ durationInFrames: props.frame ?? Math.ceil(props.durasi * FPS) })}
+    />
+    <Composition
+      id="SunnahClay"
+      component={VideoClay}
+      width={W}
+      height={H}
+      fps={FPS}
+      durationInFrames={Math.ceil((contohClay as DataClay).durasi * FPS)}
+      defaultProps={contohClay as DataClay}
       calculateMetadata={({ props }) => ({ durationInFrames: props.frame ?? Math.ceil(props.durasi * FPS) })}
     />
     <Composition id="Galeri" component={Galeri} width={1080} height={1920} fps={FPS} durationInFrames={300} />

@@ -61,7 +61,9 @@ def susun_props(segmen):
              'ucapMulai': round(mulai + 0.1, 3), 'ucapAkhir': round(mulai + suara, 3)}
         if s.get('ilustrasi'):
             b['ilustrasi'], b['tokoh'] = s['ilustrasi'], s.get('tokoh') or ''
-        if s['jenis'] in ('hook', 'poin', 'faedah'):
+        if s.get('bab'):
+            b['bab'] = s['bab']
+        if s['jenis'] in ('hook', 'bab', 'poin', 'faedah'):
             teks = ' '.join(x for x in (s.get('narasi') or '', s['ucap']) if x)
             st = stiker.props(s['ucap'] if s['jenis'] != 'poin' else teks, s.get('ilustrasi') or '', s.get('stiker_en') or (),
                               f'{benih}|{i}', n=3, sudah=dipakai)
@@ -71,8 +73,11 @@ def susun_props(segmen):
                 rel = min(rel, 0.9) if rel is not None else (j + 0.4) / (len(st) + 0.4)
                 x['muncul'] = round(0.1 + rel * max(0.5, suara - 0.6), 2)
             b['stiker'] = st
-        if s['jenis'] == 'hook':
-            b.update(judul=s.get('judul') or '', narasi=s['ucap'])
+        if s['jenis'] in ('hook', 'bab'):
+            b.update(judul=s.get('judul') or '', narasi=s.get('narasi') or s['ucap'])
+            no = 0                                  # nomor poin mulai lagi di tiap bab (video panjang)
+        elif s['jenis'] == 'pembuka':
+            b.update(judul=s.get('judul') or '', narasi=s['ucap'], kajian=s.get('kajian') or '')
         elif s['jenis'] == 'poin':
             no += 1
             b.update(no=no, label=s.get('label') or '', narasi=s.get('narasi') or s['ucap'])
@@ -106,7 +111,9 @@ def _remotion(args, batas=900):
     return r.returncode, (r.stdout or '') + (r.stderr or '')
 
 
-def buat_video(segmen, tema, out_mp4, contoh_jpg=None):
+def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', props_tambahan=None, potong=None,
+               skala_cuplikan=0.34, frame_cuplikan=1.5, public_dir=None):
+    """komposisi/props_tambahan/potong dipakai video panjang 16:9 (video_panjang.py); default = Shorts."""
     if not os.path.isdir(os.path.join(RDIR, 'node_modules')):
         raise RuntimeError('Remotion belum terpasang: jalankan "npm ci" di folder remotion/.')
     out_mp4 = os.path.abspath(out_mp4)
@@ -115,15 +122,16 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None):
         total = video.susun_audio(segmen, wav, tmp)
         props = os.path.join(tmp, 'props.json')
         with open(props, 'w', encoding='utf-8') as f:
-            json.dump(susun_props(segmen), f, ensure_ascii=False)
-        umum = ['src/index.ts', 'SunnahDaily', f'--props={props}', '--log=error', '--timeout=60000',
-                f'--concurrency={KONKURENSI}'] + ([f'--gl={GL}'] if GL else [])
+            json.dump({**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}, f, ensure_ascii=False)
+        umum = ['src/index.ts', komposisi, f'--props={props}', '--log=error', '--timeout=60000',
+                f'--concurrency={KONKURENSI}'] + ([f'--gl={GL}'] if GL else []) +                ([f'--public-dir={public_dir}'] if public_dir else [])
         n = math.ceil(total * FPS)
         daftar = os.path.join(tmp, 'daftar.txt')
         with open(daftar, 'w', encoding='utf-8') as lst:
-            for i, a in enumerate(range(0, n, POTONG)):
-                b = min(a + POTONG, n) - 1
-                pot = os.path.join(tmp, f'p{i:02d}.mp4')
+            langkah = potong or POTONG
+            for i, a in enumerate(range(0, n, langkah)):
+                b = min(a + langkah, n) - 1
+                pot = os.path.join(tmp, f'p{i:03d}.mp4')
                 for coba in range(3):
                     try:
                         kode, keluaran = _remotion(['render', *umum, pot, f'--frames={a}-{b}', '--muted', '--codec=h264',
@@ -148,8 +156,8 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None):
                        check=True, cwd=RDIR)
         if contoh_jpg:
             try:
-                _remotion(['still', *umum, os.path.abspath(contoh_jpg), f'--frame={min(n - 1, int(1.5 * FPS))}',
-                           '--image-format=jpeg', '--scale=0.34'], batas=180)
+                _remotion(['still', *umum, os.path.abspath(contoh_jpg), f'--frame={min(n - 1, int(frame_cuplikan * FPS))}',
+                           '--image-format=jpeg', f'--scale={skala_cuplikan}'], batas=180)
             except Exception as e:
                 log(f'   cuplikan dilewati: {e}')
     return total
