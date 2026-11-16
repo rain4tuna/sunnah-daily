@@ -1530,7 +1530,7 @@
    ],
    "id": "h008",
    "topik": "Bersiwak",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1538,7 +1538,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah terpikir ada amalan ringan yang pahalanya luar biasa besar dan sangat disukai Allah?",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "light",
+      "heart"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Ternyata, Rasulullah ﷺ senantiasa menjaga amalan bersiwak setiap kali hendak mendirikan shalat.",
+      "label": "Menjaga Siwak Sebelum Shalat",
+      "ikon": [
+       "siwak",
+       "sajadah"
+      ],
+      "ilustrasi": "masjid",
+      "stiker": [
+       "miswak",
+       "prayer rug"
+      ]
+     },
+     {
+      "narasi": "Membersihkan mulut ini bukan sekadar agar harum, melainkan wujud penghormatan terbaik saat kita menghadap Allah.",
+      "label": "Bentuk Penghormatan Terbaik",
+      "ikon": [
+       "parfum",
+       "hati"
+      ],
+      "ilustrasi": "air",
+      "tokoh": "berdiri",
+      "stiker": [
+       "perfume",
+       "water"
+      ]
+     },
+     {
+      "narasi": "Saking pentingnya, beliau ﷺ menyampaikan bahwa seandainya tidak memberatkan umat, tentu amalan bersiwak ini sudah diwajibkan.",
+      "label": "Hampir Diwajibkan Nabi",
+      "ikon": [
+       "siwak",
+       "timbangan"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "miswak",
+       "scales"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari siapkan siwak di saku kita, lalu rutinkan setiap kali shalat akan dimulai.",
+     "ikon": [
+      "siwak"
+     ],
+     "ilustrasi": "masjid",
+     "tokoh": "berdiri",
+     "stiker": [
+      "miswak",
+      "pocket"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfzTT_NEiJU/",
+   "fb": "https://www.facebook.com/reel/1136780445911820",
+   "yt": "https://youtube.com/shorts/Ij-qN-VgLt8",
+   "waktu_posting": "2026-11-16T11:58:52"
   },
   {
    "judul_hook": "Rahasia Sederhana Menuju Pintu Surga",

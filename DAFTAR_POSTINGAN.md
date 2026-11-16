@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 95 video. Waktu dalam WIB, terbaru di atas.
+Total: 96 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 16 Nov 2026 18.58 | h008 | Amalan Ringan Berpahala Sangat Besar | HR. Bukhari no. 887 (shahih) | [IG](https://www.instagram.com/reel/DfzTT_NEiJU/) · [YouTube](https://youtube.com/shorts/Ij-qN-VgLt8) · [FB](https://www.facebook.com/reel/1136780445911820) |
 | 16 Nov 2026 17.34 | ep012-07 | Hidayah Bukan di Tangan Manusia | QS. Al-Qashas: 56 | [IG](https://www.instagram.com/reel/DfzJorVAvcD/) · [YouTube](https://youtube.com/shorts/ExYmgaFzS28) · [FB](https://www.facebook.com/reel/1092326080476397) |
 | 16 Nov 2026 15.52 | ep012-06 | Bisikan Terakhir di Sisi Paman | HR. Bukhari no. 3884, 4772 & Muslim no. 24 (shahih) | [IG](https://www.instagram.com/reel/Dfy98CpjROK/) · [YouTube](https://youtube.com/shorts/3BRQNX9BgcY) · [FB](https://www.facebook.com/reel/2996509860726492) |
 | 16 Nov 2026 11.57 | h023 | Jangan Langsung Duduk di Masjid | HR. Bukhari no. 444 dan Muslim no. 714 (shahih) | [IG](https://www.instagram.com/reel/DfyjIV-iX7s/) · [YouTube](https://youtube.com/shorts/W_C3MCoANks) · [FB](https://www.facebook.com/reel/1000301983149418) |
