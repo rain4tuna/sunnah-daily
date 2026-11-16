@@ -95,14 +95,15 @@ jobs:
           if-no-files-found: ignore
 
       - name: Salin ke branch hasil-panjang (untuk ditinjau)
-        if: success()
+        if: always()
         run: |
-          ls hasil/*.mp4 >/dev/null 2>&1 || exit 0
-          for f in hasil/*.mp4; do [ $(stat -c%s "$f") -lt 95000000 ] || { echo "::warning::$f > 95 MB, hanya di Artifacts"; exit 0; }; done
+          # naskah & log selalu disalin (juga saat gagal) supaya bisa dicek; video hanya bila < 95 MB
+          ls hasil/* >/dev/null 2>&1 || exit 0
+          for f in hasil/*.mp4; do [ -f "$f" ] && [ $(stat -c%s "$f") -ge 95000000 ] && { echo "::warning::$f > 95 MB, hanya di Artifacts"; rm -f "$f"; }; done
           git config user.name "sunnah-daily-bot"
           git config user.email "actions@users.noreply.github.com"
           mkdir -p /tmp/h && cp hasil/* /tmp/h/
           git checkout -q --orphan hasil-panjang-tmp
           git rm -rfq --cached . && git clean -fdxq -e hasil
           rm -rf hasil && cp /tmp/h/* .
-          git add -A && git commit -qm "Video panjang run ${{ github.run_number }}" && git push -qf origin HEAD:hasil-panjang
+          git add -A && git commit -qm "Video panjang run ${{ github.run_number }} (${{ job.status }})" && git push -qf origin HEAD:hasil-panjang

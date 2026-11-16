@@ -31,6 +31,7 @@ import remotion_video
 import adegan_clay
 import naskah_anak
 import storyboard_ikon
+import tts_kelompok
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 URUTAN = ['pertama', 'kedua', 'ketiga', 'keempat', 'kelima', 'keenam', 'ketujuh', 'kedelapan', 'kesembilan', 'kesepuluh',
@@ -142,6 +143,22 @@ def _susun_anak(data, kisah, naskah, kicker, topik, no_ep):
     return segmen
 
 
+def kelompok_tts(segmen):
+    """Indeks babak per permintaan TTS: satu kelompok per kisah (bab..faedah, plus ajakan bila ada), pembuka sendiri,
+    kuis + jawaban + penutup satu kelompok. Maksimal 8 babak per kelompok supaya teks tidak terlalu panjang."""
+    kelompok, kini, kunci = [], [], None
+    for i, s in enumerate(segmen):
+        k = 'akhir' if s['jenis'] in ('kuis', 'jawab', 'penutup') else ('awal' if s['jenis'] == 'pembuka' else s.get('bab'))
+        if kini and (k != kunci or len(kini) >= 8):
+            kelompok.append(kini)
+            kini = []
+        kini.append(i)
+        kunci = k
+    if kini:
+        kelompok.append(kini)
+    return kelompok
+
+
 def daftar_bab(segmen, kisah):
     return [{'no': s['bab'], 'judul': kisah[s['bab'] - 1]['judul_hook'], 'mulai': round(s['mulai'], 3)}
             for s in segmen if s['jenis'] == 'bab']
@@ -245,8 +262,13 @@ def jalankan():
         log(f'   suara: {gemini.SUARA}')
         for i, s in enumerate(segmen):
             s['wav'] = os.path.join(tmp, f'suara{i:03d}.wav')
-            log(f'   TTS {i + 1}/{len(segmen)}')
-            gemini.bacakan(main.lisan(s['ucap']), s['wav'])
+        kelompok = kelompok_tts(segmen)
+        dipakai = 0
+        for j, kel in enumerate(kelompok, 1):
+            log(f'   TTS kelompok {j}/{len(kelompok)} ({len(kel)} babak)')
+            dipakai += tts_kelompok.bacakan_kelompok([main.lisan(segmen[i]['ucap']) for i in kel],
+                                                     [segmen[i]['wav'] for i in kel], tmp, nama=f'k{j:02d}')
+        log(f'   permintaan TTS: {dipakai} (tanpa pengelompokan: {len(segmen)})')
         mp4 = os.path.join(out, f'{nama}.mp4')
         durasi = remotion_video.buat_video(
             segmen, 'malam', mp4, os.path.join(out, f'{nama}_cuplikan.jpg'), komposisi=komposisi,
