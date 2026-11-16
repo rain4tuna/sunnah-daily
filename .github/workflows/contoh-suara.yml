@@ -11,6 +11,14 @@ on:
         description: 'voice | persona'
         required: false
         default: 'voice'
+      gaya:
+        description: 'Gaya baca (kosong = gaya bawaan gemini.py)'
+        required: false
+        default: ''
+      teks:
+        description: 'Teks contoh (kosong = teks bawaan)'
+        required: false
+        default: ''
 
 permissions:
   contents: write
@@ -29,6 +37,8 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           SUARA_LIST: ${{ github.event.inputs.suara }}
           MODE: ${{ github.event.inputs.mode }}
+          GAYA_SUARA: ${{ github.event.inputs.gaya }}
+          TEKS: ${{ github.event.inputs.teks }}
           OUT_DIR: hasil
         run: sudo apt-get install -y -qq ffmpeg && python contoh_suara.py
       - name: Simpan ke branch hasil-suara

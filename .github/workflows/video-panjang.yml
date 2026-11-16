@@ -12,9 +12,9 @@ on:
         required: true
         default: '11'
       suara:
-        description: 'Voice Gemini TTS (mis. Charon, Iapetus, Sadaltager, Algieba, Schedar, Rasalgethi)'
+        description: 'Voice Gemini TTS (kosong = Laomedeia untuk naskah anak, Charon untuk naskah asli)'
         required: false
-        default: 'Charon'
+        default: ''
       maks_kisah:
         description: 'Batasi jumlah kisah untuk uji cepat (kosong = semua)'
         required: false
@@ -23,6 +23,10 @@ on:
         description: 'clay (aset clay) | svg (ilustrasi SVG lama)'
         required: false
         default: 'clay'
+      naskah:
+        description: 'anak (ceria + ajakan + kuis) | asli (narasi storyboard apa adanya)'
+        required: false
+        default: 'anak'
 
 permissions:
   contents: write
@@ -63,20 +67,40 @@ jobs:
           npm ci --no-audit --no-fund
           npx remotion browser ensure
 
+      # Naskah anak & suara per babak dari run sebelumnya: render yang gagal diulang tanpa memakai kuota TTS lagi.
+      - name: Pulihkan cache naskah & suara
+        uses: actions/cache/restore@v4
+        with:
+          path: cache_panjang
+          key: panjang-${{ github.run_id }}
+          restore-keys: panjang-
+
       - name: Buat video panjang
         env:
+          CACHE_PANJANG: cache_panjang
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           EPISODE: ${{ github.event.inputs.episode }}
           SUARA_PANJANG: ${{ github.event.inputs.suara }}
           MAKS_KISAH: ${{ github.event.inputs.maks_kisah }}
           GAYA_PANJANG: ${{ github.event.inputs.gaya }}
-          REMOTION_POTONG_PANJANG: '900'
-          REMOTION_KONKURENSI: '4'
+          GAYA_NASKAH: ${{ github.event.inputs.naskah }}
+          # Konkurensi 4 membuat font (delayRender "font") melewati batas waktu; 2 seperti render Shorts.
+          REMOTION_POTONG_PANJANG: '300'
+          REMOTION_KONKURENSI: '2'
+          REMOTION_TIMEOUT: '180000'
           OUT_DIR: hasil
         run: |
           mkdir -p hasil
           set -o pipefail
           python video_panjang.py 2>&1 | tee hasil/log.txt
+
+      - name: Simpan cache naskah & suara
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: cache_panjang
+          key: panjang-${{ github.run_id }}
 
       - name: Unggah hasil (7 hari)
         if: always()
@@ -88,14 +112,15 @@ jobs:
           if-no-files-found: ignore
 
       - name: Salin ke branch hasil-panjang (untuk ditinjau)
-        if: success()
+        if: always()
         run: |
-          ls hasil/*.mp4 >/dev/null 2>&1 || exit 0
-          for f in hasil/*.mp4; do [ $(stat -c%s "$f") -lt 95000000 ] || { echo "::warning::$f > 95 MB, hanya di Artifacts"; exit 0; }; done
+          # naskah & log selalu disalin (juga saat gagal) supaya bisa dicek; video hanya bila < 95 MB
+          ls hasil/* >/dev/null 2>&1 || exit 0
+          for f in hasil/*.mp4; do [ -f "$f" ] && [ $(stat -c%s "$f") -ge 95000000 ] && { echo "::warning::$f > 95 MB, hanya di Artifacts"; rm -f "$f"; }; done
           git config user.name "sunnah-daily-bot"
           git config user.email "actions@users.noreply.github.com"
           mkdir -p /tmp/h && cp hasil/* /tmp/h/
           git checkout -q --orphan hasil-panjang-tmp
           git rm -rfq --cached . && git clean -fdxq -e hasil
           rm -rf hasil && cp /tmp/h/* .
-          git add -A && git commit -qm "Video panjang run ${{ github.run_number }}" && git push -qf origin HEAD:hasil-panjang
+          git add -A && git commit -qm "Video panjang run ${{ github.run_number }} (${{ job.status }})" && git push -qf origin HEAD:hasil-panjang

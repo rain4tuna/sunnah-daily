@@ -17,8 +17,8 @@ const SISI = 120;
 const ATAS = 150, BAWAH = 110; // ruang kepala & bilah bab
 
 export type SegmenPanjang = Omit<Segmen, "jenis"> & {
-  jenis: Segmen["jenis"] | "pembuka" | "bab";
-  bab?: number; kajian?: string;
+  jenis: Segmen["jenis"] | "pembuka" | "bab" | "ajak" | "kuis" | "jawab";
+  bab?: number; kajian?: string; tanya?: string; pilihan?: string[]; jawab?: number;
 };
 export type DataPanjang = {
   kicker: string; handle?: string; durasi: number; frame?: number; judul: string;
@@ -258,7 +258,7 @@ export const VideoPanjang: React.FC<DataPanjang> = ({ kicker, handle, durasi, ba
     <AbsoluteFill>
       <Latar />
       {segmen.map((s, i) => {
-        const Adegan = ADEGAN[s.jenis];
+        const Adegan = ADEGAN[s.jenis as keyof typeof ADEGAN] ?? Faedah;   // babak khusus clay (ajak, kuis) tampil sebagai teks
         const akhir = i + 1 < segmen.length ? batas[i + 1] : Math.round(s.akhir * FPS);
         return (
           <Sequence key={i} from={batas[i]} durationInFrames={Math.max(1, akhir - batas[i])}>

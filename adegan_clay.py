@@ -116,6 +116,15 @@ def pilih(segmen, benih=''):
             hasil.append(a)
             sebelumnya = a
             continue
+        if jenis in ('ajak', 'kuis', 'jawab'):
+            a = {'latar': d['l10_desa_badui']['file'], 'suasana': 'siang', 'awan': awan}
+            if jenis == 'ajak':
+                a['tokoh'] = [_tokoh(k, d, x, dari=sisi) for k, x, sisi in (('k07', 520, 'kiri'), ('k08', 1400, 'kanan'))
+                              if f'{k}_p01' in d]
+            else:
+                a['bintang'] = bintang
+            hasil.append(a)
+            continue
         if jenis == 'penutup':
             a = {'latar': d['l10_desa_badui']['file'], 'suasana': 'siang'}
             if 'b15_anak_bermain' in d:

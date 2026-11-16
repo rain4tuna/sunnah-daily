@@ -6,7 +6,8 @@ sudah punya 'wav' hasil TTS), tulis MP4 9:16 dan kembalikan durasinya.
 Video dirender PER POTONGAN lalu digabung dengan audio: render panjang sekali jalan bisa macet di mesin ber-RAM
 kecil, sedangkan potongan pendek bisa diulang sendiri-sendiri.
 
-Env (opsional): REMOTION_POTONG (frame per potong), REMOTION_KONKURENSI, REMOTION_GL (mis. angle), FFMPEG.
+Env (opsional): REMOTION_POTONG (frame per potong), REMOTION_KONKURENSI, REMOTION_GL (mis. angle),
+REMOTION_TIMEOUT (ms), FFMPEG.
 """
 import json
 import math
@@ -16,6 +17,7 @@ import subprocess
 import tempfile
 import wave
 
+import sfx
 import stiker
 import video
 
@@ -27,6 +29,7 @@ NPX = 'npx.cmd' if os.name == 'nt' else 'npx'
 POTONG = int(os.environ.get('REMOTION_POTONG') or (150 if os.name == 'nt' else 300))
 KONKURENSI = os.environ.get('REMOTION_KONKURENSI') or ('1' if os.name == 'nt' else '2')
 GL = os.environ.get('REMOTION_GL', 'angle' if os.name == 'nt' else '')
+TIMEOUT = os.environ.get('REMOTION_TIMEOUT') or '60000'   # ms; font kadang lambat dimuat saat mesin sibuk
 LABEL_DALIL = {'ayat': "AL-QUR'AN", 'hadits': 'HADITS', 'atsar': 'ATSAR', 'ulama': 'PERKATAAN ULAMA'}
 
 
@@ -94,7 +97,11 @@ def susun_props(segmen):
                      label=LABEL_DALIL.get(dl.get('jenis'), 'DALIL'),
                      derajat='' if dl.get('jenis') in ('ayat', 'ulama') or derajat == 'ayat' else derajat)
         elif s['jenis'] == 'faedah':
+            b.update(narasi=s.get('narasi') or s['ucap'])
+        elif s['jenis'] == 'ajak':
             b.update(narasi=s['ucap'])
+        elif s['jenis'] in ('kuis', 'jawab'):
+            b.update(narasi=s['ucap'], tanya=s.get('tanya') or '', pilihan=s.get('pilihan') or [], jawab=s.get('jawab', -1))
         else:
             kredit = (s.get('kredit') or '').split('\n')
             b.update(ajakan=s.get('ajakan') or '', kredit=kredit[0], ustadz=kredit[1] if len(kredit) > 1 else '')
@@ -120,10 +127,17 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
     with tempfile.TemporaryDirectory() as tmp:
         wav = os.path.join(tmp, 'suara.wav')
         total = video.susun_audio(segmen, wav, tmp)
+        isi = {**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}
+        try:
+            n_sfx = sfx.campur(wav, isi, komposisi)
+            if n_sfx:
+                log(f'   SFX: {n_sfx} efek dipasang')
+        except Exception as e:                  # efek suara hanya hiasan: gagal -> narasi saja
+            log(f'   SFX dilewati: {e}')
         props = os.path.join(tmp, 'props.json')
         with open(props, 'w', encoding='utf-8') as f:
-            json.dump({**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}, f, ensure_ascii=False)
-        umum = ['src/index.ts', komposisi, f'--props={props}', '--log=error', '--timeout=60000',
+            json.dump(isi, f, ensure_ascii=False)
+        umum = ['src/index.ts', komposisi, f'--props={props}', '--log=error', f'--timeout={TIMEOUT}',
                 f'--concurrency={KONKURENSI}'] + ([f'--gl={GL}'] if GL else []) +                ([f'--public-dir={public_dir}'] if public_dir else [])
         n = math.ceil(total * FPS)
         daftar = os.path.join(tmp, 'daftar.txt')

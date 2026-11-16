@@ -1,10 +1,12 @@
-"""Buat contoh suara narasi beberapa voice Gemini TTS untuk dipilih. Hasil MP3 di OUT_DIR."""
+"""Buat contoh suara narasi beberapa voice Gemini TTS untuk dipilih. Hasil MP3 di OUT_DIR.
+
+Env opsional: TEKS (teks contoh), GAYA_SUARA (gaya baca, dibaca gemini.py), SUARA_LIST, MODE."""
 import os
 import subprocess
 
 import gemini
 
-TEKS = ("Mengapa belajar hukum agama saja terkadang membuat hati terasa kaku? "
+TEKS = os.environ.get("TEKS") or ("Mengapa belajar hukum agama saja terkadang membuat hati terasa kaku? "
         "Ibnul Jauzi rahimahullah menasihati, menyibukkan diri dengan fikih dan hadits saja belum cukup untuk "
         "memperbaiki hati. Mempelajari kisah kehidupan Rasulullah shallallahu 'alaihi wa sallam adalah ramuan "
         "terbaik untuk melembutkan hati yang mengeras.")
