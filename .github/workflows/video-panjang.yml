@@ -12,7 +12,7 @@ on:
         required: true
         default: '11'
       suara:
-        description: 'Voice Gemini TTS (kosong = Puck untuk naskah anak, Charon untuk naskah asli)'
+        description: 'Voice Gemini TTS (kosong = Laomedeia untuk naskah anak, Charon untuk naskah asli)'
         required: false
         default: ''
       maks_kisah:

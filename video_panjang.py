@@ -9,7 +9,7 @@ dalil tetap dari data kisah yang sudah diverifikasi (sumber + nomor + derajat). 
 Env:
   GEMINI_API_KEY      wajib (TTS; storyboard hanya kalau kisah belum punya storyboard_ikon)
   EPISODE             nomor episode Sirah (wajib)
-  SUARA_PANJANG       voice Gemini TTS (default Puck untuk naskah anak, Charon untuk asli); GAYA_SUARA_PANJANG = gaya baca
+  SUARA_PANJANG       voice Gemini TTS (default Laomedeia untuk naskah anak, Charon untuk asli); GAYA_SUARA_PANJANG = gaya baca
   MAKS_KISAH          batasi jumlah kisah (untuk uji cepat; kosong = semua)
   OUT_DIR             folder hasil (default hasil)
   GAYA_PANJANG        clay (default) | svg
@@ -213,7 +213,7 @@ def jalankan():
             json.dump(naskah, f, ensure_ascii=False, indent=1)
     segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v})
     log(f'   {len(segmen)} babak')
-    gemini.SUARA = os.environ.get('SUARA_PANJANG') or ('Puck' if anak else 'Charon')
+    gemini.SUARA = os.environ.get('SUARA_PANJANG') or ('Laomedeia' if anak else 'Charon')
     gemini.GAYA_SUARA = os.environ.get('GAYA_SUARA_PANJANG') or (GAYA_SUARA_ANAK if anak else GAYA_SUARA)
 
     clay = (os.environ.get('GAYA_PANJANG') or 'clay').lower() == 'clay'
