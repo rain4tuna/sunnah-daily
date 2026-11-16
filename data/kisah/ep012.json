@@ -705,8 +705,9 @@
     "arab": "هُوَ فِي ضَحْضَاحٍ مِنْ نَارٍ، وَلَوْلَا أَنَا لَكَانَ فِي الدَّرْكِ الْأَسْفَلِ مِنَ النَّارِ",
     "terjemah": "Dia berada di genangan api neraka yang dangkal. Sekiranya bukan karena aku, niscaya ia berada di dasar neraka yang paling bawah.",
     "sumber": "HR. Bukhari no. 3883 & Muslim no. 209",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari & Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3883"
    },
    "faedah": "Tauhid adalah syarat mutlak keselamatan; tanpa iman, amal sebesar apa pun tak menyelamatkan.",
    "latar_faedah": "kitab",
@@ -716,7 +717,84 @@
     "akhirat"
    ],
    "id": "ep012-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Apakah pembelaan paman Nabi ﷺ di dunia akan sia-sia di akhirat kelak?",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "scale",
+      "city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Al-Abbas radhiyallahu 'anhu pernah bertanya kepada Rasulullah ﷺ tentang nasib Abu Thalib yang dahulu selalu membela beliau.",
+      "label": "Pertanyaan Al-Abbas",
+      "ikon": [
+       "hati",
+       "rumah"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "house",
+       "heart"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ menjawab bahwa berkat syafaat beliau, Abu Thalib mendapat siksa paling ringan di genangan neraka setinggi mata kaki.",
+      "label": "Siksa Neraka Paling Ringan",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "water"
+      ]
+     },
+     {
+      "narasi": "Namun panasnya tetap membuat otak mendidih, dan sekiranya bukan karena beliau, niscaya ia berada di dasar neraka terdalam.",
+      "label": "Dasar Neraka Yang Dalam",
+      "ikon": [
+       "gunung"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "mountain",
+       "lantern"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Tauhid adalah syarat mutlak keselamatan, sebab tanpa iman, amal sebesar apa pun tidak akan menyelamatkan.",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "key",
+      "lock"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan video ini ke sahabatmu",
+     "narasi": "Bagikan video ini ke sahabatmu. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DfzjiUhD46e/",
+   "fb": "https://www.facebook.com/reel/1654060739787904",
+   "yt": "https://youtube.com/shorts/gqs3VsMzqC4",
+   "waktu_posting": "2026-11-16T14:20:48"
   }
  ]
 }
