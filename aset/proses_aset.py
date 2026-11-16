@@ -22,6 +22,9 @@ HASIL = os.path.join(ROOT, 'remotion', 'public_panjang', 'aset')   # public dir 
 POTONG = ('karakter', 'hewan', 'properti', 'elemen')
 TINGGI_MAKS = {'karakter': 1100, 'hewan': 900, 'properti': 700, 'elemen': 600}
 AMBANG = 20          # beda warna maksimal dari taksiran warna latar di titik itu
+# Aset yang kepalanya (kerudung/sorban krem-putih) ikut terhapus di ambang biasa: bagian ATAS objek (70% teratas, jadi
+# bayangan lantai tetap terbuang) diambil dengan ambang ketat ini.
+KEPALA_TERANG = {'k05_p01': 8, 'k03_p04': 8, 't06_p02': 8}
 
 
 def taksir_latar(a):
@@ -37,17 +40,27 @@ def taksir_latar(a):
     return sum(c * b for c, b in zip(warna, bobot)) / total
 
 
-def buang_latar(im):
+def _isi(a, latar_taksir, ambang):
+    calon = np.abs(a - latar_taksir).max(axis=2) < ambang
+    lab, _ = ndimage.label(calon)
+    sentuh_tepi = np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]]))
+    return ndimage.binary_fill_holes(~np.isin(lab, sentuh_tepi[sentuh_tepi > 0]))
+
+
+def buang_latar(im, ambang_atas=None):
     """Kembalikan RGBA. Latar = piksel yang warnanya dekat dengan taksiran warna latar dan tersambung ke tepi
     gambar; baju putih/krem aman karena dibandingkan dengan latar di sekitarnya, bukan sekadar 'terang'.
     Gumpalan kecil yang terpisah dari objek utama (bintik, sisa bayangan) ikut dibuang."""
     rgb = im.convert('RGB')
     a = np.asarray(rgb).astype(np.float32)
-    calon = np.abs(a - taksir_latar(a)).max(axis=2) < AMBANG
-    lab, _ = ndimage.label(calon)
-    sentuh_tepi = np.unique(np.concatenate([lab[0], lab[-1], lab[:, 0], lab[:, -1]]))
-    latar = np.isin(lab, sentuh_tepi[sentuh_tepi > 0])
-    isi = ndimage.binary_fill_holes(~latar)
+    tl = taksir_latar(a)
+    isi = _isi(a, tl, AMBANG)
+    if ambang_atas:
+        ketat = _isi(a, tl, ambang_atas)
+        baris = np.flatnonzero(isi.any(axis=1))
+        if len(baris):
+            batas = baris[0] + int(0.7 * (baris[-1] - baris[0]))
+            isi[:batas] |= ketat[:batas]
     # simpan objek utama + bagian lain yang cukup besar (mis. tiap orang di gambar kerumunan)
     lab, n = ndimage.label(isi)
     if n > 1:
@@ -81,7 +94,9 @@ def proses_potong(kat):
     for nm in sorted(os.listdir(asal)):
         if not nm.lower().endswith(('.jpg', '.jpeg', '.png', '.webp')):
             continue
-        im = kecilkan(potong_rapat(buang_latar(Image.open(os.path.join(asal, nm)))), TINGGI_MAKS[kat])
+        nama = os.path.splitext(nm)[0]
+        im = kecilkan(potong_rapat(buang_latar(Image.open(os.path.join(asal, nm)), KEPALA_TERANG.get(nama))),
+                      TINGGI_MAKS[kat])
         im.save(os.path.join(tujuan, os.path.splitext(nm)[0] + '.webp'), 'WEBP', quality=88, method=4)
         n += 1
     return n
