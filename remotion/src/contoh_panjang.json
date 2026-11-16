@@ -1,0 +1,1062 @@
+{
+ "kicker": "SIRAH NABAWIYAH #11",
+ "handle": "@sun_nahdaily",
+ "durasi": 414.89,
+ "frame": 12447,
+ "segmen": [
+  {
+   "jenis": "pembuka",
+   "mulai": 0.0,
+   "akhir": 12.959,
+   "ucapMulai": 0.1,
+   "ucapAkhir": 12.609,
+   "judul": "Usaha Kaum Quraisy Halangi Dakwah Rasulullah",
+   "narasi": "Bismillah. Di video ini kita akan menyimak 8 pelajaran dari kajian Sirah Nabawiyah bagian ke-11, tentang Usaha Kaum Quraisy Halangi Dakwah Rasulullah, yang disampaikan oleh Ustadz Doktor Firanda Andirja.",
+   "kajian": "Faedah dari kajian Sirah Nabawiyah #11 · Ust. Dr. Firanda Andirja, M.A."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 12.959,
+   "akhir": 18.091,
+   "ucapMulai": 13.059,
+   "ucapAkhir": 17.741,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 1,
+   "stiker": [
+    {
+     "nama": "trophy",
+     "svg": "<path d=\"M8 21l8 0\"/><path d=\"M12 17l0 4\"/><path d=\"M7 4l10 0\"/><path d=\"M17 4v8a5 5 0 0 1 -10 0v-8\"/><path d=\"M3 9a2 2 0 1 0 4 0a2 2 0 1 0 -4 0\"/><path d=\"M17 9a2 2 0 1 0 4 0a2 2 0 1 0 -4 0\"/>",
+     "padat": false,
+     "muncul": 0.57
+    },
+    {
+     "nama": "sparkles",
+     "svg": "<path d=\"M16 18a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2m0 -12a2 2 0 0 1 2 2a2 2 0 0 1 2 -2a2 2 0 0 1 -2 -2a2 2 0 0 1 -2 2m-7 12a6 6 0 0 1 6 -6a6 6 0 0 1 -6 -6a6 6 0 0 1 -6 6a6 6 0 0 1 6 6\"/>",
+     "padat": false,
+     "muncul": 1.46
+    },
+    {
+     "nama": "heartbeat",
+     "svg": "<path d=\"M19.5 13.572l-7.5 7.428l-2.896 -2.868m-6.117 -8.104a5 5 0 0 1 9.013 -3.022a5 5 0 1 1 7.5 6.572\"/><path d=\"M3 13h2l2 3l2 -6l1 3h3\"/>",
+     "padat": false,
+     "muncul": 3.05
+    }
+   ],
+   "judul": "Tawaran Mewah untuk Hentikan Dakwah",
+   "narasi": "Pelajaran pertama. Pernahkah imanmu diuji dengan tawaran duniawi yang begitu menggiurkan?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 18.091,
+   "akhir": 26.267,
+   "ucapMulai": 18.191,
+   "ucapAkhir": 25.917,
+   "ilustrasi": "kafilah",
+   "tokoh": "",
+   "bab": 1,
+   "stiker": [
+    {
+     "nama": "cactus:padat",
+     "svg": "<path d=\"M7 22a1 1 0 0 1 -.117 -1.993l.117 -.007h2v-6a4 4 0 0 1 -3.995 -3.8l-.005 -.2v-1a1 1 0 0 1 1.993 -.117l.007 .117v1a2 2 0 0 0 1.85 1.995l.15 .005v-7a3 3 0 0 1 5.995 -.176l.005 .176v10a2 2 0 0 0 1.995 -1.85l.005 -.15v-5a1 1 0 0 1 1.993 -.117l.007 .117v5a4 4 0 0 1 -3.8 3.995l-.2 .005v3h2a1 1 0 0 1 .117 1.993l-.117 .007h-10z\"/>",
+     "padat": true,
+     "muncul": 0.95
+    },
+    {
+     "nama": "compass",
+     "svg": "<path d=\"M8 16l2 -6l6 -2l-2 6l-6 2\"/><path d=\"M3 12a9 9 0 1 0 18 0a9 9 0 1 0 -18 0\"/><path d=\"M12 3l0 2\"/><path d=\"M12 19l0 2\"/><path d=\"M3 12l2 0\"/><path d=\"M19 12l2 0\"/>",
+     "padat": false,
+     "muncul": 3.08
+    },
+    {
+     "nama": "tent",
+     "svg": "<path d=\"M11 14l4 6h6l-9 -16l-9 16h6l4 -6\"/>",
+     "padat": false,
+     "muncul": 5.2
+    }
+   ],
+   "no": 1,
+   "label": "Utbah Diutus Quraisy",
+   "narasi": "Saat intimidasi gagal membendung dakwah, para pembesar Quraisy mengutus Utbah bin Rabi'ah menemui Rasulullah ﷺ."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 26.267,
+   "akhir": 35.748,
+   "ucapMulai": 26.367,
+   "ucapAkhir": 35.398,
+   "ilustrasi": "sedekah",
+   "tokoh": "",
+   "bab": 1,
+   "stiker": [
+    {
+     "nama": "coins",
+     "svg": "<path d=\"M9 14c0 1.657 2.686 3 6 3s6 -1.343 6 -3s-2.686 -3 -6 -3s-6 1.343 -6 3\"/><path d=\"M9 14v4c0 1.656 2.686 3 6 3s6 -1.344 6 -3v-4\"/><path d=\"M3 6c0 1.072 1.144 2.062 3 2.598s4.144 .536 6 0c1.856 -.536 3 -1.526 3 -2.598c0 -1.072 -1.144 -2.062 -3 -2.598s-4.144 -.536 -6 0c-1.856 .536 -3 1.526 -3 2.598\"/><path d=\"M3 6v10c0 .888 .772 1.45 2 2\"/><path d=\"M3 11c0 .888 .772 1.45 2 2\"/>",
+     "padat": false,
+     "muncul": 0.96
+    },
+    {
+     "nama": "thermometer",
+     "svg": "<path d=\"M19 5a2.828 2.828 0 0 1 0 4l-8 8h-4v-4l8 -8a2.828 2.828 0 0 1 4 0\"/><path d=\"M16 7l-1.5 -1.5\"/><path d=\"M13 10l-1.5 -1.5\"/><path d=\"M10 13l-1.5 -1.5\"/><path d=\"M7 17l-3 3\"/>",
+     "padat": false,
+     "muncul": 4.15
+    },
+    {
+     "nama": "gift:padat",
+     "svg": "<path d=\"M11 14v8h-4a3 3 0 0 1 -3 -3v-4a1 1 0 0 1 1 -1h6zm8 0a1 1 0 0 1 1 1v4a3 3 0 0 1 -3 3h-4v-8h6zm-2.5 -12a3.5 3.5 0 0 1 3.163 5h.337a2 2 0 0 1 2 2v1a2 2 0 0 1 -2 2h-7v-5h-2v5h-7a2 2 0 0 1 -2 -2v-1a2 2 0 0 1 2 -2h.337a3.486 3.486 0 0 1 -.337 -1.5c0 -1.933 1.567 -3.5 3.483 -3.5c1.755 -.03 3.312 1.092 4.381 2.934l.136 .243c1.033 -1.914 2.56 -3.114 4.291 -3.175l.209 -.002zm-9 2a1.5 1.5 0 0 0 0 3h3.143c-.741 -1.905 -1.949 -3.02 -3.143 -3zm8.983 0c-1.18 -.02 -2.385 1.096 -3.126 3h3.143a1.5 1.5 0 1 0 -.017 -3z\"/>",
+     "padat": true,
+     "muncul": 6.12
+    }
+   ],
+   "no": 2,
+   "label": "Tawaran Harta dan Kekuasaan",
+   "narasi": "Utbah menawarkan limpahan harta agar menjadi yang terkaya, kepemimpinan mutlak, kerajaan, hingga tabib terbaik bila Nabi ﷺ sakit."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 35.748,
+   "akhir": 44.793,
+   "ucapMulai": 35.848,
+   "ucapAkhir": 44.443,
+   "ilustrasi": "sedekah",
+   "tokoh": "",
+   "bab": 1,
+   "stiker": [
+    {
+     "nama": "heart-handshake",
+     "svg": "<path d=\"M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572\"/><path d=\"M12 6l-3.293 3.293a1 1 0 0 0 0 1.414l.543 .543c.69 .69 1.81 .69 2.5 0l1 -1a3.182 3.182 0 0 1 4.5 0l2.25 2.25\"/><path d=\"M12.5 15.5l2 2\"/><path d=\"M15 13l2 2\"/>",
+     "padat": false,
+     "muncul": 1.45
+    },
+    {
+     "nama": "wallet",
+     "svg": "<path d=\"M17 8v-3a1 1 0 0 0 -1 -1h-10a2 2 0 0 0 0 4h12a1 1 0 0 1 1 1v3m0 4v3a1 1 0 0 1 -1 1h-12a2 2 0 0 1 -2 -2v-12\"/><path d=\"M20 12v4h-4a2 2 0 0 1 0 -4h4\"/>",
+     "padat": false,
+     "muncul": 4.82
+    }
+   ],
+   "no": 3,
+   "label": "Syarat Hentikan Dakwah",
+   "narasi": "Namun, seluruh kemewahan dunia itu diajukan hanya dengan satu syarat, yaitu Rasulullah ﷺ harus menghentikan dakwah tauhidnya."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 44.793,
+   "akhir": 62.1,
+   "ucapMulai": 47.95,
+   "ucapAkhir": 61.75,
+   "bab": 1,
+   "arab": "«يَا ابْنَ أَخِي، إِنْ كُنْتَ إِنَّمَا تُرِيدُ بِمَا جِئْتَ بِهِ مِنْ هَذَا الْأَمْرِ مَالًا، جَمَعْنَا لَكَ مِنْ أَمْوَالِنَا حَتَّى تَكُونَ أَكْثَرَنَا مَالًا...»",
+   "terjemah": "Wahai putra saudaraku, jika engkau hanya menginginkan harta dari urusan (dakwah) yang engkau bawa ini, kami kumpulkan untukmu dari harta-harta kami sehingga engkau menjadi orang yang paling banyak hartanya di antara kami...",
+   "sumber": "HR. Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/293-294) dan Abu Ya'la dalam Musnad-nya (no. 1818)",
+   "label": "HADITS",
+   "derajat": "hasan"
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 62.1,
+   "akhir": 69.841,
+   "ucapMulai": 62.2,
+   "ucapAkhir": 69.491,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 1,
+   "stiker": [
+    {
+     "nama": "heart",
+     "svg": "<path d=\"M19.5 12.572l-7.5 7.428l-7.5 -7.428a5 5 0 1 1 7.5 -6.566a5 5 0 1 1 7.5 6.572\"/>",
+     "padat": false,
+     "muncul": 2.04
+    }
+   ],
+   "narasi": "Kisah ini mengajarkan bahwa prinsip kebenaran dan dakwah tauhid tidak boleh ditukar dengan kenikmatan duniawi apa pun."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 69.841,
+   "akhir": 75.409,
+   "ucapMulai": 69.941,
+   "ucapAkhir": 75.059,
+   "ilustrasi": "quran",
+   "tokoh": "",
+   "bab": 2,
+   "stiker": [
+    {
+     "nama": "bookmark",
+     "svg": "<path d=\"M18 7v14l-6 -4l-6 4v-14a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4\"/>",
+     "padat": false,
+     "muncul": 3.96
+    },
+    {
+     "nama": "book",
+     "svg": "<path d=\"M3 19a9 9 0 0 1 9 0a9 9 0 0 1 9 0\"/><path d=\"M3 6a9 9 0 0 1 9 0a9 9 0 0 1 9 0\"/><path d=\"M3 6l0 13\"/><path d=\"M12 6l0 13\"/><path d=\"M21 6l0 13\"/>",
+     "padat": false,
+     "muncul": 2.0
+    },
+    {
+     "nama": "book-2",
+     "svg": "<path d=\"M19 4v16h-12a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12\"/><path d=\"M19 16h-12a2 2 0 0 0 -2 2\"/><path d=\"M9 8h6\"/>",
+     "padat": false,
+     "muncul": 3.36
+    }
+   ],
+   "judul": "Gemetar Mendengar Ancaman Petir Al-Qur'an",
+   "narasi": "Pelajaran kedua. Mengapa seorang tokoh musyrik mendadak panik saat mendengar ayat Al-Qur'an?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 75.409,
+   "akhir": 82.715,
+   "ucapMulai": 75.509,
+   "ucapAkhir": 82.365,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 2,
+   "stiker": [],
+   "no": 1,
+   "label": "Ketenangan Rasulullah ﷺ Menjawab",
+   "narasi": "Usai mendengar bujukan Utbah, Rasulullah ﷺ dengan tenang meminta izin untuk membalas perkataannya."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 82.715,
+   "akhir": 92.63,
+   "ucapMulai": 82.815,
+   "ucapAkhir": 92.28,
+   "ilustrasi": "quran",
+   "tokoh": "",
+   "bab": 2,
+   "stiker": [
+    {
+     "nama": "quote:padat",
+     "svg": "<path d=\"M9 5a2 2 0 0 1 2 2v6c0 3.13 -1.65 5.193 -4.757 5.97a1 1 0 1 1 -.486 -1.94c2.227 -.557 3.243 -1.827 3.243 -4.03v-1h-3a2 2 0 0 1 -1.995 -1.85l-.005 -.15v-3a2 2 0 0 1 2 -2z\"/><path d=\"M18 5a2 2 0 0 1 2 2v6c0 3.13 -1.65 5.193 -4.757 5.97a1 1 0 1 1 -.486 -1.94c2.227 -.557 3.243 -1.827 3.243 -4.03v-1h-3a2 2 0 0 1 -1.995 -1.85l-.005 -.15v-3a2 2 0 0 1 2 -2z\"/>",
+     "padat": true,
+     "muncul": 2.72
+    }
+   ],
+   "no": 2,
+   "label": "Ancaman Halilintar Surah Fushshilat",
+   "narasi": "Nabi ﷺ lalu membacakan awal Surah Fushshilat penuh penghayatan, hingga tiba pada ayat ancaman halilintar yang membinasakan kaum terdahulu."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 92.63,
+   "akhir": 102.111,
+   "ucapMulai": 92.73,
+   "ucapAkhir": 101.761,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 2,
+   "stiker": [
+    {
+     "nama": "eyeglass",
+     "svg": "<path d=\"M8 4h-2l-3 10\"/><path d=\"M16 4h2l3 10\"/><path d=\"M10 16l4 0\"/><path d=\"M21 16.5a3.5 3.5 0 0 1 -7 0v-2.5h7v2.5\"/><path d=\"M10 16.5a3.5 3.5 0 0 1 -7 0v-2.5h7v2.5\"/>",
+     "padat": false,
+     "muncul": 3.58
+    }
+   ],
+   "no": 3,
+   "label": "Utbah Memohon Bacaan Dihentikan",
+   "narasi": "Seketika Utbah ketakutan, ia bangkit dan membekap mulut Rasulullah ﷺ sambil memohon demi Allah agar bacaan itu dihentikan."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 102.111,
+   "akhir": 112.461,
+   "ucapMulai": 103.592,
+   "ucapAkhir": 112.111,
+   "bab": 2,
+   "arab": "فَإِنْ أَعْرَضُوا۟ فَقُلْ أَنذَرْتُكُمْ صَٰعِقَةً مِّثْلَ صَٰعِقَةِ عَادٍ وَثَمُودَ",
+   "terjemah": "Jika mereka berpaling, maka katakanlah, \"Aku telah memperingatkan kamu akan bencana petir, seperti petir yang menimpa kaum 'Ad dan Samud.\"",
+   "sumber": "QS. Fussilat: 13",
+   "label": "AL-QUR'AN",
+   "derajat": ""
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 112.461,
+   "akhir": 118.898,
+   "ucapMulai": 112.561,
+   "ucapAkhir": 118.548,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 2,
+   "stiker": [],
+   "narasi": "Al-Qur'an memiliki mukjizat dan getaran luar biasa yang sanggup menembus hati sekeras apa pun."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 118.898,
+   "akhir": 124.465,
+   "ucapMulai": 118.998,
+   "ucapAkhir": 124.115,
+   "ilustrasi": "kota_malam",
+   "tokoh": "",
+   "bab": 3,
+   "stiker": [
+    {
+     "nama": "lamp",
+     "svg": "<path d=\"M9 20h6\"/><path d=\"M12 20v-8\"/><path d=\"M5 12h14l-4 -8h-6l-4 8\"/>",
+     "padat": false,
+     "muncul": 0.64
+    },
+    {
+     "nama": "stars:padat",
+     "svg": "<path d=\"M17.657 12.007a1.39 1.39 0 0 0 -1.103 .765l-.855 1.723l-1.907 .277c-.52 .072 -.96 .44 -1.124 .944l-.038 .14c-.1 .465 .046 .954 .393 1.29l1.377 1.337l-.326 1.892a1.393 1.393 0 0 0 2.018 1.465l1.708 -.895l1.708 .896a1.388 1.388 0 0 0 1.462 -.105l.112 -.09a1.39 1.39 0 0 0 .442 -1.272l-.325 -1.891l1.38 -1.339c.38 -.371 .516 -.924 .352 -1.427l-.051 -.134a1.39 1.39 0 0 0 -1.073 -.81l-1.907 -.278l-.853 -1.722a1.393 1.393 0 0 0 -1.247 -.773l-.143 .007z\"/><path d=\"M6.057 12.007a1.39 1.39 0 0 0 -1.103 .765l-.855 1.723l-1.907 .277c-.52 .072 -.96 .44 -1.124 .944l-.038 .14c-.1 .465 .046 .954 .393 1.29l1.377 1.337l-.326 1.892a1.393 1.393 0 0 0 2.018 1.465l1.708 -.895l1.708 .896a1.388 1.388 0 0 0 1.462 -.105l.112 -.09a1.39 1.39 0 0 0 .442 -1.272l-.324 -1.891l1.38 -1.339c.38 -.371 .516 -.924 .352 -1.427l-.051 -.134a1.39 1.39 0 0 0 -1.073 -.81l-1.908 -.279l-.853 -1.722a1.393 1.393 0 0 0 -1.247 -.772l-.143 .007z\"/><path d=\"M11.857 2.007a1.39 1.39 0 0 0 -1.103 .765l-.855 1.723l-1.907 .277c-.52 .072 -.96 .44 -1.124 .944l-.038 .14c-.1 .465 .046 .954 .393 1.29l1.377 1.337l-.326 1.892a1.393 1.393 0 0 0 2.018 1.465l1.708 -.894l1.709 .896a1.388 1.388 0 0 0 1.462 -.105l.112 -.09a1.39 1.39 0 0 0 .442 -1.272l-.325 -1.892l1.38 -1.339c.38 -.371 .516 -.924 .352 -1.427l-.051 -.134a1.39 1.39 0 0 0 -1.073 -.81l-1.908 -.279l-.853 -1.722a1.393 1.393 0 0 0 -1.247 -.772l-.143 .007z\"/>",
+     "padat": true,
+     "muncul": 2.0
+    },
+    {
+     "nama": "moon-stars",
+     "svg": "<path d=\"M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454l0 .008\"/><path d=\"M17 4a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2\"/><path d=\"M19 11h2m-1 -1v2\"/>",
+     "padat": false,
+     "muncul": 3.36
+    }
+   ],
+   "judul": "Wajah Berubah Usai Dengar Al-Qur'an",
+   "narasi": "Pelajaran ketiga. Apa yang membuat musuh Nabi pulang dengan wajah pucat pasi?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 124.465,
+   "akhir": 131.771,
+   "ucapMulai": 124.565,
+   "ucapAkhir": 131.421,
+   "ilustrasi": "kabah",
+   "tokoh": "takut",
+   "bab": 3,
+   "stiker": [
+    {
+     "nama": "building-mosque",
+     "svg": "<path d=\"M3 21h7v-2a2 2 0 1 1 4 0v2h7\"/><path d=\"M4 21v-10\"/><path d=\"M20 21v-10\"/><path d=\"M4 16h3v-3h10v3h3\"/><path d=\"M17 13a5 5 0 0 0 -10 0\"/><path d=\"M21 10.5c0 -.329 -.077 -.653 -.224 -.947l-.776 -1.553l-.776 1.553a2.118 2.118 0 0 0 -.224 .947a.5 .5 0 0 0 .5 .5h1a.5 .5 0 0 0 .5 -.5\"/><path d=\"M5 10.5c0 -.329 -.077 -.653 -.224 -.947l-.776 -1.553l-.776 1.553a2.118 2.118 0 0 0 -.224 .947a.5 .5 0 0 0 .5 .5h1a.5 .5 0 0 0 .5 -.5\"/><path d=\"M12 2a2 2 0 1 0 2 2\"/><path d=\"M12 6v2\"/>",
+     "padat": false,
+     "muncul": 1.16
+    },
+    {
+     "nama": "map-pin:padat",
+     "svg": "<path d=\"M18.364 4.636a9 9 0 0 1 .203 12.519l-.203 .21l-4.243 4.242a3 3 0 0 1 -4.097 .135l-.144 -.135l-4.244 -4.243a9 9 0 0 1 12.728 -12.728zm-6.364 3.364a3 3 0 1 0 0 6a3 3 0 0 0 0 -6\"/>",
+     "padat": true,
+     "muncul": 3.81
+    }
+   ],
+   "no": 1,
+   "label": "Wajah Utbah Berubah Drastis",
+   "narasi": "Ketika Utbah bin Rabi'ah berjalan kembali menemui kaumnya, Quraisy terkejut melihat raut wajahnya telah berubah drastis."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 131.771,
+   "akhir": 140.817,
+   "ucapMulai": 131.871,
+   "ucapAkhir": 140.467,
+   "ilustrasi": "quran",
+   "tokoh": "",
+   "bab": 3,
+   "stiker": [
+    {
+     "nama": "sunset:padat",
+     "svg": "<path d=\"M4 16a1 1 0 0 1 0 2h-1a1 1 0 0 1 0 -2z\"/><path d=\"M21 16a1 1 0 0 1 0 2h-1a1 1 0 0 1 0 -2z\"/><path d=\"M6.307 9.893l.7 .7a1 1 0 0 1 -1.414 1.414l-.7 -.7a1 1 0 0 1 1.414 -1.414\"/><path d=\"M19.107 9.893a1 1 0 0 1 0 1.414l-.7 .7a1 1 0 0 1 -1.414 -1.414l.7 -.7a1 1 0 0 1 1.414 0\"/><path d=\"M12 2a1 1 0 0 1 1 1v3.584l1.293 -1.291a1 1 0 0 1 1.32 -.083l.094 .083a1 1 0 0 1 0 1.414l-3 3a.98 .98 0 0 1 -.767 .293l-.124 -.017l-.127 -.032l-.104 -.04l-.115 -.063a1 1 0 0 1 -.151 -.114l-3.026 -3.027a1 1 0 0 1 1.414 -1.414l1.293 1.292v-3.585a1 1 0 0 1 1 -1\"/><path d=\"M3 20h18a1 1 0 0 1 0 2h-18a1 1 0 0 1 0 -2\"/><path d=\"M12 12a5 5 0 0 1 4.583 7.002h-9.166a5 5 0 0 1 4.583 -7.002\"/>",
+     "padat": true,
+     "muncul": 1.92
+    }
+   ],
+   "no": 2,
+   "label": "Bukan Syair Maupun Sihir",
+   "narasi": "Utbah bersumpah bahwa kalam yang dibacakan Nabi ﷺ bukanlah syair gubahan, bukan sihir, dan bukan ramalan dukun."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 140.817,
+   "akhir": 150.297,
+   "ucapMulai": 140.917,
+   "ucapAkhir": 149.947,
+   "ilustrasi": "majelis",
+   "tokoh": "",
+   "bab": 3,
+   "stiker": [
+    {
+     "nama": "message-circle",
+     "svg": "<path d=\"M3 20l1.3 -3.9c-2.324 -3.437 -1.426 -7.872 2.1 -10.374c3.526 -2.501 8.59 -2.296 11.845 .48c3.255 2.777 3.695 7.266 1.029 10.501c-2.666 3.235 -7.615 4.215 -11.574 2.293l-4.7 1\"/>",
+     "padat": false,
+     "muncul": 2.54
+    }
+   ],
+   "no": 3,
+   "label": "Ditolak dan Dituduh Tersihir",
+   "narasi": "Ia menasihati Quraisy agar membiarkan dakwah Nabi ﷺ, namun mereka yang keras hati justru menuduh Utbah terkena sihir."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 150.297,
+   "akhir": 162.387,
+   "ucapMulai": 152.286,
+   "ucapAkhir": 162.037,
+   "bab": 3,
+   "arab": "وَاللَّهِ لَقَدْ سَمِعْتُ قَوْلًا مَا سَمِعْتُ مِثْلَهُ قَطُّ، وَاللَّهِ مَا هُوَ بِالشِّعْرِ، وَلَا بِالسِّحْرِ، وَلَا بِالْكِهَانَةِ",
+   "terjemah": "Demi Allah, aku telah mendengar perkataan yang belum pernah kudengar semisalnya sama sekali. Demi Allah, itu bukan syair, bukan sihir, dan bukan tenung.",
+   "sumber": "Sirah Nabawiyah Ibnu Hisyam",
+   "label": "ATSAR",
+   "derajat": "hasan"
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 162.387,
+   "akhir": 167.954,
+   "ucapMulai": 162.487,
+   "ucapAkhir": 167.604,
+   "ilustrasi": "lentera",
+   "tokoh": "",
+   "bab": 3,
+   "stiker": [
+    {
+     "nama": "flame",
+     "svg": "<path d=\"M12 10.941c2.333 -3.308 .167 -7.823 -1 -8.941c0 3.395 -2.235 5.299 -3.667 6.706c-1.43 1.408 -2.333 3.294 -2.333 5.588c0 3.704 3.134 6.706 7 6.706c3.866 0 7 -3.002 7 -6.706c0 -1.712 -1.232 -4.403 -2.333 -5.588c-2.084 3.353 -3.257 3.353 -4.667 2.235\"/>",
+     "padat": false,
+     "muncul": 1.42
+    }
+   ],
+   "narasi": "Kebenaran itu nyata dan diakui nurani, meski hawa nafsu menolak untuk tunduk."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 167.954,
+   "akhir": 173.956,
+   "ucapMulai": 168.054,
+   "ucapAkhir": 173.606,
+   "ilustrasi": "kota_malam",
+   "tokoh": "berdiri",
+   "bab": 4,
+   "stiker": [
+    {
+     "nama": "door-enter",
+     "svg": "<path d=\"M13 12v.01\"/><path d=\"M3 21h18\"/><path d=\"M5 21v-16a2 2 0 0 1 2 -2h6m4 10.5v7.5\"/><path d=\"M21 7h-7m3 -3l-3 3l3 3\"/>",
+     "padat": false,
+     "muncul": 4.55
+    },
+    {
+     "nama": "building-cottage",
+     "svg": "<path d=\"M3 21l18 0\"/><path d=\"M4 21v-11l2.5 -4.5l5.5 -2.5l5.5 2.5l2.5 4.5v11\"/><path d=\"M10 9a2 2 0 1 0 4 0a2 2 0 1 0 -4 0\"/><path d=\"M9 21v-5a1 1 0 0 1 1 -1h4a1 1 0 0 1 1 1v5\"/>",
+     "padat": false,
+     "muncul": 3.05
+    }
+   ],
+   "judul": "Tuntutan Mustahil Musyrikin Kota Makkah",
+   "narasi": "Pelajaran keempat. Mengapa kaum Quraisy nekat mengajukan syarat yang sangat tidak masuk akal?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 173.956,
+   "akhir": 180.393,
+   "ucapMulai": 174.056,
+   "ucapAkhir": 180.043,
+   "ilustrasi": "majelis",
+   "tokoh": "berdiri",
+   "bab": 4,
+   "stiker": [],
+   "no": 1,
+   "label": "Taktik Baru Kaum Quraisy",
+   "narasi": "Setelah bujukan mereka gagal, kaum Quraisy berganti taktik dengan menuntut bukti mukjizat yang mengada-ada."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 180.393,
+   "akhir": 189.873,
+   "ucapMulai": 180.493,
+   "ucapAkhir": 189.523,
+   "ilustrasi": "air",
+   "tokoh": "",
+   "bab": 4,
+   "stiker": [
+    {
+     "nama": "mountain",
+     "svg": "<path d=\"M3 20h18l-6.921 -14.612a2.3 2.3 0 0 0 -4.158 0l-6.921 14.612\"/><path d=\"M7.5 11l2 2.5l2.5 -2.5l2 3l2.5 -2\"/>",
+     "padat": false,
+     "muncul": 1.3
+    },
+    {
+     "nama": "seedling:padat",
+     "svg": "<path d=\"M6 3a7 7 0 0 1 6.95 6.155a6.97 6.97 0 0 1 5.05 -2.155h3a1 1 0 0 1 1 1v1a7 7 0 0 1 -7 7h-2v4a1 1 0 0 1 -2 0v-7h-2a7 7 0 0 1 -7 -7v-2a1 1 0 0 1 1 -1z\"/>",
+     "padat": true,
+     "muncul": 2.17
+    },
+    {
+     "nama": "ripple",
+     "svg": "<path d=\"M3 7c3 -2 6 -2 9 0s6 2 9 0\"/><path d=\"M3 17c3 -2 6 -2 9 0s6 2 9 0\"/><path d=\"M3 12c3 -2 6 -2 9 0s6 2 9 0\"/>",
+     "padat": false,
+     "muncul": 3.28
+    }
+   ],
+   "no": 2,
+   "label": "Tuntutan Singkirkan Gunung Makkah",
+   "narasi": "Mereka meminta Nabi ﷺ menyingkirkan gunung-gunung Makkah agar tanahnya luas, serta memancarkan sungai seperti di Syam dan Irak."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 189.873,
+   "akhir": 198.919,
+   "ucapMulai": 189.973,
+   "ucapAkhir": 198.569,
+   "ilustrasi": "badai",
+   "tokoh": "",
+   "bab": 4,
+   "stiker": [
+    {
+     "nama": "moon",
+     "svg": "<path d=\"M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454l0 .008\"/>",
+     "padat": false,
+     "muncul": 2.56
+    },
+    {
+     "nama": "tornado",
+     "svg": "<path d=\"M21 4l-18 0\"/><path d=\"M13 16l-6 0\"/><path d=\"M11 20l4 0\"/><path d=\"M6 8l14 0\"/><path d=\"M4 12l12 0\"/>",
+     "padat": false,
+     "muncul": 3.43
+    },
+    {
+     "nama": "cloud-storm",
+     "svg": "<path d=\"M7 18a4.6 4.4 0 0 1 0 -9a5 4.5 0 0 1 11 2h1a3.5 3.5 0 0 1 0 7h-1\"/><path d=\"M13 14l-2 4l3 0l-2 4\"/>",
+     "padat": false,
+     "muncul": 5.81
+    }
+   ],
+   "no": 3,
+   "label": "Syarat Bangkitkan Leluhur Mereka",
+   "narasi": "Bahkan, mereka meminta leluhur mereka, Qushay bin Kilab, dibangkitkan dari kubur demi memvalidasi kebenaran risalah Nabi ﷺ."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 198.919,
+   "akhir": 212.747,
+   "ucapMulai": 202.029,
+   "ucapAkhir": 208.128,
+   "bab": 4,
+   "arab": "مَا بِهَذَا بُعِثْتُ إِلَيْكُمْ، إِنَّمَا بَلَّغْتُكُمْ مَا أُرْسِلْتُ بِهِ",
+   "terjemah": "Bukan untuk ini aku diutus kepada kalian, melainkan aku menyampaikan apa yang diutus Allah kepadaku.",
+   "sumber": "Tafsir Ath-Thabari (riwayat Ibnu Ishaq)",
+   "label": "HADITS",
+   "derajat": "lemah"
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 212.747,
+   "akhir": 218.75,
+   "ucapMulai": 212.847,
+   "ucapAkhir": 218.4,
+   "ilustrasi": "hati",
+   "tokoh": "takut",
+   "bab": 4,
+   "stiker": [],
+   "narasi": "Orang yang hatinya menolak kebenaran akan selalu mencari dalih dengan tuntutan yang mengada-ada."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 218.75,
+   "akhir": 224.317,
+   "ucapMulai": 218.85,
+   "ucapAkhir": 223.967,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 5,
+   "stiker": [],
+   "judul": "Tuntutan Naik Tangga ke Langit",
+   "narasi": "Pelajaran kelima. Sejauh mana kesombongan manusia saat menolak bukti kebenaran dari Allah?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 224.317,
+   "akhir": 232.493,
+   "ucapMulai": 224.417,
+   "ucapAkhir": 232.143,
+   "ilustrasi": "majelis",
+   "tokoh": "",
+   "bab": 5,
+   "stiker": [
+    {
+     "nama": "sun",
+     "svg": "<path d=\"M8 12a4 4 0 1 0 8 0a4 4 0 1 0 -8 0\"/><path d=\"M3 12h1m8 -9v1m8 8h1m-9 8v1m-6.4 -15.4l.7 .7m12.1 -.7l-.7 .7m0 11.4l.7 .7m-12.1 -.7l-.7 .7\"/>",
+     "padat": false,
+     "muncul": 0.31
+    }
+   ],
+   "no": 1,
+   "label": "Arogansi Menolak Iman",
+   "narasi": "Suatu hari, Abdullah bin Abi Umayyah mendatangi Rasulullah ﷺ dengan penuh arogansi dan menolak beriman."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 232.493,
+   "akhir": 241.973,
+   "ucapMulai": 232.593,
+   "ucapAkhir": 241.623,
+   "ilustrasi": "kota_malam",
+   "tokoh": "",
+   "bab": 5,
+   "stiker": [
+    {
+     "nama": "books",
+     "svg": "<path d=\"M5 5a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1l0 -14\"/><path d=\"M9 5a1 1 0 0 1 1 -1h2a1 1 0 0 1 1 1v14a1 1 0 0 1 -1 1h-2a1 1 0 0 1 -1 -1l0 -14\"/><path d=\"M5 8h4\"/><path d=\"M9 16h4\"/><path d=\"M13.803 4.56l2.184 -.53c.562 -.135 1.133 .19 1.282 .732l3.695 13.418a1.02 1.02 0 0 1 -.634 1.219l-.133 .041l-2.184 .53c-.562 .135 -1.133 -.19 -1.282 -.732l-3.695 -13.418a1.02 1.02 0 0 1 .634 -1.219l.133 -.041\"/><path d=\"M14 9l4 -1\"/><path d=\"M16 16l3.923 -.98\"/>",
+     "padat": false,
+     "muncul": 2.48
+    }
+   ],
+   "no": 2,
+   "label": "Tuntutan Tangga ke Langit",
+   "narasi": "Ia menantang Nabi ﷺ mendaki tangga ke langit, lalu turun membawa kitab terbuka bersama empat malaikat yang bersaksi."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 241.973,
+   "akhir": 250.584,
+   "ucapMulai": 242.073,
+   "ucapAkhir": 250.234,
+   "ilustrasi": "quran",
+   "tokoh": "",
+   "bab": 5,
+   "stiker": [],
+   "no": 3,
+   "label": "Hanyalah Penyampai Wahyu",
+   "narasi": "Bahkan ia bersumpah tetap takkan percaya, padahal tugas Nabi ﷺ hanyalah seorang manusia yang menyampaikan wahyu."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 250.584,
+   "akhir": 257.891,
+   "ucapMulai": 252.036,
+   "ucapAkhir": 257.541,
+   "bab": 5,
+   "arab": "قُلْ سُبْحَانَ رَبِّي هَلْ كُنتُ إِلَّا بَشَرًا رَّسُولًا",
+   "terjemah": "Katakanlah: 'Maha Suci Tuhanku, bukankah aku ini hanya seorang manusia yang menjadi rasul?'",
+   "sumber": "QS. Al-Isra: 93",
+   "label": "AL-QUR'AN",
+   "derajat": ""
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 257.891,
+   "akhir": 263.458,
+   "ucapMulai": 257.991,
+   "ucapAkhir": 263.108,
+   "ilustrasi": "lentera",
+   "tokoh": "",
+   "bab": 5,
+   "stiker": [
+    {
+     "nama": "cup",
+     "svg": "<path d=\"M5 11h14v-3h-14l0 3\"/><path d=\"M17.5 11l-1.5 10h-8l-1.5 -10\"/><path d=\"M6 8v-1a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v1\"/><path d=\"M15 5v-2\"/>",
+     "padat": false,
+     "muncul": 2.85
+    }
+   ],
+   "narasi": "Tugas utama seorang da'i adalah menyampaikan kebenaran, bukan memaksakan hasil kepada manusia."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 263.458,
+   "akhir": 269.895,
+   "ucapMulai": 263.558,
+   "ucapAkhir": 269.545,
+   "ilustrasi": "lentera",
+   "tokoh": "",
+   "bab": 6,
+   "stiker": [
+    {
+     "nama": "hourglass",
+     "svg": "<path d=\"M6.5 7h11\"/><path d=\"M6.5 17h11\"/><path d=\"M6 20v-2a6 6 0 1 1 12 0v2a1 1 0 0 1 -1 1h-10a1 1 0 0 1 -1 -1\"/><path d=\"M6 4v2a6 6 0 1 0 12 0v-2a1 1 0 0 0 -1 -1h-10a1 1 0 0 0 -1 1\"/>",
+     "padat": false,
+     "muncul": 2.69
+    },
+    {
+     "nama": "map",
+     "svg": "<path d=\"M3 7l6 -3l6 3l6 -3v13l-6 3l-6 -3l-6 3v-13\"/><path d=\"M9 4v13\"/><path d=\"M15 7v13\"/>",
+     "padat": false,
+     "muncul": 5.04
+    }
+   ],
+   "judul": "Wafat di Tengah Perjalanan Hijrah",
+   "narasi": "Pelajaran keenam. Bagaimana nasib seseorang yang wafat sebelum sempat sampai di tempat tujuan hijrahnya?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 269.895,
+   "akhir": 276.767,
+   "ucapMulai": 269.995,
+   "ucapAkhir": 276.417,
+   "ilustrasi": "badai",
+   "tokoh": "",
+   "bab": 6,
+   "stiker": [
+    {
+     "nama": "storm",
+     "svg": "<path d=\"M9 12a3 3 0 1 0 6 0a3 3 0 1 0 -6 0\"/><path d=\"M5 12a7 7 0 1 0 14 0a7 7 0 1 0 -14 0\"/><path d=\"M5.369 14.236c-1.839 -3.929 -1.561 -7.616 -.704 -11.236\"/><path d=\"M18.63 9.76c1.837 3.928 1.561 7.615 .703 11.236\"/>",
+     "padat": false,
+     "muncul": 1.09
+    },
+    {
+     "nama": "wind",
+     "svg": "<path d=\"M5 8h8.5a2.5 2.5 0 1 0 -2.34 -3.24\"/><path d=\"M3 12h15.5a2.5 2.5 0 1 1 -2.34 3.24\"/><path d=\"M4 16h5.5a2.5 2.5 0 1 1 -2.34 3.24\"/>",
+     "padat": false,
+     "muncul": 3.55
+    }
+   ],
+   "no": 1,
+   "label": "Hijrah kedua ke Habasyah",
+   "narasi": "Akibat penindasan di Makkah yang kian berat, para sahabat berhijrah untuk kedua kalinya menuju Habasyah."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 276.767,
+   "akhir": 283.204,
+   "ucapMulai": 276.867,
+   "ucapAkhir": 282.854,
+   "ilustrasi": "kafilah",
+   "tokoh": "",
+   "bab": 6,
+   "stiker": [
+    {
+     "nama": "road",
+     "svg": "<path d=\"M4 19l4 -14\"/><path d=\"M16 5l4 14\"/><path d=\"M12 8v-2\"/><path d=\"M12 13v-2\"/><path d=\"M12 18v-2\"/>",
+     "padat": false,
+     "muncul": 1.51
+    },
+    {
+     "nama": "route",
+     "svg": "<path d=\"M3 19a2 2 0 1 0 4 0a2 2 0 0 0 -4 0\"/><path d=\"M19 7a2 2 0 1 0 0 -4a2 2 0 0 0 0 4\"/><path d=\"M11 19h5.5a3.5 3.5 0 0 0 0 -7h-8a3.5 3.5 0 0 1 0 -7h4.5\"/>",
+     "padat": false,
+     "muncul": 3.3
+    }
+   ],
+   "no": 2,
+   "label": "Menyelamatkan agama demi Allah",
+   "narasi": "Sahabat Khalid bin Hizam radhiyallahu 'anhu ikut menempuh perjalanan berat tersebut demi menyelamatkan agamanya."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 283.204,
+   "akhir": 290.51,
+   "ucapMulai": 283.304,
+   "ucapAkhir": 290.16,
+   "ilustrasi": "kota_malam",
+   "tokoh": "",
+   "bab": 6,
+   "stiker": [
+    {
+     "nama": "basket",
+     "svg": "<path d=\"M10 14a2 2 0 1 0 4 0a2 2 0 0 0 -4 0\"/><path d=\"M5.001 8h13.999a2 2 0 0 1 1.977 2.304l-1.255 7.152a3 3 0 0 1 -2.966 2.544h-9.512a3 3 0 0 1 -2.965 -2.544l-1.255 -7.152a2 2 0 0 1 1.977 -2.304\"/><path d=\"M17 10l-2 -6\"/><path d=\"M7 10l2 -6\"/>",
+     "padat": false,
+     "muncul": 0.88
+    },
+    {
+     "nama": "alert-triangle",
+     "svg": "<path d=\"M12 9v4\"/><path d=\"M10.363 3.591l-8.106 13.534a1.914 1.914 0 0 0 1.636 2.871h16.214a1.914 1.914 0 0 0 1.636 -2.87l-8.106 -13.536a1.914 1.914 0 0 0 -3.274 0\"/><path d=\"M12 16h.01\"/>",
+     "padat": false,
+     "muncul": 1.32
+    },
+    {
+     "nama": "cloud",
+     "svg": "<path d=\"M6.657 18c-2.572 0 -4.657 -2.007 -4.657 -4.483c0 -2.475 2.085 -4.482 4.657 -4.482c.393 -1.762 1.794 -3.2 3.675 -3.773c1.88 -.572 3.956 -.193 5.444 1c1.488 1.19 2.162 3.007 1.77 4.769h.99c1.913 0 3.464 1.56 3.464 3.486c0 1.927 -1.551 3.487 -3.465 3.487h-11.878\"/>",
+     "padat": false,
+     "muncul": 1.88
+    }
+   ],
+   "no": 3,
+   "label": "Wafat di tengah perjalanan",
+   "narasi": "Namun di tengah perjalanan, beliau disengat ular berbisa hingga wafat sebelum menginjakkan kaki di tanah Habasyah."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 290.51,
+   "akhir": 302.164,
+   "ucapMulai": 291.901,
+   "ucapAkhir": 301.814,
+   "bab": 6,
+   "arab": "وَمَن يَخْرُجْ مِن بَيْتِهِ مُهَاجِرًا إِلَى اللَّهِ وَرَسُولِهِ ثُمَّ يُدْرِكْهُ الْمَوْتُ فَقَدْ وَقَعَ أَجْرُهُ عَلَى اللَّهِ",
+   "terjemah": "Barang siapa keluar dari rumahnya dengan maksud berhijrah karena Allah dan Rasul-Nya, kemudian kematian menimpanya, maka sungguh, pahalanya telah ditetapkan di sisi Allah.",
+   "sumber": "QS. An-Nisa: 100",
+   "label": "AL-QUR'AN",
+   "derajat": ""
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 302.164,
+   "akhir": 308.601,
+   "ucapMulai": 302.264,
+   "ucapAkhir": 308.251,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 6,
+   "stiker": [
+    {
+     "nama": "scale",
+     "svg": "<path d=\"M7 20l10 0\"/><path d=\"M6 6l6 -1l6 1\"/><path d=\"M12 3l0 17\"/><path d=\"M9 12l-3 -6l-3 6a3 3 0 0 0 6 0\"/><path d=\"M21 12l-3 -6l-3 6a3 3 0 0 0 6 0\"/>",
+     "padat": false,
+     "muncul": 0.1
+    },
+    {
+     "nama": "bulb",
+     "svg": "<path d=\"M3 12h1m8 -9v1m8 8h1m-15.4 -6.4l.7 .7m12.1 -.7l-.7 .7\"/><path d=\"M9 16a5 5 0 1 1 6 0a3.5 3.5 0 0 0 -1 3a2 2 0 0 1 -4 0a3.5 3.5 0 0 0 -1 -3\"/><path d=\"M9.7 17l4.6 0\"/>",
+     "padat": false,
+     "muncul": 0.51
+    },
+    {
+     "nama": "feather",
+     "svg": "<path d=\"M4 20l10 -10m0 -5v5h5m-9 -1v5h5m-9 -1v5h5m-5 -5l4 -4l4 -4\"/><path d=\"M19 10c.638 -.636 1 -1.515 1 -2.486a3.515 3.515 0 0 0 -3.517 -3.514c-.97 0 -1.847 .367 -2.483 1m-3 13l4 -4l4 -4\"/>",
+     "padat": false,
+     "muncul": 0.8
+    }
+   ],
+   "narasi": "Pahala niat ikhlas berhijrah dicatat sempurna di sisi Allah meski ajal lebih dahulu menjemput."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 308.601,
+   "akhir": 314.169,
+   "ucapMulai": 308.701,
+   "ucapAkhir": 313.819,
+   "ilustrasi": "sedekah",
+   "tokoh": "",
+   "bab": 7,
+   "stiker": [],
+   "judul": "Siasat Menyuap Pembesar Negeri Habasyah",
+   "narasi": "Pelajaran ketujuh. Bisakah tumpukan hadiah mewah mengalahkan perlindungan bagi orang-orang yang beriman?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 314.169,
+   "akhir": 322.78,
+   "ucapMulai": 314.269,
+   "ucapAkhir": 322.43,
+   "ilustrasi": "kafilah",
+   "tokoh": "",
+   "bab": 7,
+   "stiker": [],
+   "no": 1,
+   "label": "Utusan Quraisy Menuju Habasyah",
+   "narasi": "Geram melihat kaum muslimin hidup damai, kaum Quraisy mengutus Amr bin Al-Ash dan Abdullah bin Abi Rabi'ah menuju Habasyah."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 322.78,
+   "akhir": 329.651,
+   "ucapMulai": 322.88,
+   "ucapAkhir": 329.301,
+   "ilustrasi": "majelis",
+   "tokoh": "",
+   "bab": 7,
+   "stiker": [
+    {
+     "nama": "crown",
+     "svg": "<path d=\"M12 6l4 6l5 -4l-2 10h-14l-2 -10l5 4l4 -6\"/>",
+     "padat": false,
+     "muncul": 2.69
+    }
+   ],
+   "no": 2,
+   "label": "Siasat Suap Uskup Istana",
+   "narasi": "Mereka membawa banyak hadiah kulit mahal untuk menyogok para uskup agar memengaruhi keputusan Raja Najasyi."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 329.651,
+   "akhir": 336.958,
+   "ucapMulai": 329.751,
+   "ucapAkhir": 336.608,
+   "ilustrasi": "badai",
+   "tokoh": "",
+   "bab": 7,
+   "stiker": [],
+   "no": 3,
+   "label": "Upaya Memulangkan Kaum Muhajirin",
+   "narasi": "Para utusan mendesak agar kaum muhajirin segera dipulangkan, tanpa diberi ruang untuk membela diri sedikit pun."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 336.958,
+   "akhir": 350.351,
+   "ucapMulai": 339.021,
+   "ucapAkhir": 350.001,
+   "bab": 7,
+   "arab": "أَيُّهَا الْمَلِكُ، إِنَّهُ قَدْ ضَوَى إِلَى بَلَدِكَ مِنَّا غِلْمَانٌ سُفَهَاءُ، فَارَقُوا دِينَ قَوْمِهِمْ، وَلَمْ يَدْخُلُوا فِي دِينِكَ...",
+   "terjemah": "Wahai Raja, sungguh telah berlindung ke negeri tuan beberapa pemuda bodoh dari kaum kami, mereka meninggalkan agama kaumnya dan tidak pula masuk ke dalam agama tuan.",
+   "sumber": "Musnad Ahmad no. 1740",
+   "label": "ATSAR",
+   "derajat": "hasan"
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 350.351,
+   "akhir": 356.353,
+   "ucapMulai": 350.451,
+   "ucapAkhir": 356.003,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 7,
+   "stiker": [],
+   "narasi": "Keadilan seorang pemimpin sejati tidak akan pernah goyah oleh suap dan provokasi sepihak."
+  },
+  {
+   "jenis": "bab",
+   "mulai": 356.353,
+   "akhir": 362.79,
+   "ucapMulai": 356.453,
+   "ucapAkhir": 362.44,
+   "ilustrasi": "majelis",
+   "tokoh": "berdiri",
+   "bab": 8,
+   "stiker": [
+    {
+     "nama": "building-castle",
+     "svg": "<path d=\"M15 19v-2a3 3 0 0 0 -6 0v2a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-14h4v3h3v-3h4v3h3v-3h4v14a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1\"/><path d=\"M3 11l18 0\"/>",
+     "padat": false,
+     "muncul": 3.59
+    },
+    {
+     "nama": "flag",
+     "svg": "<path d=\"M5 5a5 5 0 0 1 7 0a5 5 0 0 0 7 0v9a5 5 0 0 1 -7 0a5 5 0 0 0 -7 0v-9\"/><path d=\"M5 21v-7\"/>",
+     "padat": false,
+     "muncul": 4.74
+    }
+   ],
+   "judul": "Surah Maryam yang Menggetarkan Najasyi",
+   "narasi": "Pelajaran kedelapan. Bagaimana ayat Al-Qur'an sanggup membuat seorang raja dan para uskupnya menangis tersedu?"
+  },
+  {
+   "jenis": "poin",
+   "mulai": 362.79,
+   "akhir": 368.793,
+   "ucapMulai": 362.89,
+   "ucapAkhir": 368.443,
+   "ilustrasi": "pintu",
+   "tokoh": "berdiri",
+   "bab": 8,
+   "stiker": [
+    {
+     "nama": "home",
+     "svg": "<path d=\"M5 12l-2 0l9 -9l9 9l-2 0\"/><path d=\"M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7\"/><path d=\"M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6\"/>",
+     "padat": false,
+     "muncul": 0.69
+    },
+    {
+     "nama": "door",
+     "svg": "<path d=\"M14 12v.01\"/><path d=\"M3 21h18\"/><path d=\"M6 21v-16a2 2 0 0 1 2 -2h8a2 2 0 0 1 2 2v16\"/>",
+     "padat": false,
+     "muncul": 2.18
+    },
+    {
+     "nama": "key:padat",
+     "svg": "<path d=\"M14.52 2c1.029 0 2.015 .409 2.742 1.136l3.602 3.602a3.877 3.877 0 0 1 0 5.483l-2.643 2.643a3.88 3.88 0 0 1 -4.941 .452l-.105 -.078l-5.882 5.883a3 3 0 0 1 -1.68 .843l-.22 .027l-.221 .009h-1.172c-1.014 0 -1.867 -.759 -1.991 -1.823l-.009 -.177v-1.172c0 -.704 .248 -1.386 .73 -1.96l.149 -.161l.414 -.414a1 1 0 0 1 .707 -.293h1v-1a1 1 0 0 1 .883 -.993l.117 -.007h1v-1a1 1 0 0 1 .206 -.608l.087 -.1l1.468 -1.469l-.076 -.103a3.9 3.9 0 0 1 -.678 -1.963l-.007 -.236c0 -1.029 .409 -2.015 1.136 -2.742l2.643 -2.643a3.88 3.88 0 0 1 2.741 -1.136m.495 5h-.02a2 2 0 1 0 0 4h.02a2 2 0 1 0 0 -4\"/>",
+     "padat": true,
+     "muncul": 3.67
+    }
+   ],
+   "no": 1,
+   "label": "Keadilan Raja Najasyi",
+   "narasi": "Raja Najasyi menolak menyerahkan kaum muslimin sebelum mendengar langsung pembelaan dari perwakilan mereka."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 368.793,
+   "akhir": 376.534,
+   "ucapMulai": 368.893,
+   "ucapAkhir": 376.184,
+   "ilustrasi": "quran",
+   "tokoh": "",
+   "bab": 8,
+   "stiker": [],
+   "no": 2,
+   "label": "Lantunan Surah Maryam",
+   "narasi": "Ja'far bin Abi Thalib radhiyallahu 'anhu maju menjelaskan keindahan Islam, lalu membacakan Surah Maryam dengan penuh keimanan."
+  },
+  {
+   "jenis": "poin",
+   "mulai": 376.534,
+   "akhir": 384.275,
+   "ucapMulai": 376.634,
+   "ucapAkhir": 383.925,
+   "ilustrasi": "lentera",
+   "tokoh": "berdoa",
+   "bab": 8,
+   "stiker": [],
+   "no": 3,
+   "label": "Tangisan Haru Sang Raja",
+   "narasi": "Mendengar kisah Isa dan Maryam, Raja Najasyi beserta para pendetanya menangis haru hingga janggut mereka basah kuyup."
+  },
+  {
+   "jenis": "dalil",
+   "mulai": 384.275,
+   "akhir": 395.495,
+   "ucapMulai": 385.701,
+   "ucapAkhir": 395.145,
+   "bab": 8,
+   "arab": "وَإِذَا سَمِعُوا۟ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعْيُنَهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ مِمَّا عَرَفُوا۟ مِنَ ٱلْحَقِّ",
+   "terjemah": "Dan apabila mereka mendengarkan apa yang diturunkan kepada Rasul, kamu melihat mata mereka mencucurkan air mata disebabkan kebenaran yang telah mereka ketahui.",
+   "sumber": "QS. Al-Ma'idah: 83",
+   "label": "AL-QUR'AN",
+   "derajat": ""
+  },
+  {
+   "jenis": "faedah",
+   "mulai": 395.495,
+   "akhir": 401.062,
+   "ucapMulai": 395.595,
+   "ucapAkhir": 400.712,
+   "ilustrasi": "hati",
+   "tokoh": "",
+   "bab": 8,
+   "stiker": [],
+   "narasi": "Kebenaran firman Allah mampu menyatukan hati orang-orang yang tulus mencari petunjuk ilahi."
+  },
+  {
+   "jenis": "penutup",
+   "mulai": 401.062,
+   "akhir": 414.89,
+   "ucapMulai": 401.162,
+   "ucapAkhir": 414.54,
+   "ajakan": "Subscribe & bagikan, semoga jadi amal jariyah",
+   "kredit": "Faedah dari kajian Sirah Nabawiyah #11 - Usaha Kaum Quraisy Halangi Dakwah Rasulullah",
+   "ustadz": "Ust. Dr. Firanda Andirja, M.A."
+  }
+ ],
+ "judul": "Usaha Kaum Quraisy Halangi Dakwah Rasulullah",
+ "bab": [
+  {
+   "no": 1,
+   "judul": "Tawaran Mewah untuk Hentikan Dakwah",
+   "mulai": 12.959
+  },
+  {
+   "no": 2,
+   "judul": "Gemetar Mendengar Ancaman Petir Al-Qur'an",
+   "mulai": 69.841
+  },
+  {
+   "no": 3,
+   "judul": "Wajah Berubah Usai Dengar Al-Qur'an",
+   "mulai": 118.898
+  },
+  {
+   "no": 4,
+   "judul": "Tuntutan Mustahil Musyrikin Kota Makkah",
+   "mulai": 167.954
+  },
+  {
+   "no": 5,
+   "judul": "Tuntutan Naik Tangga ke Langit",
+   "mulai": 218.75
+  },
+  {
+   "no": 6,
+   "judul": "Wafat di Tengah Perjalanan Hijrah",
+   "mulai": 263.458
+  },
+  {
+   "no": 7,
+   "judul": "Siasat Menyuap Pembesar Negeri Habasyah",
+   "mulai": 308.601
+  },
+  {
+   "no": 8,
+   "judul": "Surah Maryam yang Menggetarkan Najasyi",
+   "mulai": 356.353
+  }
+ ]
+}

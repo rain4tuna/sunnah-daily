@@ -1,0 +1,1118 @@
+{
+ "k01_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k01_p01.webp",
+  "deskripsi": "an elderly Arab man with a large cream wrapped turban, short grey clay beard, long terracotta robe with a tied belt, brown boots",
+  "pose": "p01",
+  "lebar": 527,
+  "tinggi": 1100
+ },
+ "k01_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k01_p02.webp",
+  "deskripsi": "an elderly Arab man with a large cream wrapped turban, short grey clay beard, long terracotta robe with a tied belt, brown boots",
+  "pose": "p02",
+  "lebar": 484,
+  "tinggi": 1100
+ },
+ "k01_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k01_p03.webp",
+  "deskripsi": "an elderly Arab man with a large cream wrapped turban, short grey clay beard, long terracotta robe with a tied belt, brown boots",
+  "pose": "p03",
+  "lebar": 528,
+  "tinggi": 1100
+ },
+ "k01_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k01_p04.webp",
+  "deskripsi": "an elderly Arab man with a large cream wrapped turban, short grey clay beard, long terracotta robe with a tied belt, brown boots",
+  "pose": "p04",
+  "lebar": 562,
+  "tinggi": 1100
+ },
+ "k02_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k02_p01.webp",
+  "deskripsi": "a wealthy Quraysh chief, plump, dark wrapped turban, rich deep purple robe with golden trim, small gold rings, black clay beard; looks proud but cute, not scary",
+  "pose": "p01",
+  "lebar": 672,
+  "tinggi": 1077
+ },
+ "k02_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k02_p02.webp",
+  "deskripsi": "a wealthy Quraysh chief, plump, dark wrapped turban, rich deep purple robe with golden trim, small gold rings, black clay beard; looks proud but cute, not scary",
+  "pose": "p02",
+  "lebar": 533,
+  "tinggi": 1100
+ },
+ "k02_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k02_p03.webp",
+  "deskripsi": "a wealthy Quraysh chief, plump, dark wrapped turban, rich deep purple robe with golden trim, small gold rings, black clay beard; looks proud but cute, not scary",
+  "pose": "p03",
+  "lebar": 611,
+  "tinggi": 1100
+ },
+ "k02_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k02_p04.webp",
+  "deskripsi": "a wealthy Quraysh chief, plump, dark wrapped turban, rich deep purple robe with golden trim, small gold rings, black clay beard; looks proud but cute, not scary",
+  "pose": "p04",
+  "lebar": 625,
+  "tinggi": 1100
+ },
+ "k03_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k03_p01.webp",
+  "deskripsi": "a young Arab man, simple white head cloth with a dark cord, sand-beige tunic and olive vest, sandals",
+  "pose": "p01",
+  "lebar": 567,
+  "tinggi": 1100
+ },
+ "k03_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k03_p02.webp",
+  "deskripsi": "a young Arab man, simple white head cloth with a dark cord, sand-beige tunic and olive vest, sandals",
+  "pose": "p02",
+  "lebar": 469,
+  "tinggi": 1100
+ },
+ "k03_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k03_p03.webp",
+  "deskripsi": "a young Arab man, simple white head cloth with a dark cord, sand-beige tunic and olive vest, sandals",
+  "pose": "p03",
+  "lebar": 590,
+  "tinggi": 1075
+ },
+ "k03_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k03_p04.webp",
+  "deskripsi": "a young Arab man, simple white head cloth with a dark cord, sand-beige tunic and olive vest, sandals",
+  "pose": "p04",
+  "lebar": 496,
+  "tinggi": 1017
+ },
+ "k05_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k05_p01.webp",
+  "deskripsi": "a mother wearing a long loose sky-blue abaya and a cream hijab covering the hair and neck, modest, long sleeves",
+  "pose": "p01",
+  "lebar": 581,
+  "tinggi": 1100
+ },
+ "k05_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k05_p02.webp",
+  "deskripsi": "a mother wearing a long loose sky-blue abaya and a cream hijab covering the hair and neck, modest, long sleeves",
+  "pose": "p02",
+  "lebar": 413,
+  "tinggi": 1100
+ },
+ "k05_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k05_p03.webp",
+  "deskripsi": "a mother wearing a long loose sky-blue abaya and a cream hijab covering the hair and neck, modest, long sleeves",
+  "pose": "p03",
+  "lebar": 517,
+  "tinggi": 1100
+ },
+ "k05_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k05_p04.webp",
+  "deskripsi": "a mother wearing a long loose sky-blue abaya and a cream hijab covering the hair and neck, modest, long sleeves",
+  "pose": "p04",
+  "lebar": 528,
+  "tinggi": 1100
+ },
+ "k07_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k07_p01.webp",
+  "deskripsi": "a little boy with tousled grey clay hair, cream long shirt with buttons, cream trousers, soft shoes",
+  "pose": "p01",
+  "lebar": 477,
+  "tinggi": 1100
+ },
+ "k07_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k07_p02.webp",
+  "deskripsi": "a little boy with tousled grey clay hair, cream long shirt with buttons, cream trousers, soft shoes",
+  "pose": "p02",
+  "lebar": 477,
+  "tinggi": 1100
+ },
+ "k07_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k07_p03.webp",
+  "deskripsi": "a little boy with tousled grey clay hair, cream long shirt with buttons, cream trousers, soft shoes",
+  "pose": "p03",
+  "lebar": 514,
+  "tinggi": 1100
+ },
+ "k07_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k07_p04.webp",
+  "deskripsi": "a little boy with tousled grey clay hair, cream long shirt with buttons, cream trousers, soft shoes",
+  "pose": "p04",
+  "lebar": 513,
+  "tinggi": 1100
+ },
+ "k08_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k08_p01.webp",
+  "deskripsi": "a little girl in a rose-pink long dress and a small cream hijab, soft shoes",
+  "pose": "p01",
+  "lebar": 445,
+  "tinggi": 1100
+ },
+ "k08_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k08_p02.webp",
+  "deskripsi": "a little girl in a rose-pink long dress and a small cream hijab, soft shoes",
+  "pose": "p02",
+  "lebar": 308,
+  "tinggi": 669
+ },
+ "k08_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k08_p03.webp",
+  "deskripsi": "a little girl in a rose-pink long dress and a small cream hijab, soft shoes",
+  "pose": "p03",
+  "lebar": 507,
+  "tinggi": 1100
+ },
+ "k08_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k08_p04.webp",
+  "deskripsi": "a little girl in a rose-pink long dress and a small cream hijab, soft shoes",
+  "pose": "p04",
+  "lebar": 521,
+  "tinggi": 1074
+ },
+ "k09_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k09_p01.webp",
+  "deskripsi": "a foreign king (Roman/Persian style) with a simple golden crown, red royal cloak over a white tunic, short brown beard",
+  "pose": "p01",
+  "lebar": 574,
+  "tinggi": 1100
+ },
+ "k09_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k09_p02.webp",
+  "deskripsi": "a foreign king (Roman/Persian style) with a simple golden crown, red royal cloak over a white tunic, short brown beard",
+  "pose": "p02",
+  "lebar": 494,
+  "tinggi": 1100
+ },
+ "k09_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k09_p03.webp",
+  "deskripsi": "a foreign king (Roman/Persian style) with a simple golden crown, red royal cloak over a white tunic, short brown beard",
+  "pose": "p03",
+  "lebar": 587,
+  "tinggi": 1100
+ },
+ "k09_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k09_p04.webp",
+  "deskripsi": "a foreign king (Roman/Persian style) with a simple golden crown, red royal cloak over a white tunic, short brown beard",
+  "pose": "p04",
+  "lebar": 573,
+  "tinggi": 1062
+ },
+ "k10_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k10_p01.webp",
+  "deskripsi": "an enemy soldier with a round clay helmet, leather armor over a red tunic, holding a spear upright and a round shield (cute, not scary)",
+  "pose": "p01",
+  "lebar": 601,
+  "tinggi": 1100
+ },
+ "k10_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k10_p02.webp",
+  "deskripsi": "an enemy soldier with a round clay helmet, leather armor over a red tunic, holding a spear upright and a round shield (cute, not scary)",
+  "pose": "p02",
+  "lebar": 691,
+  "tinggi": 1048
+ },
+ "k10_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k10_p03.webp",
+  "deskripsi": "an enemy soldier with a round clay helmet, leather armor over a red tunic, holding a spear upright and a round shield (cute, not scary)",
+  "pose": "p03",
+  "lebar": 585,
+  "tinggi": 1100
+ },
+ "k10_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k10_p04.webp",
+  "deskripsi": "an enemy soldier with a round clay helmet, leather armor over a red tunic, holding a spear upright and a round shield (cute, not scary)",
+  "pose": "p04",
+  "lebar": 639,
+  "tinggi": 644
+ },
+ "k13_kerumunan": {
+  "kategori": "karakter",
+  "file": "aset/karakter/k13_kerumunan.webp",
+  "deskripsi": "a small crowd of 5 mixed townspeople (men, women in hijab, children) standing together, seen from behind",
+  "lebar": 1136,
+  "tinggi": 665
+ },
+ "t01_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t01_p01.webp",
+  "deskripsi": "a dignified very old Arab chief with a long white clay beard, white wrapped turban, cream robe with a long dark-brown cloak, holding a wooden staff",
+  "pose": "p01",
+  "tokoh": "Abdul Muthalib (kakek)",
+  "lebar": 590,
+  "tinggi": 1100
+ },
+ "t01_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t01_p02.webp",
+  "deskripsi": "a dignified very old Arab chief with a long white clay beard, white wrapped turban, cream robe with a long dark-brown cloak, holding a wooden staff",
+  "pose": "p02",
+  "tokoh": "Abdul Muthalib (kakek)",
+  "lebar": 505,
+  "tinggi": 1100
+ },
+ "t01_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t01_p03.webp",
+  "deskripsi": "a dignified very old Arab chief with a long white clay beard, white wrapped turban, cream robe with a long dark-brown cloak, holding a wooden staff",
+  "pose": "p03",
+  "tokoh": "Abdul Muthalib (kakek)",
+  "lebar": 585,
+  "tinggi": 1100
+ },
+ "t01_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t01_p04.webp",
+  "deskripsi": "a dignified very old Arab chief with a long white clay beard, white wrapped turban, cream robe with a long dark-brown cloak, holding a wooden staff",
+  "pose": "p04",
+  "tokoh": "Abdul Muthalib (kakek)",
+  "lebar": 688,
+  "tinggi": 1100
+ },
+ "t02_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t02_p01.webp",
+  "deskripsi": "an older Arab man with a grey-and-black beard, olive-green turban, long sand-beige robe with a brown cloak",
+  "pose": "p01",
+  "tokoh": "Abu Thalib (paman)",
+  "lebar": 575,
+  "tinggi": 1100
+ },
+ "t02_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t02_p02.webp",
+  "deskripsi": "an older Arab man with a grey-and-black beard, olive-green turban, long sand-beige robe with a brown cloak",
+  "pose": "p02",
+  "tokoh": "Abu Thalib (paman)",
+  "lebar": 517,
+  "tinggi": 1100
+ },
+ "t02_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t02_p03.webp",
+  "deskripsi": "an older Arab man with a grey-and-black beard, olive-green turban, long sand-beige robe with a brown cloak",
+  "pose": "p03",
+  "tokoh": "Abu Thalib (paman)",
+  "lebar": 589,
+  "tinggi": 1095
+ },
+ "t02_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t02_p04.webp",
+  "deskripsi": "an older Arab man with a grey-and-black beard, olive-green turban, long sand-beige robe with a brown cloak",
+  "pose": "p04",
+  "tokoh": "Abu Thalib (paman)",
+  "lebar": 541,
+  "tinggi": 1100
+ },
+ "t03_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t03_p01.webp",
+  "deskripsi": "a young mother in a long loose cream abaya and a soft white hijab covering hair and neck",
+  "pose": "p01",
+  "tokoh": "Aminah (ibu)",
+  "lebar": 555,
+  "tinggi": 1100
+ },
+ "t03_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t03_p02.webp",
+  "deskripsi": "a young mother in a long loose cream abaya and a soft white hijab covering hair and neck",
+  "pose": "p02",
+  "tokoh": "Aminah (ibu)",
+  "lebar": 447,
+  "tinggi": 1100
+ },
+ "t03_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t03_p03.webp",
+  "deskripsi": "a young mother in a long loose cream abaya and a soft white hijab covering hair and neck",
+  "pose": "p03",
+  "tokoh": "Aminah (ibu)",
+  "lebar": 533,
+  "tinggi": 1100
+ },
+ "t03_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t03_p04.webp",
+  "deskripsi": "a young mother in a long loose cream abaya and a soft white hijab covering hair and neck",
+  "pose": "p04",
+  "tokoh": "Aminah (ibu)",
+  "lebar": 545,
+  "tinggi": 1100
+ },
+ "t04_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t04_p01.webp",
+  "deskripsi": "a countrywoman in a loose earthy-brown abaya and an olive hijab, with a small woven basket",
+  "pose": "p01",
+  "tokoh": "Halimah (ibu susu)",
+  "lebar": 648,
+  "tinggi": 1069
+ },
+ "t04_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t04_p02.webp",
+  "deskripsi": "a countrywoman in a loose earthy-brown abaya and an olive hijab, with a small woven basket",
+  "pose": "p02",
+  "tokoh": "Halimah (ibu susu)",
+  "lebar": 515,
+  "tinggi": 1100
+ },
+ "t04_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t04_p03.webp",
+  "deskripsi": "a countrywoman in a loose earthy-brown abaya and an olive hijab, with a small woven basket",
+  "pose": "p03",
+  "tokoh": "Halimah (ibu susu)",
+  "lebar": 628,
+  "tinggi": 1100
+ },
+ "t04_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t04_p04.webp",
+  "deskripsi": "a countrywoman in a loose earthy-brown abaya and an olive hijab, with a small woven basket",
+  "pose": "p04",
+  "tokoh": "Halimah (ibu susu)",
+  "lebar": 598,
+  "tinggi": 1063
+ },
+ "t05_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t05_p01.webp",
+  "deskripsi": "a graceful noblewoman in a loose deep-green abaya with subtle gold trim and a long cream hijab",
+  "pose": "p01",
+  "tokoh": "Khadijah",
+  "lebar": 572,
+  "tinggi": 1100
+ },
+ "t05_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t05_p02.webp",
+  "deskripsi": "a graceful noblewoman in a loose deep-green abaya with subtle gold trim and a long cream hijab",
+  "pose": "p02",
+  "tokoh": "Khadijah",
+  "lebar": 470,
+  "tinggi": 1100
+ },
+ "t05_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t05_p03.webp",
+  "deskripsi": "a graceful noblewoman in a loose deep-green abaya with subtle gold trim and a long cream hijab",
+  "pose": "p03",
+  "tokoh": "Khadijah",
+  "lebar": 561,
+  "tinggi": 1091
+ },
+ "t05_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t05_p04.webp",
+  "deskripsi": "a graceful noblewoman in a loose deep-green abaya with subtle gold trim and a long cream hijab",
+  "pose": "p04",
+  "tokoh": "Khadijah",
+  "lebar": 568,
+  "tinggi": 1100
+ },
+ "t06_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t06_p01.webp",
+  "deskripsi": "a slim gentle Arab man with a short neat beard, white turban, simple white robe with a light-grey cloak",
+  "pose": "p01",
+  "tokoh": "Abu Bakar",
+  "lebar": 486,
+  "tinggi": 1100
+ },
+ "t06_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t06_p02.webp",
+  "deskripsi": "a slim gentle Arab man with a short neat beard, white turban, simple white robe with a light-grey cloak",
+  "pose": "p02",
+  "tokoh": "Abu Bakar",
+  "lebar": 466,
+  "tinggi": 1100
+ },
+ "t06_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t06_p03.webp",
+  "deskripsi": "a slim gentle Arab man with a short neat beard, white turban, simple white robe with a light-grey cloak",
+  "pose": "p03",
+  "tokoh": "Abu Bakar",
+  "lebar": 525,
+  "tinggi": 1100
+ },
+ "t06_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t06_p04.webp",
+  "deskripsi": "a slim gentle Arab man with a short neat beard, white turban, simple white robe with a light-grey cloak",
+  "pose": "p04",
+  "tokoh": "Abu Bakar",
+  "lebar": 503,
+  "tinggi": 1100
+ },
+ "t07_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t07_p01.webp",
+  "deskripsi": "a tall dark-skinned man (dark brown clay) with a short black beard, simple cream head cloth, plain beige tunic",
+  "pose": "p01",
+  "tokoh": "Bilal",
+  "lebar": 540,
+  "tinggi": 1100
+ },
+ "t07_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t07_p02.webp",
+  "deskripsi": "a tall dark-skinned man (dark brown clay) with a short black beard, simple cream head cloth, plain beige tunic",
+  "pose": "p02",
+  "tokoh": "Bilal",
+  "lebar": 413,
+  "tinggi": 1100
+ },
+ "t07_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t07_p03.webp",
+  "deskripsi": "a tall dark-skinned man (dark brown clay) with a short black beard, simple cream head cloth, plain beige tunic",
+  "pose": "p03",
+  "tokoh": "Bilal",
+  "lebar": 590,
+  "tinggi": 1100
+ },
+ "t07_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t07_p04.webp",
+  "deskripsi": "a tall dark-skinned man (dark brown clay) with a short black beard, simple cream head cloth, plain beige tunic",
+  "pose": "p04",
+  "tokoh": "Bilal",
+  "lebar": 505,
+  "tinggi": 1100
+ },
+ "t08_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t08_p01.webp",
+  "deskripsi": "a strong broad-shouldered Arab man with a black beard, dark-red turban, leather vest over a sand tunic, a bow on his back",
+  "pose": "p01",
+  "tokoh": "Hamzah",
+  "lebar": 621,
+  "tinggi": 1057
+ },
+ "t08_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t08_p02.webp",
+  "deskripsi": "a strong broad-shouldered Arab man with a black beard, dark-red turban, leather vest over a sand tunic, a bow on his back",
+  "pose": "p02",
+  "tokoh": "Hamzah",
+  "lebar": 533,
+  "tinggi": 1100
+ },
+ "t08_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t08_p03.webp",
+  "deskripsi": "a strong broad-shouldered Arab man with a black beard, dark-red turban, leather vest over a sand tunic, a bow on his back",
+  "pose": "p03",
+  "tokoh": "Hamzah",
+  "lebar": 633,
+  "tinggi": 1100
+ },
+ "t08_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t08_p04.webp",
+  "deskripsi": "a strong broad-shouldered Arab man with a black beard, dark-red turban, leather vest over a sand tunic, a bow on his back",
+  "pose": "p04",
+  "tokoh": "Hamzah",
+  "lebar": 600,
+  "tinggi": 1100
+ },
+ "t09_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t09_p01.webp",
+  "deskripsi": "a plump Arab man with a red beard, orange turban, flashy red-and-gold robe; looks grumpy but cute, not scary",
+  "pose": "p01",
+  "tokoh": "Abu Lahab (musyrik)",
+  "lebar": 486,
+  "tinggi": 1100
+ },
+ "t09_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t09_p02.webp",
+  "deskripsi": "a plump Arab man with a red beard, orange turban, flashy red-and-gold robe; looks grumpy but cute, not scary",
+  "pose": "p02",
+  "tokoh": "Abu Lahab (musyrik)",
+  "lebar": 677,
+  "tinggi": 1048
+ },
+ "t09_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t09_p03.webp",
+  "deskripsi": "a plump Arab man with a red beard, orange turban, flashy red-and-gold robe; looks grumpy but cute, not scary",
+  "pose": "p03",
+  "tokoh": "Abu Lahab (musyrik)",
+  "lebar": 625,
+  "tinggi": 1100
+ },
+ "t09_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t09_p04.webp",
+  "deskripsi": "a plump Arab man with a red beard, orange turban, flashy red-and-gold robe; looks grumpy but cute, not scary",
+  "pose": "p04",
+  "tokoh": "Abu Lahab (musyrik)",
+  "lebar": 642,
+  "tinggi": 1100
+ },
+ "t10_p01": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t10_p01.webp",
+  "deskripsi": "an Arab man with a pointed black beard, black turban, dark purple robe with a silver belt; looks arrogant but cute, not scary",
+  "pose": "p01",
+  "tokoh": "Abu Jahal (musyrik)",
+  "lebar": 600,
+  "tinggi": 1100
+ },
+ "t10_p02": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t10_p02.webp",
+  "deskripsi": "an Arab man with a pointed black beard, black turban, dark purple robe with a silver belt; looks arrogant but cute, not scary",
+  "pose": "p02",
+  "tokoh": "Abu Jahal (musyrik)",
+  "lebar": 533,
+  "tinggi": 1100
+ },
+ "t10_p03": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t10_p03.webp",
+  "deskripsi": "an Arab man with a pointed black beard, black turban, dark purple robe with a silver belt; looks arrogant but cute, not scary",
+  "pose": "p03",
+  "tokoh": "Abu Jahal (musyrik)",
+  "lebar": 539,
+  "tinggi": 1100
+ },
+ "t10_p04": {
+  "kategori": "karakter",
+  "file": "aset/karakter/t10_p04.webp",
+  "deskripsi": "an Arab man with a pointed black beard, black turban, dark purple robe with a silver belt; looks arrogant but cute, not scary",
+  "pose": "p04",
+  "tokoh": "Abu Jahal (musyrik)",
+  "lebar": 583,
+  "tinggi": 1100
+ },
+ "h01_berdiri": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h01_berdiri.webp",
+  "deskripsi": "a cute camel with a woven saddle blanket",
+  "lebar": 632,
+  "tinggi": 711
+ },
+ "h01_duduk": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h01_duduk.webp",
+  "deskripsi": "a cute camel with a woven saddle blanket",
+  "lebar": 543,
+  "tinggi": 900
+ },
+ "h01_jalan_a": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h01_jalan_a.webp",
+  "deskripsi": "a cute camel with a woven saddle blanket",
+  "lebar": 703,
+  "tinggi": 791
+ },
+ "h01_jalan_b": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h01_jalan_b.webp",
+  "deskripsi": "a cute camel with a woven saddle blanket",
+  "lebar": 646,
+  "tinggi": 727
+ },
+ "h02_jalan_a": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h02_jalan_a.webp",
+  "deskripsi": "a camel loaded with trade sacks and rolled carpets",
+  "lebar": 678,
+  "tinggi": 875
+ },
+ "h02_jalan_b": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h02_jalan_b.webp",
+  "deskripsi": "a camel loaded with trade sacks and rolled carpets",
+  "lebar": 698,
+  "tinggi": 761
+ },
+ "h03_berdiri": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h03_berdiri.webp",
+  "deskripsi": "a small white sheep",
+  "lebar": 854,
+  "tinggi": 783
+ },
+ "h03_merumput": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h03_merumput.webp",
+  "deskripsi": "a small white sheep",
+  "lebar": 805,
+  "tinggi": 618
+ },
+ "h06_berdiri": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h06_berdiri.webp",
+  "deskripsi": "a big grey elephant with a decorated red cloth",
+  "lebar": 704,
+  "tinggi": 819
+ },
+ "h06_berlutut": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h06_berlutut.webp",
+  "deskripsi": "a big grey elephant with a decorated red cloth",
+  "lebar": 964,
+  "tinggi": 585
+ },
+ "h07_sayap_atas": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h07_sayap_atas.webp",
+  "deskripsi": "a small bird carrying a tiny pebble, wings spread",
+  "lebar": 752,
+  "tinggi": 750
+ },
+ "h07_sayap_bawah": {
+  "kategori": "hewan",
+  "file": "aset/hewan/h07_sayap_bawah.webp",
+  "deskripsi": "a small bird carrying a tiny pebble, wings spread",
+  "lebar": 829,
+  "tinggi": 610
+ },
+ "b01_kurma": {
+  "kategori": "properti",
+  "file": "aset/properti/b01_kurma.webp",
+  "deskripsi": "a clay plate full of dates",
+  "lebar": 930,
+  "tinggi": 680
+ },
+ "b02_kendi": {
+  "kategori": "properti",
+  "file": "aset/properti/b02_kendi.webp",
+  "deskripsi": "a tall clay water jug with a handle",
+  "lebar": 564,
+  "tinggi": 700
+ },
+ "b05_koin": {
+  "kategori": "properti",
+  "file": "aset/properti/b05_koin.webp",
+  "deskripsi": "a small pile of shiny gold coins with an open leather pouch",
+  "lebar": 862,
+  "tinggi": 658
+ },
+ "b07_surat": {
+  "kategori": "properti",
+  "file": "aset/properti/b07_surat.webp",
+  "deskripsi": "a rolled letter scroll with a red wax seal (no writing visible)",
+  "lebar": 855,
+  "tinggi": 671
+ },
+ "b08_piagam": {
+  "kategori": "properti",
+  "file": "aset/properti/b08_piagam.webp",
+  "deskripsi": "a parchment document pinned on a wooden board, edges eaten by tiny termites (no writing visible)",
+  "lebar": 709,
+  "tinggi": 700
+ },
+ "b09_pelita": {
+  "kategori": "properti",
+  "file": "aset/properti/b09_pelita.webp",
+  "deskripsi": "an oil lamp with a small flame",
+  "lebar": 388,
+  "tinggi": 700
+ },
+ "b10_lentera": {
+  "kategori": "properti",
+  "file": "aset/properti/b10_lentera.webp",
+  "deskripsi": "a lantern with a warm glowing light",
+  "lebar": 449,
+  "tinggi": 700
+ },
+ "b13_pedang": {
+  "kategori": "properti",
+  "file": "aset/properti/b13_pedang.webp",
+  "deskripsi": "a curved sword in its sheath",
+  "lebar": 640,
+  "tinggi": 700
+ },
+ "b17_sumur": {
+  "kategori": "properti",
+  "file": "aset/properti/b17_sumur.webp",
+  "deskripsi": "a stone well with a wooden bucket and rope",
+  "lebar": 549,
+  "tinggi": 700
+ },
+ "b19_mahkota": {
+  "kategori": "properti",
+  "file": "aset/properti/b19_mahkota.webp",
+  "deskripsi": "a golden crown",
+  "lebar": 794,
+  "tinggi": 686
+ },
+ "b21_permadani": {
+  "kategori": "properti",
+  "file": "aset/properti/b21_permadani.webp",
+  "deskripsi": "a folded patterned carpet and a cushion",
+  "lebar": 829,
+  "tinggi": 700
+ },
+ "b22_kitab": {
+  "kategori": "properti",
+  "file": "aset/properti/b22_kitab.webp",
+  "deskripsi": "a closed holy book wrapped in green cloth on a wooden stand",
+  "lebar": 671,
+  "tinggi": 700
+ },
+ "b25_perahu": {
+  "kategori": "properti",
+  "file": "aset/properti/b25_perahu.webp",
+  "deskripsi": "a small wooden sailing boat",
+  "lebar": 586,
+  "tinggi": 700
+ },
+ "b27_batu": {
+  "kategori": "properti",
+  "file": "aset/properti/b27_batu.webp",
+  "deskripsi": "a big flat rock under the sun (hot stone)",
+  "lebar": 682,
+  "tinggi": 700
+ },
+ "e01_awan": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e01_awan.webp",
+  "deskripsi": "a soft fluffy clay cloud",
+  "lebar": 858,
+  "tinggi": 600
+ },
+ "e02_awan": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e02_awan.webp",
+  "deskripsi": "a soft fluffy clay cloud",
+  "lebar": 616,
+  "tinggi": 600
+ },
+ "e03_awan": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e03_awan.webp",
+  "deskripsi": "a soft fluffy clay cloud",
+  "lebar": 768,
+  "tinggi": 600
+ },
+ "e04_matahari": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e04_matahari.webp",
+  "deskripsi": "a round warm sun with soft glow",
+  "lebar": 603,
+  "tinggi": 600
+ },
+ "e05_bulan": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e05_bulan.webp",
+  "deskripsi": "a crescent moon",
+  "lebar": 538,
+  "tinggi": 600
+ },
+ "e06_bintang": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e06_bintang.webp",
+  "deskripsi": "a small five-point clay star (golden)",
+  "lebar": 623,
+  "tinggi": 600
+ },
+ "e07_kurma": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e07_kurma.webp",
+  "deskripsi": "a tall date palm tree",
+  "lebar": 418,
+  "tinggi": 600
+ },
+ "e10_api": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e10_api.webp",
+  "deskripsi": "a flame",
+  "lebar": 426,
+  "tinggi": 600
+ },
+ "e11_api": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e11_api.webp",
+  "deskripsi": "a flame",
+  "lebar": 457,
+  "tinggi": 600
+ },
+ "e12_api": {
+  "kategori": "elemen",
+  "file": "aset/elemen/e12_api.webp",
+  "deskripsi": "a flame",
+  "lebar": 478,
+  "tinggi": 600
+ },
+ "l01_gurun_siang": {
+  "kategori": "latar",
+  "file": "aset/latar/l01_gurun_siang.jpg",
+  "deskripsi": "sunny desert with soft rolling sand dunes and a clear blue sky",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l02_gurun_senja": {
+  "kategori": "latar",
+  "file": "aset/latar/l02_gurun_senja.jpg",
+  "deskripsi": "desert dunes at golden sunset, warm orange sky",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l03_gurun_malam": {
+  "kategori": "latar",
+  "file": "aset/latar/l03_gurun_malam.jpg",
+  "deskripsi": "desert at night under a starry sky and crescent moon",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l04_makkah_siang": {
+  "kategori": "latar",
+  "file": "aset/latar/l04_makkah_siang.jpg",
+  "deskripsi": "old Makkah town: cube-shaped mud-brick houses in a rocky valley between mountains, daytime",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l05_makkah_malam": {
+  "kategori": "latar",
+  "file": "aset/latar/l05_makkah_malam.jpg",
+  "deskripsi": "the same old Makkah town at night with warm glowing windows",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l06_kabah": {
+  "kategori": "latar",
+  "file": "aset/latar/l06_kabah.jpg",
+  "deskripsi": "the Kaaba in the distance: a simple black cube with a gold band, in an open sandy courtyard, valley and mountains behind, no people",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l07_bukit_shafa": {
+  "kategori": "latar",
+  "file": "aset/latar/l07_bukit_shafa.jpg",
+  "deskripsi": "a small rocky hill (Safa) at the edge of the old town, morning light",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l08_gua_gunung": {
+  "kategori": "latar",
+  "file": "aset/latar/l08_gua_gunung.jpg",
+  "deskripsi": "a tall rocky mountain with a small cave opening near the top, glowing softly, night sky",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l10_desa_badui": {
+  "kategori": "latar",
+  "file": "aset/latar/l10_desa_badui.jpg",
+  "deskripsi": "a green Bedouin village in the countryside: striped tents, grass, sheep pen (no animals), small hills",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l11_pasar": {
+  "kategori": "latar",
+  "file": "aset/latar/l11_pasar.jpg",
+  "deskripsi": "a busy-looking marketplace with empty stalls, colorful cloth awnings, pottery and baskets",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l12_rumah_dalam": {
+  "kategori": "latar",
+  "file": "aset/latar/l12_rumah_dalam.jpg",
+  "deskripsi": "inside a simple Arab house: mud walls, a carpet, cushions, a small window with sunlight",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l13_lembah_tandus": {
+  "kategori": "latar",
+  "file": "aset/latar/l13_lembah_tandus.jpg",
+  "deskripsi": "a dry, barren rocky valley with a few withered bushes (place of the boycott)",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l14_pantai_kapal": {
+  "kategori": "latar",
+  "file": "aset/latar/l14_pantai_kapal.jpg",
+  "deskripsi": "a calm seashore with a small wooden sailing ship at the water",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l15_istana_afrika": {
+  "kategori": "latar",
+  "file": "aset/latar/l15_istana_afrika.jpg",
+  "deskripsi": "an African royal palace hall with tall wooden pillars, woven mats and warm light",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "l16_istana_romawi": {
+  "kategori": "latar",
+  "file": "aset/latar/l16_istana_romawi.jpg",
+  "deskripsi": "a Roman marble palace hall with columns and a red curtain",
+  "lebar": 1920,
+  "tinggi": 1080
+ },
+ "b01_kafilah_senja": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b01_kafilah_senja.mp4",
+  "deskripsi": "kafilah unta bermuatan berjalan di gurun senja",
+  "tokoh": "",
+  "cocok": "perjalanan, dagang, hijrah, pembuka",
+  "durasi": 10.03
+ },
+ "b02_kerumunan_makkah": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b02_kerumunan_makkah.mp4",
+  "deskripsi": "penduduk Makkah berjalan di jalan kota, dilihat dari belakang",
+  "tokoh": "",
+  "cocok": "masyarakat Makkah, kaum Quraisy",
+  "durasi": 10.03
+ },
+ "b03_gajah_abrahah": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b03_gajah_abrahah.mp4",
+  "deskripsi": "gajah berjalan lalu berlutut menolak maju",
+  "tokoh": "Abrahah (pasukan gajah)",
+  "cocok": "tahun gajah, Ka'bah dijaga Allah",
+  "durasi": 10.03
+ },
+ "b04_burung_batu": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b04_burung_batu.mp4",
+  "deskripsi": "kawanan burung kecil membawa batu terbang di langit gurun",
+  "tokoh": "",
+  "cocok": "burung Ababil, tahun gajah",
+  "durasi": 10.03
+ },
+ "b05_abdul_muthalib_sumur": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b05_abdul_muthalib_sumur.mp4",
+  "deskripsi": "Abdul Muthalib menengok sumur di dekat Ka'bah lalu mengangkat tongkat",
+  "tokoh": "Abdul Muthalib",
+  "cocok": "sumur Zamzam, kakek Nabi",
+  "durasi": 10.03
+ },
+ "b06_raja_romawi_surat": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b06_raja_romawi_surat.mp4",
+  "deskripsi": "raja Romawi membuka gulungan surat di istana",
+  "tokoh": "raja Romawi (Heraklius)",
+  "cocok": "surat Nabi kepada raja, dialog Heraklius",
+  "durasi": 6.83
+ },
+ "b07_halimah_desa": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b07_halimah_desa.mp4",
+  "deskripsi": "Halimah membawa keranjang di desa Badui, domba merumput",
+  "tokoh": "Halimah as-Sa'diyah",
+  "cocok": "masa kecil di Bani Sa'd, ibu susu",
+  "durasi": 10.03
+ },
+ "b08_khadijah_rumah": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b08_khadijah_rumah.mp4",
+  "deskripsi": "Khadijah duduk tenang di rumah dekat lentera",
+  "tokoh": "Khadijah",
+  "cocok": "Khadijah menenangkan, rumah tangga Nabi",
+  "durasi": 10.03
+ },
+ "b09_pasar_pedagang": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b09_pasar_pedagang.mp4",
+  "deskripsi": "pemuda menuang koin emas di pasar",
+  "tokoh": "",
+  "cocok": "dagang, harta, tawaran dunia, sedekah",
+  "durasi": 10.03
+ },
+ "b10_pembesar_quraisy": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b10_pembesar_quraisy.mp4",
+  "deskripsi": "Abu Jahal dan Abu Lahab berdebat malam hari",
+  "tokoh": "Abu Jahal, Abu Lahab",
+  "cocok": "penentangan Quraisy, makar musyrikin",
+  "durasi": 10.03
+ },
+ "b11_bilal_ahad": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b11_bilal_ahad.mp4",
+  "deskripsi": "Bilal berdiri teguh di bawah terik matahari mengacungkan jari",
+  "tokoh": "Bilal",
+  "cocok": "siksaan kaum lemah, Ahad Ahad, keteguhan iman",
+  "durasi": 10.03
+ },
+ "b12_hijrah_habasyah": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b12_hijrah_habasyah.mp4",
+  "deskripsi": "dua orang berjalan menuju kapal di pantai",
+  "tokoh": "kaum muslimin (umum)",
+  "cocok": "hijrah ke Habasyah",
+  "durasi": 10.03
+ },
+ "b13_abu_thalib_boikot": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b13_abu_thalib_boikot.mp4",
+  "deskripsi": "Abu Thalib memandang piagam dengan sedih di lembah tandus",
+  "tokoh": "Abu Thalib",
+  "cocok": "boikot Quraisy, piagam zalim",
+  "durasi": 6.42
+ },
+ "b14_piagam_rayap": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b14_piagam_rayap.mp4",
+  "deskripsi": "piagam di dinding termakan rayap",
+  "tokoh": "",
+  "cocok": "piagam boikot dimakan rayap",
+  "durasi": 10.03
+ },
+ "b15_anak_bermain": {
+  "kategori": "gerak",
+  "file": "aset/gerak/b15_anak_bermain.mp4",
+  "deskripsi": "dua anak melambai ceria di desa",
+  "tokoh": "",
+  "cocok": "pembuka, ajakan, penutup",
+  "durasi": 10.03
+ },
+ "l01_gurun_siang_gerak": {
+  "kategori": "gerak",
+  "file": "aset/gerak/l01_gurun_siang_gerak.mp4",
+  "deskripsi": "gurun siang dengan pasir tertiup angin",
+  "tokoh": "",
+  "cocok": "latar gurun siang",
+  "durasi": 10.03
+ },
+ "l02_gurun_senja_gerak": {
+  "kategori": "gerak",
+  "file": "aset/gerak/l02_gurun_senja_gerak.mp4",
+  "deskripsi": "gurun senja dengan pasir tertiup angin",
+  "tokoh": "",
+  "cocok": "latar gurun senja",
+  "durasi": 10.03
+ }
+}

@@ -1,0 +1,163 @@
+PROMPT GOOGLE FLOW (VEO) - BATCH 1 (Sirah #1-#12)
+==================================================================
+Aset dipanggil dengan @NAMA ASET DI FLOW (nama sama dengan file yang diunduh dari Flow, tanpa .jpg).
+Di baris ASET / FRAME, kode file di D:\sunnah-daily\aset\mentah\ ditulis di dalam kurung.
+Hasil video disimpan ke: aset\mentah\gerak\<HASIL>.mp4
+
+DAFTAR ASET YANG DIPAKAI (kode file -> nama di Flow):
+  b05_koin             -> @Gold_coins_with_leather_pouch_5c2b1c33
+  b07_surat            -> @Clay_letter_scroll_with_seal_5eb5001d
+  b08_piagam           -> @Parchment_document_pinned_on_board_ec745eab
+  b10_lentera          -> @Clay_lantern_glowing_with_warm_50d5e196
+  b17_sumur            -> @Claymation_stone_well_with_bucket_a02b84ae
+  b27_batu             -> @Hot_stone_under_sun_9483e131
+  h01_jalan_a          -> @Camel_walking_with_saddle_blanket_45a59679
+  h02_jalan_a          -> @Camel_walking_with_trade_sacks_405c31b7
+  h03_berdiri          -> @White_sheep_standing_sideways_713371c8
+  h06_berdiri          -> @Grey_elephant_standing_sideways_88025f27
+  h06_berlutut         -> @Clay_elephant_kneeling_down_b4d884dd
+  h07_sayap_atas       -> @Small_bird_carrying_pebble_flying_068d69c5
+  h07_sayap_bawah      -> @Bird_carrying_pebble_flying_398ab798
+  k03_p01              -> @Man_standing_in_traditional_attire_88abcfb5
+  k05_p01              -> @Mother_standing_in_modest_attire_7ffcaf63
+  k07_p01              -> @Clay_figure_standing_front_view_6a5d036a
+  k08_p01              -> @Girl_in_dress_standing_82568fba
+  k09_p01              -> @King_standing_in_royal_cloak_7f1f839b
+  k13_kerumunan        -> @Townspeople_standing_together_se…_d44b8f63   <- NAMA TERPOTONG, cek nama lengkapnya di Flow
+  l01_gurun_siang      -> @Arabian_desert_claymation_dioram…_5aab95ae   <- NAMA TERPOTONG, cek nama lengkapnya di Flow
+  l02_gurun_senja      -> @Desert_dunes_at_sunset_ef9e839d
+  l03_gurun_malam      -> @Arabian_desert_at_night_18203924
+  l04_makkah_siang     -> @Mud_brick_houses_in_valley_15565c8e
+  l05_makkah_malam     -> @Claymation_town_at_night_27e244f1
+  l06_kabah            -> @Claymation_diorama_of_the_Kaaba_5a65f661
+  l07_bukit_shafa      -> @Rocky_hill_at_town_edge_fccc0ccc
+  l08_gua_gunung       -> @Rocky_mountain_with_cave_opening_0035a410
+  l10_desa_badui       -> @Green_Bedouin_village_diorama_set_5e3968fd
+  l11_pasar            -> @Claymation_marketplace_set_witho…_0dd67205   <- NAMA TERPOTONG, cek nama lengkapnya di Flow
+  l12_rumah_dalam      -> @Claymation_set_inside_Arab_house_1874a860
+  l13_lembah_tandus    -> @Claymation_rocky_valley_diorama_324455ad
+  l14_pantai_kapal     -> @Wooden_sailing_ship_at_seashore_6c70dabe
+  l15_istana_afrika    -> @Claymation_palace_hall_interior_80105914
+  l16_istana_romawi    -> @Roman_marble_palace_set_658e9770
+  t01_p01              -> @Clay_chief_standing_with_staff_d7c42544
+  t02_p01              -> @Faceless_man_standing_in_robe_71856262
+  t04_p01              -> @Clay_figure_of_woman_standing_4d3bfa93
+  t05_p01              -> @Faceless_noblewoman_figure_standing_a8cad200
+  t07_p01              -> @Man_standing_in_claymation_style_b1519d91
+  t09_p01              -> @Plump_man_standing_in_robe_e51a8290
+  t10_p01              -> @Man_standing_with_arms_relaxed_6bb51f4e
+
+Nama yang mengandung "…" terpotong waktu diunduh. Di Flow, ketik @ lalu awal namanya
+dan pilih dari daftar yang muncul; kabari aku nama lengkapnya supaya file ini aku betulkan.
+
+DUA CARA:
+  CARA A - Frames to Video      : FRAME AWAL = FRAME AKHIR = @latar yang sama -> klip bisa diputar berulang.
+  CARA B - Ingredients to Video : pilih aset yang tertulis di ASET (maks 3), lalu tempel PROMPT.
+
+CEK SETIAP KLIP SAMPAI HABIS (buang & ulang kalau ada):
+  - wajah muncul (mata/alis/hidung/mulut), walau sebentar
+  - orang/hewan tambahan yang tidak dipanggil di prompt
+  - tulisan/huruf/teks
+  - baju/warna/bentuk tokoh berbeda dari asetnya
+  Suara bawaan Veo tidak apa-apa (nanti dimatikan).
+
+##################################################################
+CARA A - LATAR HIDUP (Frames to Video)
+##################################################################
+
+[A01] HASIL: l01_gurun_siang_gerak   | FRAME AWAL & AKHIR: @Arabian_desert_claymation_dioram…_5aab95ae (l01_gurun_siang)
+Static camera on @Arabian_desert_claymation_dioram…_5aab95ae, keep the scene exactly as the image. Fine sand blows gently across the dunes, small clay clouds drift slowly to the left. Everything else stays still. Slow cheerful claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A02] HASIL: l02_gurun_senja_gerak   | FRAME AWAL & AKHIR: @Desert_dunes_at_sunset_ef9e839d (l02_gurun_senja)
+Static camera on @Desert_dunes_at_sunset_ef9e839d, keep the scene exactly as the image. Warm sunset light glows and pulses softly, thin clouds drift slowly, a little sand blows over the dunes. Everything else stays still. Slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A03] HASIL: l03_gurun_malam_gerak   | FRAME AWAL & AKHIR: @Arabian_desert_at_night_18203924 (l03_gurun_malam)
+Static camera on @Arabian_desert_at_night_18203924, keep the scene exactly as the image. Stars twinkle softly one by one, the crescent moon glows gently, dry shrubs tremble slightly in the breeze. Everything else stays still. Calm slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A04] HASIL: l04_makkah_siang_gerak  | FRAME AWAL & AKHIR: @Mud_brick_houses_in_valley_15565c8e (l04_makkah_siang)
+Static camera on @Mud_brick_houses_in_valley_15565c8e, keep the scene exactly as the image. Clay clouds drift slowly, cloth awnings on the houses flutter gently, palm leaves sway a little. Everything else stays still. Slow cheerful claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A05] HASIL: l05_makkah_malam_gerak  | FRAME AWAL & AKHIR: @Claymation_town_at_night_27e244f1 (l05_makkah_malam)
+Static camera on @Claymation_town_at_night_27e244f1, keep the scene exactly as the image. Warm lamp light in the windows flickers softly, stars twinkle, palm leaves sway slightly. Everything else stays still. Calm slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A06] HASIL: l06_kabah_gerak         | FRAME AWAL & AKHIR: @Claymation_diorama_of_the_Kaaba_5a65f661 (l06_kabah)
+Static camera on @Claymation_diorama_of_the_Kaaba_5a65f661, keep the scene exactly as the image. Clay clouds drift slowly over the valley, soft sunlight shifts gently across the courtyard, palm leaves sway a little. The Kaaba stays perfectly still. Calm, respectful slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A07] HASIL: l07_bukit_shafa_gerak   | FRAME AWAL & AKHIR: @Rocky_hill_at_town_edge_fccc0ccc (l07_bukit_shafa)
+Static camera on @Rocky_hill_at_town_edge_fccc0ccc, keep the scene exactly as the image. Soft morning light rays move slowly over the rocky hill, clay clouds drift, palm leaves sway gently. Everything else stays still. Slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A08] HASIL: l08_gua_gunung_gerak    | FRAME AWAL & AKHIR: @Rocky_mountain_with_cave_opening_0035a410 (l08_gua_gunung)
+Static camera on @Rocky_mountain_with_cave_opening_0035a410, keep the scene exactly as the image. A soft warm glow pulses gently from the cave opening, stars twinkle, the moon glows. Nothing and no one appears inside or near the cave. Calm slow claymation stop-motion movement. No people, no figures, no silhouettes, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A09] HASIL: l10_desa_badui_gerak    | FRAME AWAL & AKHIR: @Green_Bedouin_village_diorama_set_5e3968fd (l10_desa_badui)
+Static camera on @Green_Bedouin_village_diorama_set_5e3968fd, keep the scene exactly as the image. Green grass sways in the breeze, tent cloths flutter gently, clay clouds drift slowly. Everything else stays still. Slow cheerful claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A10] HASIL: l11_pasar_gerak         | FRAME AWAL & AKHIR: @Claymation_marketplace_set_witho…_0dd67205 (l11_pasar)
+Static camera on @Claymation_marketplace_set_witho…_0dd67205, keep the scene exactly as the image. Colorful cloth awnings over the stalls flutter gently, hanging lanterns sway a little. Everything else stays still. Slow cheerful claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A11] HASIL: l12_rumah_dalam_gerak   | FRAME AWAL & AKHIR: @Claymation_set_inside_Arab_house_1874a860 (l12_rumah_dalam)
+Static camera on @Claymation_set_inside_Arab_house_1874a860, keep the scene exactly as the image. Tiny dust motes float slowly in the sunlight from the window, the light flickers warmly. Everything else stays still. Cozy slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A12] HASIL: l13_lembah_tandus_gerak | FRAME AWAL & AKHIR: @Claymation_rocky_valley_diorama_324455ad (l13_lembah_tandus)
+Static camera on @Claymation_rocky_valley_diorama_324455ad, keep the scene exactly as the image. Dry dust blows softly across the barren valley, a light heat haze shimmers, dry bushes tremble slightly. Everything else stays still. Slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A13] HASIL: l14_pantai_kapal_gerak  | FRAME AWAL & AKHIR: @Wooden_sailing_ship_at_seashore_6c70dabe (l14_pantai_kapal)
+Static camera on @Wooden_sailing_ship_at_seashore_6c70dabe, keep the scene exactly as the image. Small clay waves roll gently onto the shore, the wooden ship rocks softly on the water, its sails ripple slightly. Everything else stays still. Slow cheerful claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A14] HASIL: l15_istana_afrika_gerak | FRAME AWAL & AKHIR: @Claymation_palace_hall_interior_80105914 (l15_istana_afrika)
+Static camera on @Claymation_palace_hall_interior_80105914, keep the scene exactly as the image. Warm light shimmers softly across the palace hall, curtains and hanging cloths sway gently. Everything else stays still. Slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+[A15] HASIL: l16_istana_romawi_gerak | FRAME AWAL & AKHIR: @Roman_marble_palace_set_658e9770 (l16_istana_romawi)
+Static camera on @Roman_marble_palace_set_658e9770, keep the scene exactly as the image. The red curtain sways gently, sunlight shifts softly across the marble floor. Everything else stays still. Slow claymation stop-motion movement. No people, no animals, no text, no speech. Seamless loop: the last frame matches the first frame.
+
+##################################################################
+CARA B - ADEGAN DENGAN TOKOH (Ingredients to Video)
+##################################################################
+Aturan: Nabi Muhammad ﷺ tidak pernah muncul. Tidak ada tokoh yang seolah berbicara/berjalan bersama
+"seseorang" yang tidak terlihat. Kalau Veo menambahkan sosok lain -> buang.
+Kalimat penjaga di akhir tiap prompt jangan dihapus.
+
+[B01] HASIL: b01_kafilah_senja        | ASET: @Desert_dunes_at_sunset_ef9e839d (l02_gurun_senja) @Camel_walking_with_trade_sacks_405c31b7 (h02_jalan_a) @Camel_walking_with_saddle_blanket_45a59679 (h01_jalan_a)
+Wide shot, static camera, background exactly @Desert_dunes_at_sunset_ef9e839d. @Camel_walking_with_trade_sacks_405c31b7 walks slowly from the left side to the right across the dunes, followed by @Camel_walking_with_saddle_blanket_45a59679. Sand puffs lightly under their feet. Keep @Camel_walking_with_trade_sacks_405c31b7 and @Camel_walking_with_saddle_blanket_45a59679 exactly as their images: same colors, saddle cloths, loads and clay texture, smooth blank heads with no eyes and no mouth for the whole clip. Only these two camels appear; no people, no other animals. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
+
+[B02] HASIL: b02_kerumunan_makkah     | ASET: @Mud_brick_houses_in_valley_15565c8e (l04_makkah_siang) @Townspeople_standing_together_se…_d44b8f63 (k13_kerumunan)
+Static camera, background exactly @Mud_brick_houses_in_valley_15565c8e. @Townspeople_standing_together_se…_d44b8f63, seen from behind, walks slowly away into the street between the mud-brick houses. Cloth awnings flutter gently. Keep @Townspeople_standing_together_se…_d44b8f63 exactly as the image: same people, clothes, colors and clay texture; all of them stay completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. No extra people, no animals. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
+
+[B03] HASIL: b03_gajah_abrahah        | ASET: @Arabian_desert_claymation_dioram…_5aab95ae (l01_gurun_siang) @Grey_elephant_standing_sideways_88025f27 (h06_berdiri) @Clay_elephant_kneeling_down_b4d884dd (h06_berlutut)
+Static camera, background exactly @Arabian_desert_claymation_dioram…_5aab95ae. The elephant @Grey_elephant_standing_sideways_88025f27 walks slowly toward the right, then stops and gently kneels down on the sand into the pose of @Clay_elephant_kneeling_down_b4d884dd, refusing to move forward. A little dust rises. Keep the elephant exactly as its images: same grey clay, same red decorated cloth, smooth blank head with no eyes and no mouth for the whole clip. No rider, no people, no other animals. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B04] HASIL: b04_burung_batu          | ASET: @Arabian_desert_claymation_dioram…_5aab95ae (l01_gurun_siang) @Small_bird_carrying_pebble_flying_068d69c5 (h07_sayap_atas) @Bird_carrying_pebble_flying_398ab798 (h07_sayap_bawah)
+Static camera, background exactly @Arabian_desert_claymation_dioram…_5aab95ae. A flock of birds identical to @Small_bird_carrying_pebble_flying_068d69c5, each carrying a tiny pebble, flies across the sky from left to right, flapping between the pose of @Small_bird_carrying_pebble_flying_068d69c5 and @Bird_carrying_pebble_flying_398ab798. Keep the birds exactly as their images: same colors and clay texture, smooth blank heads with no eyes for the whole clip. No people, no other animals. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B05] HASIL: b05_abdul_muthalib_sumur | ASET: @Claymation_diorama_of_the_Kaaba_5a65f661 (l06_kabah) @Clay_chief_standing_with_staff_d7c42544 (t01_p01) @Claymation_stone_well_with_bucket_a02b84ae (b17_sumur)
+Static camera, wide shot, background exactly @Claymation_diorama_of_the_Kaaba_5a65f661. @Clay_chief_standing_with_staff_d7c42544 walks slowly to @Claymation_stone_well_with_bucket_a02b84ae placed in the foreground, stops beside it and looks down into it with wonder, then lifts his staff happily. Keep @Clay_chief_standing_with_staff_d7c42544 exactly as the image: same white beard, turban, brown cloak, staff and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only @Clay_chief_standing_with_staff_d7c42544 appears; no other people, no animals. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
+
+[B06] HASIL: b06_raja_romawi_surat    | ASET: @Roman_marble_palace_set_658e9770 (l16_istana_romawi) @King_standing_in_royal_cloak_7f1f839b (k09_p01) @Clay_letter_scroll_with_seal_5eb5001d (b07_surat)
+Static camera, background exactly @Roman_marble_palace_set_658e9770. @King_standing_in_royal_cloak_7f1f839b stands in the middle of the hall holding @Clay_letter_scroll_with_seal_5eb5001d, slowly unrolls it and nods thoughtfully. The curtain sways gently. Keep @King_standing_in_royal_cloak_7f1f839b exactly as the image: same crown, red cloak, beard and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. No writing visible on the scroll. Only @King_standing_in_royal_cloak_7f1f839b appears. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B07] HASIL: b07_halimah_desa         | ASET: @Green_Bedouin_village_diorama_set_5e3968fd (l10_desa_badui) @Clay_figure_of_woman_standing_4d3bfa93 (t04_p01) @White_sheep_standing_sideways_713371c8 (h03_berdiri)
+Static camera, background exactly @Green_Bedouin_village_diorama_set_5e3968fd. @Clay_figure_of_woman_standing_4d3bfa93, holding her small basket, walks slowly from the tents toward the right while three sheep identical to @White_sheep_standing_sideways_713371c8 graze happily nearby. Grass sways in the breeze. She is not carrying a baby. Keep @Clay_figure_of_woman_standing_4d3bfa93 exactly as the image: same olive hijab, brown abaya, basket and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. The sheep keep smooth blank heads with no eyes. Only @Clay_figure_of_woman_standing_4d3bfa93 and the sheep appear; no other people. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
+
+[B08] HASIL: b08_khadijah_rumah       | ASET: @Claymation_set_inside_Arab_house_1874a860 (l12_rumah_dalam) @Faceless_noblewoman_figure_standing_a8cad200 (t05_p01) @Clay_lantern_glowing_with_warm_50d5e196 (b10_lentera)
+Static camera, background exactly @Claymation_set_inside_Arab_house_1874a860. @Faceless_noblewoman_figure_standing_a8cad200 sits calmly on the carpet next to @Clay_lantern_glowing_with_warm_50d5e196 glowing warmly, then gently places her hand on her chest with a peaceful, reassuring gesture. Dust motes float in the warm light. Keep @Faceless_noblewoman_figure_standing_a8cad200 exactly as the image: same green abaya with gold trim, cream hijab and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. She is alone in the room; no other people. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B09] HASIL: b09_pasar_pedagang       | ASET: @Claymation_marketplace_set_witho…_0dd67205 (l11_pasar) @Man_standing_in_traditional_attire_88abcfb5 (k03_p01) @Gold_coins_with_leather_pouch_5c2b1c33 (b05_koin)
+Static camera, background exactly @Claymation_marketplace_set_witho…_0dd67205. @Man_standing_in_traditional_attire_88abcfb5 walks to a stall, picks up the leather pouch of @Gold_coins_with_leather_pouch_5c2b1c33 and happily pours the gold coins onto the table. Awnings flutter gently. Keep @Man_standing_in_traditional_attire_88abcfb5 exactly as the image: same white head cloth, olive vest, tunic and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only @Man_standing_in_traditional_attire_88abcfb5 appears; no other people, no animals. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
+
+[B10] HASIL: b10_pembesar_quraisy     | ASET: @Claymation_town_at_night_27e244f1 (l05_makkah_malam) @Man_standing_with_arms_relaxed_6bb51f4e (t10_p01) @Plump_man_standing_in_robe_e51a8290 (t09_p01)
+Static camera, background exactly @Claymation_town_at_night_27e244f1. @Man_standing_with_arms_relaxed_6bb51f4e and @Plump_man_standing_in_robe_e51a8290 stand facing each other and argue, waving their arms and shaking their heads, grumpy but cute and not scary. Windows glow warmly. Keep @Man_standing_with_arms_relaxed_6bb51f4e and @Plump_man_standing_in_robe_e51a8290 exactly as their images: same turbans, beards, robes, colors and clay texture; both completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only these two appear; no other people, no animals. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B11] HASIL: b11_bilal_ahad           | ASET: @Claymation_rocky_valley_diorama_324455ad (l13_lembah_tandus) @Man_standing_in_claymation_style_b1519d91 (t07_p01) @Hot_stone_under_sun_9483e131 (b27_batu)
+Static camera, background exactly @Claymation_rocky_valley_diorama_324455ad under a blazing sun. @Man_standing_in_claymation_style_b1519d91 stands calmly and firmly beside @Hot_stone_under_sun_9483e131, then slowly raises one index finger toward the sky, steady and brave. Heat haze shimmers. No violence, no chains. Keep @Man_standing_in_claymation_style_b1519d91 exactly as the image: same dark brown clay skin, cream head cloth, beige tunic and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only @Man_standing_in_claymation_style_b1519d91 appears; no other people, no animals. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B12] HASIL: b12_hijrah_habasyah      | ASET: @Wooden_sailing_ship_at_seashore_6c70dabe (l14_pantai_kapal) @Mother_standing_in_modest_attire_7ffcaf63 (k05_p01) @Man_standing_in_traditional_attire_88abcfb5 (k03_p01)
+Static camera, background exactly @Wooden_sailing_ship_at_seashore_6c70dabe. @Mother_standing_in_modest_attire_7ffcaf63 and @Man_standing_in_traditional_attire_88abcfb5 walk slowly side by side toward the wooden ship at the water's edge. Small waves roll gently and the ship rocks softly. Keep @Mother_standing_in_modest_attire_7ffcaf63 and @Man_standing_in_traditional_attire_88abcfb5 exactly as their images: same clothes, colors and clay texture; both completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only these two appear; no other people, no animals. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
+
+[B13] HASIL: b13_abu_thalib_boikot    | ASET: @Claymation_rocky_valley_diorama_324455ad (l13_lembah_tandus) @Faceless_man_standing_in_robe_71856262 (t02_p01) @Parchment_document_pinned_on_board_ec745eab (b08_piagam)
+Static camera, background exactly @Claymation_rocky_valley_diorama_324455ad. @Faceless_man_standing_in_robe_71856262 walks slowly past @Parchment_document_pinned_on_board_ec745eab standing on the ground, stops, looks at it sadly and lowers his head. Dust blows softly. Keep @Faceless_man_standing_in_robe_71856262 exactly as the image: same olive turban, grey-black beard, brown cloak and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. He is alone; no other people, no animals. No writing on the parchment. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B14] HASIL: b14_piagam_rayap         | ASET: @Parchment_document_pinned_on_board_ec745eab (b08_piagam) @Claymation_set_inside_Arab_house_1874a860 (l12_rumah_dalam)
+Static camera, close-up. @Parchment_document_pinned_on_board_ec745eab hangs on the wall of @Claymation_set_inside_Arab_house_1874a860. Its edges slowly crumble away little by little, as if eaten by tiny termites, while the middle stays. Warm light. Keep @Parchment_document_pinned_on_board_ec745eab exactly as the image: same wooden board, parchment colors and clay texture. No people, no faces, no writing on the parchment. No text, no speech. Gentle, slow claymation stop-motion movement.
+
+[B15] HASIL: b15_anak_bermain         | ASET: @Green_Bedouin_village_diorama_set_5e3968fd (l10_desa_badui) @Clay_figure_standing_front_view_6a5d036a (k07_p01) @Girl_in_dress_standing_82568fba (k08_p01)
+Static camera, background exactly @Green_Bedouin_village_diorama_set_5e3968fd. @Clay_figure_standing_front_view_6a5d036a and @Girl_in_dress_standing_82568fba run happily in from the left side, stop in the middle, and wave their hands cheerfully. Grass sways, clouds drift. Keep @Clay_figure_standing_front_view_6a5d036a and @Girl_in_dress_standing_82568fba exactly as their images: same clothes, hijab, colors and clay texture; both completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only these two children appear; no other people, no animals. No text, no speech. Gentle, cheerful, slow claymation stop-motion movement.
