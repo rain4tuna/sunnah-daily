@@ -1,0 +1,82 @@
+PROMPT GOOGLE FLOW (VEO) - VIDEO PANJANG EPISODE 1 SUNNAH DAILY
+Sumber: Sirah Nabawiyah #2 - Kerusakan Zaman Jahiliyah (Ust. Dr. Firanda Andirja, M.A.)
+==================================================================
+CARA PAKAI
+- Flow HANYA untuk klip gerak (b-roll) tanpa suara. Narasi bahasa Indonesia (suara Laomedeia), teks Arab dalil,
+  kuis, ajakan subscribe, dan efek suara tetap dari pipeline Remotion kita. Alasannya:
+  suara Veo berubah-ubah tiap klip, Veo bisa menambah musik (melanggar aturan tanpa musik), dan Veo
+  tidak bisa menulis ayat/hadits dengan benar.
+- Setelan Flow: Output per prompt = 1 (2 output = kredit 2x). Rasio 16:9. Durasi 8 detik.
+  Model: Lite untuk CARA A (latar), Fast untuk CARA B (tokoh). Quality (100 kredit) tidak perlu.
+- Aset dipanggil dengan @NAMA DI FLOW. Nama bertanda "…" terpotong: ketik @ lalu awal namanya dan pilih.
+  Aset bertanda [UNGGAH DULU] belum ada di Flow: unggah file dari aset\mentah\ lalu pakai namanya.
+- Hasil disimpan ke aset\mentah\gerak\<HASIL>.mp4 dengan nama persis seperti di baris HASIL.
+
+CEK SETIAP KLIP SAMPAI HABIS (buang & ulang kalau ada):
+  - wajah muncul (mata/alis/hidung), walau sebentar
+  - orang/hewan tambahan yang tidak dipanggil di prompt
+  - tulisan/huruf/teks
+  - baju/warna/bentuk tokoh berbeda dari asetnya
+  - sosok yang bisa dikira Nabi ﷺ (tokoh utama berjubah putih bersinar, sosok tanpa rupa yang diikuti orang,
+    cahaya berbentuk orang). Nabi ﷺ, para nabi, dan malaikat TIDAK PERNAH digambarkan.
+
+KLIP YANG SUDAH ADA (TIDAK PERLU DIBUAT LAGI, 0 kredit):
+  b01_kafilah_senja, b03_gajah_abrahah, b04_burung_batu, b06_raja_romawi_surat, b09_pasar_pedagang,
+  b10_pembesar_quraisy, l01_gurun_siang_gerak, l02_gurun_senja_gerak
+
+ADEGAN YANG SENGAJA TIDAK DIGAMBAR (cukup latar kosong, jangan dibuat klip tokohnya):
+  - penguburan anak perempuan (kisah 1) -> cukup latar lembah tandus
+  - Aisyah bertanya kepada Rasulullah ﷺ (kisah 4) -> cukup ruang dalam rumah + lentera, tanpa orang
+  - thawaf telanjang (kisah 7) -> cukup latar Ka'bah, tanpa orang
+  - Rasulullah ﷺ diutus sebagai cahaya (kisah 5) -> cukup gurun malam berbintang
+
+##################################################################
+CARA A - LATAR HIDUP (Frames to Video, model Lite)  7 klip
+FRAME AWAL = FRAME AKHIR = gambar latar yang sama, supaya klip bisa diputar berulang.
+Prompt untuk ketujuh klip ini SUDAH ADA di aset\PROMPT_FLOW_GERAK.txt; tempel persis dari sana:
+##################################################################
+  A03 -> l03_gurun_malam_gerak   (kisah 5: dunia gelap sebelum kenabian)
+  A05 -> l05_makkah_malam_gerak  (kisah 5 & 7)
+  A06 -> l06_kabah_gerak         (kisah 6 & 7)
+  A09 -> l10_desa_badui_gerak    (kisah 2 & 3)
+  A10 -> l11_pasar_gerak         (kisah 2 & 4)
+  A11 -> l12_rumah_dalam_gerak   (kisah 4 & 8)
+  A12 -> l13_lembah_tandus_gerak (kisah 1)
+
+##################################################################
+CARA B - ADEGAN DENGAN TOKOH (Ingredients to Video, model Fast)  7 klip
+Pilih aset yang tertulis di ASET (maks 3), lalu tempel PROMPT. Kalimat penjaga di akhir jangan dihapus.
+##################################################################
+
+[E01] HASIL: e01_ayah_kecewa          | KISAH 1 | ASET: @Arabian_desert_claymation_dioram…_5aab95ae (l01_gurun_siang) @Man_standing_in_traditional_attire_88abcfb5 (k03_p01)
+Static camera, wide shot, background exactly @Arabian_desert_claymation_dioram…_5aab95ae. @Man_standing_in_traditional_attire_88abcfb5 walks slowly in from the left, stops, puts both hands on his head in disappointment, then turns his back and walks away to the right with drooping shoulders. Sand blows softly. Keep @Man_standing_in_traditional_attire_88abcfb5 exactly as the image: same white head cloth, olive vest, tunic and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. He is alone: no baby, no child, no digging, no hole, no other people, no animals. No text, no speech, no music. Gentle, slow claymation stop-motion movement.
+
+[E02] HASIL: e02_ayah_sayang_putri    | KISAH 1 (penutup) | ASET: @Mud_brick_houses_in_valley_15565c8e (l04_makkah_siang) @Man_standing_in_traditional_attire_88abcfb5 (k03_p01) @Girl_in_dress_standing_82568fba (k08_p01)
+Static camera, background exactly @Mud_brick_houses_in_valley_15565c8e. @Girl_in_dress_standing_82568fba runs happily from the right toward @Man_standing_in_traditional_attire_88abcfb5, who kneels down and opens his arms warmly; they hold hands and he stands up proudly beside her. Awnings flutter, clouds drift. Keep @Man_standing_in_traditional_attire_88abcfb5 and @Girl_in_dress_standing_82568fba exactly as their images: same clothes, hijab, colors and clay texture; both completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only these two appear; no other people, no animals. No text, no speech, no music. Gentle, cheerful, slow claymation stop-motion movement.
+
+[E03] HASIL: e03_ibu_anak_rezeki      | KISAH 2 | ASET: @Green_Bedouin_village_diorama_set_5e3968fd (l10_desa_badui) @Mother_standing_in_modest_attire_7ffcaf63 (k05_p01) @Girl_in_dress_standing_82568fba (k08_p01)
+Static camera, background exactly @Green_Bedouin_village_diorama_set_5e3968fd. @Mother_standing_in_modest_attire_7ffcaf63 and @Girl_in_dress_standing_82568fba walk slowly hand in hand from the tents toward the right, the girl skipping happily, the mother gently swinging their joined hands. Grass sways, clouds drift. Keep @Mother_standing_in_modest_attire_7ffcaf63 and @Girl_in_dress_standing_82568fba exactly as their images: same clothes, hijab, colors and clay texture; both completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only these two appear; no other people, no animals. No text, no speech, no music. Gentle, cheerful, slow claymation stop-motion movement.
+
+[E04] HASIL: e04_memuliakan_tamu      | KISAH 3 | ASET: @Green_Bedouin_village_diorama_set_5e3968fd (l10_desa_badui) @Man_standing_in_traditional_attire_88abcfb5 (k03_p01) @Man_standing_with_arms_relaxed_6bb51f4e (t10_p01)
+Static camera, background exactly @Green_Bedouin_village_diorama_set_5e3968fd. @Man_standing_with_arms_relaxed_6bb51f4e arrives slowly from the left as a traveller. @Man_standing_in_traditional_attire_88abcfb5 steps out from the tent, opens his arms in a warm welcome, places a hand on his chest, then gestures politely toward the tent inviting him in. Tent cloths flutter. Keep @Man_standing_in_traditional_attire_88abcfb5 and @Man_standing_with_arms_relaxed_6bb51f4e exactly as their images: same turbans, beards, robes, colors and clay texture; both completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. Only these two appear; no other people, no animals. No text, no speech, no music. Gentle, cheerful, slow claymation stop-motion movement.
+
+[E05] HASIL: e05_dermawan_jahiliyah   | KISAH 4 | ASET: @Claymation_marketplace_set_witho…_0dd67205 (l11_pasar) @Plump_man_standing_in_robe_e51a8290 (t09_p01) @Townspeople_standing_together_se…_d44b8f63 (k13_kerumunan)
+Static camera, background exactly @Claymation_marketplace_set_witho…_0dd67205. @Plump_man_standing_in_robe_e51a8290 stands beside a stall and hands out round flat breads one by one to @Townspeople_standing_together_se…_d44b8f63, who come forward slowly and receive them gratefully. Awnings flutter gently. Keep @Plump_man_standing_in_robe_e51a8290 and @Townspeople_standing_together_se…_d44b8f63 exactly as their images: same clothes, colors and clay texture; everyone completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. No extra people, no animals. No text, no speech, no music. Gentle, slow claymation stop-motion movement.
+
+[E06] HASIL: e06_abdul_muthalib_unta  | KISAH 6 | ASET: @Claymation_diorama_of_the_Kaaba_5a65f661 (l06_kabah) @Clay_chief_standing_with_staff_d7c42544 (t01_p01) @Camel_walking_with_saddle_blanket_45a59679 (h01_jalan_a)
+Static camera, wide shot, background exactly @Claymation_diorama_of_the_Kaaba_5a65f661. @Clay_chief_standing_with_staff_d7c42544 stands calmly in the foreground beside @Camel_walking_with_saddle_blanket_45a59679, gently pats the camel, then lifts his staff a little and nods slowly with calm confidence. The Kaaba stays perfectly still. Keep @Clay_chief_standing_with_staff_d7c42544 exactly as the image: same white beard, turban, brown cloak, staff and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. The camel keeps a smooth blank head with no eyes and no mouth. Only these two appear; no other people, no other animals. No text, no speech, no music. Calm, respectful, slow claymation stop-motion movement.
+
+[E07] HASIL: e07_raja_kecewa          | KISAH 8 | ASET: @Roman_marble_palace_set_658e9770 (l16_istana_romawi) @King_standing_in_royal_cloak_7f1f839b (k09_p01)
+Static camera, background exactly @Roman_marble_palace_set_658e9770. @King_standing_in_royal_cloak_7f1f839b walks slowly across the marble hall, stops, lowers his head, lets out a long sigh with his shoulders rising and falling, then looks at the empty hall around him, disappointed. The curtain sways gently. Keep @King_standing_in_royal_cloak_7f1f839b exactly as the image: same crown, red cloak, beard and clay texture; completely faceless for the whole clip, no eyes, no eyebrows, no nose, no mouth. He is alone; no other people, no animals. No text, no speech, no music. Gentle, slow claymation stop-motion movement.
+
+==================================================================
+PERKIRAAN KREDIT (Flow, 1 output per prompt)
+  CARA A  7 klip x 10 (Lite)  =  70
+  CARA B  7 klip x 20 (Fast)  = 140
+  Subtotal                    = 210
+  Cadangan ulang ±50%         = ±105
+  TOTAL                       ≈ 315 kredit  (sisa kredit 538 -> masih ±220)
+==================================================================
+SETELAH SELESAI: taruh semua .mp4 di aset\mentah\gerak\, lalu kabari Claude.
+Claude yang memasukkan klip ke remotion\public_panjang\aset\gerak\ + daftar.json, memasangnya ke adegan
+episode 2, dan merender video panjangnya (8-12 menit, narasi Laomedeia, dalil + sumber + derajat, kuis, SFX).

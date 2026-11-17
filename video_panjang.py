@@ -129,9 +129,10 @@ def _susun_anak(data, kisah, naskah, kicker, topik, no_ep):
                 pembuka_bab = nk['bab'] if nk else s['ucap']
                 s['ucap'] = f"Kisah {URUTAN[i - 1] if i <= len(URUTAN) else f'ke-{i}'}! {pembuka_bab}"
             elif s['jenis'] == 'poin' and nk:
-                p = next(poin)
-                s['narasi'] = s['ucap'] = p['narasi']
-                s['label'] = p['label'] or s.get('label')
+                p = next(poin, None)             # poin naskah habis -> narasi storyboard asli tetap dipakai
+                if p:
+                    s['narasi'] = s['ucap'] = p['narasi']
+                    s['label'] = p['label'] or s.get('label')
             elif s['jenis'] == 'faedah' and nk:
                 s['narasi'] = s['ucap'] = nk['faedah']
         segmen += bagian
@@ -228,18 +229,26 @@ def jalankan():
         for k in kisah:
             if pratinjau and not k.get('storyboard_ikon'):
                 k['storyboard_ikon'] = storyboard_ikon.rapikan({}, k, 'kisah')   # tanpa Gemini
-            storyboard_ikon.buat(k)              # storyboard tersimpan dipakai; yang belum ada dibuat (Gemini)
             simpan = os.path.join(CACHE, f"naskah_{k['id']}.json") if CACHE and not pratinjau else ''
+            lama = None
             if simpan and os.path.exists(simpan):
                 with open(simpan, encoding='utf-8') as f:
-                    naskah[k['id']] = json.load(f)
+                    lama = json.load(f)
+                # storyboard dibuat Gemini dan tidak tersimpan di data kisah: pakai storyboard yang sama dengan naskahnya
+                if lama.get('storyboard') and not k.get('storyboard_ikon'):
+                    k['storyboard_ikon'] = lama['storyboard']
+            storyboard_ikon.buat(k)              # storyboard tersimpan dipakai; yang belum ada dibuat (Gemini)
+            if lama and len(lama.get('poin') or []) == len(k['storyboard_ikon'].get('poin') or []):
+                naskah[k['id']] = lama
                 log(f"   naskah anak {k['id']} dari cache")
                 continue
+            if lama:
+                log(f"   naskah anak {k['id']} di cache tidak cocok dengan storyboard, ditulis ulang")
             naskah[k['id']] = contoh_naskah(k) if pratinjau else naskah_anak.tulis_ulang(k)
             if simpan and naskah[k['id']]:
                 os.makedirs(CACHE, exist_ok=True)
                 with open(simpan, 'w', encoding='utf-8') as f:
-                    json.dump(naskah[k['id']], f, ensure_ascii=False)
+                    json.dump({**naskah[k['id']], 'storyboard': k['storyboard_ikon']}, f, ensure_ascii=False)
         log('   naskah anak: ' + ', '.join(f"{i}={'ok' if v else 'asli'}" for i, v in naskah.items()))
         with open(os.path.join(out, f'{nama}_naskah.json'), 'w', encoding='utf-8') as f:
             json.dump(naskah, f, ensure_ascii=False, indent=1)
