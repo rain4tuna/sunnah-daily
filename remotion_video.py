@@ -166,7 +166,11 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
                         '-vf', 'scale=out_range=tv:out_color_matrix=bt709,format=yuv420p',
                         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-profile:v', 'high',
                         '-color_range', 'tv', '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709',
-                        '-c:a', 'aac', '-b:a', '160k', '-shortest', '-movflags', '+faststart', out_mp4],
+                        '-c:a', 'aac', '-b:a', '160k',
+                        # video panjang: stereo 48 kHz (suara TTS mono 24 kHz membuat sebagian pemutar diam);
+                        # Shorts tetap seperti semula
+                        *([] if komposisi == 'SunnahDaily' else ['-ar', '48000', '-ac', '2', '-b:a', '192k']),
+                        '-shortest', '-movflags', '+faststart', out_mp4],
                        check=True, cwd=RDIR)
         if contoh_jpg:
             try:
