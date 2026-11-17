@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 104 video. Waktu dalam WIB, terbaru di atas.
+Total: 105 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 18 Nov 2026 05.29 | ep013-06 | Luka Paling Pedih di Thaif | HR. Bukhari no. 3231 & Muslim no. 1795 (shahih) | [IG](https://www.instagram.com/reel/Df3AP9ek2DZ/) · [YouTube](https://youtube.com/shorts/WMxv5ichs1Y) · [FB](https://www.facebook.com/reel/2231982010726285) |
 | 17 Nov 2026 21.21 | ep013-05 | Tangisan Al-Qur'an Penakluk Hati | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/Df2IZYfDo3U/) · [YouTube](https://youtube.com/shorts/zF024oqYaoc) · [FB](https://www.facebook.com/reel/2745424085888072) |
 | 17 Nov 2026 18.55 | h010 | Cara Sedekah Gratis Setiap Hari | HR. Tirmidzi no. 1956 (hasan) | [IG](https://www.instagram.com/reel/Df13xEiDMuG/) · [YouTube](https://youtube.com/shorts/PwU1mgKBnB0) · [FB](https://www.facebook.com/reel/2917296235313550) |
 | 17 Nov 2026 15.48 | ep013-04 | Orang Baik Tak Boleh Pergi | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/Df1iXr9FcOm/) · [YouTube](https://youtube.com/shorts/Qy_XhVgc0A0) · [FB](https://www.facebook.com/reel/1511165550911936) |

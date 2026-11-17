@@ -615,11 +615,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "لَقَدْ لَقِيتُ مِنْ قَوْمِكِ مَا لَقِيتُ وَكَانَ أَشَدَّ مَا لَقِيتُ مِنْهُمْ يَوْمَ الْعَقَبَةِ",
-    "terjemah": "Sungguh aku telah mengalami dari kaummu apa yang kualami, dan yang paling berat adalah pada hari 'Aqabah (di Thaif).",
+    "arab": "لَقَدْ لَقِيتُ مِنْ قَوْمِكِ مَا لَقِيتُ، وَكَانَ أَشَدَّ مَا لَقِيتُ مِنْهُمْ يَوْمَ الْعَقَبَةِ...",
+    "terjemah": "Sungguh aku telah menerima perlakuan dari kaummu, dan yang paling berat dari perlakuan mereka adalah pada hari 'Aqabah (di Thaif)...",
     "sumber": "HR. Bukhari no. 3231 & Muslim no. 1795",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari & Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3231"
    },
    "faedah": "Jalan kebenaran sering dipenuhi ujian berat; kesabaran adalah kunci utama menghadapinya.",
    "latar_faedah": "kitab",
@@ -629,7 +630,85 @@
     "sirah nabawiyah"
    ],
    "id": "ep013-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti riwayat bahwa hari penolakan di Thaif (disebut hari 'Aqabah) adalah hari terberat dalam hidup Rasulullah ﷺ berstatus shahih muttafaq 'alaih (HR. Bukhari no. 3231 dan Muslim no. 1795). Adapun rincian mengenai Nabi ﷺ berjalan kaki, pelemparan batu oleh orang-orang bodoh/anak-anak hingga kaki beliau berdarah, dan kepala Zaid bin Haritsah terluka bersumber dari riwayat-riwayat Sirah Nabawiyyah (Maghazi Musa bin 'Uqbah, Sirah Ibnu Ishaq, dan Thabaqat Ibnu Sa'd) yang mursal namun masyhur dan diterima (mu'tabar) oleh para ulama tarikh dan sirah.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, kapan hari yang paling berat dalam hidup Rasulullah ﷺ?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night",
+      "city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ berjalan kaki sejauh delapan puluh kilometer menuju Thaif demi mencari perlindungan dakwah.",
+      "label": "Berjalan Kaki Menuju Thaif",
+      "ikon": [
+       "jejak",
+       "gunung"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "footsteps",
+       "mountain"
+      ]
+     },
+     {
+      "narasi": "Namun, para pembesar Thaif justru menolak beliau dengan hinaan yang sangat keji.",
+      "label": "Penolakan Pembesar Thaif",
+      "ikon": [
+       "rumah"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "berdiri",
+      "stiker": [
+       "town",
+       "dust"
+      ]
+     },
+     {
+      "narasi": "Mereka menghasut orang-orang melempari batu, hingga kaki Nabi ﷺ berdarah dan kepala Zaid bin Haritsah terluka parah saat melindungi beliau.",
+      "label": "Dilempari Batu di Thaif",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "stone",
+       "storm"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jalan kebenaran memang dipenuhi ujian berat, dan kesabaran adalah kunci utama untuk menghadapinya.",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "key",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df3AP9ek2DZ/",
+   "fb": "https://www.facebook.com/reel/2231982010726285",
+   "yt": "https://youtube.com/shorts/WMxv5ichs1Y",
+   "waktu_posting": "2026-11-17T22:29:13"
   },
   {
    "menit": "33:30",
