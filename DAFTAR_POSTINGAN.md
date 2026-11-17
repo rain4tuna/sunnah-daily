@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 103 video. Waktu dalam WIB, terbaru di atas.
+Total: 104 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 17 Nov 2026 21.21 | ep013-05 | Tangisan Al-Qur'an Penakluk Hati | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/Df2IZYfDo3U/) · [YouTube](https://youtube.com/shorts/zF024oqYaoc) · [FB](https://www.facebook.com/reel/2745424085888072) |
 | 17 Nov 2026 18.55 | h010 | Cara Sedekah Gratis Setiap Hari | HR. Tirmidzi no. 1956 (hasan) | [IG](https://www.instagram.com/reel/Df13xEiDMuG/) · [YouTube](https://youtube.com/shorts/PwU1mgKBnB0) · [FB](https://www.facebook.com/reel/2917296235313550) |
 | 17 Nov 2026 15.48 | ep013-04 | Orang Baik Tak Boleh Pergi | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/Df1iXr9FcOm/) · [YouTube](https://youtube.com/shorts/Qy_XhVgc0A0) · [FB](https://www.facebook.com/reel/1511165550911936) |
 | 17 Nov 2026 12.55 | h009 | Rahasia Sederhana Menuju Pintu Surga | HR. Muslim no. 54 (shahih) | [IG](https://www.instagram.com/reel/Df1OhPuj38e/) · [YouTube](https://youtube.com/shorts/eyHJF7SWtII) · [FB](https://www.facebook.com/reel/1704245104663482) |

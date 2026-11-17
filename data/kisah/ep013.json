@@ -486,12 +486,13 @@
     }
    ],
    "dalil": {
-    "jenis": "hadits",
+    "jenis": "atsar",
     "arab": "وَكَانَ أَبُو بَكْرٍ رَجُلًا بَكَّاءً لَا يَمْلِكُ عَيْنَيْهِ إِذَا قَرَأَ الْقُرْآنَ",
-    "terjemah": "Abu Bakar adalah seorang lelaki yang mudah menangis, ia tidak mampu menahan air matanya bila membaca Al-Qur'an.",
+    "terjemah": "Abu Bakar adalah seorang lelaki yang mudah menangis, ia tidak mampu menahan air matanya apabila membaca Al-Qur'an.",
     "sumber": "HR. Bukhari no. 3905",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:3905"
    },
    "faedah": "Bacalah Al-Qur'an dengan penghayatan mendalam hingga melembutkan hati yang keras.",
    "latar_faedah": "kitab",
@@ -501,7 +502,101 @@
     "kekhusyukan"
    ],
    "id": "ep013-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana lantunan ayat suci bisa membuat kaum musyrikin gemetar?",
+     "ikon": [
+      "quran"
+     ],
+     "ilustrasi": "quran",
+     "tokoh": "takut",
+     "stiker": [
+      "holy book",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Abu Bakar Ash-Shiddiq radhiyallahu 'anhu membangun tempat shalat di pelataran rumahnya di Makkah.",
+      "label": "Tempat Shalat di Pelataran Rumah",
+      "ikon": [
+       "rumah",
+       "sajadah"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "house",
+       "yard",
+       "prayer rug"
+      ]
+     },
+     {
+      "narasi": "Beliau adalah lelaki berhati lembut yang senantiasa menangis tersedu-sedu setiap kali membaca Al-Qur'an.",
+      "label": "Menangis Saat Membaca Al-Qur'an",
+      "ikon": [
+       "hati",
+       "tetes_air"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "holy book"
+      ]
+     },
+     {
+      "narasi": "Wanita dan anak-anak kaum musyrikin berkerumun kagum mendengarkan lantunan bacaan beliau.",
+      "label": "Keluarga Musyrikin Terpesona",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "kota_malam",
+      "tokoh": "berdiri",
+      "stiker": [
+       "night city",
+       "night sky"
+      ]
+     },
+     {
+      "narasi": "Tokoh Quraisy ketakutan keluarga mereka terpesona lalu masuk Islam, hingga menuntut beliau berhenti membacanya terang-terangan.",
+      "label": "Ketakutan Tokoh Quraisy",
+      "ikon": [
+       "gulungan"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "panik",
+      "stiker": [
+       "scroll",
+       "meeting room"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Bacalah Al-Qur'an dengan penghayatan mendalam hingga melembutkan hati yang keras.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df2IZYfDo3U/",
+   "fb": "https://www.facebook.com/reel/2745424085888072",
+   "yt": "https://youtube.com/shorts/zF024oqYaoc",
+   "waktu_posting": "2026-11-17T14:21:06"
   },
   {
    "menit": "27:14",
