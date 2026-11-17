@@ -1650,7 +1650,7 @@
    ],
    "id": "h009",
    "topik": "Menyebarkan salam",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1730,7 +1730,11 @@
      "ajakan": "Tulis Aamiin di komentar",
      "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
     }
-   }
+   },
+   "ig": "https://www.instagram.com/reel/Df1OhPuj38e/",
+   "fb": "https://www.facebook.com/reel/1704245104663482",
+   "yt": "https://youtube.com/shorts/eyHJF7SWtII",
+   "waktu_posting": "2026-11-17T05:55:34"
   },
   {
    "judul_hook": "Cara Sedekah Gratis Setiap Hari",

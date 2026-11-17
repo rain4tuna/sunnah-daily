@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 100 video. Waktu dalam WIB, terbaru di atas.
+Total: 101 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 17 Nov 2026 12.55 | h009 | Rahasia Sederhana Menuju Pintu Surga | HR. Muslim no. 54 (shahih) | [IG](https://www.instagram.com/reel/Df1OhPuj38e/) · [YouTube](https://youtube.com/shorts/eyHJF7SWtII) · [FB](https://www.facebook.com/reel/1704245104663482) |
 | 17 Nov 2026 05.29 | ep013-03 | Persahabatan Karena Allah Tiada Duanya | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/Df0beFSD6OR/) · [YouTube](https://youtube.com/shorts/FX6GcjL7swo) · [FB](https://www.facebook.com/reel/1860465364945408) |
 | 16 Nov 2026 23.21 | ep013-02 | Menikahi Janda Pejuang Hijrah | HR. Ahmad no. 26397 (shahih) | [IG](https://www.instagram.com/reel/DfzxTh8j5qH/) · [YouTube](https://youtube.com/shorts/BlQqzMr_HJU) · [FB](https://www.facebook.com/reel/4412452829066119) |
 | 16 Nov 2026 21.34 | ep013-01 | Dua Puluh Lima Tahun Setia | HR. Muslim no. 2435 (shahih) | [IG](https://www.instagram.com/reel/DfzlFWPoVpJ/) · [YouTube](https://youtube.com/shorts/1zBxjKWXuao) · [FB](https://www.facebook.com/reel/2203108380292371) |
