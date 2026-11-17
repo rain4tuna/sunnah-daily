@@ -1658,7 +1658,79 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu rahasia sederhana agar kita bisa saling mencintai karena Allah?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Nabi ﷺ mengajarkan kita untuk selalu menyebarkan salam kepada sesama muslim.",
+      "label": "Sebarkan Salam Sesama Muslim",
+      "ikon": [
+       "bintang"
+      ],
+      "ilustrasi": "masjid",
+      "stiker": [
+       "mosque",
+       "star"
+      ]
+     },
+     {
+      "narasi": "Ucapan salam bukan sekadar sapaan biasa, melainkan doa keselamatan dan limpahan rahmat bagi saudara kita.",
+      "label": "Doa Keselamatan dan Rahmat",
+      "ikon": [
+       "cahaya",
+       "lentera"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdoa",
+      "stiker": [
+       "lantern",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Bahkan, membiasakan salam menjadi jalan tumbuhnya keimanan yang akan mengantarkan langkah kita menuju surga.",
+      "label": "Jalan Iman Menuju Surga",
+      "ikon": [
+       "pintu",
+       "kunci"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri",
+      "stiker": [
+       "door",
+       "key"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari biasakan menebar ucapan salam setiap kali berpapasan dengan saudara muslim lainnya.",
+     "ikon": [
+      "jejak"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "footsteps",
+      "sun"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   }
   },
   {
    "judul_hook": "Cara Sedekah Gratis Setiap Hari",
