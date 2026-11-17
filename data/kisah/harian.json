@@ -1771,7 +1771,7 @@
    ],
    "id": "h010",
    "topik": "Senyum kepada saudara adalah sedekah",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1779,7 +1779,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mau rutin sedekah tiap hari tapi belum punya uang lebih?",
+     "ikon": [
+      "koin"
+     ],
+     "ilustrasi": "sedekah",
+     "tokoh": "berdiri",
+     "stiker": [
+      "coins",
+      "gold"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Tenang saja, dalam Islam sedekah itu sangat luas dan tidak melulu harus memakai harta benda.",
+      "label": "Sedekah Tak Harus Harta",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berdiri",
+      "stiker": [
+       "heart",
+       "treasure"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ bersabda bahwa sekadar memberikan senyuman kepada saudara kita sudah dihitung sebagai sedekah.",
+      "label": "Senyum Adalah Sedekah",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "light",
+       "sun"
+      ]
+     },
+     {
+      "narasi": "Senyuman yang tulus bisa menenangkan hati orang lain sekaligus mencatatkan pahala buat kita sendiri.",
+      "label": "Tenangkan Hati Raih Pahala",
+      "ikon": [
+       "timbangan",
+       "hati"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdiri",
+      "stiker": [
+       "scale",
+       "lantern"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Tebarkan senyum manismu hari ini dan kumpulkan pahala sedekah sebanyak-banyaknya!",
+     "ikon": [
+      "matahari"
+     ],
+     "ilustrasi": "pintu",
+     "tokoh": "berdiri",
+     "stiker": [
+      "sunlight",
+      "door"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df13xEiDMuG/",
+   "fb": "https://www.facebook.com/reel/2917296235313550",
+   "yt": "https://youtube.com/shorts/PwU1mgKBnB0",
+   "waktu_posting": "2026-11-17T11:55:38"
   },
   {
    "judul_hook": "Dua Rakaat Senilai Ratusan Sedekah",
