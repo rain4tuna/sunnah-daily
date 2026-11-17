@@ -371,12 +371,13 @@
     }
    ],
    "dalil": {
-    "jenis": "atsar",
-    "arab": "إِنَّ مِثْلَكَ يَا أَبَا بَكْرٍ لَا يَخْرُجُ وَلَا يُخْرَجُ إِنَّكَ تَكْسِبُ الْمَعْدُومَ وَتَصِلُ الرَّحِمَ",
-    "terjemah": "Sesungguhnya orang seperti engkau wahai Abu Bakar tidak boleh keluar dan tidak boleh diusir. Engkau membantu orang tak berpunya dan menyambung silaturahmi.",
+    "jenis": "hadits",
+    "arab": "«... فَإِنَّ مِثْلَكَ يَا أَبَا بَكْرٍ لَا يَخْرُجُ وَلَا يُخْرَجُ، إِنَّكَ تَكْسِبُ الْمَعْدُومَ، وَتَصِلُ الرَّحِمَ، وَتَحْمِلُ الْكَلَّ، وَتَقْرِي الضَّيْفَ، وَتُعِينُ عَلَى نَوَائِبِ الْحَقِّ ...»",
+    "terjemah": "Sesungguhnya orang seperti engkau wahai Abu Bakar tidak boleh keluar dan tidak boleh diusir. Engkau membantu orang yang tidak berpunya, menyambung silaturahmi, memikul beban orang susah, memuliakan tamu, dan menolong orang-orang yang tertimpa musibah kebenaran.",
     "sumber": "HR. Bukhari no. 3905",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:3905"
    },
    "faedah": "Kebaikan yang tulus akan diakui dan dihormati bahkan oleh orang yang berbeda keyakinan.",
    "latar_faedah": "kitab",
@@ -386,7 +387,88 @@
     "kebaikan"
    ],
    "id": "ep013-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah ini shahih dalam Shahih Al-Bukhari. Namun terdapat kekeliruan identitas dalam narasi: Ibnu Dughunnah bukan tokoh Quraisy, melainkan pemimpin kabilah Al-Qarah (sayyid al-Qarah). Setelah menahan Abu Bakar, barulah Ibnu Dughunnah mendatangi pemuka Quraisy untuk memberi jaminan perlindungan (jiwar).",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFWfxXa63c4q6gk3voa1LLS87xpxaUU1BZ_oCImzJ4cg9qF4Vzr0xrsO4SpJqXEK6KDTGymhGh8E8BsFMGQ575pvhxqbq7Iv9KIRm-P6gKAntJP5nG2jLCxDTOMY1747gmAhaKrUV4dctiiqwmnGBN1wTwBnjZWKkyo4Z9DrRYuGmyodZ35LcaerEwgJ1aNs8p_7z-fhkNaJOTUhcTZXl2UU5s5nWB6oDe2MJnh9WczqKwZjo9HLZqwBfhRCOAmaItw5HdyG90gpVPHP8AwNac55kuhcJE3D4oQbR7_wYlXwKsNArc5kutv_ICjqFAojEiMt2nFdJgFJkH53hCGSXI55gq7A==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFWfxXa63c4q6gk3voa1LLS87xpxaUU1BZ_oCImzJ4cg9qF4Vzr0xrsO4SpJqXEK6KDTGymhGh8E8BsFMGQ575pvhxqbq7Iv9KIRm-P6gKAntJP5nG2jLCxDTOMY1747gmAhaKrUV4dctiiqwmnGBN1wTwBnjZWKkyo4Z9DrRYuGmyodZ35LcaerEwgJ1aNs8p_7z-fhkNaJOTUhcTZXl2UU5s5nWB6oDe2MJnh9WczqKwZjo9HLZqwBfhRCOAmaItw5HdyG90gpVPHP8AwNac55kuhcJE3D4oQbR7_wYlXwKsNArc5kutv_ICjqFAojEiMt2nFdJgFJkH53hCGSXI55gq7A==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFWfxXa63c4q6gk3voa1LLS87xpxaUU1BZ_oCImzJ4cg9qF4Vzr0xrsO4SpJqXEK6KDTGymhGh8E8BsFMGQ575pvhxqbq7Iv9KIRm-P6gKAntJP5nG2jLCxDTOMY1747gmAhaKrUV4dctiiqwmnGBN1wTwBnjZWKkyo4Z9DrRYuGmyodZ35LcaerEwgJ1aNs8p_7z-fhkNaJOTUhcTZXl2UU5s5nWB6oDe2MJnh9WczqKwZjo9HLZqwBfhRCOAmaItw5HdyG90gpVPHP8AwNac55kuhcJE3D4oQbR7_wYlXwKsNArc5kutv_ICjqFAojEiMt2nFdJgFJkH53hCGSXI55gq7A=="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa seorang musuh justru berusaha keras menahan kepergiannya?",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "badai",
+     "stiker": [
+      "cloud",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat penindasan di Makkah makin kejam, Abu Bakar Ash-Shiddiq radhiyallahu 'anhu hendak berhijrah ke Habasyah.",
+      "label": "Niat Hijrah Abu Bakar",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "footprint",
+       "sand"
+      ]
+     },
+     {
+      "narasi": "Di Barkul Ghimad, beliau bertemu seorang tokoh musyrik Quraisy bernama Ibnu Dughunnah yang menahannya.",
+      "label": "Pertemuan di Barkul Ghimad",
+      "ikon": [
+       "gunung"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "stone",
+       "mountain"
+      ]
+     },
+     {
+      "narasi": "Ibnu Dughunnah berkata orang sebaik Abu Bakar tak boleh keluar, sebab selalu membantu orang miskin dan menyambung silaturahmi.",
+      "label": "Kesaksian Tokoh Musyrik",
+      "ikon": [
+       "koin",
+       "hati"
+      ],
+      "ilustrasi": "sedekah",
+      "stiker": [
+       "coins",
+       "bread"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Kebaikan yang tulus akan selalu diakui dan dihormati, bahkan oleh orang yang berbeda keyakinan.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "lantern",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Masya Allah di komentar",
+     "narasi": "Tulis Masya Allah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df1iXr9FcOm/",
+   "fb": "https://www.facebook.com/reel/1511165550911936",
+   "yt": "https://youtube.com/shorts/Qy_XhVgc0A0",
+   "waktu_posting": "2026-11-17T08:48:51"
   },
   {
    "menit": "19:33",
