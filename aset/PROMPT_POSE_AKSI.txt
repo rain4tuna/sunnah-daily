@@ -1,0 +1,42 @@
+PROMPT META AI - POSE AKSI TOKOH (supaya karakter video panjang lebih hidup)
+==================================================================
+Video panjang sekarang sudah menggerakkan tokoh sesuai emosi narasi tanpa aset baru:
+  sedih (merunduk + awan mendung + rintik), nangis (terisak + air mata), senang (melompat + kilau),
+  marah (menghentak + uap), kaget (melonjak + tanda seru), bicara (bergantian, menoleh).
+Pose di bawah membuat gerak itu jauh lebih jelas. Kode akan memakai pose ini otomatis begitu file-nya ada.
+
+CARA PAKAI (sama seperti PROMPT_ASET_META_AI.md):
+1. Unggah gambar P01 karakternya (mis. aset\mentah\karakter\k03_p01.png) ke Meta AI.
+2. Tempel: Same exact character as the uploaded image (same clothes, colors, proportions, clay texture). Now: <POSE>
+   lalu tempel BLOK GAYA KARAKTER (bagian 4 di PROMPT_ASET_META_AI.md).
+3. Cek: TANPA mata & alis (mulut boleh), tidak ada orang/benda tambahan, latar putih polos.
+4. Simpan ke aset\mentah\karakter\<kode>_<pose>.png  (mis. k03_p12.png), lalu kabari Claude.
+
+ATURAN: Nabi ﷺ, para nabi, dan malaikat tidak pernah dibuat. Pose menggali TIDAK BOLEH ada bayi/anak/lubang berisi
+apa pun; cukup orang dewasa menggali pasir. Anak (K07, K08) tidak dibuatkan pose menggali/menangis.
+
+------------------------------------------------------------------
+POSE BARU (teks untuk <POSE>)
+------------------------------------------------------------------
+P08  surprised, both hands on cheeks, leaning back slightly
+P09  sad, head lowered, shoulders dropped, hands clasped
+P10  arguing, one fist raised, body leaning forward (not violent)
+P12  digging: bending forward holding a long wooden shovel with both hands, the shovel blade pushed into a small
+     pile of sand in front of him, side 3/4 view facing right. Only the man, the shovel and a little sand.
+P13  crying: standing with shoulders hunched and both hands covering the face, head tilted down, front view
+P14  happy: jumping with joy, both arms raised high, one knee lifted, front view
+P15  digging, second step: same shovel, now lifting the shovel up over his shoulder with a scoop of sand on it,
+     side 3/4 view facing right (pairs with P12 so the digging animates)
+
+------------------------------------------------------------------
+PRIORITAS (dibuat dulu yang paling sering tampil)
+------------------------------------------------------------------
+  K03 (ayah muda)   : P09, P12, P15, P13, P14, P10, P08   -> kisah anak perempuan: ayah kecewa & menggali
+  K05 (ibu)         : P09, P13, P14, P08
+  K01 (kakek)       : P09, P10, P08, P14
+  K07 (anak laki)   : P14, P08
+  K08 (anak perempuan): P14, P08
+  K02 (pembesar Quraisy): P10, P08
+  Total prioritas: 22 gambar. Satu karakter cukup 1 percobaan per pose kalau P01 diunggah sebagai acuan.
+
+Setelah ada beberapa saja (mis. K03 P12+P15+P09), Claude bisa langsung memasangnya; sisanya menyusul.

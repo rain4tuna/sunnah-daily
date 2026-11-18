@@ -194,6 +194,11 @@ def deskripsi(data, kisah, segmen):
             '#sirahnabawiyah #kisahnabi #sunnahdaily #kajianislam #firandaandirja')
 
 
+def taksiran_detik(segmen):
+    """Taksiran durasi sebelum TTS (2,3 kata/detik + jeda + tahan kuis)."""
+    return sum(max(3.0, len(main.lisan(s['ucap']).split()) / 2.3) + 0.35 + (s.get('tahan') or 0) for s in segmen)
+
+
 def taksir_durasi(segmen, tmp):
     """Pratinjau tanpa TTS: wav hening sepanjang taksiran (2,3 kata/detik)."""
     import wave
@@ -215,7 +220,11 @@ def jalankan():
         raise SystemExit('EPISODE wajib diisi.')
     data = muat_episode(no)
     kisah = [k for k in data['kisah'] if k.get('layak')]
-    maks = os.environ.get('MAKS_KISAH')
+    # video pendek ±3 menit: 2-3 kisah. PILIH_KISAH="1,6" memilih kisah tertentu (urutan kisah yang layak, mulai 1).
+    pilih = [int(x) for x in re.findall(r'\d+', os.environ.get('PILIH_KISAH') or '')]
+    if pilih:
+        kisah = [kisah[i - 1] for i in pilih if 0 < i <= len(kisah)]
+    maks = os.environ.get('MAKS_KISAH') or ('3' if (os.environ.get('GAYA_NASKAH') or 'anak').lower() == 'anak' else '')
     if maks:
         kisah = kisah[:int(maks)]
     if not kisah:
@@ -229,7 +238,8 @@ def jalankan():
         for k in kisah:
             if pratinjau and not k.get('storyboard_ikon'):
                 k['storyboard_ikon'] = storyboard_ikon.rapikan({}, k, 'kisah')   # tanpa Gemini
-            simpan = os.path.join(CACHE, f"naskah_{k['id']}.json") if CACHE and not pratinjau else ''
+            # v2: naskah versi pendek (video ±3 menit); naskah panjang lama di cache tidak dipakai lagi
+            simpan = os.path.join(CACHE, f"naskah_v2_{k['id']}.json") if CACHE and not pratinjau else ''
             lama = None
             if simpan and os.path.exists(simpan):
                 with open(simpan, encoding='utf-8') as f:
@@ -253,7 +263,13 @@ def jalankan():
         with open(os.path.join(out, f'{nama}_naskah.json'), 'w', encoding='utf-8') as f:
             json.dump(naskah, f, ensure_ascii=False, indent=1)
     segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v})
-    log(f'   {len(segmen)} babak')
+    # jaga durasi ±3 menit: kisah terakhir dibuang selama taksiran melebihi target (minimal 2 kisah)
+    target = float(os.environ.get('DURASI_TARGET') or (200 if anak else 0))
+    while target and len(kisah) > 2 and taksiran_detik(segmen) > target:
+        log(f'   taksiran {taksiran_detik(segmen):.0f} detik > {target:.0f}: kisah {kisah[-1]["id"]} dilepas')
+        kisah = kisah[:-1]
+        segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v})
+    log(f'   {len(segmen)} babak, {len(kisah)} kisah, taksiran {taksiran_detik(segmen):.0f} detik')
     gemini.SUARA = os.environ.get('SUARA_PANJANG') or ('Laomedeia' if anak else 'Charon')
     gemini.GAYA_SUARA = os.environ.get('GAYA_SUARA_PANJANG') or (GAYA_SUARA_ANAK if anak else GAYA_SUARA)
 

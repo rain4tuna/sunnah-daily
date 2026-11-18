@@ -30,9 +30,9 @@ ATURAN KERAS:
 
 Kembalikan JSON saja:
 {{
- "bab": "1-2 kalimat pembuka kisah berupa pertanyaan pancingan yang bikin penasaran",
- "poin": [{{"narasi": "2-3 kalimat pendek menceritakan ulang poin itu", "label": "judul layar maks 5 kata"}}],
- "faedah": "1-2 kalimat 'Pelajaran buat kita: ...' yang nyambung ke kehidupan anak/remaja sehari-hari",
+ "bab": "1 kalimat pembuka kisah berupa pertanyaan pancingan yang bikin penasaran (maks 14 kata)",
+ "poin": [{{"narasi": "1-2 kalimat pendek (total maks 24 kata) menceritakan ulang poin itu; sebut perasaan/perbuatan tokohnya bila ADA di materi (mis. sedih, menangis, marah, gembira, menggali)", "label": "judul layar maks 5 kata"}}],
+ "faedah": "1 kalimat (maks 18 kata) 'Pelajaran buat kita: ...' yang nyambung ke kehidupan anak/remaja sehari-hari",
  "kuis": {{"tanya": "1 pertanyaan pendek yang jawabannya ADA di materi",
            "pilihan": ["3 jawaban singkat, maks 6 kata, hanya satu yang benar"], "jawab": 0}}
 }}
