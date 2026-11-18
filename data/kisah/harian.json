@@ -2013,7 +2013,7 @@
    ],
    "id": "h016",
    "topik": "Puasa Senin dan Kamis",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -2021,7 +2021,83 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah terpikir kenapa Rasulullah ﷺ begitu rutin berpuasa pada hari Senin dan Kamis?",
+     "ikon": [
+      "kalender"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "calendar",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rupanya, pada dua hari istimewa ini, seluruh amalan perbuatan kita disetorkan dan dilaporkan langsung ke langit.",
+      "label": "Amalan Dilaporkan ke Langit",
+      "ikon": [
+       "gulungan",
+       "bintang"
+      ],
+      "ilustrasi": "kota_malam",
+      "tokoh": "berdiri",
+      "stiker": [
+       "scroll",
+       "sky",
+       "stars"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ sangat suka jika saat catatan amal beliau diangkat, beliau sedang berada dalam keadaan berpuasa.",
+      "label": "Harapan Mulia Rasulullah ﷺ",
+      "ikon": [
+       "kurma"
+      ],
+      "ilustrasi": "hidangan",
+      "stiker": [
+       "dates",
+       "water"
+      ]
+     },
+     {
+      "narasi": "Betapa indahnya bila amalan puasa kita ikut menghiasi laporan mingguan tersebut di hadapan Allah.",
+      "label": "Menghiasi Laporan Mingguan",
+      "ikon": [
+       "cahaya",
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berdoa",
+      "stiker": [
+       "light",
+       "heart"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari kita rutinkan puasa Senin dan Kamis agar laporan amal mingguan kita makin bersinar.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "sun",
+      "dawn"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df4cuWiASNf/",
+   "fb": "https://www.facebook.com/reel/1621424389758652",
+   "yt": "https://youtube.com/shorts/DKZ4II-aWeA",
+   "waktu_posting": "2026-11-18T11:57:14"
   },
   {
    "judul_hook": "Pahala puasa sebulan penuh, mau?",
