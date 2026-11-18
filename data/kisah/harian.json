@@ -1891,7 +1891,7 @@
    ],
    "id": "h011",
    "topik": "Shalat dhuha",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -1899,7 +1899,84 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pagi yang sibuk sering kali membuat kita lupa memenuhi hak untuk tubuh kita sendiri.",
+     "ikon": [
+      "matahari"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "sun",
+      "clock"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Padahal, ratusan persendian di tubuh kita berhak mendapatkan sedekah setiap pagi.",
+      "label": "Hak Sedekah Persendian Tubuh",
+      "ikon": [
+       "koin",
+       "matahari"
+      ],
+      "ilustrasi": "sedekah",
+      "tokoh": "berdiri",
+      "stiker": [
+       "coins",
+       "morning"
+      ]
+     },
+     {
+      "narasi": "Kabar baiknya, Nabi ﷺ memberi tahu bahwa semua sedekah itu bisa dicukupi dengan amalan yang sangat mudah.",
+      "label": "Dicukupi Amalan Mudah",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "light",
+       "gift"
+      ]
+     },
+     {
+      "narasi": "Cukup luangkan waktu sejenak menunaikan dua rakaat shalat Dhuha, maka hak tubuh kita sudah tertunaikan.",
+      "label": "Dua Rakaat Shalat Dhuha",
+      "ikon": [
+       "sajadah",
+       "jam"
+      ],
+      "ilustrasi": "masjid",
+      "tokoh": "berdoa",
+      "stiker": [
+       "prayer rug",
+       "clock"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari sempatkan merutinkan shalat Dhuha minimal dua rakaat setiap hari, jangan sampai terlewat ya.",
+     "ikon": [
+      "tasbih"
+     ],
+     "ilustrasi": "lentera",
+     "tokoh": "berdoa",
+     "stiker": [
+      "beads",
+      "lantern"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df3s0v8iC3c/",
+   "fb": "https://www.facebook.com/reel/27005626765801142",
+   "yt": "https://youtube.com/shorts/FslzQjapf8M",
+   "waktu_posting": "2026-11-18T04:58:53"
   },
   {
    "judul_hook": "Rahasia di balik hari Senin!",
