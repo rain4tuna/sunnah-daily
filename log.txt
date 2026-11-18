@@ -1,0 +1,50 @@
+Episode: Sirah Nabawiyah #2 - Kerusakan Zaman Jahiliyah — 3 kisah: ep002-01, ep002-02, ep002-06
+   naskah anak: ep002-01=ok, ep002-02=ok, ep002-06=ok
+   taksiran 227 detik > 185: kisah ep002-06 dilepas
+   18 babak, 2 kisah, taksiran 166 detik
+   suara: Laomedeia
+   TTS kelompok 1/4 (1 babak)
+   TTS kelompok 2/4 (7 babak)
+   k02: jeda antar babak tidak jelas, dibacakan ulang per babak (7 permintaan): batas 2: jeda 0.72s vs kedua 0.48s di sekitar 11.2s (audio 50.2s, 12 jeda, terpanjang [1.14, 0.82, 0.82, 0.8, 0.72, 0.7, 0.68, 0.66, 0.48])
+   TTS kelompok 3/4 (7 babak)
+   k03: jeda antar babak tidak jelas, dibacakan ulang per babak (7 permintaan): batas 3: jeda 0.96s vs kedua 0.80s di sekitar 21.6s (audio 55.5s, 16 jeda, terpanjang [1.24, 1.16, 1.02, 0.96, 0.8, 0.76, 0.76, 0.68, 0.66])
+   TTS kelompok 4/4 (3 babak)
+   k04: jeda antar babak tidak jelas, dibacakan ulang per babak (3 permintaan): batas 2: jeda 0.46s vs kedua 0.44s di sekitar 22.7s (audio 40.4s, 15 jeda, terpanjang [3.34, 0.8, 0.78, 0.7, 0.7])
+   permintaan TTS: 21 (tanpa pengelompokan: 18)
+   SFX: 141 efek dipasang
+   Remotion 300/5185 frame
+   Remotion 600/5185 frame
+   Remotion 900/5185 frame
+   Remotion 1200/5185 frame
+   Remotion 1500/5185 frame
+   Remotion 1800/5185 frame
+   Remotion 2100/5185 frame
+   Remotion 2400/5185 frame
+   Remotion 2700/5185 frame
+   Remotion 3000/5185 frame
+   Remotion 3300/5185 frame
+   Remotion 3600/5185 frame
+   Remotion 3900/5185 frame
+   Remotion 4200/5185 frame
+   Remotion 4500/5185 frame
+   Remotion 4800/5185 frame
+   Remotion 5100/5185 frame
+   Remotion 5185/5185 frame
+Video 2.9 menit -> hasil/ep002_panjang.mp4
+
+Sirah Nabawiyah #2 - Kerusakan Zaman Jahiliyah | 2 pelajaran dalam satu video
+
+Ringkasan faedah dari kajian Sirah Nabawiyah #2 - Kerusakan Zaman Jahiliyah oleh Ust. Dr. Firanda Andirja, M.A.
+Kajian lengkap: https://www.youtube.com/watch?v=4qsVp72Obyo
+
+Daftar isi:
+0:00 Pembuka
+0:12 1. Kekejaman Jahiliyah Terhadap Anak Perempuan
+1:09 2. Jangan Takut Miskin Karena Anak
+2:39 Penutup
+
+Dalil yang disebutkan:
+1. QS. An-Nahl: 58
+2. QS. Al-Isra': 31
+
+#sirahnabawiyah #kisahnabi #sunnahdaily #kajianislam #firandaandirja

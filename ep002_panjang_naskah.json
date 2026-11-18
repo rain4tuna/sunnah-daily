@@ -1,0 +1,98 @@
+{
+ "ep002-01": {
+  "bab": "Bagaimana nasib anak perempuan pada zaman Jahiliyah dulu?",
+  "poin": [
+   {
+    "narasi": "Dulu, sebagian orang Arab merasa sangat malu dan marah saat anak perempuan mereka lahir.",
+    "label": "Malu dan Marah"
+   },
+   {
+    "narasi": "Mereka menganggap anak perempuan membawa aib, menambah beban nafkah, dan tidak bisa ikut berperang.",
+    "label": "Dianggap Beban dan Aib"
+   },
+   {
+    "narasi": "Sedih sekali, sebagian orang tua tega mengubur putri kecil mereka hidup-hidup ke dalam pasir.",
+    "label": "Dikubur Hidup-Hidup"
+   },
+   {
+    "narasi": "Lalu Islam datang menghapus tradisi ini dan memuliakan anak perempuan sebagai pembuka pintu surga!",
+    "label": "Islam Memuliakan Anak Perempuan"
+   }
+  ],
+  "faedah": "Pelajaran buat kita: ayo syukuri kehadiran setiap anak perempuan karena Islam sangat memuliakan mereka.",
+  "pancing": "Tahukah kamu bagaimana nasib anak perempuan pada zaman Jahiliyah dulu?",
+  "kuis": {
+   "tanya": "Menurut Islam, anak perempuan dimuliakan sebagai pembuka apa?",
+   "pilihan": [
+    "Pintu surga",
+    "Pintu rezeki",
+    "Kemenangan perang"
+   ],
+   "jawab": 0
+  }
+ },
+ "ep002-02": {
+  "bab": "Pernahkah kamu cemas punya banyak anak karena takut kekurangan harta?",
+  "poin": [
+   {
+    "narasi": "Dahulu, sebagian masyarakat Jahiliyah enggan punya anak. Mereka tega membunuhnya karena takut miskin dan kelaparan.",
+    "label": "Masa Jahiliyah yang Keliru"
+   },
+   {
+    "narasi": "Al-Qur'an melarang keras perbuatan itu. Ingat, Allah Yang Mahakaya menjamin rezeki semua hamba-Nya!",
+    "label": "Larangan Tegas Al-Qur'an"
+   },
+   {
+    "narasi": "Setiap anak yang lahir sudah membawa jaminan rezeki masing-masing dari Allah Ta'ala.",
+    "label": "Jaminan Rezeki Setiap Anak"
+   },
+   {
+    "narasi": "Jadi, berbaik sangkalah kepada Allah. Jangan pernah takut miskin karena punya banyak anak!",
+    "label": "Berbaik Sangka pada Allah"
+   }
+  ],
+  "faedah": "Pelajaran buat kita: Jangan pernah takut miskin karena Allah menjamin rezeki setiap anak yang lahir.",
+  "pancing": "Pernahkah kamu berpikir, apakah punya banyak anak bisa bikin seseorang jadi miskin?",
+  "kuis": {
+   "tanya": "Siapa yang menjamin rezeki setiap anak yang lahir ke bumi?",
+   "pilihan": [
+    "Allah Yang Mahakaya",
+    "Masyarakat Jahiliyah",
+    "Diri kita sendiri"
+   ],
+   "jawab": 0
+  }
+ },
+ "ep002-06": {
+  "bab": "Bagaimana ya Ka'bah terselamatkan dari amukan ribuan tentara bergajah?",
+  "poin": [
+   {
+    "narasi": "Raja Abrahah memimpin pasukan dari Yaman. Dengan angkuh, ia berniat meruntuhkan Ka'bah!",
+    "label": "Niat Angkuh Abrahah"
+   },
+   {
+    "narasi": "Saat untanya dirampas, kakek Nabi ﷺ dengan tenang yakin Allah Mahakuasa melindungi Ka'bah.",
+    "label": "Ketenangan Kakek Nabi ﷺ"
+   },
+   {
+    "narasi": "Saat mendekati kota suci, gajah-gajah itu mendadak bersimpuh. Mereka menolak maju ke Baitullah!",
+    "label": "Gajah Menolak Maju"
+   },
+   {
+    "narasi": "Allah menghujani pasukan zalim itu dengan batu-batu panas lewat kawanan burung Ababil hingga binasa.",
+    "label": "Pertolongan Burung Ababil"
+   }
+  ],
+  "faedah": "Pelajaran buat kita: Pasrahkan perlindungan kepada Allah, karena Dia sebaik-baik pelindung dari segala kezaliman.",
+  "pancing": "Tahukah kamu bagaimana Ka'bah selamat dari amukan pasukan gajah yang sangat kuat?",
+  "kuis": {
+   "tanya": "Siapa yang Allah kirim untuk menghujani pasukan zalim dengan batu panas?",
+   "pilihan": [
+    "Kawanan burung Ababil",
+    "Pasukan dari Yaman",
+    "Gajah-gajah besar"
+   ],
+   "jawab": 0
+  }
+ }
+}
