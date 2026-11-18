@@ -181,45 +181,138 @@ const Partikel: React.FC<{ aksi: Aksi; x: number; puncak: number; f: number; ara
       </>
     );
   }
-  if (aksi === "kaget") {
-    const p = interpolate(f, [0, 6, 12, 40, 50], [0, 1.3, 1, 1, 0], clamp);
-    return <div style={{ position: "absolute", left: x + 70, top: puncak - 40, fontFamily: theme.font.display, fontWeight: 700, fontSize: 110,
-      color: theme.colors.hero, transform: `translate(-50%,-50%) scale(${p}) rotate(${Math.sin(f / 3) * 8}deg)`,
-      textShadow: "0 6px 0 #a5701f, 0 12px 20px rgba(0,0,0,0.4)" }}>!</div>;
-  }
+  // kaget: tanda "!?" kini stiker di samping kepala (Stiker)
   return null;
 };
 
-/** Tokoh: masuk sambil berjalan (debu tiap langkah, mendarat memantul), lalu "hidup" sesuai aksinya. */
+// Aksi yang tetap berjalan mondar-mandir setelah tiba (tokoh tidak pernah berdiri kaku); gali & doa tetap di tempat.
+const LAJU_MONDAR: Partial<Record<Aksi, number>> = { bicara: 2.2, tunjuk: 2.2, senang: 2.6, kaget: 2.4, marah: 3.2, sedih: 1.2, nangis: 1.0 };
+
+/** Posisi tokoh pada frame ini: masuk berjalan, lalu mondar-mandir di sekitar t.x (dipakai Tokoh, stiker, awan). */
+const posisiTokoh = (t: TokohClay, ke: number, jumlah: number, frame: number, durationInFrames: number) => {
+  const aksi = t.aksi ?? "bicara";
+  const lewat = aksi === "lewat";
+  const lama = lewat ? durationInFrames : t.dari && t.jalan ? 48 : 0;
+  const f = frame - (4 + ke * 12);
+  const dariKiri = t.dari !== "kanan";
+  const awal = dariKiri ? -280 : W + 280;
+  const s = f - lama;                     // waktu sejak tiba
+  if (lewat) return { x: interpolate(f, [0, lama], [awal, dariKiri ? W + 280 : -280], clamp), f, s, lama, jalan: f >= 0, arah: dariKiri ? 1 : -1, masuk: false };
+  // sebelum mulai berjalan f negatif; Math.floor(-1/7) % 2 = -1 di JS -> jalan[-1] undefined -> staticFile error
+  if (lama > 0 && f < lama) {
+    return { x: interpolate(f, [0, lama], [awal, t.x], { ...clamp, easing: theme.ease.out }), f, s, lama, jalan: f >= 0, arah: dariKiri ? 1 : -1, masuk: true };
+  }
+  const laju = t.jalan && t.jalan.length > 1 ? LAJU_MONDAR[aksi] : undefined;
+  // kaget: melonjak dulu (22 frame) baru mondar-mandir
+  const mulaiMondar = aksi === "kaget" ? 22 : 14;
+  if (!laju || s < mulaiMondar) return { x: t.x, f, s, lama, jalan: false, arah: t.x < W / 2 ? 1 : -1, masuk: false };
+  // gelombang segitiga: bolak-balik +-A di sekitar t.x, mulai dari tengah ke arah lawan bicara/tengah layar
+  const A = jumlah >= 2 ? 120 : 190;
+  const awalArah = t.x < W / 2 ? 1 : -1;
+  const u = ((s - mulaiMondar) * laju + A) % (4 * A);
+  const maju = u < 2 * A;
+  const off = maju ? u - A : 3 * A - u;
+  return { x: t.x + off * awalArah, f, s, lama, jalan: true, arah: (maju ? 1 : -1) * awalArah, masuk: false };
+};
+
+/** Stiker ekspresi di samping kepala (simbol, BUKAN wajah emoji: wajah emoji punya mata). */
+const Stiker: React.FC<{ aksi: Aksi; x: number; puncak: number; s: number; arah: number; bicara: boolean }> = ({ aksi, x, puncak, s, arah, bicara }) => {
+  const { fps } = useVideoConfig();
+  let isi: React.ReactNode = null;
+  let warna = "#fffaf0";
+  if (aksi === "marah") {
+    warna = "#ffe9e4";
+    isi = (                                          // tanda urat marah (💢)
+      <svg viewBox="0 0 100 100" width="96" height="96">
+        {[0, 90, 180, 270].map((r) => (
+          <path key={r} d="M58 20 Q58 42 80 42" transform={`rotate(${r} 50 50)`} fill="none" stroke="#e0362c" strokeWidth="13" strokeLinecap="round" />
+        ))}
+      </svg>
+    );
+  } else if (aksi === "sedih" || aksi === "nangis") {
+    warna = "#e8f3ff";
+    isi = (                                          // tetes biru (sedih) / dua tetes (menangis)
+      <svg viewBox="0 0 100 100" width="96" height="96">
+        {(aksi === "nangis" ? [[34, 0], [66, 12]] : [[50, 4]]).map(([cx, dy], i) => (
+          <path key={i} d={`M${cx} ${18 + dy} C${cx + 22} ${48 + dy} ${cx + 20} ${74 + dy} ${cx} ${74 + dy} C${cx - 20} ${74 + dy} ${cx - 22} ${48 + dy} ${cx} ${18 + dy} Z`}
+            fill="#4da3e8" stroke="#2b78b8" strokeWidth="4" />
+        ))}
+      </svg>
+    );
+  } else if (aksi === "senang") {
+    warna = "#fff0f3";
+    isi = (                                          // hati
+      <svg viewBox="0 0 100 100" width="96" height="96">
+        <path d="M50 84 C14 58 10 34 28 24 C40 17 50 26 50 34 C50 26 60 17 72 24 C90 34 86 58 50 84 Z" fill="#ef4f6c" stroke="#b8304a" strokeWidth="4" />
+      </svg>
+    );
+  } else if (aksi === "kaget") {
+    isi = <div style={{ fontFamily: theme.font.display, fontWeight: 800, fontSize: 64, color: "#e8952a", lineHeight: 1 }}>!?</div>;
+  } else if (aksi === "doa") {
+    isi = <div style={{ fontSize: 56, color: theme.colors.hero, lineHeight: 1 }}>✦</div>;
+  } else if ((aksi === "bicara" || aksi === "tunjuk") && bicara) {
+    isi = (                                          // balon "sedang bicara": tiga titik bergantian
+      <div style={{ display: "flex", gap: 8 }}>
+        {[0, 1, 2].map((i) => <div key={i} style={{ width: 14, height: 14, borderRadius: 7, background: "#7a5a3a",
+          transform: `translateY(${-Math.max(0, Math.sin((s - i * 5) / 5)) * 8}px)` }} />)}
+      </div>
+    );
+  }
+  if (!isi) return null;
+  const p = spring({ frame: s - 6, fps, config: theme.spring.bouncy });
+  const goyang = Math.sin(dua(s) / 8) * 6;
+  return (
+    <div style={{ position: "absolute", left: x + 140 * arah, top: puncak - 40 + Math.sin(s / 14) * 6,
+      transform: `translate(-50%,-50%) scale(${p}) rotate(${goyang}deg)`, width: 140, height: 140, borderRadius: "50%",
+      background: warna, display: "flex", alignItems: "center", justifyContent: "center",
+      boxShadow: "inset -6px -8px 0 rgba(0,0,0,0.08), 0 10px 18px rgba(0,0,0,0.3)", border: "4px solid rgba(255,255,255,0.9)" }}>
+      {isi}
+      <div style={{ position: "absolute", bottom: -10, left: arah > 0 ? 18 : 98, width: 26, height: 26, borderRadius: "50%", background: warna,
+        boxShadow: "0 6px 10px rgba(0,0,0,0.2)" }} />
+    </div>
+  );
+};
+
+/** Tokoh: masuk sambil berjalan (debu tiap langkah), lalu terus mondar-mandir sambil beraksi sesuai emosinya. */
 const Tokoh: React.FC<{ t: TokohClay; ke: number; jumlah: number }> = ({ t, ke, jumlah }) => {
   const frame = useCurrentFrame();
   const { fps, durationInFrames } = useVideoConfig();
   const tinggi = t.tinggi ?? TINGGI_TOKOH;
   const aksi = t.aksi ?? "bicara";
   const lewat = aksi === "lewat";
-  const lama = lewat ? durationInFrames : t.dari && t.jalan ? 48 : 0;
-  const mulai = 4 + ke * 12;
-  const f = frame - mulai;
-  const dariKiri = t.dari !== "kanan";
-  const awal = dariKiri ? -280 : W + 280;
-  const x = lewat ? interpolate(f, [0, lama], [awal, dariKiri ? W + 280 : -280], clamp)
-    : lama ? interpolate(f, [0, lama], [awal, t.x], { ...clamp, easing: theme.ease.out }) : t.x;
-  // sebelum mulai berjalan f negatif; Math.floor(-1/7) % 2 = -1 di JS -> jalan[-1] undefined -> staticFile error
-  const berjalan = lama > 0 && f >= 0 && f < lama;
-  const s = f - lama;                     // waktu sejak tiba
+  const pos = posisiTokoh(t, ke, jumlah, frame, durationInFrames);
+  const { x, f, s, lama } = pos;
+  const berjalan = pos.jalan;
   const q = dua(frame);
-  // arah hadap: saat berjalan mengikuti arah jalan; setelah tiba menghadap ke tengah / ke lawan bicara
-  let hadap = berjalan ? (dariKiri ? 1 : -1) : (t.x < W / 2 ? 1 : -1);
-  let file = (berjalan ? t.jalan![Math.floor(f / 6) % 2] : undefined) ?? t.diam ?? t.jalan?.[0];
+  // langkah: tempo langkah ikut laju (sedih pelan menyeret, marah cepat menghentak)
+  const tempo = aksi === "sedih" || aksi === "nangis" ? 9 : aksi === "marah" ? 5 : 6;
+  const fl = pos.masuk || lewat ? f : s;
+  let hadap = pos.arah;
+  let file = (berjalan ? t.jalan![Math.floor(Math.max(0, fl) / (tempo * 2 / t.jalan!.length)) % t.jalan!.length] : undefined) ?? t.diam ?? t.jalan?.[0];
   let y = 0, rot = 0, sx = 1, sy = 1 + Math.sin(q / 14 + ke) * 0.015, gx = 0;
-  if (berjalan) {
+  const giliran = jumlah < 2 || Math.floor(Math.max(0, s) / 75) % jumlah === ke;
+  if (berjalan && (pos.masuk || lewat)) {
     y = -Math.abs(Math.sin(f / 6 * Math.PI)) * 16;
     rot = Math.sin(f / 6 * Math.PI) * 3;
+  } else if (berjalan) {
+    // mondar-mandir: ayunan langkah + gaya sesuai emosi
+    const ayun = Math.sin(fl / tempo * Math.PI);
+    y = -Math.abs(ayun) * (aksi === "sedih" || aksi === "nangis" ? 6 : 14);
+    rot = ayun * 3;
+    if (aksi === "senang") { const u = (s % 24) / 24; y = -Math.sin(u * Math.PI) * 34; rot = Math.sin(u * Math.PI * 2) * 5; }
+    else if (aksi === "sedih" || aksi === "nangis") {
+      sy *= 0.965; y += 8; rot = 4 * hadap + ayun * 1.5;
+      if (aksi === "nangis") gx = Math.sin(frame * 1.7) * 2.6;                 // bahu terisak
+    } else if (aksi === "marah") { gx = (acak(q) - 0.5) * 7; rot = 5 * hadap + ayun * 2; y = -Math.abs(ayun) * 20; }
+    else if ((aksi === "bicara" || aksi === "tunjuk") && giliran) { y -= Math.abs(Math.sin(q / 5)) * 6; }
+    if (t.aksiFile?.length && aksi !== "bicara" && aksi !== "tunjuk") {
+      // pose emosi (bila ada) diselingkan dengan langkah supaya ekspresinya terbaca
+      if (Math.floor(s / 40) % 3 === 2) file = t.aksiFile[Math.floor(s / 9) % t.aksiFile.length];
+    }
   } else if (s >= 0) {
     const mendarat = interpolate(s, [0, 5, 12], [0.9, 1.06, 1], clamp);      // squash saat berhenti
     sy *= mendarat; sx *= 2 - mendarat;
     // giliran bicara: bila dua tokoh, bergantian tiap 2,5 detik
-    const giliran = jumlah < 2 || Math.floor(s / 75) % jumlah === ke;
     if (aksi === "bicara" || aksi === "tunjuk") {
       if (giliran) { y = -Math.abs(Math.sin(q / 5)) * 9; rot = Math.sin(q / 9) * 2.5; }
       else rot = Math.sin(q / 25) * 1;
@@ -256,17 +349,19 @@ const Tokoh: React.FC<{ t: TokohClay; ke: number; jumlah: number }> = ({ t, ke, 
   }
   if (!file) return null;
   const muncul = lama ? (f >= 0 ? 1 : 0) : spring({ frame: f, fps, config: theme.spring.bouncy });
-  const langkah = berjalan ? Math.floor(f / 6) : -1;
+  const langkah = berjalan ? Math.floor(Math.max(0, fl) / tempo) : -1;
+  const puncak = TANAH - tinggi + y;
   return (
     <>
-      {berjalan && langkah % 2 === 0 ? <Debu x={x} f={f % 12} kuat={0.6} /> : null}
+      {berjalan && langkah % 2 === 0 ? <Debu x={x} f={Math.max(0, fl) % (tempo * 2)} kuat={pos.masuk || lewat ? 0.6 : 0.4} /> : null}
       {!lewat && s >= 0 && s < 16 ? <Debu x={x} f={s} kuat={1} /> : null}
       <div style={{ position: "absolute", left: x + gx, top: TANAH, opacity: muncul,
         transform: `translate(-50%, -100%) translateY(${y}px) rotate(${rot}deg) scale(${hadap * sx * (lama ? 1 : muncul)}, ${sy * (lama ? 1 : muncul)})`,
         transformOrigin: "50% 100%" }}>
         <Img src={staticFile(file)} style={{ height: tinggi, filter: "drop-shadow(0 18px 18px rgba(0,0,0,0.35))" }} />
       </div>
-      {!berjalan ? <Partikel aksi={aksi} x={x} puncak={TANAH - tinggi + y} f={s} arah={hadap} /> : null}
+      {!pos.masuk && !lewat ? <Partikel aksi={aksi} x={x} puncak={puncak} f={s} arah={hadap} /> : null}
+      {!pos.masuk && !lewat && s >= 0 ? <Stiker aksi={aksi} x={x} puncak={puncak} s={s} arah={x < W / 2 ? 1 : -1} bicara={giliran && jumlah >= 2} /> : null}
     </>
   );
 };
@@ -335,6 +430,7 @@ const Benda: React.FC<{ b: BendaClay; ke: number }> = ({ b, ke }) => {
 
 const Panggung: React.FC<{ a: AdeganClay }> = ({ a }) => {
   const frame = useCurrentFrame();
+  const { durationInFrames } = useVideoConfig();
   const kamera = useKamera(a, 1);
   const sedih = (a.tokoh ?? []).find((t) => t.aksi === "sedih" || t.aksi === "nangis");
   // masuk adegan: sedikit "pop" kamera supaya pergantian babak terasa hidup
@@ -347,7 +443,8 @@ const Panggung: React.FC<{ a: AdeganClay }> = ({ a }) => {
         {(a.figuran ?? []).map((g, i) => <Figuran key={`g${i}`} g={g} ke={i} />)}
         {(a.benda ?? []).map((b, i) => <Benda key={`b${i}`} b={b} ke={i} />)}
         {(a.tokoh ?? []).map((t, i) => <Tokoh key={`t${i}`} t={t} ke={i} jumlah={(a.tokoh ?? []).filter((k) => k.aksi !== "lewat").length} />)}
-        {sedih && a.hujan ? <AwanSedih file={a.hujan} x={sedih.x} puncak={TANAH - (sedih.tinggi ?? TINGGI_TOKOH)} /> : null}
+        {sedih && a.hujan ? <AwanSedih file={a.hujan} x={posisiTokoh(sedih, (a.tokoh ?? []).indexOf(sedih), (a.tokoh ?? []).filter((k) => k.aksi !== "lewat").length, frame, durationInFrames).x}
+          puncak={TANAH - (sedih.tinggi ?? TINGGI_TOKOH)} /> : null}
       </AbsoluteFill>
       {sedih ? <AbsoluteFill style={{ background: "rgba(30,50,80,0.18)", mixBlendMode: "multiply" }} /> : null}
     </AbsoluteFill>

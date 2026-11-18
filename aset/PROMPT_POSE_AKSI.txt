@@ -1,8 +1,10 @@
 PROMPT META AI - POSE AKSI TOKOH (supaya karakter video panjang lebih hidup)
 ==================================================================
 Video panjang sekarang sudah menggerakkan tokoh sesuai emosi narasi tanpa aset baru:
-  sedih (merunduk + awan mendung + rintik), nangis (terisak + air mata), senang (melompat + kilau),
-  marah (menghentak + uap), kaget (melonjak + tanda seru), bicara (bergantian, menoleh).
+  semua tokoh terus berjalan mondar-mandir (tidak berdiri kaku), dengan stiker ekspresi di samping kepala:
+  sedih (jalan pelan merunduk + awan mendung + stiker tetes), nangis (terisak + stiker dua tetes), senang (jalan
+  melompat + kilau + stiker hati), marah (jalan menghentak + uap + stiker urat marah), kaget (melonjak + stiker "!?"),
+  bicara (bergantian + stiker balon titik-titik).
 Pose di bawah membuat gerak itu jauh lebih jelas. Kode akan memakai pose ini otomatis begitu file-nya ada.
 
 CARA PAKAI (sama seperti PROMPT_ASET_META_AI.md):
@@ -27,6 +29,23 @@ P13  crying: standing with shoulders hunched and both hands covering the face, h
 P14  happy: jumping with joy, both arms raised high, one knee lifted, front view
 P15  digging, second step: same shovel, now lifting the shovel up over his shoulder with a scoop of sand on it,
      side 3/4 view facing right (pairs with P12 so the digging animates)
+
+P16  walking, passing pose: side 3/4 view facing right, both legs nearly together under the body, one foot lifted
+     slightly off the ground, arms close to the body, body a little higher than in P03 (between P03 and P04 steps)
+P17  walking, passing pose (other leg): same as P16 but the OTHER foot lifted, arms swapped
+     -> P03, P16, P04, P17 jadi siklus jalan 4 gambar: langkah jauh lebih halus, tidak "loncat-loncat".
+        Kode langsung memakainya bila P16 DAN P17 ada (sejak tokoh dibuat terus mondar-mandir, ini paling terasa).
+
+------------------------------------------------------------------
+SARAN AUDIT (18 Nov 2026) - urutan paling berdampak untuk gerak yang natural
+------------------------------------------------------------------
+1. P16 + P17 untuk K01, K03, K05, K08 (8 gambar): tokoh kini berjalan sepanjang adegan, jadi siklus jalan
+   2 gambar paling sering terlihat kaku.
+2. P10 marah + P09 sedih untuk K01 dan K03 (4 gambar): babak "malu dan marah", "takut miskin" paling sering.
+3. P14 senang untuk K05 dan K08 (2 gambar): babak "Islam memuliakan anak perempuan".
+4. P12 + P15 menggali K03 (2 gambar): babak mengubur.
+Stiker ekspresi (marah, sedih, senang, kaget, bicara) sudah digambar oleh kode, tidak perlu aset.
+Wajah emoji sengaja TIDAK dipakai karena punya mata.
 
 ------------------------------------------------------------------
 PRIORITAS (dibuat dulu yang paling sering tampil)

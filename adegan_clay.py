@@ -71,7 +71,8 @@ UMUM = [
     (r'musyrik|quraisy|pembesar|kafir|utusan|menyogok|suap', ['k02', 'k01']),
     (r'muslimin|muhajirin|pemuda', ['k03']),
     (r'raja romawi|heraklius|kaisar|persia', ['k09']), (r'prajurit|pasukan|tentara', ['k10']),
-    (r'\bayah\b|bapak', ['k03', 'k01']), (r'\banak\b|bayi|yatim', ['k07', 'k08']), (r'\bibu\b|wanita|perempuan', ['k05']),
+    (r'\bayah\b|bapak', ['k03', 'k01']), (r'anak perempuan|putri|bayi perempuan', ['k08']),
+    (r'\banak\b|bayi|yatim', ['k07', 'k08']), (r'\bibu\b|wanita|perempuan', ['k05']),
     (r'', ['k03', 'k01']),
 ]
 # benda cadangan supaya adegan tanpa tokoh/klip tidak kosong
@@ -124,7 +125,9 @@ def _tokoh(kode, d, x, dari=None, aksi='bicara'):
     if f'{kode}_p02' in d:
         t['samping'] = d[f'{kode}_p02']['file']
     if dari and f'{kode}_p03' in d and f'{kode}_p04' in d:
-        t.update(jalan=[d[f'{kode}_p03']['file'], d[f'{kode}_p04']['file']], dari=dari)
+        # siklus jalan 4 gambar bila pose antara ada (P16/P17, lihat aset/PROMPT_POSE_AKSI.txt): p03, p16, p04, p17
+        urut = ['p03', 'p16', 'p04', 'p17'] if f'{kode}_p16' in d and f'{kode}_p17' in d else ['p03', 'p04']
+        t.update(jalan=[d[f'{kode}_{p}']['file'] for p in urut], dari=dari)
     pose = [d[f'{kode}_{p}']['file'] for p in POSE_AKSI.get(aksi, []) if f'{kode}_{p}' in d]
     if aksi == 'gali' and len(pose) < 2:
         t['aksi'] = 'sedih'                      # belum ada pose menggali: cukup tampak sedih (tanpa adegan menggali)
