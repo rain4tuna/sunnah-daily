@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 106 video. Waktu dalam WIB, terbaru di atas.
+Total: 107 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 18 Nov 2026 15.48 | ep013-07 | Menolak Membalas Memilih Mendoakan | HR. Bukhari no. 3231 dan Muslim no. 1795 (shahih) | [IG](https://www.instagram.com/reel/Df4HG1umICP/) · [YouTube](https://youtube.com/shorts/RopL29D7InA) · [FB](https://www.facebook.com/reel/1139918475448312) |
 | 18 Nov 2026 11.58 | h011 | Dua Rakaat Senilai Ratusan Sedekah | HR. Muslim no. 720 (shahih) | [IG](https://www.instagram.com/reel/Df3s0v8iC3c/) · [YouTube](https://youtube.com/shorts/FslzQjapf8M) · [FB](https://www.facebook.com/reel/27005626765801142) |
 | 18 Nov 2026 05.29 | ep013-06 | Luka Paling Pedih di Thaif | HR. Bukhari no. 3231 & Muslim no. 1795 (shahih) | [IG](https://www.instagram.com/reel/Df3AP9ek2DZ/) · [YouTube](https://youtube.com/shorts/WMxv5ichs1Y) · [FB](https://www.facebook.com/reel/2231982010726285) |
 | 17 Nov 2026 21.21 | ep013-05 | Tangisan Al-Qur'an Penakluk Hati | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/Df2IZYfDo3U/) · [YouTube](https://youtube.com/shorts/zF024oqYaoc) · [FB](https://www.facebook.com/reel/2745424085888072) |

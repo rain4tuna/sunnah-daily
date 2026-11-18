@@ -729,9 +729,10 @@
     "jenis": "hadits",
     "arab": "بَلْ أَرْجُو أَنْ يُخْرِجَ اللَّهُ مِنْ أَصْلَابِهِمْ مَنْ يَعْبُدُ اللَّهَ وَحْدَهُ لَا يُشْرِكُ بِهِ شَيْئًا",
     "terjemah": "Bahkan aku berharap Allah mengeluarkan dari tulang sulbi mereka orang yang menyembah Allah semata dan tidak menyekutukan-Nya dengan sesuatu pun.",
-    "sumber": "HR. Bukhari no. 3231 & Muslim no. 1795",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "sumber": "HR. Bukhari no. 3231 dan Muslim no. 1795",
+    "derajat": "shahih",
+    "penilai": "Muttafaqun 'alaih (Imam Al-Bukhari & Imam Muslim)",
+    "rujukan": "https://sunnah.com/bukhari:3231"
    },
    "faedah": "Balaslah keburukan dengan doa dan kebaikan, bukan dengan dendam kesumat.",
    "latar_faedah": "kitab",
@@ -741,7 +742,95 @@
     "doa Nabi"
    ],
    "id": "ep013-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti peristiwa tawaran Malaikat Gunung dan sikap pemaaf Rasulullah ﷺ berstatus shahih (HR. Bukhari no. 3231 & Muslim no. 1795). Namun, detail bahwa beliau 'terduduk berlumuran darah' saat Malaikat Gunung datang merupakan percampuran latar dari riwayat sirah (pelemparan batu). Dalam redaksi hadits shahih Bukhari-Muslim, Malaikat Gunung datang menyapa di bawah naungan awan bersama Jibril saat Nabi ﷺ berjalan dirundung duka mendalam hingga tersadar di Qarn ats-Tsa'alib.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO1zV0V_MWDCZM4RjJNNLRpq5mmt7WVktgPFHMizuZMNgS5ufaaWjWAQ8R99C-zLW4tGI06a6a_1LrJKqT5Aj4qyRhBcNUZvP9TVKnHwO3bTCTDn0h",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH474q2E-sxgkGaVco2WU9-O5YT75FJWAq7xP4he2YFtE93K3LFOdB-K9VxeIKE6mIen36NaKC88WjFyzT_PdE71TJbETmRohAcpqekAMBBpKrYlw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTvQI5adfibNj2Xyv7dBikFkiZKhEhKsgaJRfsyc9Z6eGhEL84M7CYELaPgxc4WLg6jcsn_YFZJHVdI-wNAGKI0-ii1kbu0f9Q60eyxKBMfBdRMDvE7bpAcXBJt8TIGB0cqCPn6g==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFO1zV0V_MWDCZM4RjJNNLRpq5mmt7WVktgPFHMizuZMNgS5ufaaWjWAQ8R99C-zLW4tGI06a6a_1LrJKqT5Aj4qyRhBcNUZvP9TVKnHwO3bTCTDn0h",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH474q2E-sxgkGaVco2WU9-O5YT75FJWAq7xP4he2YFtE93K3LFOdB-K9VxeIKE6mIen36NaKC88WjFyzT_PdE71TJbETmRohAcpqekAMBBpKrYlw=="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Maukah kita tetap memaafkan orang yang telah melukai hati kita?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "wound"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat Rasulullah ﷺ terluka sepulang dari Thaif, Malaikat Gunung menawarkan untuk menimpakan dua gunung besar ke atas kaum yang menyakiti beliau.",
+      "label": "Tawaran Malaikat Gunung",
+      "ikon": [
+       "gunung"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "mountain",
+       "storm",
+       "rock"
+      ]
+     },
+     {
+      "narasi": "Namun, Rasulullah ﷺ menolak tawaran tersebut dengan dada lapang dan penuh kasih sayang.",
+      "label": "Menolak Membalas Dendam",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Beliau justru berdoa penuh harap, semoga kelak dari keturunan mereka lahir orang-orang yang mentauhidkan Allah tanpa menyekutukan-Nya.",
+      "label": "Doa Penuh Kasih",
+      "ikon": [
+       "bintang",
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sunrise",
+       "sky",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Balaslah setiap keburukan dengan doa dan kebaikan, bukan dengan dendam kesumat.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis aamiin di komentar",
+     "narasi": "Tulis aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df4HG1umICP/",
+   "fb": "https://www.facebook.com/reel/1139918475448312",
+   "yt": "https://youtube.com/shorts/RopL29D7InA",
+   "waktu_posting": "2026-11-18T08:48:17"
   },
   {
    "menit": "38:30",
