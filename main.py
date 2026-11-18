@@ -21,6 +21,7 @@ import sys
 import tempfile
 
 import animasi_ikon
+import caption_ig
 import ekstrak
 import fb
 import harian
@@ -36,8 +37,7 @@ import yt
 ROOT = os.path.dirname(os.path.abspath(__file__))
 SAW = 'ﷺ'
 UCAP = "shallallahu 'alaihi wa sallam"
-HASHTAG = ['sunnahdaily', 'sirahnabawiyah', 'kisahnabi', 'kisahislami', 'hadits', 'sunnah', 'dakwah',
-           'nasihatislam', 'rasulullah', 'belajarislam']
+HASHTAG = ['sunnahdaily', 'sirahnabawiyah']   # + tema video; total maks 5 (lihat caption_ig.tagar)
 
 
 def log(*a):
@@ -84,18 +84,12 @@ def detik(menit):
 
 
 def caption(k, ep):
-    dl = k['dalil']
-    derajat = f" · {dl['derajat'].capitalize()}" if dl.get('jenis') in ('hadits', 'atsar') and dl.get('derajat') else ''
-    if dl.get('derajat') == 'lemah':
-        derajat += ' (lemah, bukan dalil)'
-    isi = ' '.join(a['narasi'] for a in k['adegan'])
+    # Kisah sirah dibiarkan satu paragraf (prosa bercerita). Tautan kajian tetap dicantumkan sebagai kredit
+    # kepada ustadz, walau tautan di caption tidak bisa diklik.
     tautan = ep['url'] + (f"&t={detik(k.get('menit'))}s" if detik(k.get('menit')) else '')
-    tag = HASHTAG + [re.sub(r'\W', '', t.lower()) for t in k.get('tema', [])][:3]
-    return (f"{k['judul_hook']} 🌙\n\n{isi}\n\n"
-            f"📖 {dl['terjemah']}\n({dl['sumber']}{derajat})\n\n"
-            f"🤍 Faedah: {k['faedah']}\n\n"
-            f"Faedah dari kajian {ep['judul']}, Ust. Dr. Firanda Andirja, M.A.\nKajian lengkap: {tautan}\n\n"
-            + ' '.join('#' + t for t in dict.fromkeys(tag) if t))
+    kredit = f"Dari kajian {ep['judul']}, Ust. Dr. Firanda Andirja, M.A.\nKajian lengkap: {tautan}"
+    return caption_ig.susun(k['judul_hook'], [' '.join(a['narasi'] for a in k['adegan'])], k['dalil'],
+                            k['faedah'], k.get('tema', []), HASHTAG, kredit=kredit)
 
 
 def pilih(eps, no_ep=None, no_kisah=None):

@@ -11,6 +11,7 @@ import csv
 import json
 import os
 
+import caption_ig
 import ekstrak
 import gemini
 
@@ -108,11 +109,5 @@ def pilih(no=None):
 
 
 def caption(k):
-    dl = k['dalil']
-    derajat = f" · {dl['derajat'].capitalize()}" if dl.get('jenis') == 'hadits' and dl.get('derajat') else ''
-    isi = ' '.join(a['narasi'] for a in k['adegan'])
-    tag = ['sunnahdaily', 'sunnahharian', 'sunnah', 'hadits', 'amalansunnah', 'adabislami', 'belajarislam',
-           'nasihatislam', 'dakwah'] + [t.replace(' ', '').lower() for t in k.get('tema', [])][:3]
-    return (f"{k['judul_hook']} 🌙\n\n{isi}\n\n📖 {dl['terjemah']}\n({dl['sumber']}{derajat})\n\n"
-            f"🤍 {k['faedah']}\n\nSimpan & bagikan, semoga jadi amal jariyah.\n\n"
-            + ' '.join('#' + t for t in dict.fromkeys(tag) if t))
+    return caption_ig.susun(k['judul_hook'], [a['narasi'] for a in k['adegan']], k['dalil'], k['faedah'],
+                            k.get('tema', []), ['sunnahdaily', 'sunnahharian'])
