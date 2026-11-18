@@ -850,10 +850,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "لَوْ كَانَ الْمُطْعِمُ بْنُ عَدِيٍّ حَيًّا ثُمَّ كَلَّمَنِي فِي هَؤُلَاءِ النَّتْنَى لَتَرَكْتُهُمْ لَهُ",
-    "terjemah": "Seandainya Al-Mut'im bin 'Adi masih hidup lalu berbicara kepadaku tentang orang-orang busuk ini, niscaya aku serahkan mereka kepadanya.",
+    "terjemah": "Seandainya Al-Mut'im bin 'Adi masih hidup, lalu ia berbicara kepadaku mengenai orang-orang berbau busuk ini (para tawanan), niscaya aku serahkan mereka kepadanya.",
     "sumber": "HR. Bukhari no. 4024",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:4024"
    },
    "faedah": "Ingat dan balaslah kebaikan orang lain, sekalipun ia berbeda keyakinan dengan kita.",
    "latar_faedah": "kitab",
@@ -863,7 +864,89 @@
     "keadilan"
    ],
    "id": "ep013-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah dan dalil shahih. Al-Mut'im bin 'Adi wafat beberapa bulan sebelum Perang Badar. Sabda Nabi ﷺ diucapkan saat menangani para tawanan seusai Perang Badar (maksud kalimat narasi adalah bertahun-tahun berlalu sejak peristiwa Thaif hingga usai Perang Badar, bukan bertahun-tahun setelah Badar berlalu).",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana Rasulullah ﷺ membalas budi dan jasa baik seorang musyrik?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "lantern",
+      "heart"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sepulang dari Thaif, Rasulullah ﷺ hanya bisa masuk kembali ke Makkah berkat jaminan keamanan seorang tokoh musyrik Quraisy yang dermawan, Al-Mut'im bin 'Adi.",
+      "label": "Jaminan Masuk Makkah",
+      "ikon": [
+       "kabah",
+       "pintu"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "gate",
+       "city",
+       "desert"
+      ]
+     },
+     {
+      "narasi": "Tahun-tahun berlalu usai Perang Badar, beliau tak pernah melupakan kebaikan tersebut.",
+      "label": "Tak Melupakan Kebaikan",
+      "ikon": [
+       "kalender",
+       "jam"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "calendar",
+       "clock",
+       "night"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ bersabda, andai Al-Mut'im masih hidup lalu meminta pembebasan seluruh tawanan musyrikin Makkah, niscaya Nabi ﷺ lepaskan semuanya tanpa tebusan.",
+      "label": "Budi Dibalas Tuntas",
+      "ikon": [
+       "kunci",
+       "timbangan"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "key",
+       "sunrise"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Ingat dan balaslah kebaikan orang lain, sekalipun ia berbeda keyakinan dengan kita.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "sun"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan kisah penuh teladan ini",
+     "narasi": "Bagikan kisah penuh teladan ini. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df4t0u9j8J3/",
+   "fb": "https://www.facebook.com/reel/1775477893541605",
+   "yt": "https://youtube.com/shorts/l_T7kgZMkls",
+   "waktu_posting": "2026-11-18T14:26:53"
   }
  ]
 }
