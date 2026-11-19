@@ -385,12 +385,13 @@
     }
    ],
    "dalil": {
-    "jenis": "hadits",
-    "arab": "أَعُوذُ بِوَجْهِ اللَّهِ الْكَرِيمِ وَبِكَلِمَاتِ اللَّهِ التَّامَّاتِ الَّتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ",
-    "terjemah": "Aku berlindung dengan wajah Allah yang Maha Mulia dan kalimat-kalimat Allah yang sempurna, yang tidak dapat dilampaui oleh orang baik maupun orang jahat...",
-    "sumber": "HR. Malik dalam Al-Muwaththa'",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "jenis": "atsar",
+    "arab": "أُسْرِيَ بِرَسُولِ اللَّهِ صلى الله عليه وسلم فَرَأَى عِفْرِيتًا مِنَ الْجِنِّ يَطْلُبُهُ بِشُعْلَةٍ مِنْ نَارٍ ... فَقُلْ أَعُوذُ بِوَجْهِ اللَّهِ الْكَرِيمِ وَبِكَلِمَاتِ اللَّهِ التَّامَّاتِ اللَّاتِي لَا يُجَاوِزُهُنَّ بَرٌّ وَلَا فَاجِرٌ",
+    "terjemah": "Rasulullah ﷺ diperjalankan pada malam Isra, lalu beliau melihat Ifrit dari golongan jin mengejar beliau dengan obor api... (Jibril berkata:) Ucapkanlah: Aku berlindung dengan wajah Allah Yang Maha Mulia dan dengan kalimat-kalimat Allah yang sempurna, yang tidak dapat dilampaui oleh orang baik maupun orang jahat.",
+    "sumber": "Malik, Al-Muwaththa' (riwayat Yahya, Kitab Asy-Sya'r, no. 1742 penomoran sunnah.com), dari Yahya bin Sa'id Al-Anshari",
+    "derajat": "lemah",
+    "penilai": "Sanadnya mursal/terputus: Yahya bin Sa'id Al-Anshari adalah tabi'in dan tidak menyebut sahabat yang meriwayatkannya",
+    "rujukan": ""
    },
    "faedah": "Bentengi diri dari godaan setan dengan senantiasa membaca doa perlindungan yang diajarkan syariat.",
    "latar_faedah": "kitab",
@@ -400,7 +401,15 @@
     "keutamaan dzikir"
    ],
    "id": "ep014-04",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Seluruh alur kisah (Ifrit mengejar dengan obor saat Isra, Jibril mengajarkan doa hingga obor padam) hanya bersumber dari riwayat mursal Yahya bin Sa'id di Al-Muwaththa', jadi sanadnya lemah. Detail 'api neraka' dan 'semakin mendekat untuk mencelakai' juga tidak ada di teks. Teks doa yang dikutip ustadz pun berbeda: di Muwaththa' tertulis اللَّاتِي, bukan الَّتِي. Ada hadits lain tentang jin yang membawa api dengan doa serupa (Ahmad, dari Abdurrahman bin Khanbasy), tetapi tidak terkait Isra dan derajatnya belum bisa saya pastikan.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "18:23",
@@ -425,9 +434,10 @@
     "jenis": "hadits",
     "arab": "",
     "terjemah": "Ini adalah aroma Masyithah (tukang sisir) putri Fir'aun dan anak-anaknya.",
-    "sumber": "HR. Ahmad dan Ibnu Hibban",
-    "derajat_kata_ustadz": "hasan",
-    "dari_video": true
+    "sumber": "HR. Ahmad (no. 2821) dan Ibnu Hibban, dari Ibnu 'Abbas",
+    "derajat": "",
+    "penilai": "Diperselisihkan: Al-Hakim menshahihkan sanadnya dan Ibnu Katsir berkata 'la ba'sa bih'; ada pula nukilan yang melemahkannya. Pendapat Syaikh Al-Albani belum bisa saya pastikan dari sumber primer.",
+    "rujukan": ""
    },
    "faedah": "Keteguhan memegang tauhid akan berbuah kemuliaan abadi di sisi Allah, meski nyawa taruhannya.",
    "latar_faedah": "lentera",
@@ -437,7 +447,15 @@
     "kisah masyithah"
    ],
    "id": "ep014-05",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Belum bisa diverifikasi: situs rujukan (dorar, sunnah.com, dll.) tidak bisa dibuka dari lingkungan pemeriksa, dan riwayat Ahmad 2821 tidak ada di database offline yang tersedia. Teks Arab dan derajatnya tidak bisa dipastikan, sementara penilaian ulama yang ditemukan lewat pencarian saling berbeda. Jalur lain (Ibnu Majah 4030, dari Ubay bin Ka'b) berisi kisah Khidir yang panjang dan dinilai lemah. Kisah ini ditahan sampai ada pengecekan manual.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "24:22",
@@ -446,25 +464,26 @@
    "latar_hook": "lentera",
    "adegan": [
     {
-     "narasi": "Di langit dunia, Rasulullah ﷺ diperlihatkan pemandangan kaum yang lidah dan bibirnya digunting dengan gunting dari api neraka.",
+     "narasi": "Pada malam Isra, Rasulullah ﷺ melewati suatu kaum yang bibir mereka digunting dengan gunting dari api.",
      "latar": "langit"
     },
     {
-     "narasi": "Setiap kali terpotong dan putus, lidah serta bibir itu utuh kembali dan digunting lagi tanpa henti.",
+     "narasi": "Beliau pun bertanya kepada Jibril, siapakah mereka yang disiksa seperti itu?",
      "latar": "lentera"
     },
     {
-     "narasi": "Jibril menjelaskan, mereka adalah para penceramah yang gemar menyuruh kebaikan, namun diri mereka sendiri melupakannya.",
+     "narasi": "Jibril menjelaskan, mereka adalah para penceramah dari umat beliau yang mengatakan apa yang tidak mereka kerjakan.",
      "latar": "kitab"
     }
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنسَوْنَ أَنفُسَكُمْ وَأَنتُمْ تَتْلُونَ الْكِتَابَ أَفَلَا تَعْقِلُونَ",
-    "terjemah": "Mengapa kamu suruh orang lain (mengerjakan) kebaktian, sedang kamu melupakan diri (kewajiban)-mu sendiri, padahal kamu membaca Al Kitab? Maka tidakkah kamu berpikir?",
+    "arab": "أَتَأْمُرُونَ النَّاسَ بِالْبِرِّ وَتَنْسَوْنَ أَنْفُسَكُمْ وَأَنْتُمْ تَتْلُونَ الْكِتَابَ ۚ أَفَلَا تَعْقِلُونَ",
+    "terjemah": "Mengapa kamu menyuruh orang lain (mengerjakan) kebajikan, sedangkan kamu melupakan dirimu sendiri, padahal kamu membaca Al-Kitab? Maka tidakkah kamu berpikir?",
     "sumber": "QS. Al-Baqarah: 44",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.com/2/44"
    },
    "faedah": "Sebelum membagikan nasihat kepada orang lain, amalkanlah terlebih dahulu pada diri kita sendiri.",
    "latar_faedah": "kitab",
@@ -474,7 +493,15 @@
     "peringatan da'i"
    ],
    "id": "ep014-06",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Pemandangan ini berasal dari hadits Anas: 'Aku melewati, pada malam aku diisrakan, kaum yang bibir mereka digunting dengan gunting dari api. Aku bertanya: Siapa mereka, wahai Jibril? Ia menjawab: Para penceramah dari umatmu yang mengatakan apa yang tidak mereka kerjakan' (HR. Ahmad no. 13421 dan lainnya; dishahihkan Syaikh Al-Albani dalam Shahih At-Targhib no. 125, menurut ringkasan Ad-Durar As-Saniyyah). Detail 'utuh kembali lalu digunting lagi tanpa henti' dan lokasi 'langit dunia' tidak saya temukan di riwayat yang terverifikasi, jadi narasinya diperbaiki. 'Lidah' hanya ada di sebagian jalur (Ibnu Mardawaih, dinukil Ibnu Katsir), maka narasi difokuskan pada bibir. Judul hook masih menyebut 'lidah'.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "32:38",
@@ -497,11 +524,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا وَسَيَصْلَوْنَ سَعِيرًا",
-    "terjemah": "Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api sepenuh perutnya dan mereka akan masuk ke dalam api yang menyala-nyala.",
+    "arab": "إِنَّ الَّذِينَ يَأْكُلُونَ أَمْوَالَ الْيَتَامَىٰ ظُلْمًا إِنَّمَا يَأْكُلُونَ فِي بُطُونِهِمْ نَارًا ۖ وَسَيَصْلَوْنَ سَعِيرًا",
+    "terjemah": "Sesungguhnya orang-orang yang memakan harta anak yatim secara zalim, sebenarnya mereka itu menelan api sepenuh perutnya, dan mereka akan masuk ke dalam api yang menyala-nyala (neraka).",
     "sumber": "QS. An-Nisa': 10",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.com/4/10"
    },
    "faedah": "Jaga amanah dan jauhi mengambil hak orang lain, terutama harta anak yatim dan dana umat.",
    "latar_faedah": "lentera",
@@ -511,7 +539,15 @@
     "dosa besar"
    ],
    "id": "ep014-07",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Gambaran kaum berbibir seperti bibir unta yang menelan batu api hingga keluar dari dubur berasal dari hadits panjang Isra riwayat Abu Sa'id Al-Khudri (Ath-Thabari dalam tafsirnya, Ibnu Abi Hatim, Al-Baihaqi). Porosnya ada pada Abu Harun Al-'Abdi ('Umarah bin Juwain), perawi yang matruk dan bahkan dituduh berdusta, sehingga riwayatnya sangat lemah. Ayatnya shahih, tetapi kisah adegannya tidak bisa dinisbatkan kepada Nabi ﷺ.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "37:19",
@@ -520,11 +556,11 @@
    "latar_hook": "lentera",
    "adegan": [
     {
-     "narasi": "Rasulullah ﷺ melewati suatu kaum yang memiliki kuku-kuku panjang terbuat dari tembaga.",
+     "narasi": "Ketika dimi'rajkan, Rasulullah ﷺ melewati suatu kaum yang memiliki kuku-kuku dari tembaga.",
      "latar": "langit"
     },
     {
-     "narasi": "Dengan kuku tersebut, mereka mencakar-cakar wajah dan dada mereka sendiri dengan penuh kepedihan.",
+     "narasi": "Dengan kuku tersebut, mereka mencakar-cakar wajah dan dada mereka sendiri.",
      "latar": "lentera"
     },
     {
@@ -534,11 +570,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "",
-    "terjemah": "Mereka adalah orang-orang yang memakan daging manusia (mengghibah) dan merusak kehormatan mereka.",
-    "sumber": "HR. Abu Dawud dan Ahmad",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "لَمَّا عُرِجَ بِي مَرَرْتُ بِقَوْمٍ لَهُمْ أَظْفَارٌ مِنْ نُحَاسٍ يَخْمِشُونَ وُجُوهَهُمْ وَصُدُورَهُمْ فَقُلْتُ مَنْ هَؤُلَاءِ يَا جِبْرِيلُ قَالَ هَؤُلَاءِ الَّذِينَ يَأْكُلُونَ لُحُومَ النَّاسِ وَيَقَعُونَ فِي أَعْرَاضِهِمْ",
+    "terjemah": "Ketika aku dimi'rajkan, aku melewati suatu kaum yang memiliki kuku dari tembaga; mereka mencakar wajah dan dada mereka. Aku bertanya, 'Siapa mereka, wahai Jibril?' Ia menjawab, 'Mereka adalah orang-orang yang memakan daging manusia (berghibah) dan merusak kehormatan mereka.'",
+    "sumber": "HR. Abu Dawud no. 4878, dari Anas bin Malik",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/abudawud:4878"
    },
    "faedah": "Tahan lisan dari membicarakan aib orang lain agar Allah menjaga kehormatan kita di akhirat.",
    "latar_faedah": "kitab",
@@ -548,7 +585,15 @@
     "kehormatan muslim"
    ],
    "id": "ep014-08",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah sesuai hadits. Kata 'panjang' pada kuku tidak ada dalam teks, jadi dihapus. Peristiwanya terjadi saat Mi'raj.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   }
  ]
 }

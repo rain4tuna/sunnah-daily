@@ -2388,6 +2388,705 @@
     ]
    },
    "layak": true
+  },
+  {
+   "judul_hook": "Doa Nabi Saat Naik Kendaraan",
+   "narasi_hook": "Sebelum menyalakan motor atau masuk ke mobil, sudahkah kamu membaca doa yang diajarkan Rasulullah ﷺ ini?",
+   "adegan": [
+    {
+     "narasi": "Ketika Rasulullah ﷺ sudah duduk di atas untanya untuk bepergian, beliau bertakbir tiga kali: Allahu akbar."
+    },
+    {
+     "narasi": "Lalu beliau membaca: Subhanalladzi sakhkhara lana hadza wa ma kunna lahu muqrinin, wa inna ila rabbina lamunqalibun."
+    },
+    {
+     "narasi": "Artinya: Mahasuci Allah yang menundukkan kendaraan ini untuk kami, padahal kami tak mampu menguasainya, dan kepada Rabb kamilah kami akan kembali."
+    },
+    {
+     "narasi": "Doa ini mengingatkan kita bahwa kendaraan adalah nikmat dari Allah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "كَانَ إِذَا اسْتَوَى عَلَى بَعِيرِهِ خَارِجًا إِلَى سَفَرٍ كَبَّرَ ثَلاَثًا ثُمَّ قَالَ سُبْحَانَ الَّذِي سَخَّرَ لَنَا هَذَا وَمَا كُنَّا لَهُ مُقْرِنِينَ وَإِنَّا إِلَى رَبِّنَا لَمُنْقَلِبُونَ",
+    "terjemah": "Apabila Rasulullah ﷺ telah duduk di atas untanya untuk keluar bepergian, beliau bertakbir tiga kali, lalu membaca: Mahasuci Allah yang telah menundukkan (kendaraan) ini untuk kami, padahal sebelumnya kami tidak mampu menguasainya, dan sesungguhnya kami akan kembali kepada Rabb kami.",
+    "sumber": "HR. Muslim no. 1342",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:1342"
+   },
+   "faedah": "Biasakan bertakbir dan membaca doa ini setiap kali naik kendaraan untuk bepergian.",
+   "tema": [
+    "doa safar",
+    "kendaraan",
+    "dzikir"
+   ],
+   "alasan": "Hadits shahih riwayat Muslim dari Ibnu 'Umar tentang doa Nabi ﷺ saat naik kendaraan untuk bepergian.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h024",
+   "topik": "Doa naik kendaraan",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Doa ini diajarkan untuk naik kendaraan saat bepergian; hook yang menyebut motor/mobil adalah penerapan umum, bukan lafaz hadits.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Doa Pendek Penjaga di Kamar Mandi",
+   "narasi_hook": "Kamar mandi memang tempat yang sepele, tapi Rasulullah ﷺ tidak masuk ke sana tanpa berdoa.",
+   "adegan": [
+    {
+     "narasi": "Setiap kali hendak masuk ke tempat buang hajat, Nabi ﷺ membaca: Allahumma inni a'udzu bika minal khubutsi wal khaba-its."
+    },
+    {
+     "narasi": "Artinya: Ya Allah, aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan."
+    },
+    {
+     "narasi": "Doa ini dibaca ketika hendak masuk, sebelum berada di dalam kamar mandi."
+    },
+    {
+     "narasi": "Saat keluar, Nabi ﷺ mengucapkan: Ghufranaka, artinya aku memohon ampunan-Mu, sebagaimana riwayat Abu Dawud yang shahih."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "كَانَ النَّبِيُّ ﷺ إِذَا دَخَلَ الْخَلاَءَ قَالَ اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْخُبُثِ وَالْخَبَائِثِ",
+    "terjemah": "Apabila Nabi ﷺ masuk ke tempat buang hajat, beliau membaca: Ya Allah, aku berlindung kepada-Mu dari setan laki-laki dan setan perempuan.",
+    "sumber": "HR. Bukhari no. 142",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:142"
+   },
+   "faedah": "Hafalkan dua doa singkat ini, lalu amalkan setiap keluar-masuk kamar mandi.",
+   "tema": [
+    "doa kamar mandi",
+    "thaharah",
+    "perlindungan"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Anas; doa keluar (ghufranaka) dari Abu Dawud no. 30, dishahihkan Syaikh Al-Albani.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h025",
+   "topik": "Doa masuk dan keluar kamar mandi",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Doa keluar (ghufranaka) dari HR. Abu Dawud no. 30, dishahihkan Syaikh Al-Albani. Waktu membaca sebelum masuk sesuai riwayat mu'allaq Bukhari dalam bab yang sama (إِذَا أَرَادَ أَنْ يَدْخُلَ).",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Wasiat Nabi yang Diulang-ulang",
+   "narasi_hook": "Ada seseorang yang meminta nasihat kepada Rasulullah ﷺ, dan jawabannya hanya dua kata.",
+   "adegan": [
+    {
+     "narasi": "Seorang lelaki berkata kepada Nabi ﷺ: berilah aku wasiat. Beliau menjawab: jangan marah."
+    },
+    {
+     "narasi": "Lelaki itu mengulang permintaannya berkali-kali, dan setiap kali beliau tetap menjawab: jangan marah."
+    },
+    {
+     "narasi": "Maksudnya, jagalah diri dari marah yang tercela, dan jauhi hal-hal yang memancing amarah."
+    },
+    {
+     "narasi": "Saat emosi mulai naik, tahan lisan dan tanganmu, jangan biarkan amarah yang mengendalikanmu."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَنَّ رَجُلاً قَالَ لِلنَّبِيِّ ﷺ أَوْصِنِي قَالَ لاَ تَغْضَبْ فَرَدَّدَ مِرَارًا قَالَ لاَ تَغْضَبْ",
+    "terjemah": "Seorang lelaki berkata kepada Nabi ﷺ: Berilah aku wasiat. Beliau bersabda: Jangan marah. Lelaki itu mengulanginya berkali-kali, beliau tetap bersabda: Jangan marah.",
+    "sumber": "HR. Bukhari no. 6116",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:6116"
+   },
+   "faedah": "Saat amarah datang, ingatlah wasiat singkat ini: jangan marah.",
+   "tema": [
+    "marah",
+    "akhlak",
+    "nasihat"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Abu Hurairah.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h026",
+   "topik": "Tidak marah",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Siapa Paling Berhak Kau Baiki?",
+   "narasi_hook": "Kalau ditanya siapa orang yang paling berhak kamu perlakukan dengan baik, apa jawabanmu?",
+   "adegan": [
+    {
+     "narasi": "Seorang lelaki pernah bertanya kepada Rasulullah ﷺ: siapakah orang yang paling berhak aku pergauli dengan baik?"
+    },
+    {
+     "narasi": "Beliau ﷺ menjawab: ibumu. Ia bertanya lagi, lalu siapa? Ibumu. Lalu siapa? Ibumu."
+    },
+    {
+     "narasi": "Baru pada pertanyaan keempat, beliau menjawab: kemudian ayahmu."
+    },
+    {
+     "narasi": "Maka muliakan keduanya dengan tutur kata yang lembut, bantuan, dan doa untuk mereka."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "يَا رَسُولَ اللَّهِ مَنْ أَحَقُّ بِحُسْنِ صَحَابَتِي قَالَ أُمُّكَ قَالَ ثُمَّ مَنْ قَالَ أُمُّكَ قَالَ ثُمَّ مَنْ قَالَ أُمُّكَ قَالَ ثُمَّ مَنْ قَالَ ثُمَّ أَبُوكَ",
+    "terjemah": "Wahai Rasulullah, siapakah yang paling berhak aku pergauli dengan baik? Beliau menjawab: Ibumu. Ia bertanya: Kemudian siapa? Beliau menjawab: Ibumu. Ia bertanya: Kemudian siapa? Beliau menjawab: Ibumu. Ia bertanya: Kemudian siapa? Beliau menjawab: Kemudian ayahmu.",
+    "sumber": "HR. Bukhari no. 5971",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:5971"
+   },
+   "faedah": "Hari ini, hubungi atau temui ibu dan ayahmu, lalu bahagiakan mereka.",
+   "tema": [
+    "birrul walidain",
+    "ibu",
+    "orang tua"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Abu Hurairah (juga diriwayatkan Muslim).",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h027",
+   "topik": "Berbakti kepada orang tua",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Kunci Rezeki Lapang dari Nabi",
+   "narasi_hook": "Ingin rezekimu dilapangkan? Rasulullah ﷺ menyebut satu amalan yang sering kita lupakan.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: siapa yang ingin dilapangkan rezekinya dan dipanjangkan umurnya, hendaklah ia menyambung silaturahmi."
+    },
+    {
+     "narasi": "Silaturahmi artinya menyambung hubungan dengan kerabat: orang tua, saudara, paman, bibi, dan sepupu."
+    },
+    {
+     "narasi": "Caranya bisa sederhana: berkunjung, menelepon, mengirim pesan, membantu kebutuhan mereka, atau sekadar menanyakan kabar."
+    },
+    {
+     "narasi": "Tidak perlu menunggu hari raya untuk saling menyapa; mulailah dari kerabat yang paling dekat."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ أَحَبَّ أَنْ يُبْسَطَ لَهُ فِي رِزْقِهِ، وَيُنْسَأَ لَهُ فِي أَثَرِهِ، فَلْيَصِلْ رَحِمَهُ",
+    "terjemah": "Siapa yang suka dilapangkan rezekinya dan dipanjangkan umurnya, hendaklah ia menyambung tali kekerabatan.",
+    "sumber": "HR. Bukhari no. 5986",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:5986"
+   },
+   "faedah": "Pilih satu kerabat yang lama tak kamu sapa, lalu hubungi dia hari ini.",
+   "tema": [
+    "silaturahmi",
+    "rezeki",
+    "kerabat"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Anas bin Malik.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h028",
+   "topik": "Menyambung silaturahmi",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Diampuni Gara-gara Ranting Berduri",
+   "narasi_hook": "Pernahkah kamu membayangkan, dosa seseorang diampuni karena sebatang ranting?",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bercerita tentang seorang lelaki yang sedang berjalan, lalu menemukan dahan berduri di tengah jalan."
+    },
+    {
+     "narasi": "Ia menyingkirkan dahan itu dari jalan agar tidak mengganggu orang yang lewat."
+    },
+    {
+     "narasi": "Allah pun berterima kasih atas perbuatannya, lalu mengampuni dosanya."
+    },
+    {
+     "narasi": "Batu, paku, atau sampah di jalan bisa menjadi ladang pahala bagi siapa saja yang mau menyingkirkannya."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "بَيْنَمَا رَجُلٌ يَمْشِي بِطَرِيقٍ وَجَدَ غُصْنَ شَوْكٍ عَلَى الطَّرِيقِ فَأَخَّرَهُ فَشَكَرَ اللَّهُ لَهُ فَغَفَرَ لَهُ",
+    "terjemah": "Ketika seorang lelaki berjalan di suatu jalan, ia menemukan dahan berduri di tengah jalan, lalu ia menyingkirkannya. Maka Allah berterima kasih kepadanya dan mengampuninya.",
+    "sumber": "HR. Muslim no. 1914",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:1914"
+   },
+   "faedah": "Melihat gangguan di jalan? Singkirkan, jangan menunggu orang lain melakukannya.",
+   "tema": [
+    "menyingkirkan gangguan",
+    "jalan",
+    "ampunan"
+   ],
+   "alasan": "Hadits shahih riwayat Muslim dari Abu Hurairah (juga diriwayatkan Bukhari).",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h029",
+   "topik": "Menyingkirkan gangguan dari jalan",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Amalan Islam yang Paling Baik",
+   "narasi_hook": "Seseorang bertanya kepada Rasulullah ﷺ tentang amalan Islam yang paling baik, dan jawabannya dekat sekali dengan keseharian kita.",
+   "adegan": [
+    {
+     "narasi": "Seorang lelaki bertanya: amalan Islam apakah yang paling baik? Rasulullah ﷺ menjawab: engkau memberi makan."
+    },
+    {
+     "narasi": "Dan engkau mengucapkan salam kepada orang yang kau kenal maupun yang tidak kau kenal."
+    },
+    {
+     "narasi": "Memberi makan bisa dimulai dari hal kecil: berbagi bekal, mentraktir teman, atau mengantar makanan ke tetangga."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَنَّ رَجُلاً سَأَلَ النَّبِيَّ ﷺ أَىُّ الإِسْلاَمِ خَيْرٌ قَالَ تُطْعِمُ الطَّعَامَ وَتَقْرَأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ",
+    "terjemah": "Seorang lelaki bertanya kepada Nabi ﷺ: Amalan Islam apakah yang paling baik? Beliau menjawab: Engkau memberi makan dan mengucapkan salam kepada orang yang engkau kenal dan yang tidak engkau kenal.",
+    "sumber": "HR. Bukhari no. 12",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:12"
+   },
+   "faedah": "Hari ini, bagikan makananmu kepada seseorang dan sebarkan salam.",
+   "tema": [
+    "memberi makan",
+    "sedekah",
+    "salam"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari 'Abdullah bin 'Amr.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h030",
+   "topik": "Memberi makan orang lain",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Setengah Kurma Penghalang Neraka",
+   "narasi_hook": "Merasa uangmu terlalu sedikit untuk bersedekah? Dengarkan sabda Rasulullah ﷺ ini.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: lindungilah diri kalian dari api neraka, walaupun hanya dengan separuh butir kurma."
+    },
+    {
+     "narasi": "Separuh kurma itu nilainya sangat kecil, namun Nabi ﷺ tetap menjadikannya pelindung dari neraka."
+    },
+    {
+     "narasi": "Jadi jangan menunggu kaya untuk bersedekah. Uang receh, makanan, atau barang sederhana pun bisa menjadi sedekahmu, asalkan diberikan dengan ikhlas karena Allah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ",
+    "terjemah": "Lindungilah diri kalian dari api neraka walaupun hanya dengan (bersedekah) separuh butir kurma.",
+    "sumber": "HR. Bukhari no. 1417",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:1417"
+   },
+   "faedah": "Sisihkan sedikit hartamu hari ini untuk bersedekah, sekecil apa pun itu.",
+   "tema": [
+    "sedekah",
+    "neraka",
+    "amal kecil"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari 'Adi bin Hatim.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h031",
+   "topik": "Sedekah walau sedikit",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Bicara Baik atau Diam Saja",
+   "narasi_hook": "Lisan yang kecil ini bisa membawa kebaikan besar, atau justru masalah besar.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: siapa yang beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam."
+    },
+    {
+     "narasi": "Sebelum bicara atau mengetik komentar, tanyakan dulu pada dirimu: apakah ini baik?"
+    },
+    {
+     "narasi": "Kalau baik, ucapkan. Kalau tidak, diam adalah pilihan yang lebih selamat."
+    },
+    {
+     "narasi": "Perhatikan, Rasulullah ﷺ mengaitkan adab ini dengan iman kepada Allah dan hari akhir."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ",
+    "terjemah": "Siapa yang beriman kepada Allah dan hari akhir, hendaklah ia berkata baik atau diam.",
+    "sumber": "HR. Bukhari no. 6018",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:6018"
+   },
+   "faedah": "Mulai hari ini, timbang setiap kata: berkata baik, atau diam.",
+   "tema": [
+    "menjaga lisan",
+    "akhlak",
+    "iman"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Abu Hurairah.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h032",
+   "topik": "Menjaga lisan: berkata baik atau diam",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Amalan Ringan Usai Shalat Wajib",
+   "narasi_hook": "Ada satu ayat yang, jika dibaca setiap selesai shalat wajib, keutamaannya luar biasa.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: siapa yang membaca ayat kursi setiap selesai shalat wajib, tidak ada yang menghalanginya masuk surga selain kematian."
+    },
+    {
+     "narasi": "Ayat kursi adalah ayat ke-255 surah Al-Baqarah, dimulai dengan Allahu la ilaha illa huwal hayyul qayyum."
+    },
+    {
+     "narasi": "Bacalah setelah salam pada setiap shalat wajib, bersama dzikir-dzikir setelah shalat. Amalan ini ringan, hanya butuh satu sampai dua menit."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ قَرَأَ آيَةَ الْكُرْسِيِّ دُبُرَ كُلِّ صَلَاةٍ مَكْتُوبَةٍ لَمْ يَمْنَعْهُ مِنْ دُخُولِ الْجَنَّةِ إِلَّا الْمَوْتُ",
+    "terjemah": "Siapa yang membaca ayat kursi setiap selesai shalat wajib, tidak ada yang menghalanginya masuk surga kecuali kematian.",
+    "sumber": "HR. An-Nasa'i dalam 'Amal Al-Yaum wa Al-Lailah no. 100; dishahihkan Ibnu Hibban (Bulughul Maram no. 326)",
+    "derajat": "shahih",
+    "penilai": "Ibnu Hibban; dinilai shahih juga dalam tahqiq Bulughul Maram",
+    "rujukan": ""
+   },
+   "faedah": "Jadikan ayat kursi bacaan rutinmu setiap selesai shalat wajib.",
+   "tema": [
+    "ayat kursi",
+    "dzikir setelah shalat",
+    "surga"
+   ],
+   "alasan": "Hadits Abu Umamah, dishahihkan Ibnu Hibban; tahqiq Bulughul Maram menilainya shahih.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h033",
+   "topik": "Membaca ayat kursi setelah shalat wajib",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Penilaian shahih dari Ibnu Hibban dan pentahqiq Bulughul Maram; Al-Albani tidak saya kutip karena kitabnya tidak bisa dibuka dari sini.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Dosa Sebanyak Buih Lautan Diampuni",
+   "narasi_hook": "Hanya butuh beberapa menit setelah shalat, tapi Rasulullah ﷺ menjanjikan ampunan yang sangat besar.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: siapa yang setiap selesai shalat bertasbih tiga puluh tiga kali, bertahmid tiga puluh tiga kali, dan bertakbir tiga puluh tiga kali,"
+    },
+    {
+     "narasi": "lalu menggenapkannya menjadi seratus dengan: la ilaha illallahu wahdahu la syarika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli syai-in qadir,"
+    },
+    {
+     "narasi": "maka kesalahan-kesalahannya diampuni, walaupun sebanyak buih di lautan."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "مَنْ سَبَّحَ اللَّهَ فِي دُبُرِ كُلِّ صَلاَةٍ ثَلاَثًا وَثَلاَثِينَ وَحَمِدَ اللَّهَ ثَلاَثًا وَثَلاَثِينَ وَكَبَّرَ اللَّهَ ثَلاَثًا وَثَلاَثِينَ ... غُفِرَتْ خَطَايَاهُ وَإِنْ كَانَتْ مِثْلَ زَبَدِ الْبَحْرِ",
+    "terjemah": "Siapa yang bertasbih kepada Allah setiap selesai shalat 33 kali, bertahmid 33 kali, dan bertakbir 33 kali... (lalu menggenapkan seratus dengan tahlil), diampuni kesalahan-kesalahannya walaupun sebanyak buih di lautan.",
+    "sumber": "HR. Muslim no. 597",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:597"
+   },
+   "faedah": "Jangan buru-buru beranjak setelah salam; selesaikan dulu tasbih, tahmid, dan takbirmu.",
+   "tema": [
+    "tasbih",
+    "dzikir setelah shalat",
+    "ampunan"
+   ],
+   "alasan": "Hadits shahih riwayat Muslim dari Abu Hurairah.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h034",
+   "topik": "Tasbih tahmid takbir setelah shalat",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Wasiat Nabi Sebelum Tidur",
+   "narasi_hook": "Abu Hurairah radhiyallahu 'anhu menerima tiga wasiat dari Rasulullah ﷺ, dan salah satunya dikerjakan sebelum tidur.",
+   "adegan": [
+    {
+     "narasi": "Abu Hurairah berkata: kekasihku ﷺ mewasiatkan tiga hal kepadaku yang tak akan kutinggalkan sampai aku wafat."
+    },
+    {
+     "narasi": "Puasa tiga hari setiap bulan, shalat dhuha, dan tidur setelah mengerjakan shalat witir."
+    },
+    {
+     "narasi": "Dalam riwayat Muslim, Nabi ﷺ menganjurkan witir di awal malam bagi yang khawatir tidak bisa bangun di akhir malam."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَوْصَانِي خَلِيلِي بِثَلاَثٍ لاَ أَدَعُهُنَّ حَتَّى أَمُوتَ صَوْمِ ثَلاَثَةِ أَيَّامٍ مِنْ كُلِّ شَهْرٍ وَصَلاَةِ الضُّحَى وَنَوْمٍ عَلَى وِتْرٍ",
+    "terjemah": "Kekasihku (Nabi ﷺ) mewasiatkan kepadaku tiga hal yang tidak akan aku tinggalkan sampai aku mati: puasa tiga hari setiap bulan, shalat dhuha, dan tidur setelah witir.",
+    "sumber": "HR. Bukhari no. 1178",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:1178"
+   },
+   "faedah": "Khawatir tak bangun malam? Kerjakan witir sebelum tidur malam ini.",
+   "tema": [
+    "witir",
+    "shalat malam",
+    "wasiat Nabi"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Abu Hurairah; anjuran witir awal malam bagi yang khawatir tidak bangun dari Muslim no. 755.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h035",
+   "topik": "Shalat witir sebelum tidur",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Anjuran witir di awal malam bagi yang khawatir tidak bangun: HR. Muslim no. 755 (shahih).",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Waktu Emas di Sepertiga Malam",
+   "narasi_hook": "Ada satu waktu di setiap malam ketika Allah menawarkan ampunan dan mengabulkan doa.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: Rabb kita turun ke langit dunia setiap malam, ketika tersisa sepertiga malam terakhir."
+    },
+    {
+     "narasi": "Allah berfirman: siapa yang berdoa kepada-Ku akan Aku kabulkan, siapa yang meminta akan Aku beri, dan siapa yang memohon ampun akan Aku ampuni."
+    },
+    {
+     "narasi": "Inilah waktu terbaik untuk bangun, shalat tahajud, berdoa, dan beristighfar."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "يَنْزِلُ رَبُّنَا تَبَارَكَ وَتَعَالَى كُلَّ لَيْلَةٍ إِلَى السَّمَاءِ الدُّنْيَا حِينَ يَبْقَى ثُلُثُ اللَّيْلِ الآخِرُ يَقُولُ مَنْ يَدْعُونِي فَأَسْتَجِيبَ لَهُ مَنْ يَسْأَلُنِي فَأُعْطِيَهُ مَنْ يَسْتَغْفِرُنِي فَأَغْفِرَ لَهُ",
+    "terjemah": "Rabb kita Tabaraka wa Ta'ala turun ke langit dunia setiap malam ketika tersisa sepertiga malam terakhir. Dia berfirman: Siapa yang berdoa kepada-Ku, akan Aku kabulkan. Siapa yang meminta kepada-Ku, akan Aku beri. Siapa yang memohon ampun kepada-Ku, akan Aku ampuni.",
+    "sumber": "HR. Bukhari no. 1145",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:1145"
+   },
+   "faedah": "Pasang alarm sebelum subuh, lalu bangunlah untuk tahajud dan berdoa.",
+   "tema": [
+    "tahajud",
+    "sepertiga malam",
+    "doa"
+   ],
+   "alasan": "Hadits shahih riwayat Bukhari dari Abu Hurairah.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h036",
+   "topik": "Bangun malam untuk tahajud",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Adab Minum yang Sering Terlupa",
+   "narasi_hook": "Minum memang urusan sepele, tapi Rasulullah ﷺ mengajarkan adabnya.",
+   "adegan": [
+    {
+     "narasi": "Anas bin Malik radhiyallahu 'anhu meriwayatkan bahwa Nabi ﷺ melarang minum sambil berdiri."
+    },
+    {
+     "narasi": "Maka biasakan duduk dulu sebelum minum, baik di rumah, di kantor, maupun di perjalanan. Duduklah dengan tenang, lalu minum dengan perlahan."
+    },
+    {
+     "narasi": "Nabi ﷺ juga memerintahkan agar kita minum dengan tangan kanan, sebagaimana riwayat Muslim yang lain."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَنَّ النَّبِيَّ ﷺ زَجَرَ عَنِ الشُّرْبِ قَائِمًا",
+    "terjemah": "Bahwasanya Nabi ﷺ melarang minum sambil berdiri.",
+    "sumber": "HR. Muslim no. 2024",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:2024"
+   },
+   "faedah": "Mulai sekarang, duduklah dan gunakan tangan kanan setiap kali hendak minum.",
+   "tema": [
+    "adab minum",
+    "duduk",
+    "sunnah"
+   ],
+   "alasan": "Hadits shahih riwayat Muslim dari Anas; perintah minum dengan tangan kanan dari Muslim no. 2020.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h037",
+   "topik": "Minum sambil duduk",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Perintah minum dengan tangan kanan: HR. Muslim no. 2020 (shahih).",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Rutinitas Malam yang Menghalau Setan",
+   "narasi_hook": "Sebelum tidur, ada beberapa kebiasaan kecil yang diajarkan Rasulullah ﷺ untuk melindungi rumahmu.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: tutuplah bejana, ikatlah wadah air, kuncilah pintu, dan padamkan lampu."
+    },
+    {
+     "narasi": "Sebab setan tidak dapat membuka ikatan wadah air, tidak membuka pintu, dan tidak menyingkap bejana."
+    },
+    {
+     "narasi": "Dalam riwayat Bukhari, beliau ﷺ memerintahkan menyebut nama Allah setiap kali melakukannya."
+    },
+    {
+     "narasi": "Jadi sebelum tidur, tutup makanan dan minuman, lalu kunci pintu sambil membaca bismillah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "غَطُّوا الإِنَاءَ وَأَوْكُوا السِّقَاءَ وَأَغْلِقُوا الْبَابَ وَأَطْفِئُوا السِّرَاجَ فَإِنَّ الشَّيْطَانَ لاَ يَحُلُّ سِقَاءً وَلاَ يَفْتَحُ بَابًا وَلاَ يَكْشِفُ إِنَاءً",
+    "terjemah": "Tutuplah bejana, ikatlah wadah air, kuncilah pintu, dan padamkanlah lampu, karena setan tidak dapat membuka ikatan wadah air, tidak dapat membuka pintu, dan tidak dapat menyingkap bejana.",
+    "sumber": "HR. Muslim no. 2012",
+    "derajat": "shahih",
+    "penilai": "Muslim",
+    "rujukan": "https://sunnah.com/muslim:2012"
+   },
+   "faedah": "Malam ini, tutup wadah makananmu dan kunci pintu sambil mengucap bismillah.",
+   "tema": [
+    "adab tidur",
+    "perlindungan",
+    "malam"
+   ],
+   "alasan": "Hadits shahih riwayat Muslim dari Jabir; perintah menyebut nama Allah dari Bukhari no. 3280.",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h038",
+   "topik": "Menutup bejana dan pintu di malam hari",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Perintah menyebut nama Allah: HR. Bukhari no. 3280 (shahih).",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   }
  ]
 }
