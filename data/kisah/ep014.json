@@ -493,7 +493,7 @@
     "peringatan da'i"
    ],
    "id": "ep014-06",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Pemandangan ini berasal dari hadits Anas: 'Aku melewati, pada malam aku diisrakan, kaum yang bibir mereka digunting dengan gunting dari api. Aku bertanya: Siapa mereka, wahai Jibril? Ia menjawab: Para penceramah dari umatmu yang mengatakan apa yang tidak mereka kerjakan' (HR. Ahmad no. 13421 dan lainnya; dishahihkan Syaikh Al-Albani dalam Shahih At-Targhib no. 125, menurut ringkasan Ad-Durar As-Saniyyah). Detail 'utuh kembali lalu digunting lagi tanpa henti' dan lokasi 'langit dunia' tidak saya temukan di riwayat yang terverifikasi, jadi narasinya diperbaiki. 'Lidah' hanya ada di sebagian jalur (Ibnu Mardawaih, dinukil Ibnu Katsir), maka narasi difokuskan pada bibir. Judul hook masih menyebut 'lidah'.",
@@ -501,7 +501,80 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Inilah peringatan yang sangat mengerikan bagi siapa pun yang suka menasihati orang lain.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "badai",
+     "tokoh": "takut",
+     "stiker": [
+      "cloud",
+      "storm"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Pada malam Isra, Rasulullah ﷺ melewati suatu kaum yang bibir mereka digunting dengan gunting dari api.",
+      "label": "Siksaan Bibir Digunting Api",
+      "ikon": [
+       "bulan_bintang"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "night",
+       "moon",
+       "fire"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ pun bertanya kepada Jibril, siapakah mereka yang disiksa dengan begitu pedih?",
+      "label": "Pertanyaan Kepada Malaikat Jibril",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Jibril menjelaskan, mereka adalah para penceramah yang mengatakan apa yang tidak mereka kerjakan.",
+      "label": "Penceramah Yang Lupa Diri",
+      "ikon": [
+       "kitab"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "book",
+       "scroll"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Sebelum membagikan nasihat kepada orang lain, amalkanlah terlebih dahulu pada diri kita sendiri.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "scale",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis renunganmu di komentar",
+     "narasi": "Tulis renunganmu di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df8KMVCD1UR/",
+   "fb": "https://www.facebook.com/reel/4636318479917484",
+   "yt": "https://youtube.com/shorts/IRfvsK7FFtg",
+   "waktu_posting": "2026-11-19T22:32:14"
   },
   {
    "menit": "32:38",
