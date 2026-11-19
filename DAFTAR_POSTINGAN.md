@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 113 video. Waktu dalam WIB, terbaru di atas.
+Total: 114 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 19 Nov 2026 21.27 | ep014-03 | Buraq Berkeringat karena Malu | HR. Tirmidzi no. 3131 dan Ahmad no. 12693 (shahih) | [IG](https://www.instagram.com/reel/Df7SuLfAJEE/) · [YouTube](https://youtube.com/shorts/1VO01yaUXVA) · [FB](https://www.facebook.com/reel/1463100769129408) |
 | 19 Nov 2026 19.01 | h018 | Perisai ampuh hadapi kerasnya hari! | QS. Al-Ahzab: 41-42 | [IG](https://www.instagram.com/reel/Df7B7bmDyrP/) · [YouTube](https://youtube.com/shorts/4w8sDXHK5kU) · [FB](https://www.facebook.com/reel/1829874574972667) |
 | 19 Nov 2026 15.49 | ep014-02 | Dada Suci Dibersihkan dengan Iman | HR. Bukhari no. 3887 dan Muslim no. 164 (shahih) | [IG](https://www.instagram.com/reel/Df6sA0lDiAk/) · [YouTube](https://youtube.com/shorts/oNrgPRTdrp8) · [FB](https://www.facebook.com/reel/1493906785953054) |
 | 19 Nov 2026 11.57 | h017 | Pahala puasa sebulan penuh, mau? | HR. Bukhari no. 1981 (shahih) | [IG](https://www.instagram.com/reel/Df6RfrGlCpo/) · [YouTube](https://youtube.com/shorts/rjg5UIp2Utc) · [FB](https://www.facebook.com/reel/1910615723436369) |

@@ -260,11 +260,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا رَكِبَكَ أَحَدٌ أَكْرَمُ عَلَى اللَّهِ مِنْهُ",
-    "terjemah": "Tidak ada seorang pun yang menunggangimu yang lebih mulia di sisi Allah daripada orang ini.",
-    "sumber": "HR. Tirmidzi dan Ahmad",
-    "derajat_kata_ustadz": "mutawatir",
-    "dari_video": true
+    "arab": "أَنَّ النَّبِيَّ ﷺ أُتِيَ بِالْبُرَاقِ لَيْلَةَ أُسْرِيَ بِهِ مُلْجَمًا مُسْرَجًا، فَاسْتَصْعَبَ عَلَيْهِ، فَقَالَ لَهُ جِبْرِيلُ: أَبِمُحَمَّدٍ تَفْعَلُ هَذَا؟ فَمَا رَكِبَكَ أَحَدٌ أَكْرَمُ عَلَى اللَّهِ مِنْهُ، قَالَ: فَارْفَضَّ عَرَقًا",
+    "terjemah": "Nabi ﷺ didatangkan Buraq pada malam beliau diisra'kan dalam keadaan berpelana dan berkekang, lalu Buraq itu sulit dinaiki. Maka Jibril berkata kepadanya: 'Apakah kepada Muhammad kau bersikap seperti ini? Tidak ada seorang pun yang menunggangimu yang lebih mulia di sisi Allah daripadanya.' Maka Buraq itu pun bersimbah keringat.",
+    "sumber": "HR. Tirmidzi no. 3131 dan Ahmad no. 12693",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:3131"
    },
    "faedah": "Kemuliaan akhlak dan kedudukan Rasulullah ﷺ diakui oleh seluruh makhluk ciptaan Allah.",
    "latar_faedah": "kitab",
@@ -274,7 +275,95 @@
     "isra miraj"
    ],
    "id": "ep014-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "1. Klaim bahwa hadits ini 'mutawatir' keliru secara istilah ilmu hadits. Peristiwa Isra' Mi'raj secara global memang mutawatir, namun riwayat spesifik dialog Jibril dengan Buraq dan Buraq bersimbah keringat ini berstatus hadits ahad (gharib). Imam At-Tirmidzi menilainya 'hasan gharib', dan sanadnya dinilai shahih oleh Syaikh Al-Albani.\n2. Frasa 'hewan tunggangan surga' tidak bersumber dari riwayat yang shahih; riwayat yang menyatakan Buraq berasal dari surga (lengkap dengan sifat berwajah manusia, bersayap permata, dll.) adalah riwayat lemah sekali atau palsu (maudhu'). Ciri fisik Buraq yang shahih (HR. Muslim no. 162) hanyalah hewan putih, lebih tinggi dari keledai dan lebih pendek dari bagal.\n3. Kata 'fastash'aba' (sulit dinaiki) oleh pensyarah hadits (seperti Al-Mubarakfuri dalam Tuhfatul Ahwadzi) dijelaskan bukan karena Buraq membangkang atau memberontak secara liar, melainkan karena rasa takjub, haru, dan bergetar bangga akan dinaiki oleh makhluk termulia, lalu ia bersimbah keringat karena tunduk dan malu setelah ditegur Malaikat Jibril 'alaihissalam.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, hewan tunggangan surga pun gemetar di hadapan kemuliaan Rasulullah ﷺ?",
+     "ikon": [
+      "bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night",
+      "star"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Pada malam Isra, didatangkan kepada Nabi ﷺ hewan putih bernama Buraq yang berpelana dan berkekang.",
+      "label": "Buraq Didatangkan Malam Hari",
+      "ikon": [
+       "bulan_bintang"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "moon",
+       "night sky"
+      ]
+     },
+     {
+      "narasi": "Namun ketika Rasulullah ﷺ hendak menungganginya, Buraq sempat memberontak dan sulit dinaiki.",
+      "label": "Buraq Sempat Sulit Dinaiki",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Malaikat Jibril lalu menegurnya, mengingatkan bahwa tidak ada yang menungganginya yang lebih mulia di sisi Allah daripada beliau.",
+      "label": "Teguran Malaikat Jibril",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "light",
+       "sky"
+      ]
+     },
+     {
+      "narasi": "Mendengar teguran itu, Buraq langsung luluh dan seketika bersimbah keringat karena malu.",
+      "label": "Bersimbah Keringat karena Malu",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "air",
+      "stiker": [
+       "water drops",
+       "dew"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Sungguh, kemuliaan kedudukan Rasulullah ﷺ diakui oleh seluruh makhluk ciptaan Allah.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "light",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis shalawat di komentar",
+     "narasi": "Tulis shalawat di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df7SuLfAJEE/",
+   "fb": "https://www.facebook.com/reel/1463100769129408",
+   "yt": "https://youtube.com/shorts/1VO01yaUXVA",
+   "waktu_posting": "2026-11-19T14:27:45"
   },
   {
    "menit": "16:03",
