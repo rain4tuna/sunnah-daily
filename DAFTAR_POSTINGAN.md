@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 112 video. Waktu dalam WIB, terbaru di atas.
+Total: 113 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 19 Nov 2026 19.01 | h018 | Perisai ampuh hadapi kerasnya hari! | QS. Al-Ahzab: 41-42 | [IG](https://www.instagram.com/reel/Df7B7bmDyrP/) · [YouTube](https://youtube.com/shorts/4w8sDXHK5kU) · [FB](https://www.facebook.com/reel/1829874574972667) |
 | 19 Nov 2026 15.49 | ep014-02 | Dada Suci Dibersihkan dengan Iman | HR. Bukhari no. 3887 dan Muslim no. 164 (shahih) | [IG](https://www.instagram.com/reel/Df6sA0lDiAk/) · [YouTube](https://youtube.com/shorts/oNrgPRTdrp8) · [FB](https://www.facebook.com/reel/1493906785953054) |
 | 19 Nov 2026 11.57 | h017 | Pahala puasa sebulan penuh, mau? | HR. Bukhari no. 1981 (shahih) | [IG](https://www.instagram.com/reel/Df6RfrGlCpo/) · [YouTube](https://youtube.com/shorts/rjg5UIp2Utc) · [FB](https://www.facebook.com/reel/1910615723436369) |
 | 19 Nov 2026 05.32 | ep014-01 | Hiburan Terindah di Titik Terberat | QS. Al-Isra': 1 | - · [YouTube](https://youtube.com/shorts/sxmYR9L936k) · [FB](https://www.facebook.com/reel/1090540663962562) |

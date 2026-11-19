@@ -2259,7 +2259,7 @@
    ],
    "id": "h018",
    "topik": "Dzikir pagi dan petang",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -2267,7 +2267,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu merasa hari-harimu begitu berat dan butuh perlindungan serta ketenangan ekstra?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "badai",
+     "tokoh": "takut",
+     "stiker": [
+      "cloud",
+      "heart"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Di dalam Al-Qur'an, Allah memerintahkan kita secara langsung untuk selalu mengingat-Nya dan bertasbih di waktu pagi juga petang.",
+      "label": "Perintah Berdzikir di Al-Qur'an",
+      "ikon": [
+       "quran",
+       "tasbih"
+      ],
+      "ilustrasi": "quran",
+      "stiker": [
+       "book",
+       "prayer beads"
+      ]
+     },
+     {
+      "narasi": "Merutinkan dzikir pagi dan petang ibarat membangun benteng pertahanan dari segala keburukan dan kegelisahan jiwa.",
+      "label": "Benteng Dari Segala Keburukan",
+      "ikon": [
+       "kunci",
+       "lentera"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "key"
+      ]
+     },
+     {
+      "narasi": "Kebiasaan setiap hari ini akan membuat hati jauh lebih tenang serta memenuhi seluruh aktivitas seharian dengan keberkahan.",
+      "label": "Hati Tenang Penuh Berkah",
+      "ikon": [
+       "matahari",
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "tokoh": "berdoa",
+      "stiker": [
+       "sunrise",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Yuk, luangkan waktu beberapa menit saja untuk berdzikir pagi dan petang mulai hari ini.",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "clock",
+      "sun"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df7B7bmDyrP/",
+   "fb": "https://www.facebook.com/reel/1829874574972667",
+   "yt": "https://youtube.com/shorts/4w8sDXHK5kU",
+   "waktu_posting": "2026-11-19T12:01:05"
   },
   {
    "judul_hook": "Solusi cepat untuk semua masalahmu!",
