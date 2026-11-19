@@ -143,11 +143,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "",
-    "terjemah": "Dibawakan kepadaku sebuah bejana dari emas yang penuh dengan hikmah dan keimanan, lalu dicuci hatiku, kemudian dipenuhi dan dikembalikan.",
-    "sumber": "HR. Bukhari dan Muslim",
-    "derajat_kata_ustadz": "mutawatir",
-    "dari_video": true
+    "arab": "...فَاسْتُخْرِجَ قَلْبِي، ثُمَّ أُتِيتُ بِطَسْتٍ مِنْ ذَهَبٍ مَمْلُوءَةٍ إِيمَانًا، فَغُسِلَ قَلْبِي، ثُمَّ حُشِيَ، ثُمَّ أُعِيدَ...",
+    "terjemah": "...Lalu dikeluarkanlah hatiku, kemudian dibawakan kepadaku sebuah bejana dari emas yang penuh berisi keimanan, lalu dicuci hatiku, kemudian dipenuhi (dengannya), lalu dikembalikan...",
+    "sumber": "HR. Bukhari no. 3887 dan Muslim no. 164",
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3887"
    },
    "faedah": "Membersihkan hati dari kotoran batin adalah syarat utama untuk dekat kepada Allah Rabbul 'Alamin.",
    "latar_faedah": "kitab",
@@ -157,7 +158,86 @@
     "mukjizat"
    ],
    "id": "ep014-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, dada Rasulullah ﷺ pernah dibelah kembali menjelang peristiwa Mi'raj?",
+     "ikon": [
+      "bulan_bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "moon",
+      "night sky"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat Rasulullah ﷺ sedang berbaring di Hijir Ismail dekat Ka'bah, malaikat Jibril mendatangi beliau.",
+      "label": "Jibril Datang Dekat Ka'bah",
+      "ikon": [
+       "kabah"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "kaaba",
+       "stone wall"
+      ]
+     },
+     {
+      "narasi": "Jibril membelah dada beliau dari pangkal leher hingga bawah pusar, lalu mengeluarkan dan mencuci hatinya.",
+      "label": "Hati Beliau Dicuci Bersih",
+      "ikon": [
+       "hati",
+       "tetes_air"
+      ],
+      "ilustrasi": "air",
+      "stiker": [
+       "heart",
+       "water drop"
+      ]
+     },
+     {
+      "narasi": "Dihadirkanlah bejana emas berisi penuh keimanan dan hikmah untuk memenuhi hati beliau sebelum menghadap Allah.",
+      "label": "Dipenuhi Iman dan Hikmah",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "golden bowl",
+       "divine light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Membersihkan hati dari kotoran batin adalah syarat utama untuk dekat kepada Allah Rabbul 'Alamin.",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "lentera",
+     "tokoh": "berdoa",
+     "stiker": [
+      "lantern",
+      "pure heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df6sA0lDiAk/",
+   "fb": "https://www.facebook.com/reel/1493906785953054",
+   "yt": "https://youtube.com/shorts/oNrgPRTdrp8",
+   "waktu_posting": "2026-11-19T08:49:40"
   },
   {
    "menit": "13:42",
