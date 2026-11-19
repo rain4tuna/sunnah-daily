@@ -2134,7 +2134,7 @@
    ],
    "id": "h017",
    "topik": "Puasa tiga hari setiap bulan (ayyamul bidh)",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Hadits ini secara redaksi hanya menyebutkan anjuran puasa tiga hari setiap bulan secara mutlak, tidak membatasi harus Ayyamul Bidh (13, 14, 15). Namun secara fiqih, pelaksanaannya yang paling utama (afdhal) memang di hari Ayyamul Bidh berdasarkan riwayat lainnya. Kisah bisa diterima dengan catatan ini.",
@@ -2142,7 +2142,87 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ada satu amalan puasa ringan yang pahalanya luar biasa, seolah kita berpuasa terus-menerus tanpa henti.",
+     "ikon": [
+      "kalender"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "sun",
+      "calendar",
+      "dawn"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Namanya puasa Ayyamul Bidh, yaitu berpuasa tiga hari di pertengahan bulan Hijriah, tepatnya tanggal tiga belas, empat belas, dan lima belas.",
+      "label": "Puasa Tiga Hari Pertengahan Bulan",
+      "ikon": [
+       "bulan_bintang",
+       "kalender"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "moon",
+       "calendar",
+       "night"
+      ]
+     },
+     {
+      "narasi": "Saking pentingnya, Nabi ﷺ secara khusus mewasiatkan amalan istimewa ini kepada sahabat mulia Abu Hurairah agar jangan sampai ditinggalkan.",
+      "label": "Wasiat Istimewa Nabi ﷺ",
+      "ikon": [
+       "gulungan",
+       "hati"
+      ],
+      "ilustrasi": "masjid",
+      "stiker": [
+       "scroll",
+       "mosque",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Karena setiap satu kebaikan dilipatgandakan sepuluh kali, puasa tiga hari ini nilainya benar-benar sama seperti puasa sebulan penuh!",
+      "label": "Pahala Puasa Sebulan Penuh",
+      "ikon": [
+       "timbangan",
+       "kurma"
+      ],
+      "ilustrasi": "hidangan",
+      "tokoh": "berdoa",
+      "stiker": [
+       "dates",
+       "scales",
+       "plate"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jangan sampai terlewatkan puasa Ayyamul Bidh bulan ini, pasang pengingat di HP kamu sekarang ya!",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "clock",
+      "lantern",
+      "calendar"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Bismillah di komentar",
+     "narasi": "Tulis Bismillah di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df6RfrGlCpo/",
+   "fb": "https://www.facebook.com/reel/1910615723436369",
+   "yt": "https://youtube.com/shorts/rjg5UIp2Utc",
+   "waktu_posting": "2026-11-19T04:57:44"
   },
   {
    "judul_hook": "Perisai ampuh hadapi kerasnya hari!",
