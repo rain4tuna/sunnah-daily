@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 117 video. Waktu dalam WIB, terbaru di atas.
+Total: 118 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 20 Nov 2026 19.00 | h024 | Doa Nabi Saat Naik Kendaraan | HR. Muslim no. 1342 (shahih) | [IG](https://www.instagram.com/reel/Df9mq9WgkNn/) · [YouTube](https://youtube.com/shorts/cmIcuObM764) · [FB](https://www.facebook.com/reel/4634387773516518) |
 | 20 Nov 2026 15.50 | ep014-08 | Kuku Tembaga Mencakar Wajah Sendiri | HR. Abu Dawud no. 4878, dari Anas bin Malik (shahih) | [IG](https://www.instagram.com/reel/Df9Q5TyAD77/) · [YouTube](https://youtube.com/shorts/7AO5IhXAqFw) · [FB](https://www.facebook.com/reel/1460699026150876) |
 | 20 Nov 2026 11.56 | h019 | Solusi cepat untuk semua masalahmu! | HR. Bukhari no. 6307 (shahih) | [IG](https://www.instagram.com/reel/Df82MRQALWa/) · [YouTube](https://youtube.com/shorts/aNjkcVi90GE) · [FB](https://www.facebook.com/reel/1397524555788202) |
 | 20 Nov 2026 05.32 | ep014-06 | Lidah Digunting karena Lupa Diri | QS. Al-Baqarah: 44 | [IG](https://www.instagram.com/reel/Df8KMVCD1UR/) · [YouTube](https://youtube.com/shorts/IRfvsK7FFtg) · [FB](https://www.facebook.com/reel/4636318479917484) |

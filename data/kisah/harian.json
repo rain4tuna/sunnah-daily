@@ -2501,7 +2501,7 @@
    ],
    "id": "h024",
    "topik": "Doa naik kendaraan",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Doa ini diajarkan untuk naik kendaraan saat bepergian; hook yang menyebut motor/mobil adalah penerapan umum, bukan lafaz hadits.",
@@ -2509,7 +2509,93 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Sebelum menyalakan motor atau mobil, sudahkah kamu membaca doa yang diajarkan Rasulullah ﷺ ini?",
+     "ikon": [
+      "pintu"
+     ],
+     "ilustrasi": "pintu",
+     "tokoh": "berdiri",
+     "stiker": [
+      "door",
+      "key"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Ketika Rasulullah ﷺ sudah duduk di atas untanya untuk bepergian, beliau bertakbir tiga kali.",
+      "label": "Bertakbir Tiga Kali",
+      "ikon": [
+       "tasbih"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "sand",
+       "mountain"
+      ]
+     },
+     {
+      "narasi": "Lalu beliau membaca: Subhanalladzi sakhkhara lana hadza wa ma kunna lahu muqrinin, wa inna ila rabbina lamunqalibun.",
+      "label": "Doa Naik Kendaraan",
+      "ikon": [
+       "quran"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lamp",
+       "scroll"
+      ]
+     },
+     {
+      "narasi": "Artinya, Mahasuci Allah yang menundukkan kendaraan ini untuk kami, padahal kami tak mampu menguasainya, dan kepada Rabb kamilah kami kembali.",
+      "label": "Arti Doa Bepergian",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "tokoh": "berdoa",
+      "stiker": [
+       "sun",
+       "sky"
+      ]
+     },
+     {
+      "narasi": "Doa ini mengingatkan kita bahwa kendaraan adalah nikmat dari Allah.",
+      "label": "Pengingat Nikmat Allah",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berdoa",
+      "stiker": [
+       "heart",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Biasakan bertakbir dan membaca doa ini setiap kali naik kendaraan untuk bepergian.",
+     "ikon": [
+      "jejak"
+     ],
+     "ilustrasi": "kota_malam",
+     "tokoh": "berdiri",
+     "stiker": [
+      "road",
+      "stars"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Amalkan doa ini saat bepergian",
+     "narasi": "Amalkan doa ini saat bepergian. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df9mq9WgkNn/",
+   "fb": "https://www.facebook.com/reel/4634387773516518",
+   "yt": "https://youtube.com/shorts/cmIcuObM764",
+   "waktu_posting": "2026-11-20T12:00:59"
   },
   {
    "judul_hook": "Doa Pendek Penjaga di Kamar Mandi",
