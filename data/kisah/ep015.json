@@ -132,11 +132,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "يَدْخُلُهُ كُلَّ يَوْمٍ سَبْعُونَ أَلْفَ مَلَكٍ لَا يَعُودُونَ إِلَيْهِ",
-    "terjemah": "Setiap hari ada tujuh puluh ribu malaikat yang masuk ke dalamnya dan mereka tidak pernah kembali lagi ke sana.",
-    "sumber": "HR. Bukhari no. 3207 & Muslim no. 162",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "...فَإِذَا أَنَا بِإِبْرَاهِيمَ مُسْنِدًا ظَهْرَهُ إِلَى الْبَيْتِ الْمَعْمُورِ، وَإِذَا هُوَ يَدْخُلُهُ كُلَّ يَوْمٍ سَبْعُونَ أَلْفَ مَلَكٍ لَا يَعُودُونَ إِلَيْهِ...",
+    "terjemah": "\"...Tiba-tiba aku bertemu dengan Nabi Ibrahim yang sedang menyandarkan punggungnya ke Baitul Ma'mur. Setiap hari ada tujuh puluh ribu malaikat yang memasukinya dan mereka tidak pernah kembali lagi ke sana...\"",
+    "sumber": "HR. Muslim no. 162 (dan lafaz semakna dalam Bukhari no. 3207)",
+    "derajat": "shahih",
+    "penilai": "Imam Muslim & Imam Bukhari",
+    "rujukan": "https://sunnah.com/muslim:162"
    },
    "faedah": "Agungkanlah Allah dengan menyadari betapa luas dan banyaknya makhluk yang senantiasa beribadah kepada-Nya.",
    "latar_faedah": "lentera",
@@ -146,7 +147,90 @@
     "keagungan Allah"
    ],
    "id": "ep015-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu membayangkan betapa agungnya Baitul Ma'mur di langit ketujuh?",
+     "ikon": [
+      "bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "sky",
+      "star"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Di langit ketujuh, Rasulullah ﷺ melihat Nabi Ibrahim 'alaihissalam bersandar di Baitul Ma'mur, Ka'bah bagi para penghuni langit.",
+      "label": "Baitul Ma'mur di Langit Ketujuh",
+      "ikon": [
+       "kabah",
+       "cahaya"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "sky",
+       "house",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Setiap harinya, tujuh puluh ribu malaikat memasukinya untuk beribadah kepada Allah.",
+      "label": "Tujuh Puluh Ribu Malaikat",
+      "ikon": [
+       "pintu",
+       "kalender"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "sun",
+       "gate"
+      ]
+     },
+     {
+      "narasi": "Setelah keluar, mereka tidak akan pernah kembali lagi ke sana selamanya, saking banyaknya bala tentara Allah.",
+      "label": "Bala Tentara Tanpa Henti",
+      "ikon": [
+       "jam",
+       "jejak"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "door",
+       "light",
+       "clock"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari agungkan Allah dengan menyadari betapa luas dan banyaknya makhluk yang senantiasa taat beribadah kepada-Nya.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Subhanallah di komentar",
+     "narasi": "Tulis Subhanallah di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df-uqQuHM04/",
+   "fb": "https://www.facebook.com/reel/2227853978122379",
+   "yt": "https://youtube.com/shorts/rZA9fJd9L5o",
+   "waktu_posting": "2026-11-20T22:29:31"
   },
   {
    "menit": "07:08",
