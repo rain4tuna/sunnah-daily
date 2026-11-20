@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 115 video. Waktu dalam WIB, terbaru di atas.
+Total: 116 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 20 Nov 2026 11.56 | h019 | Solusi cepat untuk semua masalahmu! | HR. Bukhari no. 6307 (shahih) | [IG](https://www.instagram.com/reel/Df82MRQALWa/) · [YouTube](https://youtube.com/shorts/aNjkcVi90GE) · [FB](https://www.facebook.com/reel/1397524555788202) |
 | 20 Nov 2026 05.32 | ep014-06 | Lidah Digunting karena Lupa Diri | QS. Al-Baqarah: 44 | [IG](https://www.instagram.com/reel/Df8KMVCD1UR/) · [YouTube](https://youtube.com/shorts/IRfvsK7FFtg) · [FB](https://www.facebook.com/reel/4636318479917484) |
 | 19 Nov 2026 21.27 | ep014-03 | Buraq Berkeringat karena Malu | HR. Tirmidzi no. 3131 dan Ahmad no. 12693 (shahih) | [IG](https://www.instagram.com/reel/Df7SuLfAJEE/) · [YouTube](https://youtube.com/shorts/1VO01yaUXVA) · [FB](https://www.facebook.com/reel/1463100769129408) |
 | 19 Nov 2026 19.01 | h018 | Perisai ampuh hadapi kerasnya hari! | QS. Al-Ahzab: 41-42 | [IG](https://www.instagram.com/reel/Df7B7bmDyrP/) · [YouTube](https://youtube.com/shorts/4w8sDXHK5kU) · [FB](https://www.facebook.com/reel/1829874574972667) |

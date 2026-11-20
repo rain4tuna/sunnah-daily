@@ -2379,7 +2379,7 @@
    ],
    "id": "h019",
    "topik": "Memperbanyak istighfar",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -2387,7 +2387,81 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, ada satu amalan lisan yang sangat ringan, namun menjadi kunci pembuka segala pintu kesulitan?",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "pintu",
+     "tokoh": "berdoa",
+     "stiker": [
+      "key",
+      "door"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ yang telah diampuni dosa-dosanya dan dijamin surga saja, tidak pernah terlepas dari amalan ini.",
+      "label": "Amalan Mulia Rasulullah ﷺ",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "masjid",
+      "stiker": [
+       "light",
+       "mosque"
+      ]
+     },
+     {
+      "narasi": "Beliau bersumpah selalu beristighfar dan bertaubat kepada Allah lebih dari tujuh puluh kali dalam sehari.",
+      "label": "Tujuh Puluh Kali Sehari",
+      "ikon": [
+       "tasbih"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "prayer beads",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Istighfar tak hanya menggugurkan dosa, tetapi juga mengundang derasnya rezeki dan jalan keluar dari masalah.",
+      "label": "Mengundang Rezeki dan Solusi",
+      "ikon": [
+       "awan_hujan",
+       "koin"
+      ],
+      "ilustrasi": "fajar",
+      "tokoh": "berdiri",
+      "stiker": [
+       "rain cloud",
+       "coins"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Basahi lisanmu dengan istighfar setiap saat, dan rasakan sendiri keajaibannya dalam hidupmu.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Astaghfirullah di komentar",
+     "narasi": "Tulis Astaghfirullah di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df82MRQALWa/",
+   "fb": "https://www.facebook.com/reel/1397524555788202",
+   "yt": "https://youtube.com/shorts/aNjkcVi90GE",
+   "waktu_posting": "2026-11-20T04:56:44"
   },
   {
    "judul_hook": "Doa Nabi Saat Naik Kendaraan",
