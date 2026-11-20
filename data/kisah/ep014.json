@@ -658,7 +658,7 @@
     "kehormatan muslim"
    ],
    "id": "ep014-08",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Kisah sesuai hadits. Kata 'panjang' pada kuku tidak ada dalam teks, jadi dihapus. Peristiwanya terjadi saat Mi'raj.",
@@ -666,7 +666,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Suka membicarakan aib orang lain? Hati-hati dengan hukuman yang sangat mengerikan ini.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "badai",
+     "tokoh": "takut",
+     "stiker": [
+      "cloud",
+      "storm"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Ketika dimi'rajkan, Rasulullah ﷺ melewati suatu kaum yang memiliki kuku-kuku panjang dari tembaga.",
+      "label": "Kaum Berkuku Tembaga",
+      "ikon": [
+       "bulan_bintang",
+       "bintang"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "night",
+       "copper"
+      ]
+     },
+     {
+      "narasi": "Dengan kuku tembaga tersebut, mereka terus mencakar-cakar wajah dan dada mereka sendiri.",
+      "label": "Mencakar Wajah Sendiri",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "badai",
+      "tokoh": "panik",
+      "stiker": [
+       "metal",
+       "copper"
+      ]
+     },
+     {
+      "narasi": "Jibril menerangkan bahwa mereka adalah orang-orang yang memakan daging manusia dengan berbuat ghibah serta merusak kehormatan sesama.",
+      "label": "Balasan Pelaku Ghibah",
+      "ikon": [
+       "lentera",
+       "timbangan"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "scale"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari kita tahan lisan dari membicarakan aib orang lain agar Allah menjaga kehormatan kita di akhirat.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df9Q5TyAD77/",
+   "fb": "https://www.facebook.com/reel/1460699026150876",
+   "yt": "https://youtube.com/shorts/7AO5IhXAqFw",
+   "waktu_posting": "2026-11-20T08:50:14"
   }
  ]
 }

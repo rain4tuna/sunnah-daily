@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 116 video. Waktu dalam WIB, terbaru di atas.
+Total: 117 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 20 Nov 2026 15.50 | ep014-08 | Kuku Tembaga Mencakar Wajah Sendiri | HR. Abu Dawud no. 4878, dari Anas bin Malik (shahih) | [IG](https://www.instagram.com/reel/Df9Q5TyAD77/) · [YouTube](https://youtube.com/shorts/7AO5IhXAqFw) · [FB](https://www.facebook.com/reel/1460699026150876) |
 | 20 Nov 2026 11.56 | h019 | Solusi cepat untuk semua masalahmu! | HR. Bukhari no. 6307 (shahih) | [IG](https://www.instagram.com/reel/Df82MRQALWa/) · [YouTube](https://youtube.com/shorts/aNjkcVi90GE) · [FB](https://www.facebook.com/reel/1397524555788202) |
 | 20 Nov 2026 05.32 | ep014-06 | Lidah Digunting karena Lupa Diri | QS. Al-Baqarah: 44 | [IG](https://www.instagram.com/reel/Df8KMVCD1UR/) · [YouTube](https://youtube.com/shorts/IRfvsK7FFtg) · [FB](https://www.facebook.com/reel/4636318479917484) |
 | 19 Nov 2026 21.27 | ep014-03 | Buraq Berkeringat karena Malu | HR. Tirmidzi no. 3131 dan Ahmad no. 12693 (shahih) | [IG](https://www.instagram.com/reel/Df7SuLfAJEE/) · [YouTube](https://youtube.com/shorts/1VO01yaUXVA) · [FB](https://www.facebook.com/reel/1463100769129408) |
