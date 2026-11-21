@@ -158,9 +158,48 @@ def _simpan_wav(mime, b64, path):
         w.writeframes(raw)
 
 
+def _durasi_wav(path):
+    with wave.open(path) as w:
+        return w.getnframes() / float(w.getframerate())
+
+
+BARIS = chr(10)
+PEMISAH_PARAGRAF = BARIS * 2      # sama dengan tts_kelompok.PEMISAH
+
+
+def batas_detik(kalimat):
+    """Durasi wajar maksimal untuk teks ini. Suara yang jauh lebih panjang hampir pasti ikut membacakan instruksi
+    gaya (pernah terjadi: narator mengucapkan 'pendongeng ceria untuk anak-anak...')."""
+    kata = len(kalimat.split())
+    paragraf = kalimat.count(PEMISAH_PARAGRAF)
+    return kata / 1.5 + 3.5 + 1.8 * paragraf
+
+
 def bacakan(kalimat, path, coba=3):
-    """TTS satu potong narasi ke WAV."""
+    """TTS satu potong narasi ke WAV. Hasil yang terlalu panjang untuk teksnya (instruksi gaya ikut terbaca)
+    diulang; bila semua percobaan terlalu panjang, yang terpendek dipakai."""
     galat = []
+    batas = batas_detik(kalimat)
+    terbaik = None                     # (durasi, path sementara) hasil terpendek yang melewati batas
+
+    def _cek(mime, b64):
+        nonlocal terbaik
+        tmp = path + '.coba.wav'
+        _simpan_wav(mime, b64, tmp)
+        d = _durasi_wav(tmp)
+        if d <= batas:
+            os.replace(tmp, path)
+            return True
+        galat.append(f'suara {d:.1f}s > batas {batas:.1f}s (instruksi gaya terbaca?)')
+        log(f'   TTS terlalu panjang ({d:.1f}s > {batas:.1f}s), diulang')
+        if terbaik is None or d < terbaik[0]:
+            simpan = path + '.terbaik.wav'
+            os.replace(tmp, simpan)
+            terbaik = (d, simpan)
+        else:
+            os.remove(tmp)
+        return False
+
     for i in range(coba):
         try:
             j = _post(f'{API}/interactions', {
@@ -172,22 +211,32 @@ def bacakan(kalimat, path, coba=3):
                 'generation_config': {'speech_config': [{'voice': SUARA}]},
             }, timeout=180)
             r = _cari_audio(j)
-            if r:
-                return _simpan_wav(r[0], r[1], path)
-            galat.append('interactions: tanpa audio')
+            if r and _cek(*r):
+                return
+            if not r:
+                galat.append('interactions: tanpa audio')
         except Exception as e:
             galat.append(f'interactions: {e}')
         try:
+            # instruksi dipisah jelas dari naskah supaya tidak ikut diucapkan
             j = _post(f'{API}/models/{MODEL_TTS}:generateContent', {
-                'contents': [{'parts': [{'text': f'Bacakan dengan gaya {GAYA_SUARA}: {kalimat}'}]}],
+                'contents': [{'parts': [{'text': (
+                    f'Gaya suara: {GAYA_SUARA}.' + BARIS +
+                    'Ucapkan HANYA naskah di bawah, persis kata demi kata. Jangan mengucapkan petunjuk gaya ini.' +
+                    BARIS + 'NASKAH:' + BARIS + kalimat)}]}],
                 'generationConfig': {'responseModalities': ['AUDIO'], 'speechConfig': {
                     'voiceConfig': {'prebuiltVoiceConfig': {'voiceName': SUARA}}}},
             }, timeout=180)
             r = _cari_audio(j)
-            if r:
-                return _simpan_wav(r[0], r[1], path)
-            galat.append('generateContent: tanpa audio')
+            if r and _cek(*r):
+                return
+            if not r:
+                galat.append('generateContent: tanpa audio')
         except Exception as e:
             galat.append(f'generateContent: {e}')
         time.sleep(6 * (i + 1))
+    if terbaik:
+        log(f'   TTS: semua percobaan melewati batas, dipakai yang terpendek ({terbaik[0]:.1f}s)')
+        os.replace(terbaik[1], path)
+        return
     raise RuntimeError('TTS gagal | ' + ' | '.join(galat[-4:]))

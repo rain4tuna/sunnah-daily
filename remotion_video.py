@@ -19,6 +19,7 @@ import wave
 
 import sfx
 import stiker
+import storyboard_ikon
 import video
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
@@ -52,18 +53,34 @@ def _panjang_suara(path, cadangan):
         return cadangan
 
 
-def susun_props(segmen):
-    """Ubah segmen pipeline (sudah berisi mulai/durasi dari susun_audio) jadi props komposisi SunnahDaily."""
+def susun_props(segmen, komposisi='SunnahDaily'):
+    """Ubah segmen pipeline (sudah berisi mulai/durasi dari susun_audio) jadi props komposisi Remotion."""
     hasil, no = [], 0
     dipakai = set()
     benih = segmen[0].get('judul') or segmen[0].get('ucap') or ''
+    kaya = komposisi == 'SunnahMotion'
     for i, s in enumerate(segmen):
         mulai, durasi = s['mulai'], s['durasi']
         suara = min(durasi, _panjang_suara(s['wav'], durasi - video.JEDA))
         b = {'jenis': s['jenis'], 'mulai': round(mulai, 3), 'akhir': round(mulai + durasi, 3),
              'ucapMulai': round(mulai + 0.1, 3), 'ucapAkhir': round(mulai + suara, 3)}
         if s.get('ilustrasi'):
-            b['ilustrasi'], b['tokoh'] = s['ilustrasi'], s.get('tokoh') or ''
+            il = s['ilustrasi']
+            tk = s.get('tokoh') or ''
+            if not kaya:
+                il = storyboard_ikon.PETA_LEGACY_ILUSTRASI.get(il, il)
+                tk = storyboard_ikon.PETA_LEGACY_TOKOH.get(tk, tk) if tk else ''
+            b['ilustrasi'], b['tokoh'] = il, tk
+        if s.get('varian'):
+            b['varian'] = s['varian']
+        if s.get('properti'):
+            b['properti'] = s['properti']
+        if s.get('hookBadge'):
+            b['hookBadge'] = s['hookBadge']
+        if s.get('ctaSingkat'):
+            b['ctaSingkat'] = s['ctaSingkat']
+        if s.get('loopEcho'):
+            b['loopEcho'] = s['loopEcho']
         if s.get('bab'):
             b['bab'] = s['bab']
         if s['jenis'] in ('hook', 'bab', 'poin', 'faedah'):
@@ -127,7 +144,7 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
     with tempfile.TemporaryDirectory() as tmp:
         wav = os.path.join(tmp, 'suara.wav')
         total = video.susun_audio(segmen, wav, tmp)
-        isi = {**susun_props(segmen), **(props_tambahan(segmen) if props_tambahan else {})}
+        isi = {**susun_props(segmen, komposisi=komposisi), **(props_tambahan(segmen) if props_tambahan else {})}
         try:
             n_sfx = sfx.campur(wav, isi, komposisi)
             if n_sfx:
@@ -166,10 +183,7 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
                         '-vf', 'scale=out_range=tv:out_color_matrix=bt709,format=yuv420p',
                         '-c:v', 'libx264', '-preset', 'veryfast', '-crf', '23', '-profile:v', 'high',
                         '-color_range', 'tv', '-colorspace', 'bt709', '-color_primaries', 'bt709', '-color_trc', 'bt709',
-                        '-c:a', 'aac', '-b:a', '160k',
-                        # video panjang: stereo 48 kHz (suara TTS mono 24 kHz membuat sebagian pemutar diam);
-                        # Shorts tetap seperti semula
-                        *([] if komposisi == 'SunnahDaily' else ['-ar', '48000', '-ac', '2', '-b:a', '192k']),
+                        '-c:a', 'aac', '-ar', '48000', '-ac', '2', '-b:a', '192k',
                         '-shortest', '-movflags', '+faststart', out_mp4],
                        check=True, cwd=RDIR)
         if contoh_jpg:
@@ -179,3 +193,8 @@ def buat_video(segmen, tema, out_mp4, contoh_jpg=None, komposisi='SunnahDaily', 
             except Exception as e:
                 log(f'   cuplikan dilewati: {e}')
     return total
+
+
+def buat_video_kaya(segmen, tema, out_mp4, contoh_jpg=None):
+    """Render template motion baru 9:16 (SunnahMotion) dengan karakter artikulasi tanpa wajah & properti kaya."""
+    return buat_video(segmen, tema, out_mp4, contoh_jpg=contoh_jpg, komposisi='SunnahMotion', frame_cuplikan=0.5)

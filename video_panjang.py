@@ -46,9 +46,9 @@ GAYA_SUARA = ('narator laki-laki dewasa yang tenang, hangat dan berwibawa, seper
               'tempo sedang cenderung pelan, jeda wajar antar kalimat, intonasi mengalir, tidak terburu-buru')
 
 
-GAYA_SUARA_ANAK = ('pendongeng ceria untuk anak-anak dan remaja, hangat, ekspresif dan bersemangat, senyum terdengar '
-                   'di suara, tempo sedang, jelas, membangun rasa penasaran, seperti kakak yang asyik bercerita kepada '
-                   'adik-adiknya; tetap tenang dan hormat saat membacakan ayat dan hadits')
+# Singkat: instruksi gaya yang panjang pernah ikut terbaca oleh TTS. Tempo dibuat lincah (video ±3 menit).
+GAYA_SUARA_ANAK = ('pendongeng ceria untuk anak, ekspresif, tempo cepat dan lincah, jeda antar kalimat singkat; '
+                   'tenang dan hormat saat membacakan ayat')
 
 
 def contoh_naskah(k):
@@ -82,15 +82,16 @@ def nomor_ep(data):
     return int(m.group(1)) if m else int(data.get('episode') or 0)
 
 
-def susun_segmen(data, kisah, anak=False, naskah=None):
+def susun_segmen(data, kisah, anak=False, naskah=None, dual_cta=False):
     """anak=True: naskah ceria (naskah_anak.py) + ajakan like/subscribe di tengah + kuis sebelum penutup.
+    dual_cta=True (MODE_MONET): 2 titik ajakan untuk video 8+ menit (unlock mid-roll ads YouTube).
     naskah = {id_kisah: hasil naskah_anak.tulis_ulang}; kisah yang tidak punya naskah memakai storyboard asli."""
     no_ep = nomor_ep(data)
     kicker = f'SIRAH NABAWIYAH #{no_ep:02d}'
     topik = judul_pendek(data['judul'])
     n = len(kisah)
     if anak:
-        return _susun_anak(data, kisah, naskah or {}, kicker, topik, no_ep)
+        return _susun_anak(data, kisah, naskah or {}, kicker, topik, no_ep, dual_cta=dual_cta)
     segmen = [{'jenis': 'pembuka', 'judul': topik, 'kajian': f'Faedah dari kajian Sirah Nabawiyah #{no_ep} · {USTADZ}',
                'ucap': (f'Bismillah. Di video ini kita akan menyimak {n} pelajaran dari kajian Sirah Nabawiyah '
                         f'bagian ke-{no_ep}, tentang {topik}, yang disampaikan oleh Ustadz Doktor Firanda Andirja.')}]
@@ -113,11 +114,21 @@ def susun_segmen(data, kisah, anak=False, naskah=None):
     return segmen
 
 
-def _susun_anak(data, kisah, naskah, kicker, topik, no_ep):
+def _pancing(naskah, kisah):
+    """Kalimat penggoda pembuka: pancingan kisah pertama (Gemini), atau pertanyaan pembuka babnya."""
+    nk = naskah.get(kisah[0]['id']) or {}
+    return nk.get('pancing') or nk.get('bab')
+
+
+def _susun_anak(data, kisah, naskah, kicker, topik, no_ep, dual_cta=False):
     n = len(kisah)
     segmen = [{'jenis': 'pembuka', 'judul': topik, 'kajian': f'Kisah dari kajian Sirah Nabawiyah #{no_ep} · {USTADZ}',
-               'ucap': naskah_anak.pembuka(n, topik, no_ep)}]
-    tengah = (n + 1) // 2 if n >= 3 else 0
+               'ucap': naskah_anak.pembuka(n, topik, no_ep, _pancing(naskah, kisah))}]
+    # Dual CTA strategy (/claude-youtube retention-scripting-guide): ~1 min (bab 2) & ~4 min (bab ~2/3) saat MODE_MONET
+    if dual_cta and n >= 5:
+        titik_ajak = {max(1, n // 3), max(2, (2 * n) // 3)}
+    else:
+        titik_ajak = {(n + 1) // 2} if n >= 3 else set()
     for i, k in enumerate(kisah, 1):
         bagian = [s for s in storyboard_ikon.segmen(k, kicker, main.narasi_dalil) if s['jenis'] != 'penutup']
         nk = naskah.get(k['id'])
@@ -136,7 +147,7 @@ def _susun_anak(data, kisah, naskah, kicker, topik, no_ep):
             elif s['jenis'] == 'faedah' and nk:
                 s['narasi'] = s['ucap'] = nk['faedah']
         segmen += bagian
-        if i == tengah:
+        if i in titik_ajak:
             segmen.append({'jenis': 'ajak', 'bab': i, 'ucap': naskah_anak.AJAK})
     kuis = next((naskah[k['id']] for k in reversed(kisah) if (naskah.get(k['id']) or {}).get('kuis')), None)
     if kuis:
@@ -194,6 +205,21 @@ def deskripsi(data, kisah, segmen):
             '#sirahnabawiyah #kisahnabi #sunnahdaily #kajianislam #firandaandirja')
 
 
+KATA_PER_DETIK = float(os.environ.get('KATA_PER_DETIK') or 2.0)
+
+
+def taksiran_detik(segmen):
+    """Taksiran durasi sebelum TTS (KATA_PER_DETIK + jeda + tahan kuis; dalil minimal 6 detik).
+    Run 9: taksiran 2,3 kata/detik = 156 detik, nyatanya 228 detik."""
+    t = 0.0
+    for s in segmen:
+        d = max(3.0, len(main.lisan(s['ucap']).split()) / KATA_PER_DETIK) + 0.35
+        if s['jenis'] == 'dalil':
+            d = max(d, 6.0)
+        t += d + (s.get('tahan') or 0)
+    return t
+
+
 def taksir_durasi(segmen, tmp):
     """Pratinjau tanpa TTS: wav hening sepanjang taksiran (2,3 kata/detik)."""
     import wave
@@ -215,12 +241,19 @@ def jalankan():
         raise SystemExit('EPISODE wajib diisi.')
     data = muat_episode(no)
     kisah = [k for k in data['kisah'] if k.get('layak')]
-    maks = os.environ.get('MAKS_KISAH')
+    # video pendek ±3 menit: 2-3 kisah. PILIH_KISAH="1,6" memilih kisah tertentu (urutan kisah yang layak, mulai 1).
+    pilih = [int(x) for x in re.findall(r'\d+', os.environ.get('PILIH_KISAH') or '')]
+    if pilih:
+        kisah = [kisah[i - 1] for i in pilih if 0 < i <= len(kisah)]
+    mode_monet = os.environ.get('MODE_MONET', '').strip().lower() == 'true'
+    # MODE_MONET=true (/claude-youtube): target 8.5-10 menit (unlock mid-roll ads +50% RPM, dual CTA)
+    maks_default = '8' if mode_monet else ('3' if (os.environ.get('GAYA_NASKAH') or 'anak').lower() == 'anak' else '')
+    maks = os.environ.get('MAKS_KISAH') or maks_default
     if maks:
         kisah = kisah[:int(maks)]
     if not kisah:
         raise SystemExit('Tidak ada kisah yang lolos verifikasi di episode ini.')
-    log(f"Episode: {data['judul']} — {len(kisah)} kisah: " + ', '.join(k['id'] for k in kisah))
+    log(f"Episode: {data['judul']} — {len(kisah)} kisah (monet={mode_monet}): " + ', '.join(k['id'] for k in kisah))
     nama = f"ep{nomor_ep(data):03d}_panjang"
     pratinjau = os.environ.get('PRATINJAU', '').lower() == 'true'
     anak = (os.environ.get('GAYA_NASKAH') or 'anak').lower() == 'anak'
@@ -229,7 +262,8 @@ def jalankan():
         for k in kisah:
             if pratinjau and not k.get('storyboard_ikon'):
                 k['storyboard_ikon'] = storyboard_ikon.rapikan({}, k, 'kisah')   # tanpa Gemini
-            simpan = os.path.join(CACHE, f"naskah_{k['id']}.json") if CACHE and not pratinjau else ''
+            # v3: naskah pendek + kalimat pancingan pembuka; naskah lama di cache tidak dipakai lagi
+            simpan = os.path.join(CACHE, f"naskah_v3_{k['id']}.json") if CACHE and not pratinjau else ''
             lama = None
             if simpan and os.path.exists(simpan):
                 with open(simpan, encoding='utf-8') as f:
@@ -252,8 +286,14 @@ def jalankan():
         log('   naskah anak: ' + ', '.join(f"{i}={'ok' if v else 'asli'}" for i, v in naskah.items()))
         with open(os.path.join(out, f'{nama}_naskah.json'), 'w', encoding='utf-8') as f:
             json.dump(naskah, f, ensure_ascii=False, indent=1)
-    segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v})
-    log(f'   {len(segmen)} babak')
+    segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v}, dual_cta=mode_monet)
+    # jaga durasi: ±3 menit untuk mode anak standar, atau ±9 menit (540 detik, di atas ambang 8 menit mid-roll) saat MODE_MONET
+    target = float(os.environ.get('DURASI_TARGET') or (560 if mode_monet else (185 if anak else 0)))
+    while target and len(kisah) > 2 and taksiran_detik(segmen) > target:
+        log(f'   taksiran {taksiran_detik(segmen):.0f} detik > {target:.0f}: kisah {kisah[-1]["id"]} dilepas')
+        kisah = kisah[:-1]
+        segmen = susun_segmen(data, kisah, anak=anak, naskah={i: v for i, v in naskah.items() if v}, dual_cta=mode_monet)
+    log(f'   {len(segmen)} babak, {len(kisah)} kisah, taksiran {taksiran_detik(segmen):.0f} detik')
     gemini.SUARA = os.environ.get('SUARA_PANJANG') or ('Laomedeia' if anak else 'Charon')
     gemini.GAYA_SUARA = os.environ.get('GAYA_SUARA_PANJANG') or (GAYA_SUARA_ANAK if anak else GAYA_SUARA)
 

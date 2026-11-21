@@ -22,11 +22,12 @@ KATEGORI_BUANG = {'Brand', 'Letters', 'Numbers', 'Text', 'Arrows', 'Mood', 'Gend
 # Dari kategori yang dibuang, beberapa benda tetap berguna.
 TETAP = {'paw', 'feather', 'fish-bone', 'horseshoe', 'recycle', 'sword', 'swords', 'axe', 'archery-arrow', 'treasure-chest',
          'puzzle', 'pick', 'hand-stop', 'hand-grab', 'clock', 'calendar', 'bell', 'lock', 'key', 'flag', 'star', 'heart',
-         'home', 'bookmark', 'gift', 'bulb', 'trash', 'scale', 'hourglass', 'alarm', 'mail', 'eye', 'link', 'shield',
+         'home', 'bookmark', 'gift', 'bulb', 'trash', 'scale', 'hourglass', 'alarm', 'mail', 'link', 'shield',
          'crown', 'diamond', 'compass', 'umbrella', 'anchor', 'paperclip', 'ruler', 'scissors', 'brush', 'palette', 'quote',
          'message', 'message-circle', 'wash', 'device-mobile', 'device-tv', 'file', 'cup'}
-# Potongan nama/tag yang berarti makhluk bernyawa, wajah, simbol agama lain, haram, judi, musik, atau UI.
+# Potongan nama/tag yang berarti makhluk bernyawa, wajah, organ wajah (mata/hidung/mulut), simbol agama lain, haram, judi, musik, atau UI.
 KATA_BUANG = {
+    'eye', 'eyes', 'eyeglass', 'eyeglasses', 'nose', 'mouth', 'ear', 'ears', 'tongue',
     'user', 'users', 'man', 'woman', 'men', 'women', 'person', 'people', 'human', 'face', 'mood', 'emoji', 'avatar',
     'baby', 'child', 'kid', 'friends', 'old', 'nurse', 'physiotherapist', 'massage', 'fall', 'blind', 'deaf',
     'disabled', 'accessible', 'empathize', 'teacher', 'yoga', 'run', 'walk', 'swimming', 'ski', 'karate', 'stretching',
@@ -149,7 +150,7 @@ KAMUS = {
     'ayat': ['book', 'quote', 'bookmark'], 'kitab': ['book', 'books', 'notebook'], 'buku': ['book', 'books', 'notebook'],
     'ilmu': ['books', 'bulb', 'school', 'pencil'], 'belajar': ['school', 'books', 'pencil', 'notebook'], 'menulis': ['pencil', 'writing', 'feather', 'notebook'],
     'pena': ['pencil', 'feather', 'writing'], 'surat': ['mail', 'mail-opened', 'script'], 'tulis': ['pencil', 'writing', 'notebook'],
-    'baca': ['book', 'eyeglass', 'book-2'], 'doa': ['hand-stop', 'moon-stars', 'sparkles', 'heart'], 'dzikir': ['heart', 'sparkles', 'moon-stars'],
+    'baca': ['book', 'book-2', 'books'], 'doa': ['hand-stop', 'moon-stars', 'sparkles', 'heart'], 'dzikir': ['heart', 'sparkles', 'moon-stars'],
     'zikir': ['heart', 'sparkles', 'moon-stars'], 'syukur': ['heart', 'sparkles', 'gift'], 'sabar': ['hourglass', 'clock', 'shield'],
     'waktu': ['clock', 'hourglass', 'calendar', 'alarm'], 'jam': ['clock', 'alarm', 'clock-hour-4'], 'hari': ['calendar', 'sun', 'clock'],
     'tahun': ['calendar', 'calendar-event'], 'tanggal': ['calendar', 'calendar-event'], 'hati': ['heart', 'heartbeat', 'heart-handshake'],
@@ -157,7 +158,7 @@ KAMUS = {
     'niat': ['heart', 'bulb', 'target'], 'ikhlas': ['heart', 'feather', 'sparkles'], 'taubat': ['heart', 'droplet', 'refresh'],
     'dosa': ['cloud-storm', 'scale', 'trash'], 'pahala': ['star', 'gift', 'scale', 'trophy'], 'amal': ['scale', 'gift', 'heart'],
     'timbangan': ['scale'], 'adil': ['scale', 'gavel'], 'hukum': ['gavel', 'scale', 'book'], 'harta': ['coins', 'cash', 'diamond', 'treasure-chest', 'wallet'],
-    'uang': ['coins', 'cash', 'wallet', 'coin'], 'emas': ['coins', 'diamond', 'crown'], 'sedekah': ['coins', 'gift', 'heart-handshake', 'pig-money'],
+    'uang': ['coins', 'cash', 'wallet', 'coin'], 'emas': ['coins', 'diamond', 'crown'], 'sedekah': ['coins', 'gift', 'heart-handshake', 'wallet'],
     'zakat': ['coins', 'scale', 'wallet'], 'infak': ['coins', 'gift', 'heart-handshake'], 'hadiah': ['gift', 'heart'],
     'jual': ['building-store', 'basket', 'scale', 'receipt'], 'beli': ['basket', 'shopping-cart', 'building-store'], 'dagang': ['building-store', 'scale', 'coins', 'package'],
     'pasar': ['building-store', 'basket', 'scale'], 'hutang': ['receipt', 'notebook', 'wallet'], 'utang': ['receipt', 'notebook', 'wallet'],
@@ -176,7 +177,7 @@ KAMUS = {
     'sisir': ['brush'], 'siwak': ['dental', 'brush', 'sparkles'], 'gigi': ['dental', 'brush'], 'parfum': ['perfume', 'sparkles', 'spray'],
     'wangi': ['perfume', 'sparkles', 'flower'], 'minyak': ['droplet', 'bottle'], 'bersih': ['sparkles', 'bath', 'wash'], 'kotor': ['trash', 'wash'],
     'sabun': ['wash', 'droplets', 'bath'], 'sakit': ['pill', 'thermometer', 'first-aid-kit', 'bandage'], 'obat': ['pill', 'pills', 'medicine-syrup', 'first-aid-kit'],
-    'sehat': ['heartbeat', 'activity', 'apple'], 'mata': ['eye', 'eyeglass'], 'lihat': ['eye', 'eyeglass'], 'telinga': ['ear'], 'dengar': ['ear', 'speakerphone'],
+    'sehat': ['heartbeat', 'activity', 'apple'], 'mata': ['sparkles', 'bulb', 'compass'], 'lihat': ['sparkles', 'compass', 'bulb'], 'telinga': ['speakerphone', 'message-circle'], 'dengar': ['speakerphone', 'message-circle'],
     'tangan': ['hand-stop', 'hand-grab'], 'kanan': ['hand-stop', 'arrow-right'], 'kiri': ['hand-stop'], 'bersin': ['wind', 'droplets'],
     'ucap': ['message', 'message-circle', 'quote'], 'kata': ['message', 'quote', 'message-circle'], 'salam': ['message-circle', 'heart-handshake', 'door'],
     'tamu': ['door', 'cup', 'heart-handshake'], 'tetangga': ['home', 'building-cottage', 'heart-handshake'], 'keluarga': ['home', 'heart', 'hearts'],
@@ -204,6 +205,12 @@ PER_ILUSTRASI = {
     'air': ['droplet', 'droplets', 'bottle', 'ripple'], 'hidangan': ['bowl', 'bread', 'cup', 'wheat'],
     'pintu': ['door', 'key', 'home', 'door-enter'], 'sedekah': ['coins', 'gift', 'heart-handshake', 'wallet'],
     'hati': ['heart', 'heartbeat', 'sparkles', 'hearts'],
+    'doa_malam': ['moon-stars', 'lamp', 'sparkles', 'heart'],
+    'belajar_ilmu': ['books', 'book-2', 'pencil', 'bulb'],
+    'keluarga_hangat': ['home', 'heart', 'door', 'cup'],
+    'hijrah_perjalanan': ['compass', 'route', 'map', 'moon-stars'],
+    'taman_berkah': ['trees', 'plant-2', 'droplets', 'sparkles'],
+    'waktu_subuh': ['sunrise', 'alarm', 'building-mosque', 'sparkles'],
 }
 
 

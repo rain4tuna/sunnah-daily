@@ -26,7 +26,7 @@ on:
         required: false
         default: ''
       gaya:
-        description: 'remotion = ilustrasi bergerak | ikon = template lama (kosong = remotion)'
+        description: 'motion_kaya (SunnahMotion baru) | remotion (lama) | ikon (kosong = motion_kaya)'
         required: false
         default: ''
       gaya_ikon:
@@ -49,6 +49,14 @@ on:
         description: 'true = posting Reel ke Facebook Page (hanya kalau uji = false)'
         required: false
         default: 'true'
+      posting_tt:
+        description: 'true = posting otonom ke TikTok (hanya kalau uji = false)'
+        required: false
+        default: 'false'
+      posting_tg:
+        description: 'true = kirim video + caption TikTok ke Telegram pribadi (hanya kalau uji = false)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -58,8 +66,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Template untuk jadwal otomatis diatur di sini (ikon | remotion); input "gaya" hanya berlaku untuk run manual.
-  GAYA_TEMPLATE: ${{ github.event.inputs.gaya || 'remotion' }}
+  # Template untuk jadwal otomatis diatur di sini (motion_kaya | remotion | ikon); input "gaya" berlaku untuk run manual.
+  GAYA_TEMPLATE: ${{ github.event.inputs.gaya || 'motion_kaya' }}
 
 jobs:
   video:
@@ -82,16 +90,16 @@ jobs:
           pip install -r requirements.txt
           python -c "from PIL import features; assert features.check('raqm'), 'raqm tidak aktif'"
 
-      # Template Remotion hanya dipasang kalau dipilih, supaya run biasa tidak bertambah lama.
+      # Template Remotion (remotion / motion_kaya) hanya dipasang kalau dipilih, supaya run ikon tetap cepat.
       - uses: actions/setup-node@v4
-        if: env.GAYA_TEMPLATE == 'remotion'
+        if: env.GAYA_TEMPLATE == 'remotion' || env.GAYA_TEMPLATE == 'motion_kaya'
         with:
           node-version: '20'
           cache: npm
           cache-dependency-path: remotion/package-lock.json
 
       - name: Install Remotion
-        if: env.GAYA_TEMPLATE == 'remotion'
+        if: env.GAYA_TEMPLATE == 'remotion' || env.GAYA_TEMPLATE == 'motion_kaya'
         working-directory: remotion
         run: |
           sudo apt-get install -y -qq libnss3 libdbus-1-3 libatk1.0-0 libgbm-dev libxrandr2 libxkbcommon-dev libxfixes3 \
@@ -115,9 +123,19 @@ jobs:
           IG_USER_ID: '17841438717756877'
           POSTING_YT: ${{ github.event.inputs.posting_yt || 'true' }}
           POSTING_FB: ${{ github.event.inputs.posting_fb || 'true' }}
+          POSTING_TT: ${{ github.event.inputs.posting_tt || 'true' }}
+          POSTING_TG: ${{ github.event.inputs.posting_tg || 'true' }}
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
           YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
           YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          TT_ACCESS_TOKEN: ${{ secrets.TT_ACCESS_TOKEN }}
+          TT_CLIENT_KEY: ${{ secrets.TT_CLIENT_KEY }}
+          TT_CLIENT_SECRET: ${{ secrets.TT_CLIENT_SECRET }}
+          TT_REFRESH_TOKEN: ${{ secrets.TT_REFRESH_TOKEN }}
+          TT_MODE: ${{ vars.TT_MODE || 'direct' }}
+          TT_PRIVACY: ${{ vars.TT_PRIVACY || 'SELF_ONLY' }}
+          TG_BOT_TOKEN: ${{ secrets.TG_BOT_TOKEN }}
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           OUT_DIR: hasil
           JADWAL: ${{ github.event_name }}
         run: |

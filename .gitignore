@@ -4,3 +4,12 @@ hasil/
 stok/
 contoh_suara_panjang/
 aset/mentah/
+cache_panjang/
+remotion/out/
+.env
+.env.*
+*.token
+*.key
+*.secret
+credentials*.json
+

@@ -9,6 +9,7 @@ import { DataPanjang, H, VideoPanjang, W } from "./Panjang";
 import contohPanjang from "./contoh_panjang.json";
 import { DataClay, VideoClay } from "./Clay";
 import contohClay from "./contoh_clay.json";
+import { DataKaya, GaleriKaya, SunnahMotion } from "./SunnahMotion";
 
 const FPS = 30;
 
@@ -93,6 +94,17 @@ export const Root: React.FC = () => (
       defaultProps={contohClay as DataClay}
       calculateMetadata={({ props }) => ({ durationInFrames: props.frame ?? Math.ceil(props.durasi * FPS) })}
     />
+    <Composition
+      id="SunnahMotion"
+      component={SunnahMotion}
+      width={1080}
+      height={1920}
+      fps={FPS}
+      durationInFrames={Math.ceil((data as DataKaya).durasi * FPS)}
+      defaultProps={data as DataKaya}
+      calculateMetadata={({ props }) => ({ durationInFrames: props.frame ?? Math.ceil(props.durasi * FPS) })}
+    />
     <Composition id="Galeri" component={Galeri} width={1080} height={1920} fps={FPS} durationInFrames={300} />
+    <Composition id="GaleriKaya" component={GaleriKaya} width={1080} height={1920} fps={FPS} durationInFrames={180} />
   </>
 );

@@ -30,9 +30,10 @@ ATURAN KERAS:
 
 Kembalikan JSON saja:
 {{
- "bab": "1-2 kalimat pembuka kisah berupa pertanyaan pancingan yang bikin penasaran",
- "poin": [{{"narasi": "2-3 kalimat pendek menceritakan ulang poin itu", "label": "judul layar maks 5 kata"}}],
- "faedah": "1-2 kalimat 'Pelajaran buat kita: ...' yang nyambung ke kehidupan anak/remaja sehari-hari",
+ "pancing": "1 kalimat penggoda (maks 16 kata) untuk DETIK PERTAMA video: pertanyaan/teka-teki dari isi materi yang bikin anak penasaran ingin menonton sampai habis, TANPA membocorkan jawabannya, tanpa fakta baru",
+ "bab": "1 kalimat pembuka kisah berupa pertanyaan pancingan yang bikin penasaran (maks 14 kata)",
+ "poin": [{{"narasi": "1-2 kalimat pendek (total maks 24 kata) menceritakan ulang poin itu; sebut perasaan/perbuatan tokohnya bila ADA di materi (mis. sedih, menangis, marah, gembira, menggali)", "label": "judul layar maks 5 kata"}}],
+ "faedah": "1 kalimat (maks 18 kata) 'Pelajaran buat kita: ...' yang nyambung ke kehidupan anak/remaja sehari-hari",
  "kuis": {{"tanya": "1 pertanyaan pendek yang jawabannya ADA di materi",
            "pilihan": ["3 jawaban singkat, maks 6 kata, hanya satu yang benar"], "jawab": 0}}
 }}
@@ -68,6 +69,8 @@ def tulis_ulang(k):
         'poin': [{'narasi': _bersih(x['narasi']), 'label': _bersih(x.get('label'), 40)} for x in p],
         'faedah': _bersih(j.get('faedah')) or f"Pelajaran buat kita: {k.get('faedah')}",
     }
+    if _bersih(j.get('pancing')):
+        hasil['pancing'] = _bersih(j.get('pancing'), 160)
     kuis = j.get('kuis') or {}
     pil = [_bersih(x, 60) for x in (kuis.get('pilihan') or []) if str(x).strip()]
     if kuis.get('tanya') and len(pil) == 3 and kuis.get('jawab') in (0, 1, 2):
@@ -79,11 +82,12 @@ def tulis_ulang(k):
 HURUF = 'ABC'
 
 
-def pembuka(n, topik, no_ep):
-    return (f'Halo teman-teman! Selamat datang di Sunnah Daily. Hari ini kita akan menyimak {n} kisah seru dari '
-            f'perjalanan hidup Nabi Muhammad ﷺ, tentang {topik}. Kisahnya diambil dari kajian Sirah Nabawiyah '
-            f'bagian ke-{no_ep}, oleh Ustadz Doktor Firanda Andirja. Tonton sampai akhir, ya, karena ada kuis seru '
-            'di ujung video!')
+def pembuka(n, topik, no_ep, pancing=None):
+    """Salam + penggoda rasa penasaran di detik pertama (pola curiosity gap), lalu janji kuis. Singkat: sapaan
+    "selamat datang" dan kredit panjang tidak dibacakan (kredit kajian tetap tampil di layar dan deskripsi)."""
+    pancing = pancing or f'Tahukah kamu, apa yang terjadi di zaman {topik}?'
+    return (f"Assalamu'alaikum, teman-teman! {pancing} Jawabannya ada di video ini, dan di akhir ada kuis seru. "
+            f'Tonton sampai habis, ya!')
 
 
 AJAK = ('Seru, kan? Kalau kamu suka kisahnya, tekan tombol like dan subscribe, ya, biar nggak ketinggalan kisah '

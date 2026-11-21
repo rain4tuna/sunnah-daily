@@ -6,9 +6,11 @@ Hasil disimpan di k['storyboard_ikon'] supaya render ulang konsisten. Gagal -> c
 Dipakai seri Sirah (main.py) maupun Sunnah Harian (harian.py).
 """
 import json
+import re
 
 import animasi_ikon
 import gemini
+import growth
 
 PETA_LATAR = {'gurun': 'gunung', 'kafilah': 'jejak', 'kabah': 'kabah', 'masjid': 'masjid', 'gua': 'gua',
               'kota': 'rumah', 'kebun': 'pohon_kurma', 'tenda': 'tenda', 'lentera': 'lentera', 'kitab': 'kitab',
@@ -31,8 +33,26 @@ ILUSTRASI = {
     'pintu': 'pintu rumah terbuka bercahaya (masuk/keluar rumah, keluarga, bertamu, tidur)',
     'sedekah': 'tangan menjatuhkan koin ke mangkuk (sedekah, harta, jual beli, tawaran dunia)',
     'hati': 'hati bercahaya dan berdenyut (iman, niat, akhlak, kasih sayang, taubat)',
+    # 6 adegan kaya baru (template SunnahMotion / AdeganKaya.tsx)
+    'doa_malam': 'mihrab & sajadah di malam hari dengan cahaya lembut (tahajud, munajat, doa malam)',
+    'belajar_ilmu': 'ruang belajar kitab dengan rehal dan lentera (menuntut ilmu, tadabbur, nasihat)',
+    'keluarga_hangat': 'ruang rumah hangat dengan permadani dan jendela senja (adab keluarga, bakti orang tua)',
+    'hijrah_perjalanan': 'perjalanan gurun berbukit menuju fajar (hijrah, perjuangan, safar, keteguhan)',
+    'taman_berkah': 'taman rindang dengan sungai jernih dan cahaya pagi (surga, keberkahan, ketenangan)',
+    'waktu_subuh': 'masjid berkubah di waktu fajar menyingsing (shalat subuh, dzikir pagi, awal hari)',
 }
-TOKOH = ('panik', 'takut', 'berdiri', 'berdoa')
+# Pemetaan 6 adegan baru -> adegan 15 dasar agar template lama (SunnahDaily) tetap kompatibel 100%
+PETA_LEGACY_ILUSTRASI = {
+    'doa_malam': 'lentera',
+    'belajar_ilmu': 'quran',
+    'keluarga_hangat': 'pintu',
+    'hijrah_perjalanan': 'kafilah',
+    'taman_berkah': 'fajar',
+    'waktu_subuh': 'masjid',
+}
+TOKOH_DASAR = ('panik', 'takut', 'berdiri', 'berdoa')
+TOKOH = ('panik', 'takut', 'berdiri', 'berdoa', 'berjalan', 'menunjuk', 'duduk_membaca', 'berbagi')
+PETA_LEGACY_TOKOH = {'berjalan': 'berdiri', 'menunjuk': 'berdiri', 'duduk_membaca': 'berdoa', 'berbagi': 'berdiri'}
 # Ikon template lama -> ilustrasi, untuk storyboard lama atau jawaban Gemini yang tidak valid.
 PETA_IKON = {
     'masjid': 'masjid', 'sajadah': 'masjid', 'kabah': 'kabah', 'kitab': 'quran', 'quran': 'quran', 'pena': 'quran',
@@ -42,8 +62,14 @@ PETA_IKON = {
     'matahari': 'fajar', 'jam': 'fajar', 'kalender': 'fajar', 'awan_hujan': 'badai', 'tetes_air': 'air', 'sumur': 'air',
     'siwak': 'air', 'parfum': 'air', 'timbangan': 'sedekah', 'koin': 'sedekah', 'hati': 'hati', 'cahaya': 'hati',
 }
-# Babak yang menyebut Nabi, sahabat, atau malaikat tidak pernah diberi tokoh: sosok di layar bisa disangka mereka.
+# Babak yang menyebut Nabi, para nabi, sahabat, keluarga beliau, atau malaikat TIDAK PERNAH diberi tokoh.
 KATA_TANPA_TOKOH = ('ﷺ', 'rasulullah', 'nabi ', 'radhiyallahu', 'radhiallahu', 'malaikat', 'jibril', "'alaihis")
+KATA_TANPA_TOKOH_RE = re.compile(
+    r"(ﷺ|\brasulullah\b|\bnabi\b|\bbeliau\b|\bsahabat\b|\bradhiyallahu\b|\bradhiallahu\b|"
+    r"\bmalaikat\b|\bjibril\b|\bmikail\b|\bisrafil\b|'alaihis|alaihissalam|"
+    r"\babu bakar\b|\babu bakr\b|\bumar bin\b|\butsman\b|\bali bin\b|\bkhadijah\b|\baisyah\b|\bfatimah\b)",
+    re.I,
+)
 
 PROMPT = """Kamu penata konten video dakwah "Sunnah Daily" (Reels/Shorts 9:16, 40-65 detik) bergaya animasi ikon.
 Materi di bawah SUDAH diverifikasi. JANGAN menambah fakta, nama, angka, tempat, atau kutipan baru.
@@ -51,13 +77,13 @@ Materi di bawah SUDAH diverifikasi. JANGAN menambah fakta, nama, angka, tempat, 
 MATERI:
 {materi}
 
-Susun:
-- "hook": {{"narasi": "1 kalimat hook lisan yang bikin penasaran", "ikon": ["1 ikon"], "ilustrasi": "", "tokoh": ""}}
-- "poin": 3-5 babak berurutan, tiap babak {{"narasi": "1-2 kalimat lisan", "label": "inti di layar maks 5 kata",
+Susun (dengan retensi tinggi gaya Shorts/Reels/TikTok):
+- "hook": {{"narasi": "1 kalimat hook lisan (6-16 kata) langsung ke inti bikin penasaran/curiosity gap TANPA salam atau 'di video ini'", "ikon": ["1 ikon"], "ilustrasi": "", "tokoh": ""}}
+- "poin": 3-5 babak berurutan (ritme visual berganti cepat tiap 2-3 detik), tiap babak {{"narasi": "1-2 kalimat lisan padat", "label": "inti di layar maks 5 kata",
   "ikon": ["1-2 ikon"], "ilustrasi": "", "tokoh": ""}}. Narasi menceritakan ulang materi dengan setia, urutan sama.
-- "faedah": {{"narasi": "1 kalimat menyampaikan faedah", "ikon": ["1 ikon"], "ilustrasi": "", "tokoh": ""}}
-- "penutup": {{"ajakan": "ajakan komentar MAKS 5 KATA, mis. Tulis Aamiin di komentar",
-  "narasi": "ajakan itu + 'Ikuti Sunnah Daily untuk {lanjut} berikutnya.'"}}
+- "faedah": {{"narasi": "1 kalimat menyampaikan faedah praktis yang langsung bisa diamalkan", "ikon": ["1 ikon"], "ilustrasi": "", "tokoh": ""}}
+- "penutup": {{"ajakan": "SATU ajakan tunggal MAKS 5 KATA (jangan dua ajakan), mis. Tulis Aamiin di komentar atau Simpan agar mudah diamalkan",
+  "narasi": "ajakan itu + 1 kalimat singkat menggemakan inti hook + 'Ikuti Sunnah Daily untuk {lanjut} berikutnya.'"}}
 Total narasi (tanpa dalil) 75-105 kata, supaya video 45-65 detik. Bahasa Indonesia lisan yang tenang, hangat, sederhana.
 Tulis "Rasulullah ﷺ"/"Nabi ﷺ" dengan simbol ﷺ. Jangan menyebut warna, ikon, atau visual di narasi.
 
@@ -68,7 +94,8 @@ ILUSTRASI (pilih SATU kunci per babak, HANYA dari daftar ini; pilih yang paling 
 usahakan babak yang berurutan tidak memakai ilustrasi yang sama):
 {ilustrasi}
 
-TOKOH = manusia tanpa wajah yang ditambahkan ke ilustrasi. Pilihan: panik, takut, berdiri, berdoa.
+TOKOH = manusia 100% TANPA WAJAH (tanpa mata, tanpa hidung, tanpa mulut) yang ditambahkan ke ilustrasi.
+Pilihan: panik, takut, berdiri, berdoa, berjalan, menunjuk, duduk_membaca, berbagi.
 Isi "tokoh" HANYA bila babak itu menceritakan orang yang BUKAN Nabi ﷺ, BUKAN nabi lain, BUKAN sahabat atau keluarga
 beliau, dan BUKAN malaikat: misalnya tokoh musyrik, kaum terdahulu, atau orang umum ("kita", "seseorang").
 Kalau babak itu menyebut Nabi ﷺ, sahabat, atau malaikat, "tokoh" WAJIB "" (kosong). Kalau ragu, kosongkan.
@@ -86,15 +113,19 @@ def _ikon(daftar, cadangan='kitab'):
     return ik or [cadangan]
 
 
-def ilustrasi_babak(b):
-    """(ilustrasi, tokoh) yang valid untuk satu babak storyboard; storyboard lama dipetakan dari ikonnya."""
+def ilustrasi_babak(b, legacy=False):
+    """(ilustrasi, tokoh) yang valid untuk satu babak storyboard; storyboard lama dipetakan dari ikonnya.
+    Jika legacy=True, kunci baru dipetakan balik ke 15 ilustrasi & 4 pose lama (untuk SunnahDaily)."""
     il = b.get('ilustrasi')
     if il not in ILUSTRASI:
         il = next((PETA_IKON[i] for i in (b.get('ikon') or []) if i in PETA_IKON), 'lentera')
     tokoh = b.get('tokoh') if b.get('tokoh') in TOKOH else ''
-    narasi = (b.get('narasi') or '').lower()
-    if tokoh and any(kata in narasi for kata in KATA_TANPA_TOKOH):
+    narasi = (b.get('narasi') or '')
+    if tokoh and (any(kata in narasi.lower() for kata in KATA_TANPA_TOKOH) or KATA_TANPA_TOKOH_RE.search(narasi)):
         tokoh = ''
+    if legacy:
+        il = PETA_LEGACY_ILUSTRASI.get(il, il)
+        tokoh = PETA_LEGACY_TOKOH.get(tokoh, tokoh) if tokoh else ''
     return il, tokoh
 
 
@@ -177,4 +208,12 @@ def segmen(k, kicker, narasi_dalil, seri='', kredit='', lanjut='kisah'):
         if b:
             s['ilustrasi'], s['tokoh'] = ilustrasi_babak(b)
             s['stiker_en'] = b.get('stiker') or []
+    # Lengkapi metadata retensi & CTA untuk template SunnahMotion
+    seri_id = 'harian' if lanjut == 'sunnah' else 'sirah'
+    seg[0]['hookBadge'] = growth.pilih_hook_badge(k, seri_id)
+    for s in seg:
+        if s['jenis'] == 'faedah':
+            s['ctaSingkat'] = growth.cta_tunggal(k, seri_id)
+        elif s['jenis'] == 'penutup':
+            s['loopEcho'] = growth.loop_echo(k)
     return seg

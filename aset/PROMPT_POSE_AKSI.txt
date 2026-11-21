@@ -1,0 +1,61 @@
+PROMPT META AI - POSE AKSI TOKOH (supaya karakter video panjang lebih hidup)
+==================================================================
+Video panjang sekarang sudah menggerakkan tokoh sesuai emosi narasi tanpa aset baru:
+  semua tokoh terus berjalan mondar-mandir (tidak berdiri kaku), dengan stiker ekspresi di samping kepala:
+  sedih (jalan pelan merunduk + awan mendung + stiker tetes), nangis (terisak + stiker dua tetes), senang (jalan
+  melompat + kilau + stiker hati), marah (jalan menghentak + uap + stiker urat marah), kaget (melonjak + stiker "!?"),
+  bicara (bergantian + stiker balon titik-titik).
+Pose di bawah membuat gerak itu jauh lebih jelas. Kode akan memakai pose ini otomatis begitu file-nya ada.
+
+CARA PAKAI (sama seperti PROMPT_ASET_META_AI.md):
+1. Unggah gambar P01 karakternya (mis. aset\mentah\karakter\k03_p01.png) ke Meta AI.
+2. Tempel: Same exact character as the uploaded image (same clothes, colors, proportions, clay texture). Now: <POSE>
+   lalu tempel BLOK GAYA KARAKTER (bagian 4 di PROMPT_ASET_META_AI.md).
+3. Cek: TANPA mata & alis (mulut boleh), tidak ada orang/benda tambahan, latar putih polos.
+4. Simpan ke aset\mentah\karakter\<kode>_<pose>.png  (mis. k03_p12.png), lalu kabari Claude.
+
+ATURAN: Nabi ﷺ, para nabi, dan malaikat tidak pernah dibuat. Pose menggali TIDAK BOLEH ada bayi/anak/lubang berisi
+apa pun; cukup orang dewasa menggali pasir. Anak (K07, K08) tidak dibuatkan pose menggali/menangis.
+
+------------------------------------------------------------------
+POSE BARU (teks untuk <POSE>)
+------------------------------------------------------------------
+P08  surprised, both hands on cheeks, leaning back slightly
+P09  sad, head lowered, shoulders dropped, hands clasped
+P10  arguing, one fist raised, body leaning forward (not violent)
+P12  digging: bending forward holding a long wooden shovel with both hands, the shovel blade pushed into a small
+     pile of sand in front of him, side 3/4 view facing right. Only the man, the shovel and a little sand.
+P13  crying: standing with shoulders hunched and both hands covering the face, head tilted down, front view
+P14  happy: jumping with joy, both arms raised high, one knee lifted, front view
+P15  digging, second step: same shovel, now lifting the shovel up over his shoulder with a scoop of sand on it,
+     side 3/4 view facing right (pairs with P12 so the digging animates)
+
+P16  walking, passing pose: side 3/4 view facing right, both legs nearly together under the body, one foot lifted
+     slightly off the ground, arms close to the body, body a little higher than in P03 (between P03 and P04 steps)
+P17  walking, passing pose (other leg): same as P16 but the OTHER foot lifted, arms swapped
+     -> P03, P16, P04, P17 jadi siklus jalan 4 gambar: langkah jauh lebih halus, tidak "loncat-loncat".
+        Kode langsung memakainya bila P16 DAN P17 ada (sejak tokoh dibuat terus mondar-mandir, ini paling terasa).
+
+------------------------------------------------------------------
+SARAN AUDIT (18 Nov 2026) - urutan paling berdampak untuk gerak yang natural
+------------------------------------------------------------------
+1. P16 + P17 untuk K01, K03, K05, K08 (8 gambar): tokoh kini berjalan sepanjang adegan, jadi siklus jalan
+   2 gambar paling sering terlihat kaku.
+2. P10 marah + P09 sedih untuk K01 dan K03 (4 gambar): babak "malu dan marah", "takut miskin" paling sering.
+3. P14 senang untuk K05 dan K08 (2 gambar): babak "Islam memuliakan anak perempuan".
+4. P12 + P15 menggali K03 (2 gambar): babak mengubur.
+Stiker ekspresi (marah, sedih, senang, kaget, bicara) sudah digambar oleh kode, tidak perlu aset.
+Wajah emoji sengaja TIDAK dipakai karena punya mata.
+
+------------------------------------------------------------------
+PRIORITAS (dibuat dulu yang paling sering tampil)
+------------------------------------------------------------------
+  K03 (ayah muda)   : P09, P12, P15, P13, P14, P10, P08   -> kisah anak perempuan: ayah kecewa & menggali
+  K05 (ibu)         : P09, P13, P14, P08
+  K01 (kakek)       : P09, P10, P08, P14
+  K07 (anak laki)   : P14, P08
+  K08 (anak perempuan): P14, P08
+  K02 (pembesar Quraisy): P10, P08
+  Total prioritas: 22 gambar. Satu karakter cukup 1 percobaan per pose kalau P01 diunggah sebagai acuan.
+
+Setelah ada beberapa saja (mis. K03 P12+P15+P09), Claude bisa langsung memasangnya; sisanya menyusul.

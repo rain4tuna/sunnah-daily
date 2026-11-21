@@ -71,7 +71,8 @@ UMUM = [
     (r'musyrik|quraisy|pembesar|kafir|utusan|menyogok|suap', ['k02', 'k01']),
     (r'muslimin|muhajirin|pemuda', ['k03']),
     (r'raja romawi|heraklius|kaisar|persia', ['k09']), (r'prajurit|pasukan|tentara', ['k10']),
-    (r'anak|bayi|yatim', ['k07', 'k08']), (r'ibu|wanita|perempuan', ['k05']),
+    (r'\bayah\b|bapak', ['k03', 'k01']), (r'anak perempuan|putri|bayi perempuan', ['k08']),
+    (r'\banak\b|bayi|yatim', ['k07', 'k08']), (r'\bibu\b|wanita|perempuan', ['k05']),
     (r'', ['k03', 'k01']),
 ]
 # benda cadangan supaya adegan tanpa tokoh/klip tidak kosong
@@ -89,11 +90,82 @@ def _cari(pola_daftar, teks):
     return [hasil for pola, *hasil in pola_daftar if re.search(pola, teks)]
 
 
-def _tokoh(kode, d, x, dari=None):
-    t = {'diam': d[f'{kode}_p01']['file'], 'x': x}
+# kata di narasi -> aksi tokoh (dicek berurutan). Pose khusus dipakai bila asetnya ada (lihat aset/PROMPT_POSE_AKSI.txt);
+# tanpa pose khusus, gerak & partikel di Remotion tetap menunjukkan emosinya.
+AKSI_KATA = [
+    (r'mengubur|dikubur|menguburkan|menggali|liang', 'gali'),
+    (r'menangis|tangis|air mata|terisak', 'nangis'),
+    (r'sedih|kecewa|malu|duka|pilu|murung|putus asa|bunuh|tega|biadab|keji|kejam', 'sedih'),
+    (r'marah|murka|kesal|geram|benci', 'marah'),
+    (r'kaget|terkejut|heran|tiba-tiba|ternyata', 'kaget'),
+    (r'senang|gembira|bahagia|syukur|bersyukur|riang|ceria|mulia|surga|hebat', 'senang'),
+    (r'berdoa|doa|memohon', 'doa'),
+]
+# aksi -> nomor pose (berurutan = bergantian). Kode pose sama dengan aset/PROMPT_ASET_META_AI.md + PROMPT_POSE_AKSI.txt
+POSE_AKSI = {'sedih': ['p09'], 'nangis': ['p13'], 'marah': ['p10'], 'kaget': ['p08'], 'senang': ['p14'],
+             'gali': ['p12', 'p15'], 'doa': ['p07'], 'tunjuk': ['p05']}
+ANAK = {'k07', 'k08'}
+
+
+def _aksi(teks):
+    """Aksi yang katanya muncul PALING AKHIR di narasi (mis. '...tradisi biadab, lalu Islam memuliakan...' -> senang)."""
+    akhir, hasil = -1, 'bicara'
+    for pola, aksi in AKSI_KATA:
+        for m in re.finditer(pola, teks):
+            if m.start() > akhir:
+                akhir, hasil = m.start(), aksi
+    # menggali selalu menang: adegannya jelas dan pose khususnya ada/ditangani di _tokoh
+    return 'gali' if re.search(AKSI_KATA[0][0], teks) else hasil
+
+
+def _tokoh(kode, d, x, dari=None, aksi='bicara'):
+    t = {'diam': d[f'{kode}_p01']['file'], 'x': x, 'aksi': aksi}
+    if kode in ANAK:
+        t['tinggi'] = 400
+    if f'{kode}_p02' in d:
+        t['samping'] = d[f'{kode}_p02']['file']
     if dari and f'{kode}_p03' in d and f'{kode}_p04' in d:
-        t.update(jalan=[d[f'{kode}_p03']['file'], d[f'{kode}_p04']['file']], dari=dari)
+        # siklus jalan 4 gambar bila pose antara ada (P16/P17, lihat aset/PROMPT_POSE_AKSI.txt): p03, p16, p04, p17
+        urut = ['p03', 'p16', 'p04', 'p17'] if f'{kode}_p16' in d and f'{kode}_p17' in d else ['p03', 'p04']
+        t.update(jalan=[d[f'{kode}_{p}']['file'] for p in urut], dari=dari)
+    pose = [d[f'{kode}_{p}']['file'] for p in POSE_AKSI.get(aksi, []) if f'{kode}_{p}' in d]
+    if aksi == 'gali' and len(pose) < 2:
+        t['aksi'] = 'sedih'                      # belum ada pose menggali: cukup tampak sedih (tanpa adegan menggali)
+        pose = [d[f'{kode}_p09']['file']] if f'{kode}_p09' in d else []
+    if pose:
+        t['aksiFile'] = pose
     return t
+
+
+# latar -> figuran yang membuat adegan ramai (hanya di babak yang tidak menyebut Nabi ﷺ)
+FIGURAN = {
+    'l01_gurun_siang': [('h01_jalan_a', 'h01_jalan_b', 640, 170, 'kanan')],
+    'l02_gurun_senja': [('h02_jalan_a', 'h02_jalan_b', 640, 170, 'kiri')],
+    'l04_makkah_siang': [('k13_kerumunan', None, 700, 200, None)],
+    'l10_desa_badui': [('h03_berdiri', 'h03_merumput', 760, 130, None), ('h01_jalan_a', 'h01_jalan_b', 650, 150, 'kiri')],
+    'l11_pasar': [('k13_kerumunan', None, 700, 210, None), ('h02_jalan_a', 'h02_jalan_b', 680, 160, 'kanan')],
+    'l13_lembah_tandus': [('h01_jalan_a', 'h01_jalan_b', 620, 140, 'kiri')],
+}
+# pasangan tokoh umum supaya ada interaksi (giliran bicara) bila adegan hanya punya satu tokoh
+PASANGAN = {'k05': 'k08', 'k08': 'k05', 'k07': 'k05', 'k03': 'k01', 'k01': 'k03', 'k02': 'k01'}
+KAMERA = ['dorong', 'geser', 'tarik', 'dorong']
+
+
+def _figuran(latar_kode, d, x_tokoh):
+    hasil = []
+    for a, b, y, tinggi, lewat in FIGURAN.get(latar_kode, []):
+        if a not in d:
+            continue
+        g = {'a': d[a]['file'], 'y': y, 'tinggi': tinggi}
+        if b and b in d:
+            g['b'] = d[b]['file']
+        if lewat:
+            g.update(lewat=lewat, laju=1.4)
+        else:
+            # di kejauhan, menjauh dari tokoh utama
+            g['x'] = 380 if all(x > 960 for x in x_tokoh) else 1560
+        hasil.append(g)
+    return hasil
 
 
 def pilih(segmen, benih=''):
@@ -148,13 +220,31 @@ def pilih(segmen, benih=''):
                 break
         if 'gerak' not in a:
             # tokoh: yang disebut namanya; tokoh umum hanya bila babak tidak menyebut Nabi ﷺ
+            aksi = _aksi(teks) if jenis in ('poin', 'bab', 'hook', 'faedah') else 'bicara'
+            if jenis == 'faedah' and aksi != 'senang':
+                aksi = 'bicara'                  # pelajaran selalu disampaikan dengan ceria, bukan sedih
             pilihan = [k for k in bernama if f'{k}_p01' in d][:2]
-            if not pilihan and not sebut_nabi and (s.get('tokoh') or jenis == 'poin'):
+            umum = False
+            if not pilihan and not sebut_nabi and (s.get('tokoh') or jenis in ('poin', 'faedah')):
                 kandidat = next(k for pola, k in UMUM if re.search(pola, teks))
+                if aksi in ('gali', 'nangis', 'sedih', 'marah') and kandidat and set(kandidat) <= ANAK:
+                    # anak tidak pernah diperankan sedang dikubur/menangis: yang tampil orang tuanya
+                    kandidat = ['k05'] if re.search(r'\bibu\b', teks) else ['k03', 'k01']
                 pilihan = [kandidat[acak % len(kandidat)]] if kandidat else []
-            posisi = [1340] if len(pilihan) == 1 else [560, 1360]
-            a['tokoh'] = [_tokoh(k, d, x, dari='kiri' if (acak + j) % 2 == 0 else 'kanan')
+                umum = True
+            # satu tokoh umum yang sedang bicara/senang diberi teman supaya ada interaksi
+            if umum and len(pilihan) == 1 and aksi in ('bicara', 'senang', 'kaget') and PASANGAN.get(pilihan[0]) and \
+                    f'{PASANGAN[pilihan[0]]}_p01' in d and acak % 3:
+                pilihan.append(PASANGAN[pilihan[0]])
+            posisi = [1300] if len(pilihan) == 1 else [640, 1300]
+            a['tokoh'] = [_tokoh(k, d, x, dari=('kiri' if x < 960 else 'kanan') if len(pilihan) > 1
+                                 else ('kiri' if acak % 2 == 0 else 'kanan'), aksi=aksi)
                           for j, (k, x) in enumerate(zip(pilihan, posisi))]
+            a['kamera'] = 'dorong' if aksi in ('sedih', 'nangis', 'gali') else KAMERA[acak % len(KAMERA)]
+            if any(t['aksi'] in ('sedih', 'nangis') for t in a['tokoh']) and 'e02_awan' in d:
+                a['hujan'] = d['e02_awan']['file']
+            if not sebut_nabi:
+                a['figuran'] = _figuran(latar_kode, d, [t['x'] for t in a['tokoh']])
             # benda: dari ilustrasi + kata di narasi, maksimal 2
             benda = list(dict.fromkeys(benda + [k for (k,) in _cari(BENDA_KATA, teks)]))
             benda = [k for k in benda if k in d][:1 if a['tokoh'] else 2]

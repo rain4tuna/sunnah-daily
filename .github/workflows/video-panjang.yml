@@ -16,7 +16,11 @@ on:
         required: false
         default: ''
       maks_kisah:
-        description: 'Batasi jumlah kisah untuk uji cepat (kosong = semua)'
+        description: 'Jumlah kisah maksimal (kosong = 3 untuk naskah anak, video ±3 menit)'
+        required: false
+        default: ''
+      pilih_kisah:
+        description: 'Pilih kisah tertentu, mis. 1,6 (urutan kisah yang layak; kosong = dari awal)'
         required: false
         default: ''
       gaya:
@@ -27,6 +31,10 @@ on:
         description: 'anak (ceria + ajakan + kuis) | asli (narasi storyboard apa adanya)'
         required: false
         default: 'anak'
+      mode_monet:
+        description: 'true = target 8.5-10 menit (unlock iklan mid-roll YouTube + dual CTA)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -82,8 +90,10 @@ jobs:
           EPISODE: ${{ github.event.inputs.episode }}
           SUARA_PANJANG: ${{ github.event.inputs.suara }}
           MAKS_KISAH: ${{ github.event.inputs.maks_kisah }}
+          PILIH_KISAH: ${{ github.event.inputs.pilih_kisah }}
           GAYA_PANJANG: ${{ github.event.inputs.gaya }}
           GAYA_NASKAH: ${{ github.event.inputs.naskah }}
+          MODE_MONET: ${{ github.event.inputs.mode_monet }}
           # Konkurensi 4 membuat font (delayRender "font") melewati batas waktu; 2 seperti render Shorts.
           REMOTION_POTONG_PANJANG: '300'
           REMOTION_KONKURENSI: '2'

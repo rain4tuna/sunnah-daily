@@ -4,7 +4,8 @@ Env:
   GEMINI_API_KEY   wajib
   SERI             sirah | harian (kosong: slot 11.47 & 18.47 WIB = harian, slot lain = sirah)
   GAYA             ikon (default, Animasi Ikon papan/flat/kertas) | remotion (ilustrasi bergerak, butuh Node)
-                   | sirah (gaya Gua Tsur) | lama
+                   | motion_kaya (template SunnahMotion 9:16 baru: karakter artikulasi tanpa wajah, properti kaya,
+                     safe-zone ketat, hook/CTA retensi tinggi, butuh Node) | sirah (gaya Gua Tsur) | lama
   GAYA_IKON        papan | flat | kertas (kosong = bergiliran per video)
   EPISODE          nomor episode (kosong = episode pertama yang masih punya kisah berstatus Belum)
   KISAH            nomor urut kisah di episode / nomor topik Sunnah Harian (kosong = berikutnya)
@@ -24,6 +25,7 @@ import animasi_ikon
 import caption_ig
 import ekstrak
 import fb
+import growth
 import harian
 import gemini
 import ig
@@ -31,6 +33,8 @@ import motion
 import remotion_video
 import storyboard
 import storyboard_ikon
+import tg
+import tt
 import video
 import yt
 
@@ -44,8 +48,13 @@ def log(*a):
     print(*a, flush=True)
 
 
+def _utc_now():
+    """UTC naive datetime (kompatibel dengan stempel waktu ISO eksisting tanpa DeprecationWarning)."""
+    return dt.datetime.now(dt.timezone.utc).replace(tzinfo=None)
+
+
 def episode_list():
-    with open(os.path.join(ROOT, 'data', 'episode.csv')) as f:
+    with open(os.path.join(ROOT, 'data', 'episode.csv'), encoding='utf-8') as f:
         return [r for r in csv.DictReader(f)]
 
 
@@ -107,16 +116,16 @@ def pilih(eps, no_ep=None, no_kisah=None):
 
 
 def tema_otomatis():
-    jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+    jam = (_utc_now() + dt.timedelta(hours=7)).hour
     return 'malam' if jam >= 18 or jam < 5 else 'siang'
 
 
 def baru_saja_posting(menit=75):
     """True kalau ada postingan dalam `menit` terakhir (cegah dobel saat jadwal GitHub telat)."""
     import glob
-    batas = dt.datetime.utcnow() - dt.timedelta(minutes=menit)
+    batas = _utc_now() - dt.timedelta(minutes=menit)
     for p in glob.glob(os.path.join(ekstrak.DIR, '*.json')):
-        with open(p) as f:
+        with open(p, encoding='utf-8') as f:
             for k in json.load(f).get('kisah', []):
                 w = k.get('waktu_posting')
                 if w and dt.datetime.fromisoformat(w) > batas:
@@ -129,22 +138,26 @@ def tulis_daftar():
     import glob
     baris = []
     for p in glob.glob(os.path.join(ekstrak.DIR, '*.json')):
-        with open(p) as f:
+        with open(p, encoding='utf-8') as f:
             for k in json.load(f).get('kisah', []):
                 if k.get('status') == 'Diposting':
                     w = k.get('waktu_posting')
                     wib = (dt.datetime.fromisoformat(w) + dt.timedelta(hours=7)).strftime('%d %b %Y %H.%M') if w else '-'
                     dl = k.get('dalil', {})
                     sumber = dl.get('sumber', '') + (f" ({dl['derajat']})" if dl.get('jenis') in ('hadits', 'atsar') and dl.get('derajat') else '')
-                    ig_l = f"[IG]({k['ig']})" if k.get('ig') else '-'
-                    yt_l = f"[YouTube]({k['yt']})" if k.get('yt') else '-'
+                    tautan = [
+                        f"[IG]({k['ig']})" if k.get('ig') else '-',
+                        f"[YouTube]({k['yt']})" if k.get('yt') else '-',
+                    ]
                     if k.get('fb'):
-                        yt_l += f" · [FB]({k['fb']})"
-                    baris.append((w or '', f"| {wib} | {k['id']} | {k['judul_hook']} | {sumber} | {ig_l} · {yt_l} |"))
+                        tautan.append(f"[FB]({k['fb']})")
+                    if k.get('tt'):
+                        tautan.append(f"[TikTok]({k['tt']})")
+                    baris.append((w or '', f"| {wib} | {k['id']} | {k['judul_hook']} | {sumber} | {' · '.join(tautan)} |"))
     baris.sort(reverse=True)
     isi = ['# Daftar Postingan Sunnah Daily', '', f'Total: {len(baris)} video. Waktu dalam WIB, terbaru di atas.', '',
            '| Tayang | ID | Judul | Dalil | Link |', '|---|---|---|---|---|'] + [b for _, b in baris]
-    with open(os.path.join(ROOT, 'DAFTAR_POSTINGAN.md'), 'w') as f:
+    with open(os.path.join(ROOT, 'DAFTAR_POSTINGAN.md'), 'w', encoding='utf-8') as f:
         f.write('\n'.join(isi) + '\n')
 
 
@@ -188,7 +201,7 @@ def pilih_seri():
     if s in ('sirah', 'harian'):
         return s
     # slot 11.47 & 18.47 WIB = Sunnah Harian (berlaku untuk jadwal GitHub maupun pemicu Apps Script)
-    jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+    jam = (_utc_now() + dt.timedelta(hours=7)).hour
     return 'harian' if jam in (11, 12, 18, 19) else 'sirah'
 
 
@@ -237,7 +250,7 @@ def main():
 
     ep = {'judul': data['judul'], 'url': data['url']}
     gaya_v = os.environ.get('GAYA', 'ikon') or 'ikon'
-    if gaya_v in ('ikon', 'remotion'):
+    if gaya_v in ('ikon', 'remotion', 'motion_kaya'):
         gv = gaya_ikon(k)
         if seri_v == 'harian':
             segmen = storyboard_ikon.segmen(k, 'SUNNAH HARIAN', narasi_dalil, seri='Sunnah Harian', lanjut='sunnah')
@@ -247,7 +260,12 @@ def main():
             segmen = storyboard_ikon.segmen(k, kicker, narasi_dalil, seri=seri(data['judul']),
                                             kredit=f"Faedah dari kajian {data['judul']}\nUst. Dr. Firanda Andirja, M.A.")
         simpan(data)
-        if gaya_v == 'remotion':
+        if gaya_v == 'motion_kaya':
+            log('   template: motion_kaya (SunnahMotion) — ' + ', '.join(
+                f"{s.get('ilustrasi')}{'+' + s['tokoh'] if s.get('tokoh') else ''}"
+                for s in segmen if s.get('ilustrasi')))
+            pembuat = remotion_video.buat_video_kaya
+        elif gaya_v == 'remotion':
             log('   template: remotion — ' + ', '.join(f"{s.get('ilustrasi')}{'+' + s['tokoh'] if s.get('tokoh') else ''}"
                                                        for s in segmen if s.get('ilustrasi')))
             pembuat = remotion_video.buat_video
@@ -274,10 +292,15 @@ def main():
         durasi = pembuat(segmen, tema, mp4, os.path.join(out, f"{k['id']}_cuplikan.jpg"))
     log(f'Video {durasi:.1f} detik -> {mp4}')
 
-    cap = harian.caption(k) if seri_v == 'harian' else caption(k, ep)
-    with open(os.path.join(out, f"{k['id']}_caption.txt"), 'w') as f:
-        f.write(cap)
-    with open(os.path.join(out, f"{k['id']}.json"), 'w') as f:
+    cap_ig = growth.caption_ig(k, ep, seri=seri_v)
+    yt_meta = growth.metadata_yt(k, ep, seri=seri_v)
+    cap_tt = growth.caption_tiktok(k, ep, seri=seri_v)
+    cap_fb = growth.caption_fb(k, ep, seri=seri_v)
+    cap = cap_ig
+    for akhiran, teks in (('', cap), ('_ig', cap_ig), ('_yt', yt_meta['deskripsi']), ('_tt', cap_tt), ('_fb', cap_fb)):
+        with open(os.path.join(out, f"{k['id']}_caption{akhiran}.txt"), 'w', encoding='utf-8') as f:
+            f.write(teks)
+    with open(os.path.join(out, f"{k['id']}.json"), 'w', encoding='utf-8') as f:
         json.dump(k, f, ensure_ascii=False, indent=1)
     if not uji:
         k['status'] = 'Dibuat'
@@ -285,7 +308,7 @@ def main():
         if os.environ.get('POSTING_IG', 'false').lower() == 'true':
             ig_id = os.environ.get('IG_USER_ID') or '17841438717756877'
             try:
-                media = ig.posting_reel_aman(ig_id, mp4, cap)
+                media = ig.posting_reel_aman(ig_id, mp4, cap_ig)
                 k['ig'] = ig.permalink(media) or media
                 k['status'] = 'Diposting'
                 log(f"Diposting ke IG: {k['ig']}")
@@ -294,7 +317,7 @@ def main():
                 log(f'::warning::IG gagal: {e}'[:900])
         if os.environ.get('POSTING_FB', 'false').lower() == 'true':
             try:
-                k['fb'] = fb.posting_reel(mp4, cap)
+                k['fb'] = fb.posting_reel(mp4, cap_fb)
                 k['status'] = 'Diposting'
                 log(f"Diposting ke Facebook: {k['fb']}")
             except Exception as e:
@@ -302,15 +325,35 @@ def main():
                 log(f'::warning::Facebook gagal: {e}'[:900])
         if os.environ.get('POSTING_YT', 'false').lower() == 'true':
             try:
-                k['yt'] = yt.upload(mp4, k['judul_hook'], cap, (['sunnah', 'amalan sunnah', 'hadits'] if seri_v == 'harian'
-                                    else ['sunnah', 'sirah nabawiyah', 'kisah nabi', 'hadits']) + k.get('tema', []))
+                k['yt'] = yt.upload(mp4, yt_meta['judul'], yt_meta['deskripsi'], yt_meta['tags'])
                 k['status'] = 'Diposting'
                 log(f"Diposting ke YouTube: {k['yt']}")
             except Exception as e:
                 gagal.append(f'YouTube: {e}')
                 log(f'::warning::YouTube gagal: {e}'[:900])
+        if os.environ.get('POSTING_TT', 'false').lower() == 'true':
+            if not tt.konfigurasi_siap() and os.environ.get('TT_DRY_RUN', '').lower() != 'true':
+                log('::warning::TikTok dilewati: kredensial TikTok (TT_ACCESS_TOKEN atau TT_CLIENT_KEY/SECRET/REFRESH_TOKEN) belum diset.')
+            else:
+                try:
+                    k['tt'] = tt.upload(mp4, cap_tt)
+                    k['status'] = 'Diposting'
+                    log(f"Diposting ke TikTok: {k['tt']}")
+                except Exception as e:
+                    gagal.append(f'TikTok: {e}')
+                    log(f'::warning::TikTok gagal: {e}'[:900])
+        if os.environ.get('POSTING_TG', 'false').lower() == 'true':
+            if not tg.konfigurasi_siap() and os.environ.get('TG_DRY_RUN', '').lower() != 'true':
+                log('::warning::Telegram dilewati: TG_BOT_TOKEN / TG_CHAT_ID belum diset.')
+            else:
+                try:
+                    k['tg'] = tg.kirim_video(mp4, cap_tt, judul=k['judul_hook'])
+                    log(f"Dikirim ke Telegram: {k['tg']}")
+                except Exception as e:
+                    gagal.append(f'Telegram: {e}')
+                    log(f'::warning::Telegram gagal: {e}'[:900])
         if k['status'] == 'Diposting':
-            k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
+            k['waktu_posting'] = _utc_now().isoformat(timespec='seconds')
         simpan(data)
         tulis_daftar()
         if gagal and k['status'] != 'Diposting':
