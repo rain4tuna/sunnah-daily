@@ -2635,7 +2635,7 @@
    ],
    "id": "h025",
    "topik": "Doa masuk dan keluar kamar mandi",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Doa keluar (ghufranaka) dari HR. Abu Dawud no. 30, dishahihkan Syaikh Al-Albani. Waktu membaca sebelum masuk sesuai riwayat mu'allaq Bukhari dalam bab yang sama (إِذَا أَرَادَ أَنْ يَدْخُلَ).",
@@ -2643,7 +2643,86 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Kamar mandi tampak sepele, tapi tahukah kamu mengapa Rasulullah ﷺ tidak pernah memasukinya tanpa berdoa?",
+     "ikon": [
+      "pintu"
+     ],
+     "ilustrasi": "pintu",
+     "stiker": [
+      "door",
+      "house",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat hendak masuk, Nabi ﷺ membaca Allahumma inni a'udzu bika minal khubutsi wal khaba-its, meminta perlindungan dari setan laki-laki dan perempuan.",
+      "label": "Doa Perlindungan Masuk",
+      "ikon": [
+       "lentera",
+       "kunci"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lamp",
+       "key",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Doa perlindungan ini dibaca tepat sebelum kita melangkah masuk, bukan saat sudah berada di dalam kamar mandi.",
+      "label": "Dibaca Sebelum Masuk",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kota_malam",
+      "tokoh": "berdiri",
+      "stiker": [
+       "footprint",
+       "door",
+       "wall"
+      ]
+     },
+     {
+      "narasi": "Ketika keluar, Nabi ﷺ berucap Ghufranaka untuk memohon ampunan Allah, sebagaimana hadits riwayat Abu Dawud yang shahih.",
+      "label": "Doa Memohon Ampunan",
+      "ikon": [
+       "hati",
+       "tetes_air"
+      ],
+      "ilustrasi": "air",
+      "stiker": [
+       "water",
+       "droplet",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hafalkan dua doa singkat ini, lalu amalkan selalu setiap keluar dan masuk kamar mandi.",
+     "ikon": [
+      "tasbih"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdoa",
+     "stiker": [
+      "prayer beads",
+      "sunrise",
+      "door"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Yuk amalkan sunnah ini",
+     "narasi": "Yuk amalkan sunnah ini. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df_bAVYjlV-/",
+   "fb": "https://www.facebook.com/reel/1141764402047072",
+   "yt": "https://youtube.com/shorts/ZO_AsYXcdOk",
+   "waktu_posting": "2026-11-21T04:57:12"
   },
   {
    "judul_hook": "Wasiat Nabi yang Diulang-ulang",
