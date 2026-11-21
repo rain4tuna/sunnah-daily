@@ -249,11 +249,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "أَقْرِئْ أُمَّتَكَ مِنِّي السَّلَامَ وَأَخْبِرْهُمْ أَنَّ الْجَنَّةَ طَيِّبَةُ التُّرْبَةِ عَذْبَةُ الْمَاءِ وَأَنَّهَا قِيعَانٌ وَأَنَّ غِرَاسَهَا سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
-    "terjemah": "Sampaikanlah salam dariku kepada umatmu dan kabarkan kepada mereka bahwa surga itu tanahnya baik, airnya segar, daratannya luas, dan tanamannya adalah subhanallah, walhamdulillah, wa laa ilaaha illallah, wallahu akbar.",
+    "arab": "... أَقْرِئْ أُمَّتَكَ مِنِّي السَّلَامَ وَأَخْبِرْهُمْ أَنَّ الْجَنَّةَ طَيِّبَةُ التُّرْبَةِ عَذْبَةُ الْمَاءِ وَأَنَّهَا قِيعَانٌ وَأَنَّ غِرَاسَهَا سُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ وَلَا إِلَهَ إِلَّا اللَّهُ وَاللَّهُ أَكْبَرُ",
+    "terjemah": "...Sampaikanlah salam dariku kepada umatmu dan kabarkan kepada mereka bahwa surga itu baik tanahnya, segar airnya, berupa dataran luas nan datar, dan tumbuh-tumbuhannya adalah (dzikir) subhanallah, walhamdulillah, wa laa ilaaha illallah, wallahu akbar.",
     "sumber": "HR. Tirmidzi no. 3462",
-    "derajat_kata_ustadz": "hasan",
-    "dari_video": true
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/tirmidhi:3462"
    },
    "faedah": "Perbanyaklah dzikir setiap waktu untuk memperindah dan memperluas kebun istana kita di surga kelak.",
    "latar_faedah": "kebun",
@@ -263,7 +264,92 @@
     "taman surga"
    ],
    "id": "ep015-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, Nabi Ibrahim menitipkan salam yang sangat indah khusus untuk kita umat Nabi Muhammad ﷺ?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light",
+      "sky"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Di langit ketujuh, Nabi Ibrahim berpesan kepada Rasulullah ﷺ agar menyampaikan salam hangat kepada seluruh umatnya.",
+      "label": "Salam Hangat Nabi Ibrahim",
+      "ikon": [
+       "bintang",
+       "cahaya"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "star",
+       "night",
+       "sky"
+      ]
+     },
+     {
+      "narasi": "Beliau mengabarkan bahwa tanah surga amat subur dan datar, serta airnya begitu segar.",
+      "label": "Keadaan Tanah Surga",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "air",
+      "stiker": [
+       "water",
+       "drop",
+       "ground"
+      ]
+     },
+     {
+      "narasi": "Tanaman-tanamannya dapat kita tanam sekarang melalui ucapan subhanallah, walhamdulillah, wa laa ilaaha illallah, wallahu akbar.",
+      "label": "Menanam Kebun Lewat Dzikir",
+      "ikon": [
+       "tasbih",
+       "pohon_kurma"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdoa",
+      "stiker": [
+       "tree",
+       "beads",
+       "plant"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Perbanyaklah dzikir setiap waktu untuk memperindah dan memperluas kebun istana kita di surga kelak.",
+     "ikon": [
+      "rumah"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdoa",
+     "stiker": [
+      "garden",
+      "palace",
+      "sunrise"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/Df_13kNGpdi/",
+   "fb": "https://www.facebook.com/reel/2387358662030300",
+   "yt": "https://youtube.com/shorts/4mhp35O8Bz8",
+   "waktu_posting": "2026-11-21T08:51:52"
   },
   {
    "menit": "11:21",
