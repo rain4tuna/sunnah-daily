@@ -42,7 +42,8 @@ def isyarat(props, komposisi='SunnahDaily'):
     segmen = props.get('segmen') or []
     adegan = props.get('adegan') or []
     clay = komposisi == 'SunnahClay'
-    panjang = komposisi != 'SunnahDaily'
+    kaya = komposisi == 'SunnahMotion'
+    panjang = komposisi not in ('SunnahDaily', 'SunnahMotion')
     hasil = []
 
     def tambah(t, sid, db=0.0, maks=None):
@@ -63,6 +64,17 @@ def isyarat(props, komposisi='SunnahDaily'):
         for x in ([] if clay else s.get('stiker') or []):
             if x.get('muncul') is not None:
                 tambah(m + float(x['muncul']) + 0.05, 'pop-small-in', -3)
+        # --- template SunnahMotion: efek foley non-musik tambahan untuk properti, langkah, dan CTA visual
+        if kaya:
+            if jenis in ('hook', 'poin', 'faedah'):
+                tambah(m + 0.22, 'pop-medium-bubble', -6)
+            if s.get('tokoh') == 'berjalan':
+                for f in range(6, 48, 10):
+                    tambah(m + f / FPS, 'impact-light-soft', -10)
+            if jenis == 'faedah':
+                tambah(m + 28 / FPS, 'pop-small-in', -4)
+            if jenis == 'penutup':
+                tambah(m + 14 / FPS, 'click-mouse-firm', -4)
         # --- tokoh & properti clay
         a = adegan[i] if clay and i < len(adegan) and isinstance(adegan[i], dict) else {}
         if jenis not in ('dalil',):

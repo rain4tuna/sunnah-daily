@@ -7,8 +7,10 @@ segmen: list dict, urut tayang:
   {'jenis': 'faedah',  'latar': 'kitab', 'faedah': '...', 'narasi': '...', 'wav': path}
   {'jenis': 'penutup', 'narasi': '...',  'wav': path}
 """
+import glob
 import os
 import re
+import shutil
 import subprocess
 import tempfile
 import wave
@@ -300,13 +302,24 @@ def _durasi(path):
         return w.getnframes() / w.getframerate()
 
 
+def _ffmpeg_bin():
+    """Cari ffmpeg di PATH atau fallback ke binary ffmpeg bawaan Remotion (kompatibel Windows/Linux)."""
+    if shutil.which(FFMPEG):
+        return FFMPEG
+    root = os.path.dirname(os.path.abspath(__file__))
+    nama = 'ffmpeg.exe' if os.name == 'nt' else 'ffmpeg'
+    kandidat = glob.glob(os.path.join(root, 'remotion', 'node_modules', '@remotion', 'compositor-*', nama))
+    return kandidat[0] if kandidat else FFMPEG
+
+
 def susun_audio(segmen, out_wav, tmp):
     """Normalkan tiap wav (24 kHz mono), sambung dengan jeda. Isi seg['durasi'] dan seg['mulai']."""
+    ff = _ffmpeg_bin()
     potong = []
     t = 0.0
     for i, s in enumerate(segmen):
         norm = os.path.join(tmp, f'n{i}.wav')
-        subprocess.run([FFMPEG, '-y', '-loglevel', 'error', '-i', s['wav'], '-ac', '1', '-ar', '24000',
+        subprocess.run([ff, '-y', '-loglevel', 'error', '-i', s['wav'], '-ac', '1', '-ar', '24000',
                         '-af', f'apad=pad_dur={JEDA}', norm], check=True)
         s['durasi'] = _durasi(norm)
         if s['jenis'] == 'dalil':
@@ -317,14 +330,14 @@ def susun_audio(segmen, out_wav, tmp):
         t += s['durasi']
         potong.append(norm)
     lst = os.path.join(tmp, 'daftar.txt')
-    with open(lst, 'w') as f:
+    with open(lst, 'w', encoding='utf-8') as f:
         for i, p in enumerate(potong):
-            f.write(f"file '{p}'\n")
+            f.write(f"file '{p.replace(os.sep, '/')}'\n")
     gabung = os.path.join(tmp, 'gabung.wav')
-    subprocess.run([FFMPEG, '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', lst, gabung],
+    subprocess.run([ff, '-y', '-loglevel', 'error', '-f', 'concat', '-safe', '0', '-i', lst, gabung],
                    check=True)
     # pastikan panjang audio = total durasi (dalil bisa diperpanjang)
-    subprocess.run([FFMPEG, '-y', '-loglevel', 'error', '-i', gabung, '-af', f'apad=whole_dur={t:.3f}',
+    subprocess.run([ff, '-y', '-loglevel', 'error', '-i', gabung, '-af', f'apad=whole_dur={t:.3f}',
                     '-t', f'{t:.3f}', out_wav], check=True)
     return t
 

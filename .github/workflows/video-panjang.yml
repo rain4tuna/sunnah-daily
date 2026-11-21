@@ -31,6 +31,10 @@ on:
         description: 'anak (ceria + ajakan + kuis) | asli (narasi storyboard apa adanya)'
         required: false
         default: 'anak'
+      mode_monet:
+        description: 'true = target 8.5-10 menit (unlock iklan mid-roll YouTube + dual CTA)'
+        required: false
+        default: 'false'
 
 permissions:
   contents: write
@@ -89,6 +93,7 @@ jobs:
           PILIH_KISAH: ${{ github.event.inputs.pilih_kisah }}
           GAYA_PANJANG: ${{ github.event.inputs.gaya }}
           GAYA_NASKAH: ${{ github.event.inputs.naskah }}
+          MODE_MONET: ${{ github.event.inputs.mode_monet }}
           # Konkurensi 4 membuat font (delayRender "font") melewati batas waktu; 2 seperti render Shorts.
           REMOTION_POTONG_PANJANG: '300'
           REMOTION_KONKURENSI: '2'

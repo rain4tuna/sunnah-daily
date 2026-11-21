@@ -67,3 +67,18 @@ pilih `gaya = ikon` saat Run workflow, atau ubah `GAYA_TEMPLATE` di `buat-video.
 - **Render per potongan.** Video dirender tiap `REMOTION_POTONG` frame lalu digabung dengan audio, supaya potongan
   yang macet bisa diulang. Di Windows pakai `REMOTION_GL=angle` (default); render perangkat lunak di sana menggantung.
 - **Font** ditanam di `remotion/src/fontdata.ts` (dibuat dari `fonts/`), supaya render tidak memuat apa pun lewat jaringan.
+
+## Template Motion Kaya (`GAYA=motion_kaya` / `SunnahMotion`)
+
+Template utama 9:16 terbaru (`remotion/src/SunnahMotion.tsx`, `AdeganKaya.tsx`, `KarakterKaya.tsx`, `PropertiKaya.tsx`):
+- **Gerakan lebih kaya & natural:** karakter SVG berartikulasi (napas torso, sendi bahu-siku-tangan, ayunan kain/sorban, langkah kaki + debu, 8 pose: `berdiri`, `berjalan`, `berdoa`, `panik`, `takut`, `menunjuk`, `duduk_membaca`, `berbagi`), 12 properti animasi berlapis, dan 21 adegan parallax (15 adegan dasar + 6 adegan baru: `doa_malam`, `belajar_ilmu`, `keluarga_hangat`, `hijrah_perjalanan`, `taman_berkah`, `waktu_subuh`).
+- **Kepatuhan Sunnah ketat:** seluruh karakter **100% tanpa mata, alis, hidung, dan mulut**; Nabi ﷺ, para nabi, sahabat, dan malaikat tidak pernah digambar (`KATA_TANPA_TOKOH_RE` di `storyboard_ikon.py`); **tanpa musik** (hanya suara narasi + SFX non-musik CC0 di `sfx/`, output audio stereo 48 kHz AAC).
+- **Optimasi Hook, CTA & Safe Zone (`growth.py`):** hook instan sejak frame 0, safe zone ketat lintas platform (`x <= 850`, `y` di `230..1430`), CTA visual+verbal setelah faedah, loop echo di penutup, serta caption/metadata khusus per platform (IG maks 5 hashtag tanpa URL, YT Shorts judul front-loaded <= 40 karakter, TikTok & FB).
+- **Lembar periksa visual:** `npx remotion still src/index.ts GaleriKaya out/galeri_kaya.png --frame=24`.
+
+## Posting Otonom TikTok (`tt.py`), Telegram Delivery (`tg.py`) & Monetisasi
+
+- **Kirim Otomatis ke Telegram Pribadi untuk TikTok (`tg.py` — Opsi C paling praktis):** setelah video dirender, pipeline dapat mengirim file MP4 (`sendVideo`) beserta caption TikTok lengkap (`sendMessage`) langsung ke Telegram pribadi agar tinggal 1-tap Share ke TikTok tanpa perlu lolos audit TikTok Developers. Cukup isi GitHub Secrets `TG_BOT_TOKEN` & `TG_CHAT_ID` (tes lewat workflow **Posting Ulang** `tujuan=cek-tg`).
+- **TikTok Content Posting API v2 (`tt.py`):** mendukung OAuth2 refresh token (`TT_CLIENT_KEY`, `TT_CLIENT_SECRET`, `TT_REFRESH_TOKEN`) atau `TT_ACCESS_TOKEN`, chunked `FILE_UPLOAD`, mode `direct`/`inbox` (`TT_MODE`), privasi aman default `SELF_ONLY` (`TT_PRIVACY`), dan simulasi lokal (`TT_DRY_RUN=true`). Terintegrasi di `main.py`, `posting_uji.py` (`tujuan=tt|tg|cek-tt|cek-tg|semua`), `buat-video.yml`, `posting-ig.yml`, dan `DAFTAR_POSTINGAN.md`.
+- **Video Panjang 8+ Menit (`video_panjang.py`):** set `MODE_MONET=true` untuk menargetkan durasi ~8.5–10 menit (membuka iklan mid-roll YouTube + Dual CTA di tengah video).
+- Lihat laporan audit di `docs/AUDIT_REPORT.md` dan peta jalan pertumbuhan menuju 1 juta di `docs/GROWTH_MONETIZATION_PLAYBOOK.md`.
