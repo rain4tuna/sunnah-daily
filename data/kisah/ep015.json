@@ -479,11 +479,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ",
-    "terjemah": "Dan sesungguhnya Muhammad telah melihat Jibril itu (dalam rupanya yang asli) pada waktu yang lain, (yaitu) di Sidratul Muntaha.",
+    "arab": "وَلَقَدْ رَآهُ نَزْلَةً أُخْرَىٰ ﴿١٣﴾ عِنْدَ سِدْرَةِ الْمُنْتَهَىٰ ﴿١٤﴾",
+    "terjemah": "Dan sungguh, dia (Muhammad) telah melihatnya (dalam rupa aslinya) pada waktu yang lain, (yaitu) di Sidratilmuntaha.",
     "sumber": "QS. An-Najm: 13-14",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/53?from=13&to=14"
    },
    "faedah": "Merenungi keagungan ciptaan malaikat akan menumbuhkan ketundukan dan rasa takut kita kepada Sang Pencipta.",
    "latar_faedah": "lentera",
@@ -493,7 +494,88 @@
     "keagungan Allah"
    ],
    "id": "ep015-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF77drByabPPpBsckoaUzhYXG68pNBo_kudJApj4gnLVG7S683qkZLVkoCLRYqQfzLQprS9aQEfvmXKfAdCniGYbz7j8L_TCUhA4ppJLKamCcgeWCMECE1_J3N_aerbJDiZjAVs4vYdMF7FcFOmMGcPYQ==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ubpyzwu3ByrwelRk0-2CCqciGbE8_B2R1zLURHEB_RyyyA_DoQw3Jknl_RJqqajUAJ79guQz_5LcJ0VWWW3Sp7j4NGTjSGxljl_a-Ut5OUwkCVwXAvLEanDCs-rbibC2cWFkBuro7_CZpwEpY_ggbSM="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu membayangkan megahnya wujud asli Malaikat Jibril saat menampakkan diri?",
+     "ikon": [
+      "bintang"
+     ],
+     "ilustrasi": "taman_berkah",
+     "stiker": [
+      "sky",
+      "star"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Di puncak Sidratul Muntaha, Rasulullah ﷺ melihat wujud asli Malaikat Jibril yang sangat agung.",
+      "label": "Puncak Sidratul Muntaha",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "sky",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Beliau mengenakan jubah sutra hijau dengan enam ratus sayap yang membentang menutupi seluruh cakrawala.",
+      "label": "Menutupi Seluruh Cakrawala",
+      "ikon": [
+       "matahari"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "horizon",
+       "sun"
+      ]
+     },
+     {
+      "narasi": "Dari setiap kepakan sayapnya, berjatuhan permata dan mutiara indah, tanda keagungan ciptaan Allah Penguasa semesta.",
+      "label": "Butiran Permata dan Mutiara",
+      "ikon": [
+       "bintang",
+       "cahaya"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "jewel",
+       "pearl"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Merenungkan keagungan malaikat menumbuhkan rasa tunduk dan takut kita kepada Sang Pencipta.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "doa_malam",
+     "tokoh": "berdoa",
+     "stiker": [
+      "night",
+      "lamp"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Ingatlah selalu keagungan wujud malaikat ciptaan-Nya. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgBTTw5j1Rm/",
+   "fb": "https://www.facebook.com/reel/3205531712969482",
+   "yt": "https://youtube.com/shorts/zMcn8aXcj0Q",
+   "waktu_posting": "2026-11-21T22:28:19"
   },
   {
    "menit": "18:21",

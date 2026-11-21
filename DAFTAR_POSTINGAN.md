@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 124 video. Waktu dalam WIB, terbaru di atas.
+Total: 125 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 22 Nov 2026 05.28 | ep015-05 | Megahnya Wujud Asli Malaikat Jibril | QS. An-Najm: 13-14 | [IG](https://www.instagram.com/reel/DgBTTw5j1Rm/) · [YouTube](https://youtube.com/shorts/zMcn8aXcj0Q) · [FB](https://www.facebook.com/reel/3205531712969482) |
 | 21 Nov 2026 21.25 | ep015-04 | Bidadari Cantik Untuk Zaid bin Haritsah | HR. Ibnu Abi 'Ashim (Al-Ahad wal-Matsani no. 256), Ar-Ruyani (Musnad no. 85), dan Adh-Dhiya' Al-Maqdisi (Al-Mukhtarah) (shahih) | [IG](https://www.instagram.com/reel/DgAcCKglJ7e/) · [YouTube](https://youtube.com/shorts/ZowH-GPgwKE) · [FB](https://www.facebook.com/reel/3366315733567554) |
 | 21 Nov 2026 19.00 | h026 | Wasiat Nabi yang Diulang-ulang | HR. Bukhari no. 6116 (shahih) | [IG](https://www.instagram.com/reel/DgALcZxCPbv/) · [YouTube](https://youtube.com/shorts/bnG6Pg2WBy8) · [FB](https://www.facebook.com/reel/1822863248996500) |
 | 21 Nov 2026 15.51 | ep015-03 | Titipan Salam Dari Nabi Ibrahim | HR. Tirmidzi no. 3462 (hasan) | [IG](https://www.instagram.com/reel/Df_13kNGpdi/) · [YouTube](https://youtube.com/shorts/4mhp35O8Bz8) · [FB](https://www.facebook.com/reel/2387358662030300) |
