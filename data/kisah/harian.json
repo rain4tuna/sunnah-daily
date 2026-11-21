@@ -2762,7 +2762,7 @@
    ],
    "id": "h026",
    "topik": "Tidak marah",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -2770,7 +2770,90 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, ada seseorang yang meminta wasiat kepada Rasulullah ﷺ, dan jawabannya hanya dua kata?",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "lamp",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Seorang lelaki meminta wasiat, lalu Nabi ﷺ menjawab singkat: jangan marah.",
+      "label": "Wasiat Singkat Nabi ﷺ",
+      "ikon": [
+       "gulungan"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "scroll",
+       "carpet"
+      ]
+     },
+     {
+      "narasi": "Lelaki itu mengulang permintaannya berkali-kali, namun beliau tetap mengulang jawaban yang sama: jangan marah.",
+      "label": "Jawaban Tetap Sama",
+      "ikon": [
+       "jam",
+       "timbangan"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "clock",
+       "scale"
+      ]
+     },
+     {
+      "narasi": "Wasiat ini mengajarkan kita untuk menjaga diri dari amarah tercela serta menjauhi segala pemicunya.",
+      "label": "Jauhi Pemicu Marah",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Maka saat emosi mulai naik, tahan lisan dan tanganmu, jangan biarkan amarah mengendalikan dirimu.",
+      "label": "Tahan Emosi Diri",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "rain"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Saat amarah datang, ingatlah selalu wasiat agung ini: jangan marah.",
+     "ikon": [
+      "bintang"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "sun",
+      "star"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgALcZxCPbv/",
+   "fb": "https://www.facebook.com/reel/1822863248996500",
+   "yt": "https://youtube.com/shorts/bnG6Pg2WBy8",
+   "waktu_posting": "2026-11-21T12:00:34"
   },
   {
    "judul_hook": "Siapa Paling Berhak Kau Baiki?",

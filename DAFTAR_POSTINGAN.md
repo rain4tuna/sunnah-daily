@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 122 video. Waktu dalam WIB, terbaru di atas.
+Total: 123 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 21 Nov 2026 19.00 | h026 | Wasiat Nabi yang Diulang-ulang | HR. Bukhari no. 6116 (shahih) | [IG](https://www.instagram.com/reel/DgALcZxCPbv/) · [YouTube](https://youtube.com/shorts/bnG6Pg2WBy8) · [FB](https://www.facebook.com/reel/1822863248996500) |
 | 21 Nov 2026 15.51 | ep015-03 | Titipan Salam Dari Nabi Ibrahim | HR. Tirmidzi no. 3462 (hasan) | [IG](https://www.instagram.com/reel/Df_13kNGpdi/) · [YouTube](https://youtube.com/shorts/4mhp35O8Bz8) · [FB](https://www.facebook.com/reel/2387358662030300) |
 | 21 Nov 2026 11.57 | h025 | Doa Pendek Penjaga di Kamar Mandi | HR. Bukhari no. 142 (shahih) | [IG](https://www.instagram.com/reel/Df_bAVYjlV-/) · [YouTube](https://youtube.com/shorts/ZO_AsYXcdOk) · [FB](https://www.facebook.com/reel/1141764402047072) |
 | 21 Nov 2026 05.29 | ep015-02 | Rahasia Ribuan Malaikat Baitul Ma'mur | HR. Muslim no. 162 (dan lafaz semakna dalam Bukhari no. 3207) (shahih) | [IG](https://www.instagram.com/reel/Df-uqQuHM04/) · [YouTube](https://youtube.com/shorts/rZA9fJd9L5o) · [FB](https://www.facebook.com/reel/2227853978122379) |
