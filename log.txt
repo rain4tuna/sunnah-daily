@@ -1,0 +1,50 @@
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:110: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:191: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  jam = (dt.datetime.utcnow() + dt.timedelta(hours=7)).hour
+Seri: sirah
+Kisah ep015-04: Bidadari Cantik Untuk Zaid bin Haritsah
+   Google Search: 24 kueri, 0 sitasi
+   template: remotion — fajar, lentera, pintu, kota_malam, hati
+   babak: hook, poin, poin, poin, dalil, faedah, penutup
+   TTS 1/7
+   TTS 2/7
+   TTS 3/7
+   TTS 4/7
+   TTS 5/7
+   TTS 6/7
+   TTS 7/7
+   SFX: 22 efek dipasang
+   Remotion 300/2124 frame
+   Remotion 600/2124 frame
+   Remotion 900/2124 frame
+   Remotion 1200/2124 frame
+   Remotion 1500/2124 frame
+   Remotion 1800/2124 frame
+   Remotion 2100/2124 frame
+   Remotion 2124/2124 frame
+Video 70.8 detik -> hasil/ep015-04.mp4
+   percobaan 1: curl HTTP 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+   percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+   upload langsung gagal, coba lewat URL: upload gagal: percobaan 1: curl HTTP 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}} | percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+Diposting ke IG: https://www.instagram.com/reel/DgAcCKglJ7e/
+Diposting ke Facebook: https://www.facebook.com/reel/3366315733567554
+Diposting ke YouTube: https://youtube.com/shorts/ZowH-GPgwKE
+/home/runner/work/sunnah-daily/sunnah-daily/main.py:313: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  k['waktu_posting'] = dt.datetime.utcnow().isoformat(timespec='seconds')
+
+Bidadari Cantik Untuk Zaid bin Haritsah. Simpan dulu, biar gampang dibuka lagi pas mau diamalkan.
+
+Saat Rasulullah ﷺ dimasukkan ke surga, beliau takjub melihat sebuah kubah dari mutiara dan tanahnya menebarkan aroma minyak kesturi. Di sana beliau melihat seorang gadis jelita yang memikat hati. Nabi ﷺ bertanya untuk siapa bidadari secantik itu diciptakan. Bidadari tersebut pun menjawab bahwa dirinya dipersiapkan oleh Allah khusus untuk Zaid bin Haritsah radhiyallahu 'anhu.
+
+📖 Aku masuk ke surga, lalu aku disambut oleh seorang gadis muda (bidadari). Aku bertanya kepadanya, 'Milik siapakah engkau?' Dia menjawab, 'Aku untuk Zaid bin Haritsah.'
+(HR. Ibnu Abi 'Ashim (Al-Ahad wal-Matsani no. 256), Ar-Ruyani (Musnad no. 85), dan Adh-Dhiya' Al-Maqdisi (Al-Mukhtarah) · Shahih)
+
+Faedahnya: Balasan kemuliaan dan kenikmatan surga yang abadi disiapkan bagi hamba yang ikhlas beramal shaleh.
+
+Topik: surga, Zaid bin Haritsah, bidadari
+
+Dari kajian Sirah Nabawiyah #15 - Perjalanan Rasulullah Ke Sidratul Muntaha, Ust. Dr. Firanda Andirja, M.A.
+Kajian lengkap: https://www.youtube.com/watch?v=lpvsYWgEOVA&t=681s
+
+#sunnahdaily #surga #zaidbinharitsah #bidadari #sirahnabawiyah

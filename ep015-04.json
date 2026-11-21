@@ -1,0 +1,107 @@
+{
+ "menit": "11:21",
+ "judul_hook": "Bidadari Cantik Untuk Zaid bin Haritsah",
+ "narasi_hook": "Siapakah sahabat mulia yang bidadarinya telah dipersiapkan khusus di surga?",
+ "latar_hook": "kebun",
+ "adegan": [
+  {
+   "narasi": "Saat Rasulullah ﷺ dimasukkan ke surga, beliau takjub melihat sebuah kubah dari mutiara dan tanahnya menebarkan aroma minyak kesturi. Di sana beliau melihat seorang gadis jelita yang memikat hati.",
+   "latar": "kebun"
+  },
+  {
+   "narasi": "Nabi ﷺ bertanya untuk siapa bidadari secantik itu diciptakan. Bidadari tersebut pun menjawab bahwa dirinya dipersiapkan oleh Allah khusus untuk Zaid bin Haritsah radhiyallahu 'anhu.",
+   "latar": "kitab"
+  }
+ ],
+ "dalil": {
+  "jenis": "hadits",
+  "arab": "دَخَلْتُ الْجَنَّةَ فَاسْتَقْبَلَتْنِي جَارِيَةٌ شَابَّةٌ، فَقُلْتُ: لِمَنْ أَنْتِ؟ قَالَتْ: أَنَا لِزَيْدِ بْنِ حَارِثَةَ",
+  "terjemah": "Aku masuk ke surga, lalu aku disambut oleh seorang gadis muda (bidadari). Aku bertanya kepadanya, 'Milik siapakah engkau?' Dia menjawab, 'Aku untuk Zaid bin Haritsah.'",
+  "sumber": "HR. Ibnu Abi 'Ashim (Al-Ahad wal-Matsani no. 256), Ar-Ruyani (Musnad no. 85), dan Adh-Dhiya' Al-Maqdisi (Al-Mukhtarah)",
+  "derajat": "shahih",
+  "penilai": "Syaikh Al-Albani (Silsilah Al-Ahadits Ash-Shahihah no. 1859)",
+  "rujukan": "https://dorar.net"
+ },
+ "faedah": "Balasan kemuliaan dan kenikmatan surga yang abadi disiapkan bagi hamba yang ikhlas beramal shaleh.",
+ "latar_faedah": "lentera",
+ "tema": [
+  "surga",
+  "Zaid bin Haritsah",
+  "bidadari"
+ ],
+ "id": "ep015-04",
+ "status": "Belum",
+ "cek": {
+  "kisah_lemah": false,
+  "catatan": "Rujukan 'HR. Tirmidzi no. 3817 & Ibnu Hibban no. 7031' salah fatal; At-Tirmidzi no. 3817 membahas sakitnya Nabi ﷺ bersama Usamah bin Zaid, sedangkan Ibnu Hibban no. 7031 membahas manaqib Sa'ad bin Mu'adz. Hadits tentang bidadari Zaid bin Haritsah berstatus shahih tetapi diriwayatkan oleh Ibnu Abi 'Ashim, Ar-Ruyani, dan Adh-Dhiya' Al-Maqdisi. Selain itu, rincian 'kubah mutiara dan tanah kesturi' tercampur dari lafaz hadits Mi'raj umum riwayat Bukhari (no. 3342) atau riwayat Abu Sa'id al-Khudri via Abu Harun al-'Abdi yang berstatus sangat lemah/matruk.",
+  "sumber_cek": []
+ },
+ "layak": true,
+ "storyboard_ikon": {
+  "hook": {
+   "narasi": "Siapakah sahabat mulia yang bidadarinya telah dipersiapkan secara khusus di surga?",
+   "ikon": [
+    "bintang"
+   ],
+   "ilustrasi": "fajar",
+   "stiker": [
+    "pearl",
+    "light"
+   ]
+  },
+  "poin": [
+   {
+    "narasi": "Saat Rasulullah ﷺ dimasukkan ke surga, beliau takjub melihat kubah dari mutiara dan tanah beraroma minyak kesturi.",
+    "label": "Keindahan Kubah Mutiara Surga",
+    "ikon": [
+     "parfum"
+    ],
+    "ilustrasi": "lentera",
+    "stiker": [
+     "dome",
+     "perfume",
+     "pearl"
+    ]
+   },
+   {
+    "narasi": "Di sana, beliau melihat seorang gadis jelita yang memikat hati menyambut kedatangan beliau.",
+    "label": "Gadis Jelita Penyambut Surga",
+    "ikon": [
+     "hati"
+    ],
+    "ilustrasi": "pintu",
+    "stiker": [
+     "door",
+     "light"
+    ]
+   },
+   {
+    "narasi": "Nabi ﷺ bertanya untuk siapa ia diciptakan, dan bidadari itu menjawab bahwa dirinya dipersiapkan khusus untuk Zaid bin Haritsah radhiyallahu 'anhu.",
+    "label": "Khusus Untuk Zaid bin Haritsah",
+    "ikon": [
+     "cahaya"
+    ],
+    "ilustrasi": "kota_malam",
+    "stiker": [
+     "star",
+     "light"
+    ]
+   }
+  ],
+  "faedah": {
+   "narasi": "Balasan kemuliaan dan kenikmatan surga yang abadi disiapkan bagi hamba yang ikhlas beramal shaleh.",
+   "ikon": [
+    "timbangan"
+   ],
+   "ilustrasi": "hati",
+   "stiker": [
+    "scale",
+    "heart"
+   ]
+  },
+  "penutup": {
+   "ajakan": "Tulis Aamiin di komentar",
+   "narasi": "Tulis Aamiin di komentar. Ikuti Sunnah Daily untuk kisah berikutnya."
+  }
+ }
+}
