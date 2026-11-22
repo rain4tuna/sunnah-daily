@@ -718,11 +718,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "وَاللَّهِ لَئِنْ كَانَ قَالَهُ لَقَدْ صَدَقَ، إِنِّي لَأُصَدِّقُهُ فِيمَا هُوَ أَبْعَدُ مِنْ ذَلِكَ",
-    "terjemah": "Demi Allah, seandainya beliau benar-benar mengatakannya, maka sungguh beliau telah jujur. Bahkan aku membenarkan beliau terhadap perkara yang lebih jauh dari itu.",
+    "arab": "لَئِنْ كَانَ قَالَ ذَلِكَ لَقَدْ صَدَقَ... إِنِّي لَأُصَدِّقُهُ فِيمَا هُوَ أَبْعَدُ مِنْ ذَلِكَ، أُصَدِّقُهُ بِخَبَرِ السَّمَاءِ فِي غَدْوَةٍ أَوْ رَوْحَةٍ",
+    "terjemah": "Jika benar beliau mengatakan hal itu, sungguh beliau telah berkata benar... Sungguh, aku benar-benar membenarkan beliau terhadap perkara yang lebih jauh dari itu; aku membenarkan kabar dari langit yang datang kepada beliau di waktu pagi maupun petang.",
     "sumber": "Mustadrak Al-Hakim no. 4407",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Al-Hakim, Adz-Dzahabi, dan Syaikh Al-Albani",
+    "rujukan": "https://dorar.net"
    },
    "faedah": "Kokohkan keyakinan pada sabda Nabi ﷺ tanpa keraguan sedikit pun meski akal manusia terasa terbatas.",
    "latar_faedah": "kitab",
@@ -732,7 +733,99 @@
     "kejujuran Rasulullah"
    ],
    "id": "ep015-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Inilah peristiwa agung di balik gelar As-Siddiq untuk Abu Bakar radhiyallahu 'anhu.",
+     "ikon": [
+      "bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night sky",
+      "star"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Kaum musyrikin Makkah mengejek kisah perjalanan malam Rasulullah ﷺ ke Baitul Maqdis.",
+      "label": "Ejekan Kaum Musyrikin",
+      "ikon": [
+       "bulan_bintang",
+       "masjid"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "mosque",
+       "night city"
+      ]
+     },
+     {
+      "narasi": "Mereka segera mendatangi Abu Bakar radhiyallahu 'anhu, berharap beliau ikut meragukan sahabat karibnya.",
+      "label": "Mencari Keraguan",
+      "ikon": [
+       "pintu",
+       "rumah"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "house"
+      ]
+     },
+     {
+      "narasi": "Tanpa ragu, beliau menegaskan jika Nabi ﷺ yang mengatakannya, pasti itu benar, bahkan kabar langit pun selalu ia percayai.",
+      "label": "Keyakinan Tanpa Ragu",
+      "ikon": [
+       "bintang",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "sky",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Sejak keteguhan itulah, beliau abadi dijuluki As-Siddiq.",
+      "label": "Gelar As-Siddiq",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Kokohkan keyakinan pada sabda Nabi ﷺ tanpa keraguan sedikit pun meski akal manusia terasa terbatas.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "belajar_ilmu",
+     "stiker": [
+      "book",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video penuh hikmah ini.",
+     "narasi": "Simpan video penuh hikmah ini. Teladani keteguhan iman Abu Bakar As-Siddiq. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgDAve3gmuX/",
+   "fb": "https://www.facebook.com/reel/29277493321889610",
+   "yt": "https://youtube.com/shorts/9n6-VKgrlEQ",
+   "waktu_posting": "2026-11-22T14:24:32"
   },
   {
    "menit": "41:04",
