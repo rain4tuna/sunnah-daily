@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 126 video. Waktu dalam WIB, terbaru di atas.
+Total: 127 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 22 Nov 2026 15.50 | ep015-06 | Kasih Sayang di Balik Lima Waktu | HR. Bukhari no. 349 dan Muslim no. 163 (shahih) | [IG](https://www.instagram.com/reel/DgCahW4EtXJ/) · [YouTube](https://youtube.com/shorts/kbBNGQxU0FQ) · [FB](https://www.facebook.com/reel/1627382559136496) |
 | 22 Nov 2026 11.59 | h027 | Siapa Paling Berhak Kau Baiki? | HR. Bukhari no. 5971 (shahih) | [IG](https://www.instagram.com/reel/DgCAEL9DRga/) · [YouTube](https://youtube.com/shorts/y50WtJgMRKM) · [FB](https://www.facebook.com/reel/1143731441728394) |
 | 22 Nov 2026 05.28 | ep015-05 | Megahnya Wujud Asli Malaikat Jibril | QS. An-Najm: 13-14 | [IG](https://www.instagram.com/reel/DgBTTw5j1Rm/) · [YouTube](https://youtube.com/shorts/zMcn8aXcj0Q) · [FB](https://www.facebook.com/reel/3205531712969482) |
 | 21 Nov 2026 21.25 | ep015-04 | Bidadari Cantik Untuk Zaid bin Haritsah | HR. Ibnu Abi 'Ashim (Al-Ahad wal-Matsani no. 256), Ar-Ruyani (Musnad no. 85), dan Adh-Dhiya' Al-Maqdisi (Al-Mukhtarah) (shahih) | [IG](https://www.instagram.com/reel/DgAcCKglJ7e/) · [YouTube](https://youtube.com/shorts/ZowH-GPgwKE) · [FB](https://www.facebook.com/reel/3366315733567554) |

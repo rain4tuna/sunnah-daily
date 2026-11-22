@@ -594,11 +594,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "هِيَ خَمْسٌ وَهِيَ خَمْسُونَ لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ",
-    "terjemah": "Shalat itu lima waktu (dalam amalan) dan lima puluh waktu (dalam pahala), firman-Ku tidak akan pernah berubah.",
-    "sumber": "HR. Bukhari no. 349 & Muslim no. 162",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "arab": "هِيَ خَمْسٌ، وَهِيَ خَمْسُونَ، لَا يُبَدَّلُ الْقَوْلُ لَدَيَّ",
+    "terjemah": "Shalat itu lima waktu (dalam amalan) dan lima puluh waktu (dalam pahala), ketetapan di sisi-Ku tidak akan pernah berubah.",
+    "sumber": "HR. Bukhari no. 349 dan Muslim no. 163",
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari dan Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:349"
    },
    "faedah": "Jaga shalat lima waktu dengan khusyuk sebagai bukti syukur atas limpahan rahmat dan pahala-Nya.",
    "latar_faedah": "masjid",
@@ -608,7 +609,97 @@
     "kasih sayang Nabi"
    ],
    "id": "ep015-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti kisah sahih berdasarkan hadits Isra' dan Mi'raj. Terdapat kekeliruan redaksi pada penyebutan kewajiban 'semalam suntuk'; riwayat sahih menegaskan kewajiban semula adalah lima puluh waktu dalam 'sehari semalam' (fi kulli yaumin wa lailah).",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu, mengapa shalat lima waktu awalnya diwajibkan lima puluh kali sehari?",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "clock",
+      "night sky"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Awalnya, Allah mewajibkan shalat lima puluh waktu semalam suntuk bagi umat ini.",
+      "label": "Awalnya Lima Puluh Waktu",
+      "ikon": [
+       "bulan_bintang"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "clock",
+       "moon"
+      ]
+     },
+     {
+      "narasi": "Nabi Musa 'alaihissalam lalu menasihati Rasulullah ﷺ agar memohon keringanan, karena tabiat manusia sangat lemah.",
+      "label": "Nasihat Nabi Musa",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "scroll",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Setelah bolak-balik bermunajat, Allah menetapkan shalat menjadi lima waktu saja.",
+      "label": "Keringanan Menjadi Lima Waktu",
+      "ikon": [
+       "sajadah"
+      ],
+      "ilustrasi": "doa_malam",
+      "stiker": [
+       "prayer rug",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Istimewanya, pahala amalan lima waktu tersebut tetap senilai lima puluh waktu shalat.",
+      "label": "Pahala Tetap Lima Puluh",
+      "ikon": [
+       "timbangan",
+       "cahaya"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "scale",
+       "sunlight"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari jaga shalat lima waktu dengan khusyuk sebagai wujud syukur atas limpahan rahmat-Nya.",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "masjid",
+     "tokoh": "berdoa",
+     "stiker": [
+      "mosque",
+      "prayer rug"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Tulis Aamiin di komentar",
+     "narasi": "Tulis Aamiin di komentar. Sungguh besar kasih sayang Allah di balik lima waktu shalat kita. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgCahW4EtXJ/",
+   "fb": "https://www.facebook.com/reel/1627382559136496",
+   "yt": "https://youtube.com/shorts/kbBNGQxU0FQ",
+   "waktu_posting": "2026-11-22T08:50:32"
   },
   {
    "menit": "37:39",
