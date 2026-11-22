@@ -844,11 +844,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "فَجَلَّى اللَّهُ لِي بَيْتَ الْمَقْدِسِ، فَطَفِقْتُ أُخْبِرُهُمْ عَنْ آيَاتِهِ وَأَنَا أَنْظُرُ إِلَيْهِ",
-    "terjemah": "Maka Allah menampakkan Baitul Maqdis kepadaku, sehingga aku mulai memberitahukan kepada mereka tentang ciri-cirinya sementara aku sedang melihat ke arahnya.",
+    "arab": "لَمَّا كَذَّبَتْنِي قُرَيْشٌ، قُمْتُ فِي الْحِجْرِ، فَجَلَا اللَّهُ لِي بَيْتَ الْمَقْدِسِ، فَطَفِقْتُ أُخْبِرُهُمْ عَنْ آيَاتِهِ وَأَنَا أَنْظُرُ إِلَيْهِ",
+    "terjemah": "Ketika kaum Quraisy mendustakanku (tentang peristiwa Isra), aku berdiri di Hijr (Ismail), lalu Allah menampakkan Baitul Maqdis kepadaku, sehingga aku mulai mengabarkan kepada mereka tentang tanda-tanda (ciri-ciri)-nya sementara aku sedang memandangnya.",
     "sumber": "HR. Bukhari no. 3886 & Muslim no. 170",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari & Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3886"
    },
    "faedah": "Pertolongan Allah pasti datang meneguhkan kebenaran di tengah keraguan dan cercaan orang-orang yang mengingkari.",
    "latar_faedah": "lentera",
@@ -858,7 +859,84 @@
     "kebenaran kenabian"
    ],
    "id": "ep015-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana Rasulullah ﷺ menjawab keraguan Quraisy tentang detail bangunan Masjidil Aqsha?",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "majelis",
+     "stiker": [
+      "mosque",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Kaum musyrikin menantang beliau merinci pintu dan tiang masjid yang disinggahinya saat malam.",
+      "label": "Tantangan Kaum Musyrikin",
+      "ikon": [
+       "pintu"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "door",
+       "pillar"
+      ]
+     },
+     {
+      "narasi": "Sempat merasa gundah, seketika Allah menampakkan wujud nyata Baitul Maqdis di depan beliau.",
+      "label": "Wujud Nyata Ditampakkan",
+      "ikon": [
+       "cahaya",
+       "masjid"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "light",
+       "mosque"
+      ]
+     },
+     {
+      "narasi": "Sambil menatapnya langsung, Rasulullah ﷺ mampu menjawab setiap pertanyaan mereka dengan sangat tepat.",
+      "label": "Menjawab dengan Tepat",
+      "ikon": [
+       "bintang"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sun",
+       "horizon"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pertolongan Allah pasti hadir menguatkan kebenaran saat kita menghadapi keraguan dan cercaan.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "sunlight"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Kebenaran mukjizat beliau terbukti nyata di hadapan para pengingkar. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgD4Ds4DGlc/",
+   "fb": "https://www.facebook.com/reel/2202438780353446",
+   "yt": "https://youtube.com/shorts/UrUVjlLQPkE",
+   "waktu_posting": "2026-11-22T22:27:55"
   }
  ]
 }
