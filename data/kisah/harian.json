@@ -3027,7 +3027,7 @@
    ],
    "id": "h028",
    "topik": "Menyambung silaturahmi",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -3035,7 +3035,95 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ingin rezekimu dilapangkan? Rasulullah ﷺ menyebut satu amalan yang sering kita lupakan.",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "key",
+      "sunrise"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Beliau bersabda, siapa yang ingin rezekinya luas dan umurnya panjang, sambunglah silaturahmi.",
+      "label": "Kunci Rezeki dan Umur",
+      "ikon": [
+       "koin",
+       "kalender"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "coins",
+       "calendar"
+      ]
+     },
+     {
+      "narasi": "Silaturahmi berarti menyambung hubungan kerabat: orang tua, saudara, paman, bibi, hingga sepupu.",
+      "label": "Menyambung Hubungan Kerabat",
+      "ikon": [
+       "rumah",
+       "hati"
+      ],
+      "ilustrasi": "keluarga_hangat",
+      "stiker": [
+       "house",
+       "heart"
+      ]
+     },
+     {
+      "narasi": "Caranya sederhana: berkunjung, menanyakan kabar, menelepon, mengirim pesan, atau membantu kebutuhan mereka.",
+      "label": "Cara Sederhana Menyapa",
+      "ikon": [
+       "pintu",
+       "jejak"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berbagi",
+      "stiker": [
+       "door",
+       "footsteps"
+      ]
+     },
+     {
+      "narasi": "Tidak perlu menunggu hari raya untuk saling menyapa, mulailah dari kerabat terdekat.",
+      "label": "Mulai dari Kerabat Terdekat",
+      "ikon": [
+       "jam"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berjalan",
+      "stiker": [
+       "clock",
+       "lantern"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pilih satu kerabat yang lama tak kamu sapa, lalu hubungi dia hari ini.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "majelis",
+     "tokoh": "berdoa",
+     "stiker": [
+      "letter",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Lapangkan rezeki dengan menyambung silaturahmi. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgCvvy_kaOv/",
+   "fb": "https://www.facebook.com/reel/2368254203937779",
+   "yt": "https://youtube.com/shorts/rqC1_q2rD8U",
+   "waktu_posting": "2026-11-22T11:55:49"
   },
   {
    "judul_hook": "Diampuni Gara-gara Ranting Berduri",
