@@ -2893,7 +2893,7 @@
    ],
    "id": "h027",
    "topik": "Berbakti kepada orang tua",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -2901,7 +2901,93 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Siapa sebenarnya orang yang paling berhak mendapatkan perlakuan terbaikmu di dunia ini?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Seorang lelaki pernah bertanya kepada Rasulullah ﷺ, siapakah orang yang paling berhak ia pergauli dengan baik.",
+      "label": "Pertanyaan Kepada Rasulullah ﷺ",
+      "ikon": [
+       "masjid"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "mosque",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ menjawab ibumu, bahkan beliau mengulanginya hingga tiga kali berturut-turut.",
+      "label": "Ibumu Tiga Kali",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "keluarga_hangat",
+      "stiker": [
+       "house",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Baru pada kali keempat, beliau ﷺ menyebutkan ayahmu.",
+      "label": "Kemudian Ayahmu",
+      "ikon": [
+       "rumah"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "home"
+      ]
+     },
+     {
+      "narasi": "Maka muliakanlah keduanya melalui tutur kata yang lembut, uluran bantuan, dan doa tulus.",
+      "label": "Muliakan Kedua Orang Tua",
+      "ikon": [
+       "hati",
+       "lentera"
+      ],
+      "ilustrasi": "doa_malam",
+      "tokoh": "berdoa",
+      "stiker": [
+       "rug",
+       "lantern"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hari ini, segera hubungi atau temui kedua orang tuamu dan bahagiakan hati mereka.",
+     "ikon": [
+      "rumah"
+     ],
+     "ilustrasi": "taman_berkah",
+     "tokoh": "berjalan",
+     "stiker": [
+      "house",
+      "garden"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan video ini sekarang",
+     "narasi": "Bagikan video ini sekarang agar kita selalu ingat memuliakan orang tua. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgCAEL9DRga/",
+   "fb": "https://www.facebook.com/reel/1143731441728394",
+   "yt": "https://youtube.com/shorts/y50WtJgMRKM",
+   "waktu_posting": "2026-11-22T04:59:29"
   },
   {
    "judul_hook": "Kunci Rezeki Lapang dari Nabi",
