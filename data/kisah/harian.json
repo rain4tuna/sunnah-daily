@@ -3302,7 +3302,7 @@
    ],
    "id": "h030",
    "topik": "Memberi makan orang lain",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -3310,7 +3310,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ternyata amalan Islam terbaik justru sangat dekat dengan kebiasaan sederhana kita sehari-hari.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Seorang lelaki pernah bertanya kepada Rasulullah ﷺ tentang amalan Islam apa yang paling baik.",
+      "label": "Pertanyaan amalan terbaik",
+      "ikon": [
+       "kitab"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "scroll",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Beliau ﷺ menjawab, amalan terbaik adalah engkau memberi makan dan mengucapkan salam kepada orang yang kaukenal maupun tidak.",
+      "label": "Beri makan dan salam",
+      "ikon": [
+       "piring",
+       "hati"
+      ],
+      "ilustrasi": "hidangan",
+      "stiker": [
+       "food plate",
+       "bread"
+      ]
+     },
+     {
+      "narasi": "Memberi makan bisa dimulai dari hal kecil, seperti berbagi bekal, mentraktir teman, atau mengantar makanan ke tetangga.",
+      "label": "Mulai dari hal kecil",
+      "ikon": [
+       "roti",
+       "rumah"
+      ],
+      "ilustrasi": "sedekah",
+      "tokoh": "berbagi",
+      "stiker": [
+       "bread",
+       "door",
+       "house"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hari ini, mulailah membagikan makanan kepada orang lain dan tebarkan salam kebaikan.",
+     "ikon": [
+      "piring"
+     ],
+     "ilustrasi": "taman_berkah",
+     "tokoh": "berbagi",
+     "stiker": [
+      "food plate",
+      "garden"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Kebaikan terbaik ternyata bisa kita mulai dari hal sesederhana ini. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgFU1uACKbU/",
+   "fb": "https://www.facebook.com/reel/1498881189967522",
+   "yt": "https://youtube.com/shorts/F8hCDtSOx48",
+   "waktu_posting": "2026-11-23T11:58:44"
   },
   {
    "judul_hook": "Setengah Kurma Penghalang Neraka",
