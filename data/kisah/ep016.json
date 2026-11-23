@@ -260,11 +260,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "تِلْكَ صَلاَةُ الْمُنَافِقِ",
-    "terjemah": "Itulah shalatnya orang munafik.",
+    "arab": "تِلْكَ صَلَاةُ الْمُنَافِقِ؛ يَجْلِسُ يَرْقُبُ الشَّمْسَ حَتَّى إِذَا كَانَتْ بَيْنَ قَرْنَيِ الشَّيْطَانِ قَامَ فَنَقَرَهَا أَرْبَعًا، لَا يَذْكُرُ اللهَ فِيهَا إِلَّا قَلِيلًا",
+    "terjemah": "Itulah shalatnya orang munafik: ia duduk mengamati matahari (menunda-nunda) hingga ketika matahari berada di antara dua tanduk setan (menjelang terbenam), ia bangkit lalu mematuk empat rakaat (secara tergesa-gesa), tidak mengingat Allah di dalamnya melainkan hanya sedikit.",
     "sumber": "HR. Muslim no. 622",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:622"
    },
    "faedah": "Segerakan shalat Ashar di waktu utama dan hindari menundanya tanpa uzur.",
    "latar_faedah": "masjid",
@@ -274,7 +275,89 @@
     "waktu shalat"
    ],
    "id": "ep016-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa Rasulullah ﷺ melarang kita sengaja menunda shalat Ashar hingga senja?",
+     "ikon": [
+      "matahari"
+     ],
+     "ilustrasi": "kafilah",
+     "stiker": [
+      "sun",
+      "sunset"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Para ulama menjelaskan waktu utama shalat Ashar dimulai saat bayangan sama panjang hingga dua kali lipat benda.",
+      "label": "Waktu Utama Shalat Ashar",
+      "ikon": [
+       "jam",
+       "matahari"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "tokoh": "duduk_membaca",
+      "stiker": [
+       "shadow",
+       "clock"
+      ]
+     },
+     {
+      "narasi": "Jangan sengaja menundanya hingga langit menguning mendekati waktu matahari terbenam.",
+      "label": "Jangan Tunda Hingga Senja",
+      "ikon": [
+       "matahari",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "tokoh": "berdiri",
+      "stiker": [
+       "sun",
+       "sky"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ menegaskan, orang yang santai berbincang lalu tergesa-gesa mematuk shalat di akhir senja adalah shalatnya orang munafik.",
+      "label": "Peringatan Shalat Orang Munafik",
+      "ikon": [
+       "masjid",
+       "sajadah"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "mosque",
+       "prayer mat"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Segerakanlah menunaikan shalat Ashar di awal waktu dan jangan menundanya tanpa uzur.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "heart",
+      "mosque"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan.",
+     "narasi": "Simpan agar mudah diamalkan. Jagalah shalat Ashar kita tepat pada waktunya. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgGdH0GjWxa/",
+   "fb": "https://www.facebook.com/reel/1147644311467424",
+   "yt": "https://youtube.com/shorts/xgNK9jDpswg",
+   "waktu_posting": "2026-11-23T22:30:12"
   },
   {
    "menit": "17:15",
