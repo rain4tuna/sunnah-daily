@@ -135,11 +135,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "مَا بَيْنَ هَذَيْنِ وَقْتٌ",
-    "terjemah": "Waktu shalat adalah di antara dua waktu ini.",
-    "sumber": "HR. Ahmad no. 14383",
-    "derajat_kata_ustadz": "sanadnya shahih",
-    "dari_video": true
+    "arab": "«...مَا بَيْنَ هَذَيْنِ وَقْتٌ»",
+    "terjemah": "\"...Di antara kedua waktu inilah waktu shalat.\"",
+    "sumber": "HR. Ahmad no. 14538 (cetakan lain no. 14383), an-Nasa'i no. 526, dan at-Tirmidzi no. 150",
+    "derajat": "shahih",
+    "penilai": "Syaikh Syu'aib Al-Arna'uth & Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/nasai:526"
    },
    "faedah": "Kerjakan shalat di dalam rentang waktu yang telah ditentukan syariat.",
    "latar_faedah": "lentera",
@@ -149,7 +150,98 @@
     "fiqih shalat"
    ],
    "id": "ep016-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Substansi kisah shahih bersumber dari hadits Jabir bin Abdillah dan Ibnu Abbas radhiyallahu 'anhum tentang kedatangan Malaikat Jibril setelah peristiwa Isra Mi'raj untuk mengajarkan waktu shalat. Catatan presisi: khusus shalat Maghrib dalam hadits Jibril (HR. Ahmad dan at-Tirmidzi), Jibril mengimami Nabi ﷺ pada waktu yang sama di kedua hari (tepat saat matahari terbenam), sedangkan batasan akhir waktu Maghrib dipraktikkan Nabi ﷺ dalam hadits shahih lainnya (seperti HR. Muslim no. 614). Namun narasi di atas secara umum tetap sah dan benar.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana cara Malaikat Jibril mengajarkan batasan waktu shalat kepada Rasulullah ﷺ?",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "masjid",
+     "stiker": [
+      "clock",
+      "mosque"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sehari setelah Isra Mi'raj, Jibril mendatangi Rasulullah ﷺ selama dua hari berturut-turut untuk mengajarkan waktu shalat fardhu.",
+      "label": "Jibril Mengajarkan Waktu Shalat",
+      "ikon": [
+       "kalender",
+       "masjid"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "calendar",
+       "night"
+      ]
+     },
+     {
+      "narasi": "Pada hari pertama, beliau mengajak Nabi ﷺ shalat tepat saat masing-masing waktu baru saja masuk, dari tergelincir matahari hingga fajar.",
+      "label": "Awal Masuknya Waktu Shalat",
+      "ikon": [
+       "matahari",
+       "sajadah"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sun",
+       "prayer rug"
+      ]
+     },
+     {
+      "narasi": "Keesokan harinya, Jibril sengaja datang di pengujung batas waktu setiap shalat.",
+      "label": "Shalat Di Akhir Waktu",
+      "ikon": [
+       "jam"
+      ],
+      "ilustrasi": "waktu_subuh",
+      "stiker": [
+       "clock",
+       "horizon"
+      ]
+     },
+     {
+      "narasi": "Beliau lalu menjelaskan bahwa rentang antara kedua hari itulah batasan waktu shalat yang sah.",
+      "label": "Rentang Waktu Yang Sah",
+      "ikon": [
+       "cahaya",
+       "kitab"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "book",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari kita selalu menjaga shalat di dalam rentang waktu yang telah ditentukan syariat.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "clock"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Begitulah indahnya Jibril mengajarkan batas waktu shalat. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgFliDMiqtd/",
+   "fb": "https://www.facebook.com/reel/1173544835136648",
+   "yt": "https://youtube.com/shorts/kymqhhPsKrM",
+   "waktu_posting": "2026-11-23T14:24:19"
   },
   {
    "menit": "12:05",

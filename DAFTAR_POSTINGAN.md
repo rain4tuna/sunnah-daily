@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 133 video. Waktu dalam WIB, terbaru di atas.
+Total: 134 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 23 Nov 2026 21.24 | ep016-02 | Cara Jibril ajarkan waktu shalat | HR. Ahmad no. 14538 (cetakan lain no. 14383), an-Nasa'i no. 526, dan at-Tirmidzi no. 150 (shahih) | [IG](https://www.instagram.com/reel/DgFliDMiqtd/) · [YouTube](https://youtube.com/shorts/kymqhhPsKrM) · [FB](https://www.facebook.com/reel/1173544835136648) |
 | 23 Nov 2026 18.58 | h030 | Amalan Islam yang Paling Baik | HR. Bukhari no. 12 (shahih) | [IG](https://www.instagram.com/reel/DgFU1uACKbU/) · [YouTube](https://youtube.com/shorts/F8hCDtSOx48) · [FB](https://www.facebook.com/reel/1498881189967522) |
 | 23 Nov 2026 15.52 | ep016-01 | Adab bertamu ala Malaikat Jibril | HR. Bukhari no. 6232 (shahih) | [IG](https://www.instagram.com/reel/DgE_hxyDTH-/) · [YouTube](https://youtube.com/shorts/Tpb9ryNUCPM) · [FB](https://www.facebook.com/reel/1199211556376992) |
 | 23 Nov 2026 11.58 | h029 | Diampuni Gara-gara Ranting Berduri | HR. Muslim no. 1914 (shahih) | [IG](https://www.instagram.com/reel/DgEkwfyDor-/) · [YouTube](https://youtube.com/shorts/dGStLRgtCz8) · [FB](https://www.facebook.com/reel/1488764269877187) |
