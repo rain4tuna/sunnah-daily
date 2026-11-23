@@ -3163,7 +3163,7 @@
    ],
    "id": "h029",
    "topik": "Menyingkirkan gangguan dari jalan",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -3171,7 +3171,101 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah kamu membayangkan, dosa seseorang bisa diampuni hanya karena sebatang ranting?",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "hijrah_perjalanan",
+     "tokoh": "berjalan",
+     "stiker": [
+      "branch",
+      "path",
+      "desert"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ menceritakan seorang lelaki yang sedang berjalan, lalu melihat dahan berduri di tengah jalan.",
+      "label": "Dahan Berduri di Jalan",
+      "ikon": [
+       "pohon_kurma"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "road",
+       "tree",
+       "thorn"
+      ]
+     },
+     {
+      "narasi": "Ia menyingkirkan dahan itu dari jalan agar tidak mengganggu orang-orang yang lewat.",
+      "label": "Menyingkirkan Gangguan Jalan",
+      "ikon": [
+       "jejak",
+       "hati"
+      ],
+      "ilustrasi": "taman_berkah",
+      "tokoh": "berdiri",
+      "stiker": [
+       "branch",
+       "road",
+       "leaf"
+      ]
+     },
+     {
+      "narasi": "Allah pun berterima kasih atas amalannya tersebut, lalu mengampuni seluruh dosanya.",
+      "label": "Allah Mengampuni Dosanya",
+      "ikon": [
+       "cahaya",
+       "timbangan"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "light",
+       "scale",
+       "sky"
+      ]
+     },
+     {
+      "narasi": "Batu, paku, atau sampah di jalan bisa menjadi ladang pahala bagi siapa saja yang menyingkirkannya.",
+      "label": "Ladang Pahala Terbuka",
+      "ikon": [
+       "kunci"
+      ],
+      "ilustrasi": "sedekah",
+      "tokoh": "berjalan",
+      "stiker": [
+       "stone",
+       "nail",
+       "road"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Melihat gangguan di jalan? Segera singkirkan, jangan menunggu orang lain melakukannya.",
+     "ikon": [
+      "jejak"
+     ],
+     "ilustrasi": "waktu_subuh",
+     "tokoh": "berjalan",
+     "stiker": [
+      "road",
+      "morning",
+      "step"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Kebaikan kecil di jalan bisa menghapus dosa. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgEkwfyDor-/",
+   "fb": "https://www.facebook.com/reel/1488764269877187",
+   "yt": "https://youtube.com/shorts/dGStLRgtCz8",
+   "waktu_posting": "2026-11-23T04:58:16"
   },
   {
    "judul_hook": "Amalan Islam yang Paling Baik",
