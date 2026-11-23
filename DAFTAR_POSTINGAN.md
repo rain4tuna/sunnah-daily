@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 131 video. Waktu dalam WIB, terbaru di atas.
+Total: 132 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 23 Nov 2026 15.52 | ep016-01 | Adab bertamu ala Malaikat Jibril | HR. Bukhari no. 6232 (shahih) | [IG](https://www.instagram.com/reel/DgE_hxyDTH-/) · [YouTube](https://youtube.com/shorts/Tpb9ryNUCPM) · [FB](https://www.facebook.com/reel/1199211556376992) |
 | 23 Nov 2026 11.58 | h029 | Diampuni Gara-gara Ranting Berduri | HR. Muslim no. 1914 (shahih) | [IG](https://www.instagram.com/reel/DgEkwfyDor-/) · [YouTube](https://youtube.com/shorts/dGStLRgtCz8) · [FB](https://www.facebook.com/reel/1488764269877187) |
 | 23 Nov 2026 05.27 | ep015-08 | Mukjizat Baitul Maqdis di Depan Mata | HR. Bukhari no. 3886 & Muslim no. 170 (shahih) | [IG](https://www.instagram.com/reel/DgD4Ds4DGlc/) · [YouTube](https://youtube.com/shorts/UrUVjlLQPkE) · [FB](https://www.facebook.com/reel/2202438780353446) |
 | 22 Nov 2026 21.24 | ep015-07 | Rahasia Gelar Abu Bakar As-Siddiq | Mustadrak Al-Hakim no. 4407 (shahih) | [IG](https://www.instagram.com/reel/DgDAve3gmuX/) · [YouTube](https://youtube.com/shorts/9n6-VKgrlEQ) · [FB](https://www.facebook.com/reel/29277493321889610) |
