@@ -3422,7 +3422,7 @@
    ],
    "id": "h031",
    "topik": "Sedekah walau sedikit",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -3430,7 +3430,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Merasa uangmu terlalu sedikit untuk bersedekah? Renungkan hadits ini.",
+     "ikon": [
+      "koin"
+     ],
+     "ilustrasi": "sedekah",
+     "tokoh": "berdiri",
+     "stiker": [
+      "coins",
+      "pocket"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ bersabda, lindungilah diri kalian dari api neraka, walaupun hanya dengan separuh butir kurma.",
+      "label": "Lindungi Diri Dari Neraka",
+      "ikon": [
+       "kurma"
+      ],
+      "ilustrasi": "hidangan",
+      "stiker": [
+       "date fruit",
+       "plate"
+      ]
+     },
+     {
+      "narasi": "Separuh butir kurma nilainya sangat kecil, namun Nabi ﷺ tetap menjadikannya pelindung dari neraka.",
+      "label": "Nilai Kecil Pelindung Neraka",
+      "ikon": [
+       "kurma",
+       "timbangan"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "date fruit",
+       "scale"
+      ]
+     },
+     {
+      "narasi": "Jangan menunggu kaya untuk bersedekah, sebab uang receh atau makanan sederhana bernilai bila ikhlas karena Allah.",
+      "label": "Sedekah Tak Harus Menunggu Kaya",
+      "ikon": [
+       "koin",
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "tokoh": "berbagi",
+      "stiker": [
+       "coins",
+       "bread"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Sisihkan sedikit hartamu hari ini untuk bersedekah, sekecil apa pun wujudnya.",
+     "ikon": [
+      "koin"
+     ],
+     "ilustrasi": "sedekah",
+     "tokoh": "berbagi",
+     "stiker": [
+      "coins",
+      "box"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Jangan remehkan sedekah yang sedikit. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgHJnz3gX0e/",
+   "fb": "https://www.facebook.com/reel/30349744437947434",
+   "yt": "https://youtube.com/shorts/hHthA7tyYZM",
+   "waktu_posting": "2026-11-24T04:59:09"
   },
   {
    "judul_hook": "Bicara Baik atau Diam Saja",
