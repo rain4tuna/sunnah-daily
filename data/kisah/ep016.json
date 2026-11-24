@@ -379,8 +379,9 @@
     "arab": "فَوَلِّ وَجْهَكَ شَطْرَ الْمَسْجِدِ الْحَرَامِ",
     "terjemah": "Maka hadapkanlah wajahmu ke arah Masjidil Haram.",
     "sumber": "QS. Al-Baqarah: 144",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/2?from=144&to=144"
    },
    "faedah": "Samina wa atha'na seketika terhadap setiap perintah Allah dan Rasul-Nya.",
    "latar_faedah": "kitab",
@@ -390,7 +391,13 @@
     "masjidil haram"
    ],
    "id": "ep016-04",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah bahwa Nabi ﷺ sendiri yang berputar membalikkan arah kiblat di tengah-tengah shalat saat mengimami di perkampungan Bani Salimah (yang melatarbelakangi penamaan Masjid Qiblatain) bersumber dari riwayat yang tidak shahih (diriwayatkan melalui Al-Waqidi dalam Ath-Thabaqat Al-Kubra; dinilai 'lam yashih' / tidak shahih oleh Ibnul 'Arabi dalam 'Aridhatul Ahwadzi). Menurut riwayat yang shahih (HR. Bukhari no. 40, HR. Muslim no. 525 dari Al-Bara' bin 'Azib), shalat pertama yang dilakukan Nabi ﷺ menghadap Ka'bah adalah shalat secara utuh (shalat Ashar) di masjid beliau. Adapun peristiwa berputar sekitar 180 derajat di tengah shalat terjadi pada jamaah sahabat di tempat lain saat sedang ruku', yaitu jamaah di perkampungan Anshar (Bani Haritsah) pada waktu Ashar (HR. Bukhari no. 40) serta jamaah Masjid Quba pada shalat Subuh keesokan harinya (HR. Bukhari no. 403, HR. Muslim no. 526-527), setelah mereka mendengar seruan seorang sahabat yang baru saja shalat bersama Nabi ﷺ.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "20:15",
@@ -409,11 +416,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
-    "terjemah": "Telah dekat datangnya saat itu dan telah terbelah bulan.",
+    "arab": "اقْتَرَبَتِ السَّاعَةُ وَانْشَقَّ الْقَمَرُ",
+    "terjemah": "Saat (hari Kiamat) makin dekat dan bulan pun terbelah.",
     "sumber": "QS. Al-Qamar: 1",
-    "derajat_kata_ustadz": "mutawatir",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/surah/54/1"
    },
    "faedah": "Hati yang tertutup kesombongan akan menolak kebenaran meski bukti nyata terpampang.",
    "latar_faedah": "lentera",
@@ -423,7 +431,87 @@
     "kesombongan"
    ],
    "id": "ep016-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Apa reaksi kaum musyrik ketika menyaksikan bulan benar-benar terbelah dua di langit?",
+     "ikon": [
+      "bulan_bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "tokoh": "menunjuk",
+     "stiker": [
+      "moon",
+      "night sky"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Penduduk Makkah menantang bukti kenabian kepada Rasulullah ﷺ. Atas izin Allah, bulan pun terbelah dua mengapit Gunung Hira.",
+      "label": "Bulan Terbelah Dua",
+      "ikon": [
+       "gunung",
+       "cahaya"
+      ],
+      "ilustrasi": "gua",
+      "stiker": [
+       "moon",
+       "mountain"
+      ]
+     },
+     {
+      "narasi": "Para musafir yang baru tiba dari luar Makkah juga bersaksi melihat fenomena dahsyat yang sama.",
+      "label": "Kesaksian Para Musafir",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "kafilah",
+      "tokoh": "berdiri",
+      "stiker": [
+       "desert",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Namun, hati kaum musyrikin Quraisy terlanjur dipenuhi kesombongan. Mereka berpaling dan menuduh bukti nyata ini sebagai sihir.",
+      "label": "Menolak Kebenaran Nyata",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "berdiri",
+      "stiker": [
+       "heart"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hati yang tertutup kesombongan akan selalu menolak kebenaran, meski bukti nyata telah terpampang jelas.",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "heart",
+      "lamp"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan video ini ke sahabat",
+     "narasi": "Bagikan video ini ke sahabat. Kebenaran selalu nyata bagi hati yang tulus. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgHjx0Xk8qH/",
+   "fb": "https://www.facebook.com/reel/2596240984177319",
+   "yt": "https://youtube.com/shorts/RFfASGaqnpA",
+   "waktu_posting": "2026-11-24T08:47:27"
   },
   {
    "menit": "28:00",
