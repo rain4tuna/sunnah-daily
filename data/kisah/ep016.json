@@ -654,11 +654,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بِسُوقِ ذِي الْمَجَازِ يَقُولُ يَا أَيُّهَا النَّاسُ قُولُوا لاَ إِلَهَ إِلاَّ اللَّهُ تُفْلِحُوا",
-    "terjemah": "Aku melihat Rasulullah ﷺ di pasar Dzil Majaz bersabda: 'Wahai manusia sekalian, ucapkanlah Laa ilaha illallah, niscaya kalian beruntung.'",
+    "arab": "رَأَيْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ بَصَرَ عَيْنِي بِسُوقِ ذِي الْمَجَازِ يَقُولُ: «يَا أَيُّهَا النَّاسُ قُولُوا: لَا إِلَهَ إِلَّا اللَّهُ تُفْلِحُوا»...",
+    "terjemah": "Aku melihat Rasulullah ﷺ dengan mata kepalaku sendiri di pasar Dzil Majaz bersabda: 'Wahai manusia sekalian, ucapkanlah Laa ilaha illallah, niscaya kalian beruntung.'",
     "sumber": "HR. Ahmad no. 16023",
-    "derajat_kata_ustadz": "sanadnya shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Syaikh Syu'aib Al-Arnauth",
+    "rujukan": "https://dorar.net/hadith/sharh/120286"
    },
    "faedah": "Fokuslah pada tujuan kebaikan dan abaikan hinaan orang yang ingin menjatuhkanmu.",
    "latar_faedah": "lentera",
@@ -668,7 +669,13 @@
     "akhlak mulia"
    ],
    "id": "ep016-07",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah pokoknya shahih, namun ada percampuran tokoh pada adegan 'menaburkan debu ke arahnya'. Tindakan menaburkan debu ke arah Nabi ﷺ di pasar Dzil Majaz diriwayatkan dari Abu Jahal (HR. Ahmad no. 16603, sanadnya shahih), bukan Abu Lahab. Adapun gangguan dari sang paman (Abu Lahab) di pasar tersebut adalah membuntuti sambil mendustakannya (HR. Ahmad no. 16023) serta melemparinya dengan batu hingga melukai kedua mata kaki dan tumit Nabi ﷺ (HR. Ibnu Hibban no. 6562, dinyatakan shahih/hasan).",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "40:15",
@@ -687,11 +694,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِينُهُ مَنْ يَهْدِهِ اللَّهُ فَلاَ مُضِلَّ لَهُ وَمَنْ يُضْلِلْ فَلاَ هَادِيَ لَهُ",
-    "terjemah": "Sesungguhnya segala puji bagi Allah, kami memuji-Nya dan memohon pertolongan-Nya. Barangsiapa diberi petunjuk oleh Allah maka tidak ada yang dapat menyesatkannya...",
+    "arab": "إِنَّ الْحَمْدَ لِلَّهِ نَحْمَدُهُ وَنَسْتَعِينُهُ، مَنْ يَهْدِهِ اللَّهُ فَلَا مُضِلَّ لَهُ، وَمَنْ يُضْلِلْ فَلَا هَادِيَ لَهُ، وَأَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، وَأَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ...",
+    "terjemah": "Sesungguhnya segala puji bagi Allah, kami memuji-Nya dan memohon pertolongan kepada-Nya. Barangsiapa yang diberi petunjuk oleh Allah maka tidak ada yang dapat menyesatkannya, dan barangsiapa yang disesatkan-Nya maka tidak ada yang dapat memberinya petunjuk. Dan aku bersaksi bahwa tidak ada sesembahan yang berhak diibadahi selain Allah semata, tidak ada sekutu bagi-Nya, dan bahwa Muhammad adalah hamba dan utusan-Nya...",
     "sumber": "HR. Muslim no. 868",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Muslim",
+    "rujukan": "https://sunnah.com/muslim:868"
    },
    "faedah": "Niat yang tulus mencari kebaikan sering kali menjadi jalan datangnya hidayah.",
    "latar_faedah": "lentera",
@@ -701,7 +709,98 @@
     "kelembutan nabi"
    ],
    "id": "ep016-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah pokoknya shahih dalam riwayat Shahih Muslim no. 868. Namun terdapat dua koreksi redaksional: (1) Dalam riwayat Shahih Muslim disebutkan bahwa Dhimad mendengar tuduhan tersebut dari 'orang-orang bodoh di Makkah' (سُفَهَاءَ مِنْ أَهْلِ مَكَّةَ), bukan spesifik Abu Jahal. Penyebutan Abu Jahal berasal dari riwayat lemah al-Waqidi (Dala'il an-Nubuwwah karya Abu Nu'aim). (2) Istilah 'ar-riih' (الرِّيحِ) yang biasa diobati Dhimad secara bahasa dan syarah hadits merujuk pada gangguan jin atau penyakit kesurupan/gila, bukan istilah medis modern 'penyakit saraf'.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana seorang tabib yang berniat mengobati Nabi ﷺ justru bersyahadat seketika?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Dhimad, seorang ahli ruqyah, tiba di Makkah dan mendengar Abu Jahal menuduh Nabi ﷺ gila.",
+      "label": "Tuduhan Dusta Abu Jahal",
+      "ikon": [
+       "kabah"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "city",
+       "desert"
+      ]
+     },
+     {
+      "narasi": "Merasa iba, Dhimad berniat baik menemui Rasulullah ﷺ untuk mengobati beliau.",
+      "label": "Niat Tulus Mengobati",
+      "ikon": [
+       "jejak",
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "footsteps"
+      ]
+     },
+     {
+      "narasi": "Bukannya marah, Nabi ﷺ justru menyambutnya dengan membacakan untaian Khutbatul Hajah yang memukau.",
+      "label": "Untaian Khutbatul Hajah",
+      "ikon": [
+       "cahaya",
+       "gulungan"
+      ],
+      "ilustrasi": "quran",
+      "stiker": [
+       "scroll",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Terpukau oleh keagungan maknanya, tabib itu meminta diulang tiga kali lalu langsung memeluk Islam.",
+      "label": "Seketika Memeluk Islam",
+      "ikon": [
+       "bintang",
+       "hati"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "star",
+       "sun"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Niat tulus mencari kebaikan sering kali menjadi pintu pembuka datangnya hidayah Allah.",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "lamp",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan kisah penuh berkah ini.",
+     "narasi": "Bagikan kisah penuh berkah ini. Sungguh, kelembutan Nabi ﷺ mampu mengubah niat mengobati menjadi jalan keimanan sejati. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgI8sQwACT6/",
+   "fb": "https://www.facebook.com/reel/941020282429410",
+   "yt": "https://youtube.com/shorts/nzy1kOHE5AE",
+   "waktu_posting": "2026-11-24T21:44:44"
   }
  ]
 }

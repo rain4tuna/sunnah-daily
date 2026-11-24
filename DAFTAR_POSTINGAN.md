@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 139 video. Waktu dalam WIB, terbaru di atas.
+Total: 140 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 25 Nov 2026 04.44 | ep016-08 | Niat mengobati malah masuk Islam | HR. Muslim no. 868 (shahih) | [IG](https://www.instagram.com/reel/DgI8sQwACT6/) · [YouTube](https://youtube.com/shorts/nzy1kOHE5AE) · [FB](https://www.facebook.com/reel/941020282429410) |
 | 24 Nov 2026 21.24 | ep016-06 | Rasulullah ﷺ memohon demi dakwah | HR. Abu Dawud no. 4734 & Tirmidzi no. 2925 (shahih) | [IG](https://www.instagram.com/reel/DgIKSDUgsoV/) · [YouTube](https://youtube.com/shorts/_XluqV8J3CY) · [FB](https://www.facebook.com/reel/1008239565094002) |
 | 24 Nov 2026 18.58 | h032 | Bicara Baik atau Diam Saja | HR. Bukhari no. 6018 (shahih) | [IG](https://www.instagram.com/reel/DgH5lmQE0v2/) · [YouTube](https://youtube.com/shorts/7yst4R8E6Gw) · [FB](https://www.facebook.com/reel/1131276526175441) |
 | 24 Nov 2026 15.47 | ep016-05 | Bulan terbelah dua di langit | QS. Al-Qamar: 1 | [IG](https://www.instagram.com/reel/DgHjx0Xk8qH/) · [YouTube](https://youtube.com/shorts/RFfASGaqnpA) · [FB](https://www.facebook.com/reel/2596240984177319) |
