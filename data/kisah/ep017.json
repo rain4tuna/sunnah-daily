@@ -1,0 +1,427 @@
+{
+ "episode": 17,
+ "judul": "Sirah Nabawiyah #17 - Dakwah Rasulullah Secara Terang-terangan",
+ "url": "https://www.youtube.com/watch?v=v-HLlC7UUMs",
+ "kisah": [
+  {
+   "menit": "00:43",
+   "judul_hook": "Rasulullah ﷺ Mencari Pelindung Dakwah",
+   "narasi_hook": "Mengapa Rasulullah ﷺ sampai meminta perlindungan kabilah asing?",
+   "latar_hook": "tenda",
+   "adegan": [
+    {
+     "narasi": "Di Mina pada musim haji, Rasulullah ﷺ mendatangi kabilah demi kabilah Arab yang sedang berkemah.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Beliau bertanya penuh harap, adakah lelaki yang bersedia membawanya kepada kaumnya untuk dilindungi.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Kaum Quraisy telah melarang keras beliau menyampaikan firman Allah ﷻ di kota Makkah.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Rasulullah ﷺ rela merendahkan diri dan berkorban agar wahyu Allah ﷻ tetap tersampaikan kepada umat manusia.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَلَا رَجُلٌ يَحْمِلُنِي إِلَى قَوْمِهِ، فَإِنَّ قُرَيْشًا قَدْ مَنَعُونِي أَنْ أُبَلِّغَ كَلَامَ رَبِّي",
+    "terjemah": "Tidakkah ada seorang laki-laki yang membawaku kepada kaumnya, karena sesungguhnya kaum Quraisy telah melarangku menyampaikan firman Rabb-ku.",
+    "sumber": "HR. Abu Dawud no. 4734, At-Tirmidzi no. 2925",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/abudawud:4734"
+   },
+   "faedah": "Tetaplah gigih memperjuangkan kebaikan meski menghadapi penolakan dan rintangan yang sangat berat.",
+   "latar_faedah": "langit",
+   "tema": [
+    "kegigihan dakwah",
+    "pengorbanan Nabi",
+    "dakwah kabilah"
+   ],
+   "id": "ep017-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa Rasulullah ﷺ sampai meminta perlindungan kabilah asing di tanah Mina?",
+     "ikon": [
+      "tenda"
+     ],
+     "ilustrasi": "kafilah",
+     "stiker": [
+      "tent",
+      "desert"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Di Mina pada musim haji, beliau mendatangi tenda-tenda kabilah Arab yang sedang berkemah.",
+      "label": "Mendatangi Kabilah di Mina",
+      "ikon": [
+       "tenda",
+       "gunung"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "tent",
+       "mountain"
+      ]
+     },
+     {
+      "narasi": "Beliau bertanya penuh harap, adakah lelaki yang bersedia membawanya kepada kaumnya untuk dilindungi.",
+      "label": "Mencari Pelindung Dakwah",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "hijrah_perjalanan",
+      "stiker": [
+       "footprint",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Kaum Quraisy telah melarang keras beliau menyampaikan firman Allah ﷻ di kota Makkah.",
+      "label": "Larangan Dakwah Kaum Quraisy",
+      "ikon": [
+       "pintu"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "door",
+       "storm"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ rela merendahkan diri dan berkorban agar wahyu Allah ﷻ tetap tersampaikan kepada manusia.",
+      "label": "Berkorban Demi Wahyu",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ],
+      "ilustrasi": "quran",
+      "stiker": [
+       "holy book",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Tetaplah gigih memperjuangkan kebaikan meski menghadapi penolakan dan rintangan yang sangat berat.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdiri",
+     "stiker": [
+      "heart",
+      "stone"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video inspiratif ini",
+     "narasi": "Simpan video inspiratif ini. Begitulah beratnya perjuangan beliau demi tegaknya dakwah. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgJCI5WiNK3/",
+   "fb": "https://www.facebook.com/reel/1464297838448877",
+   "yt": "https://youtube.com/shorts/eOLpXvJwii4",
+   "waktu_posting": "2026-11-24T22:32:15"
+  },
+  {
+   "menit": "01:28",
+   "judul_hook": "Telinga Disumbat Takut Tersihir Al-Qur'an",
+   "narasi_hook": "Mengapa tokoh cerdas ini menyumbat telinganya dengan kapas?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Thufail bin Amr ad-Dausi radhiyallahu 'anhu, pemimpin terpandang dan penyair cerdas dari Yaman, tiba di kota Makkah.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Tokoh-tokoh Quraisy langsung mengerubunginya dan menakut-nakuti bahwa ucapan Nabi Muhammad ﷺ adalah sihir pemecah belah keluarga.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Begitu takutnya terpengaruh, Thufail sampai menyumbat kedua telinganya rapat-rapat dengan kapas saat menuju Ka'bah.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Ia bertekad bulat tidak akan berbicara maupun mendengarkan sepatah kata pun dari lisan Rasulullah ﷺ.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "",
+    "terjemah": "Thufail bin Amr radhiyallahu 'anhu berkata: 'Demi Allah, mereka terus menakut-nakutiku hingga aku menyumbat telingaku dengan kapas karena takut mendengar ucapannya.'",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Jangan mudah termakan prasangka buruk sebelum membuktikan sendiri kebenaran kabar yang diterima.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "fitnah Quraisy",
+    "tabayyun",
+    "Thufail ad-Dausi"
+   ],
+   "id": "ep017-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "04:50",
+   "judul_hook": "Indahnya Al-Qur'an Menaklukkan Hati Penyair",
+   "narasi_hook": "Bagaimana sepotong ayat mampu meruntuhkan benteng prasangka?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Saat Thufail bin Amr ad-Dausi radhiyallahu 'anhu berdiri di dekat Ka'bah, takdir Allah ﷻ membuatnya mendengar lantunan shalat Nabi ﷺ.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Thufail menegur dirinya sendiri, sadar bahwa ia penyair cerdas yang mampu membedakan perkataan baik dan buruk.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Ia mencabut kapas dari telinganya dan mengikuti Rasulullah ﷺ hingga ke rumah beliau.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Begitu mendengar penjelasan Islam dan ayat Al-Qur'an, Thufail langsung bersaksi tiada sesembahan selain Allah dan masuk Islam.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "فَلَا وَاللَّهِ مَا سَمِعْتُ قَوْلًا قَطُّ أَحْسَنَ مِنْهُ، وَلَا أَمْرًا أَعْدَلَ مِنْهُ، فَأَسْلَمْتُ وَشَهِدْتُ شَهَادَةَ الْحَقِّ",
+    "terjemah": "Demi Allah, aku belum pernah mendengar perkataan yang lebih indah darinya, tidak pula perkara yang lebih adil darinya. Maka aku pun masuk Islam dan bersaksi dengan syahadat yang haq.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Bukalah hati dan pikiran terhadap kebenaran tanpa terhalang oleh hasutan orang lain.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "keindahan Al-Qur'an",
+    "hidayah",
+    "masuk Islam"
+   ],
+   "id": "ep017-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "10:55",
+   "judul_hook": "Doa Hidayah Mengalahkan Doa Laknat",
+   "narasi_hook": "Bagaimana doa Nabi ﷺ melahirkan perawi hadits terbanyak?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Thufail bin Amr ad-Dausi radhiyallahu 'anhu kembali ke Makkah dengan kecewa karena kabilahnya, Daus, membangkang dan menolak Islam.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Ia meminta Rasulullah ﷺ mendoakan kebinasaan atas kabilah Daus yang keras kepala.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Para sahabat mengira kaum Daus akan celaka ketika Rasulullah ﷺ menghadap kiblat dan mengangkat kedua tangannya.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Namun Nabi ﷺ justru berdoa memohon hidayah bagi Daus, hingga kelak seluruh kabilah masuk Islam, termasuk Abu Hurairah radhiyallahu 'anhu.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "اللَّهُمَّ اهْدِ دَوْسًا وَأْتِ بِهِمْ",
+    "terjemah": "Ya Allah, berilah petunjuk kepada kabilah Daus dan datangkanlah mereka (dalam keadaan beriman).",
+    "sumber": "HR. Al-Bukhari no. 2937, Muslim no. 2524",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Pilihlah mendoakan kebaikan dan hidayah bagi orang yang menolak daripada mengutuk mereka.",
+   "latar_faedah": "masjid",
+   "tema": [
+    "doa Nabi",
+    "kasih sayang dakwah",
+    "Abu Hurairah"
+   ],
+   "id": "ep017-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "14:14",
+   "judul_hook": "Mimpi Nyata Sang Pemimpin Kabilah",
+   "narasi_hook": "Apa arti mimpi burung terbang keluar dari mulutnya?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Sebelum Perang Yamamah melawan nabi palsu Musailimah, Thufail bin Amr ad-Dausi radhiyallahu 'anhu bermimpi kepalanya dicukur gundul.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Dari mulutnya keluar seekor burung, lalu tubuhnya dimasukkan ke dalam liang wanita, sementara putranya tertahan di belakang.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Thufail menakwilkan sendiri mimpinya: kepalanya akan tertebas pedang, ruhnya melayang seperti burung, dan jasadnya dikubur di bumi.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Mimpi itu terbukti nyata; Thufail gugur syahid di Yamamah, sedangkan putranya menyusul syahid di Perang Yarmuk.",
+     "latar": "kitab"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "إِنِّي قَدْ رَأَيْتُ رُؤْيَا فَعَبِّرُوهَا لِي... أَمَّا حَلْقُ رَأْسِي فَقَطْعُهُ، وَأَمَّا الطَّائِرُ فَرُوحِي",
+    "terjemah": "Aku telah melihat sebuah mimpi, maka takwilkanlah untukku... Adapun dicukurnya kepalaku adalah dipenggalnya kepalaku, dan burung itu adalah ruhku.",
+    "sumber": "Al-Bidayah wan-Nihayah karya Ibnu Katsir",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Kematian mulia dalam membela kebenaran adalah cita-cita tertinggi setiap mukmin sejati.",
+   "latar_faedah": "langit",
+   "tema": [
+    "takwil mimpi",
+    "mati syahid",
+    "keteguhan iman"
+   ],
+   "id": "ep017-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "18:22",
+   "judul_hook": "Pemuda Yatsrib Menemukan Cahaya Kebenaran",
+   "narasi_hook": "Mengapa pemuda ini dilempari pasir oleh pemimpinnya?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Rombongan suku Aus dari Yatsrib datang ke Makkah mencari sekutu kaum Quraisy untuk memerangi suku Khazraj.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Rasulullah ﷺ mendatangi tempat mereka duduk dan menawarkan perkara yang jauh lebih baik daripada persekutuan perang.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Beliau membacakan Al-Qur'an dan mengajak menyembah Allah ﷻ semata tanpa mempersekutukan-Nya.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Pemuda belia bernama Iyas bin Mu'adz radhiyallahu 'anhu spontan membenarkan dakwah ini, meski wajahnya dilempari pasir oleh pimpinannya.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "أَيْ قَوْمِ، هَذَا وَاللَّهِ خَيْرٌ مِمَّا جِئْتُمْ لَهُ",
+    "terjemah": "Wahai kaumku, demi Allah perkara ini jauh lebih baik daripada tujuan kedatangan kalian ke sini.",
+    "sumber": "Musnad Ahmad no. 23640",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Dahulukan ajakan kepada tauhid secara langsung dan lugas dalam setiap kesempatan dakwah.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "Iyas bin Mu'adz",
+    "dakwah tauhid",
+    "keberanian pemuda"
+   ],
+   "id": "ep017-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "26:28",
+   "judul_hook": "Hikmah Perang Bu'ats Menjelang Hijrah",
+   "narasi_hook": "Bagaimana pertumpahan darah ratusan tahun berakhir damai?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Selama lebih dari seratus tahun, suku Aus dan Khazraj di Madinah terus-menerus terlibat perang saudara yang melelahkan.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Puncaknya adalah Perang Bu'ats, lima tahun sebelum hijrah, yang menewaskan hampir seluruh tokoh tua dan pemimpin kedua suku.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Allah ﷻ mentakdirkan peristiwa pedih ini sebagai mukadimah agar generasi muda Yatsrib mudah bersatu menyambut Islam.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Ketiadaan pemimpin tua yang fanatik membuat pintu hati penduduk Madinah terbuka lapang menerima kepemimpinan Rasulullah ﷺ.",
+     "latar": "masjid"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "كَانَ يَوْمُ بُعَاثٍ يَوْمًا قَدَّمَهُ اللَّهُ لِرَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+    "terjemah": "Aisyah radhiyallahu 'anha berkata: 'Perang Bu'ats adalah suatu hari (peristiwa) yang Allah persiapkan untuk Rasul-Nya ﷺ.'",
+    "sumber": "HR. Al-Bukhari no. 3777",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Di balik musibah pahit sering tersembunyi hikmah besar yang membukakan jalan kebaikan.",
+   "latar_faedah": "langit",
+   "tema": [
+    "Perang Bu'ats",
+    "hikmah takdir",
+    "persatuan Anshar"
+   ],
+   "id": "ep017-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "33:10",
+   "judul_hook": "Enam Pemuda Pembuka Pintu Madinah",
+   "narasi_hook": "Bagaimana enam pemuda ini mendahului kaum Yahudi?",
+   "latar_hook": "tenda",
+   "adegan": [
+    {
+     "narasi": "Pada musim haji tahun kesebelas kenabian, Rasulullah ﷺ menjumpai sekelompok pemuda suku Khazraj di bukit Aqabah.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Orang-orang Yahudi di Madinah selama ini sering sesumbar bahwa nabi akhir zaman akan segera diutus untuk menumpas bangsa Arab.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Ketika mendengar seruan tauhid dari Rasulullah ﷺ, para pemuda Khazraj saling berpandangan dan menyadari kebenarannya.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Mereka segera berbaiat masuk Islam sebelum kaum Yahudi mendahului, lalu pulang menyebarkan cahaya Islam ke seluruh Madinah.",
+     "latar": "masjid"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ",
+    "terjemah": "Padahal sebelumnya mereka memohon kemenangan atas orang-orang kafir. Tetapi setelah datang kepada mereka apa yang telah mereka ketahui, mereka mengingkarinya.",
+    "sumber": "QS. Al-Baqarah: 89",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Segeralah menyambut kebenaran saat ia datang, jangan menunda hingga kesempatan itu hilang.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "Baiat Aqabah",
+    "pemuda Khazraj",
+    "hidayah bersegera"
+   ],
+   "id": "ep017-08",
+   "status": "Belum"
+  }
+ ]
+}

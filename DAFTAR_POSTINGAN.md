@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 140 video. Waktu dalam WIB, terbaru di atas.
+Total: 141 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 25 Nov 2026 05.32 | ep017-01 | Rasulullah ﷺ Mencari Pelindung Dakwah | HR. Abu Dawud no. 4734, At-Tirmidzi no. 2925 (shahih) | [IG](https://www.instagram.com/reel/DgJCI5WiNK3/) · [YouTube](https://youtube.com/shorts/eOLpXvJwii4) · [FB](https://www.facebook.com/reel/1464297838448877) |
 | 25 Nov 2026 04.44 | ep016-08 | Niat mengobati malah masuk Islam | HR. Muslim no. 868 (shahih) | [IG](https://www.instagram.com/reel/DgI8sQwACT6/) · [YouTube](https://youtube.com/shorts/nzy1kOHE5AE) · [FB](https://www.facebook.com/reel/941020282429410) |
 | 24 Nov 2026 21.24 | ep016-06 | Rasulullah ﷺ memohon demi dakwah | HR. Abu Dawud no. 4734 & Tirmidzi no. 2925 (shahih) | [IG](https://www.instagram.com/reel/DgIKSDUgsoV/) · [YouTube](https://youtube.com/shorts/_XluqV8J3CY) · [FB](https://www.facebook.com/reel/1008239565094002) |
 | 24 Nov 2026 18.58 | h032 | Bicara Baik atau Diam Saja | HR. Bukhari no. 6018 (shahih) | [IG](https://www.instagram.com/reel/DgH5lmQE0v2/) · [YouTube](https://youtube.com/shorts/7yst4R8E6Gw) · [FB](https://www.facebook.com/reel/1131276526175441) |
