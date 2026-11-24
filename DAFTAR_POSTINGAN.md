@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 137 video. Waktu dalam WIB, terbaru di atas.
+Total: 138 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 24 Nov 2026 18.58 | h032 | Bicara Baik atau Diam Saja | HR. Bukhari no. 6018 (shahih) | [IG](https://www.instagram.com/reel/DgH5lmQE0v2/) · [YouTube](https://youtube.com/shorts/7yst4R8E6Gw) · [FB](https://www.facebook.com/reel/1131276526175441) |
 | 24 Nov 2026 15.47 | ep016-05 | Bulan terbelah dua di langit | QS. Al-Qamar: 1 | [IG](https://www.instagram.com/reel/DgHjx0Xk8qH/) · [YouTube](https://youtube.com/shorts/RFfASGaqnpA) · [FB](https://www.facebook.com/reel/2596240984177319) |
 | 24 Nov 2026 11.59 | h031 | Setengah Kurma Penghalang Neraka | HR. Bukhari no. 1417 (shahih) | [IG](https://www.instagram.com/reel/DgHJnz3gX0e/) · [YouTube](https://youtube.com/shorts/hHthA7tyYZM) · [FB](https://www.facebook.com/reel/30349744437947434) |
 | 24 Nov 2026 05.30 | ep016-03 | Awas shalat seperti orang munafik | HR. Muslim no. 622 (shahih) | [IG](https://www.instagram.com/reel/DgGdH0GjWxa/) · [YouTube](https://youtube.com/shorts/xgNK9jDpswg) · [FB](https://www.facebook.com/reel/1147644311467424) |

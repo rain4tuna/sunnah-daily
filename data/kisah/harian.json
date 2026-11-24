@@ -3545,7 +3545,7 @@
    ],
    "id": "h032",
    "topik": "Menjaga lisan: berkata baik atau diam",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -3553,7 +3553,97 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Lisan yang kecil ini bisa membawa kebaikan besar, atau justru masalah besar.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "lentera",
+     "tokoh": "berdiri",
+     "stiker": [
+      "lantern",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ bersabda, siapa yang beriman kepada Allah dan hari akhir, hendaklah berkata baik atau diam.",
+      "label": "Berkata Baik Atau Diam",
+      "ikon": [
+       "kitab",
+       "cahaya"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "book",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Sebelum bicara atau mengetik komentar, tanyakan pada dirimu, apakah ini sungguh baik?",
+      "label": "Tanyakan Sebelum Bicara",
+      "ikon": [
+       "pena",
+       "hati"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "tokoh": "duduk_membaca",
+      "stiker": [
+       "pen",
+       "scroll"
+      ]
+     },
+     {
+      "narasi": "Jika baik, ucapkanlah, namun jika tidak, diam adalah pilihan yang jauh lebih selamat.",
+      "label": "Diam Lebih Selamat",
+      "ikon": [
+       "kunci",
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri",
+      "stiker": [
+       "key",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ bahkan mengaitkan adab menjaga lisan ini langsung dengan keimanan kita.",
+      "label": "Bukti Keimanan Sejati",
+      "ikon": [
+       "bintang",
+       "timbangan"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "star",
+       "scale"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mulai hari ini, mari timbang setiap kata: berkata baik, atau memilih diam.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "taman_berkah",
+     "tokoh": "berdoa",
+     "stiker": [
+      "scale",
+      "garden"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Jagalah lisanmu agar selalu mendatangkan kebaikan, bukan penyesalan. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgH5lmQE0v2/",
+   "fb": "https://www.facebook.com/reel/1131276526175441",
+   "yt": "https://youtube.com/shorts/7yst4R8E6Gw",
+   "waktu_posting": "2026-11-24T11:58:16"
   },
   {
    "judul_hook": "Amalan Ringan Usai Shalat Wajib",
