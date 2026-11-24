@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 138 video. Waktu dalam WIB, terbaru di atas.
+Total: 139 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 24 Nov 2026 21.24 | ep016-06 | Rasulullah ﷺ memohon demi dakwah | HR. Abu Dawud no. 4734 & Tirmidzi no. 2925 (shahih) | [IG](https://www.instagram.com/reel/DgIKSDUgsoV/) · [YouTube](https://youtube.com/shorts/_XluqV8J3CY) · [FB](https://www.facebook.com/reel/1008239565094002) |
 | 24 Nov 2026 18.58 | h032 | Bicara Baik atau Diam Saja | HR. Bukhari no. 6018 (shahih) | [IG](https://www.instagram.com/reel/DgH5lmQE0v2/) · [YouTube](https://youtube.com/shorts/7yst4R8E6Gw) · [FB](https://www.facebook.com/reel/1131276526175441) |
 | 24 Nov 2026 15.47 | ep016-05 | Bulan terbelah dua di langit | QS. Al-Qamar: 1 | [IG](https://www.instagram.com/reel/DgHjx0Xk8qH/) · [YouTube](https://youtube.com/shorts/RFfASGaqnpA) · [FB](https://www.facebook.com/reel/2596240984177319) |
 | 24 Nov 2026 11.59 | h031 | Setengah Kurma Penghalang Neraka | HR. Bukhari no. 1417 (shahih) | [IG](https://www.instagram.com/reel/DgHJnz3gX0e/) · [YouTube](https://youtube.com/shorts/hHthA7tyYZM) · [FB](https://www.facebook.com/reel/30349744437947434) |

@@ -530,11 +530,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "أَلاَ رَجُلٌ يَحْمِلُنِي إِلَى قَوْمِهِ فَإِنَّ قُرَيْشًا قَدْ مَنَعُونِي أَنْ أُبَلِّغَ كَلاَمَ رَبِّي",
-    "terjemah": "Adakah seorang laki-laki yang membawaku kepada kaumnya? Sesungguhnya orang-orang Quraisy telah melarangku menyampaikan firman Rabbku.",
+    "arab": "أَلَا رَجُلٌ يَحْمِلُنِي إِلَىٰ قَوْمِهِ، فَإِنَّ قُرَيْشًا قَدْ مَنَعُونِي أَنْ أُبَلِّغَ كَلَامَ رَبِّي",
+    "terjemah": "Adakah seorang laki-laki yang sudi membawaku kepada kaumnya? Sesungguhnya kaum Quraisy telah melarangku menyampaikan firman (kalam) Rabbku.",
     "sumber": "HR. Abu Dawud no. 4734 & Tirmidzi no. 2925",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Imam At-Tirmidzi: Hasan Shahih Gharib)",
+    "rujukan": "https://sunnah.com/abudawud:4734"
    },
    "faedah": "Jangan pernah gengsi merendahkan hati demi memperjuangkan tegaknya risalah Islam.",
    "latar_faedah": "lentera",
@@ -544,7 +545,97 @@
     "pengorbanan"
    ],
    "id": "ep016-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti kisah dan tawaran surga bagi yang melindungi beliau adalah riwayat yang tsabit/shahih (sebagaimana juga dalam HR. Ahmad no. 14456: 'Siapa yang sudi memberiku tempat tinggal dan menolongku hingga aku menyampaikan risalah Rabbku, maka baginya surga'). Sedikit koreksi sejarah: Rasulullah ﷺ mendatangi kabilah pada musim haji sudah dilakukan sejak awal dakwah terang-terangan (sekitar tahun ke-4 kenabian), bukan baru dimulai pada tahun ke-10. Pada tahun ke-10 kenabian (setelah wafatnya Abu Thalib), intensitas mencari perlindungan politik/suaka dakwah (thalabun-nushrah) menjadi jauh lebih mendesak.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernahkah terbayang, manusia paling mulia harus memohon perlindungan dari kemah ke kemah?",
+     "ikon": [
+      "tenda"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "tent",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Ketika dakwah di Makkah ditekan habis oleh Quraisy, Rasulullah ﷺ tidak pernah menyerah.",
+      "label": "Tekanan Dakwah di Makkah",
+      "ikon": [
+       "kabah"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "cloud"
+      ]
+     },
+     {
+      "narasi": "Pada musim haji, beliau mendatangi tenda-tenda kabilah Arab yang datang dari berbagai penjuru.",
+      "label": "Mendatangi Kemah Musim Haji",
+      "ikon": [
+       "tenda",
+       "jejak"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "tent",
+       "desert"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ merendahkan hati memohon perlindungan demi menyampaikan firman Rabbnya dengan balasan surga.",
+      "label": "Memohon Demi Risalah Ilahi",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "book"
+      ]
+     },
+     {
+      "narasi": "Meski kabilah demi kabilah terus menolak, keteguhan langkah beliau tak pernah surut.",
+      "label": "Keteguhan yang Tak Goyah",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hijrah_perjalanan",
+      "stiker": [
+       "mountain",
+       "path"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jangan pernah gengsi merendahkan hati saat memperjuangkan tegaknya kebaikan dan risalah Islam.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "sun",
+      "dawn"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video penuh teladan ini",
+     "narasi": "Simpan video penuh teladan ini. Pengorbanan beliau adalah bukti ketulusan dakwah tanpa gengsi. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgIKSDUgsoV/",
+   "fb": "https://www.facebook.com/reel/1008239565094002",
+   "yt": "https://youtube.com/shorts/_XluqV8J3CY",
+   "waktu_posting": "2026-11-24T14:24:13"
   },
   {
    "menit": "32:00",
