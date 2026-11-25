@@ -3800,7 +3800,7 @@
    ],
    "id": "h034",
    "topik": "Tasbih tahmid takbir setelah shalat",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -3808,7 +3808,80 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Hanya butuh beberapa menit setelah shalat, dosa sebanyak buih lautan bisa terhapus seluruhnya.",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "masjid",
+     "stiker": [
+      "clock",
+      "mosque",
+      "sea foam"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ bersabda, cukup bertasbih tiga puluh tiga kali, bertahmid tiga puluh tiga kali, dan bertakbir tiga puluh tiga kali.",
+      "label": "Tasbih Tahmid dan Takbir",
+      "ikon": [
+       "tasbih"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "prayer beads",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Lalu genapkan menjadi seratus dengan membaca la ilaha illallahu wahdahu la syarika lah, lahul mulku wa lahul hamdu wa huwa 'ala kulli syai-in qadir.",
+      "label": "Genapkan Seratus dengan Tahlil",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "doa_malam",
+      "stiker": [
+       "light",
+       "prayer rug"
+      ]
+     },
+     {
+      "narasi": "Maka kesalahan-kesalahan kita diampuni oleh Allah, walaupun jumlahnya sebanyak buih di lautan.",
+      "label": "Ampunan Sebanyak Buih Lautan",
+      "ikon": [
+       "tetes_air"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "water drops",
+       "garden",
+       "river"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Jangan buru-buru beranjak setelah salam, selesaikan dulu tasbih, tahmid, dan takbirmu.",
+     "ikon": [
+      "sajadah"
+     ],
+     "ilustrasi": "waktu_subuh",
+     "tokoh": "berdoa",
+     "stiker": [
+      "prayer rug",
+      "mosque"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Raih ampunan seluas lautan di setiap usai shalat. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgKetjthrB0/",
+   "fb": "https://www.facebook.com/reel/1211415341584449",
+   "yt": "https://youtube.com/shorts/srPC10RybJw",
+   "waktu_posting": "2026-11-25T12:01:06"
   },
   {
    "judul_hook": "Wasiat Nabi Sebelum Tidur",
