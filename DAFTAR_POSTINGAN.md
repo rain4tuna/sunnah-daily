@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 146 video. Waktu dalam WIB, terbaru di atas.
+Total: 147 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 26 Nov 2026 03.50 | ep017-08 | Enam Pemuda Pembuka Pintu Madinah | QS. Al-Baqarah: 89 | [IG](https://www.instagram.com/reel/DgLbREhBWlh/) · [YouTube](https://youtube.com/shorts/cnTMUo-WQBk) · [FB](https://www.facebook.com/reel/2699593330459505) |
 | 26 Nov 2026 01.57 | ep017-07 | Hikmah Perang Bu'ats Menjelang Hijrah | HR. Al-Bukhari no. 3777 (shahih) | [IG](https://www.instagram.com/reel/DgLOWjdKMf1/) · [YouTube](https://youtube.com/shorts/oLP7zJNYcfE) · [FB](https://www.facebook.com/reel/1770548514007068) |
 | 25 Nov 2026 21.26 | ep017-06 | Pemuda Yatsrib Menemukan Cahaya Kebenaran | HR. Ahmad no. 23619 (cet. Ar-Risalah) / no. 23640 (hasan) | [IG](https://www.instagram.com/reel/DgKvS8xhl6O/) · [YouTube](https://youtube.com/shorts/nhglxEWlSFI) · [FB](https://www.facebook.com/reel/2204111863864853) |
 | 25 Nov 2026 19.01 | h034 | Dosa Sebanyak Buih Lautan Diampuni | HR. Muslim no. 597 (shahih) | [IG](https://www.instagram.com/reel/DgKetjthrB0/) · [YouTube](https://youtube.com/shorts/srPC10RybJw) · [FB](https://www.facebook.com/reel/1211415341584449) |

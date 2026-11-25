@@ -702,11 +702,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ",
-    "terjemah": "Padahal sebelumnya mereka memohon kemenangan atas orang-orang kafir. Tetapi setelah datang kepada mereka apa yang telah mereka ketahui, mereka mengingkarinya.",
+    "arab": "... وَكَانُوا مِنْ قَبْلُ يَسْتَفْتِحُونَ عَلَى الَّذِينَ كَفَرُوا فَلَمَّا جَاءَهُمْ مَا عَرَفُوا كَفَرُوا بِهِ ...",
+    "terjemah": "... Padahal sebelumnya mereka memohon kemenangan atas orang-orang kafir. Namun, setelah datang kepada mereka apa yang telah mereka ketahui, mereka mengingkarinya ...",
     "sumber": "QS. Al-Baqarah: 89",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/2?from=89&to=89"
    },
    "faedah": "Segeralah menyambut kebenaran saat ia datang, jangan menunda hingga kesempatan itu hilang.",
    "latar_faedah": "kitab",
@@ -716,7 +717,105 @@
     "hidayah bersegera"
    ],
    "id": "ep017-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana enam pemuda ini berhasil mendahului kaum Yahudi menyambut kebenaran?",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night sky",
+      "city gate",
+      "key"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Pada musim haji tahun kesebelas kenabian, Rasulullah ﷺ menjumpai sekelompok pemuda Khazraj di bukit Aqabah.",
+      "label": "Pertemuan di Bukit Aqabah",
+      "ikon": [
+       "gunung",
+       "tenda"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "mountain",
+       "tent",
+       "desert"
+      ]
+     },
+     {
+      "narasi": "Sebelumnya, orang-orang Yahudi Madinah sering sesumbar nabi akhir zaman akan segera datang menumpas bangsa Arab.",
+      "label": "Sesumbar Kaum Yahudi",
+      "ikon": [
+       "gulungan"
+      ],
+      "ilustrasi": "majelis",
+      "tokoh": "menunjuk",
+      "stiker": [
+       "scroll",
+       "town",
+       "wall"
+      ]
+     },
+     {
+      "narasi": "Mendengar seruan tauhid dari Rasulullah ﷺ, para pemuda Khazraj menyadari kebenarannya.",
+      "label": "Menyadari Kebenaran Tauhid",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "light",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Mereka berbaiat masuk Islam mendahului kaum Yahudi, lalu pulang menyebarkan cahaya Islam ke seluruh Madinah.",
+      "label": "Cahaya Islam di Madinah",
+      "ikon": [
+       "cahaya",
+       "masjid"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sunlight",
+       "mosque",
+       "footsteps"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Segeralah menyambut kebenaran saat ia datang, jangan menunda hingga kesempatan itu hilang.",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "belajar_ilmu",
+     "tokoh": "berdiri",
+     "stiker": [
+      "clock",
+      "open book",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Jemputlah kebenaran tanpa menunda sebelum pintu kesempatan itu tertutup. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgLbREhBWlh/",
+   "fb": "https://www.facebook.com/reel/2699593330459505",
+   "yt": "https://youtube.com/shorts/cnTMUo-WQBk",
+   "waktu_posting": "2026-11-25T20:50:17"
   }
  ]
 }
