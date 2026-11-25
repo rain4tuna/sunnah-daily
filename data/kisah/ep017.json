@@ -576,11 +576,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "كَانَ يَوْمُ بُعَاثٍ يَوْمًا قَدَّمَهُ اللَّهُ لِرَسُولِهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
-    "terjemah": "Aisyah radhiyallahu 'anha berkata: 'Perang Bu'ats adalah suatu hari (peristiwa) yang Allah persiapkan untuk Rasul-Nya ﷺ.'",
+    "arab": "كَانَ يَوْمُ بُعَاثَ يَوْمًا قَدَّمَهُ اللَّهُ لِرَسُولِهِ ﷺ، فَقَدِمَ رَسُولُ اللَّهِ ﷺ وَقَدِ افْتَرَقَ مَلَؤُهُمْ، وَقُتِلَتْ سَرَوَاتُهُمْ وَجُرِّحُوا، فَقَدَّمَهُ اللَّهُ لِرَسُولِهِ فِي دُخُولِهِمْ فِي الْإِسْلَامِ",
+    "terjemah": "'Aisyah radhiyallahu 'anha berkata: 'Perang Bu'ats adalah peristiwa yang Allah persiapkan untuk Rasul-Nya ﷺ. Maka Rasulullah ﷺ tiba (di Madinah) saat persatuan mereka telah terpecah-belah, serta para pemimpin dan tokoh terkemuka mereka telah terbunuh maupun terluka. Allah telah mempersiapkan peristiwa itu bagi Rasul-Nya demi mempermudah mereka masuk Islam.'",
     "sumber": "HR. Al-Bukhari no. 3777",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Imam Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:3777"
    },
    "faedah": "Di balik musibah pahit sering tersembunyi hikmah besar yang membukakan jalan kebaikan.",
    "latar_faedah": "langit",
@@ -590,7 +591,91 @@
     "persatuan Anshar"
    ],
    "id": "ep017-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana perang saudara ratusan tahun di Madinah bisa tiba-tiba berakhir damai?",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "city",
+      "night",
+      "clock"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Selama seabad lebih, suku Aus dan Khazraj terus bertikai, hingga puncaknya Perang Bu'ats merenggut hampir seluruh tetua mereka.",
+      "label": "Perang Bu'ats renggut tetua",
+      "ikon": [
+       "kalender",
+       "gunung"
+      ],
+      "ilustrasi": "badai",
+      "tokoh": "takut",
+      "stiker": [
+       "storm",
+       "mountain",
+       "calendar"
+      ]
+     },
+     {
+      "narasi": "Allah mentakdirkan musibah pedih ini agar generasi muda Yatsrib lebih mudah bersatu menyambut Islam.",
+      "label": "Takdir penyatu generasi muda",
+      "ikon": [
+       "cahaya",
+       "hati"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sunlight",
+       "dawn",
+       "heart"
+      ]
+     },
+     {
+      "narasi": "Tanpa adanya pemimpin tua yang fanatik, hati warga Madinah terbuka lapang menerima kepemimpinan Rasulullah ﷺ.",
+      "label": "Hati terbuka untuk Rasulullah",
+      "ikon": [
+       "pintu",
+       "masjid"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "mosque",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Di balik musibah pahit, selalu ada hikmah besar yang membukakan pintu kebaikan.",
+     "ikon": [
+      "kunci"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "key",
+      "lantern"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini",
+     "narasi": "Simpan video ini untuk mengingat indahnya takdir Allah di balik setiap ujian. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgLOWjdKMf1/",
+   "fb": "https://www.facebook.com/reel/1770548514007068",
+   "yt": "https://youtube.com/shorts/oLP7zJNYcfE",
+   "waktu_posting": "2026-11-25T18:57:30"
   },
   {
    "menit": "33:10",
