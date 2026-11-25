@@ -1,0 +1,391 @@
+{
+ "episode": 18,
+ "judul": "Sirah Nabawiyah #18 - Peristiwa Bai'at Aqabah",
+ "url": "https://www.youtube.com/watch?v=Xm1b2IpcWr0",
+ "kisah": [
+  {
+   "menit": "02:15",
+   "judul_hook": "Perjanjian Setia di Bukit Aqabah",
+   "narasi_hook": "Tahukah Anda bagaimana kaum Anshar pertama kali mengikat janji setia kepada Rasulullah ﷺ?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Dua belas orang perwakilan suku Aus dan Khazraj menemui Rasulullah ﷺ di bukit Aqabah pada musim haji.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Di keheningan malam, mereka membai'at Nabi ﷺ untuk siap membela beliau sebagaimana mereka menjaga keluarga mereka sendiri.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Kaum Anshar berjanji untuk selalu mendengar dan taat kepada beliau, baik dalam keadaan lapang maupun dalam situasi sulit.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أُبَايِعُكُمْ عَلَى أَنْ تَمْنَعُونِي مِمَّا تَمْنَعُونَ مِنْهُ نِسَاءَكُمْ وَأَبْنَاءَكُمْ",
+    "terjemah": "Aku membai'at kalian agar kalian melindungiku sebagaimana kalian melindungi istri-istri dan anak-anak kalian.",
+    "sumber": "HR. Ahmad no. 15798",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://islamqa.info/ar/answers/339462"
+   },
+   "faedah": "Ketaatan sejati teruji saat kita tetap teguh melangkah di masa-masa sulit.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "baiat aqabah",
+    "loyalitas",
+    "kaum anshar"
+   ],
+   "id": "ep018-01",
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Narasi mencampuradukkan antara Bai'at Aqabah Pertama dan Kedua. Bai'at yang dihadiri 12 orang adalah Bai'at Aqabah Pertama, dengan materi bai'at berupa penguatan iman dan akhlak (dikenal sebagai Bai'at an-Nisa') tanpa klausul perang atau pembelaan fisik. Adapun ikrar untuk melindungi Nabi ﷺ sebagaimana menjaga anak dan istri (lafaz hadits tersebut) terjadi pada Bai'at Aqabah Kedua yang dihadiri oleh 73 orang laki-laki dan 2 orang wanita.",
+    "sumber_cek": []
+   },
+   "layak": false
+  },
+  {
+   "menit": "03:45",
+   "judul_hook": "Imam Shalat Jumat Pertama Madinah",
+   "narasi_hook": "Siapakah sosok sahabat mulia yang pertama kali mengimami shalat Jumat di Madinah?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Sebelum Rasulullah ﷺ hijrah, As'ad bin Zurarah radhiyallahu 'anhu telah mengumpulkan empat puluh orang untuk shalat Jumat pertama di perkampungan Bani Bayadhah.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Jasa perintis dakwah ini membekas begitu mendalam di hati sahabat Ka'ab bin Malik radhiyallahu 'anhu.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Bahkan saat matanya telah buta di usia senja, Ka'ab bin Malik selalu mendoakan As'ad setiap kali mendengar azan Jumat berkumandang.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "«...أَنَّهُ كَانَ إِذَا سَمِعَ النِّدَاءَ يَوْمَ الْجُمُعَةِ تَرَحَّمَ لِأَسْعَدَ بْنِ زُرَارَةَ... قَالَ: لِأَنَّهُ أَوَّلُ مَنْ جَمَّعَ بِنَا فِي هَزْمِ النَّبِيتِ... قُلْتُ: كَمْ أَنْتُمْ يَوْمَئِذٍ؟ قَالَ: أَرْبَعُونَ»",
+    "terjemah": "Bahwa (Ka'ab bin Malik) jika mendengar seruan azan hari Jumat, ia mendoakan rahmat bagi As'ad bin Zurarah... Ka'ab berkata: 'Karena dialah yang pertama kali mengumpulkan kami (untuk shalat Jumat) di Hazm An-Nabit...' Aku bertanya: 'Berapa jumlah kalian saat itu?' Ka'ab menjawab: 'Empat puluh orang.'",
+    "sumber": "HR. Abu Dawud no. 1069, Ibnu Majah no. 1082",
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/abudawud:1069"
+   },
+   "faedah": "Kenang dan doakanlah selalu orang-orang yang berjasa menuntun kita kepada kebaikan.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "shalat jumat",
+    "jasa sahabat",
+    "doa kebaikan"
+   ],
+   "id": "ep018-02",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Siapakah sosok sahabat mulia yang pertama kali mengimami shalat Jumat di Madinah?",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "masjid",
+     "stiker": [
+      "mosque",
+      "minaret",
+      "sun"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sebelum Rasulullah ﷺ hijrah, As'ad bin Zurarah telah mengumpulkan empat puluh orang untuk shalat Jumat pertama di perkampungan Bani Bayadhah.",
+      "label": "Jumat Pertama di Madinah",
+      "ikon": [
+       "sajadah"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "prayer mat",
+       "village",
+       "carpet"
+      ]
+     },
+     {
+      "narasi": "Jasa sang perintis dakwah ini begitu membekas mendalam di hati sahabat Ka'ab bin Malik.",
+      "label": "Jasa yang Selalu Dikenang",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Bahkan saat matanya telah buta di usia senja, Ka'ab selalu mendoakan As'ad setiap kali mendengar azan Jumat berkumandang.",
+      "label": "Doa Tulus Tiap Azan",
+      "ikon": [
+       "lentera"
+      ],
+      "ilustrasi": "doa_malam",
+      "stiker": [
+       "lantern",
+       "arch",
+       "prayer rug"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Kenang dan doakanlah selalu orang-orang yang berjasa menuntun kita kepada jalan kebaikan.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "taman_berkah",
+     "stiker": [
+      "garden",
+      "light",
+      "river"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video penuh kebaikan ini.",
+     "narasi": "Simpan video penuh kebaikan ini. Mari selalu mengingat dan mendoakan para perintis kebaikan dalam hidup kita. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgLm3F3BybN/",
+   "fb": "https://www.facebook.com/reel/2062780371104905",
+   "yt": "https://youtube.com/shorts/QFSZ-u4msjo",
+   "waktu_posting": "2026-11-25T22:31:31"
+  },
+  {
+   "menit": "06:15",
+   "judul_hook": "Lepas Kemewahan Demi Membela Islam",
+   "narasi_hook": "Mengapa Rasulullah ﷺ memilih pemuda ini sebagai duta dakwah pertama ke Madinah?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ mengutus Mush'ab bin Umair radhiyallahu 'anhu untuk membacakan Al-Qur'an dan mengajarkan agama kepada penduduk Madinah.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Mush'ab dahulunya pemuda paling rupawan dan kaya raya di Makkah, namun ia rela meninggalkan kehidupan mewah demi mempertahankan akidahnya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Bermodalkan keikhlasan dan keteguhan iman, ia berdakwah dari rumah ke rumah hingga Islam tersebar luas di Madinah.",
+     "latar": "kebun"
+    }
+   ],
+   "dalil": {
+    "jenis": "ulama",
+    "arab": "",
+    "terjemah": "Rasulullah ﷺ mengutus Mush'ab bin Umair ke Madinah untuk membacakan Al-Qur'an dan mengajarkan Islam kepada penduduknya.",
+    "sumber": "Sirah Ibnu Hisyam",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Keikhlasan berkorban di jalan Allah membuka pintu keberkahan yang tak terhingga nilainya.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "mush'ab bin umair",
+    "pengorbanan",
+    "dakwah madinah"
+   ],
+   "id": "ep018-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "11:35",
+   "judul_hook": "Hadapi Kemarahan dengan Kelembutan Dakwah",
+   "narasi_hook": "Bagaimana cara Mush'ab bin Umair meluluhkan tokoh Madinah yang menodongkan tombak?",
+   "latar_hook": "kebun",
+   "adegan": [
+    {
+     "narasi": "Usaid bin Hudhair radhiyallahu 'anhu mendatangi Mush'ab bin Umair radhiyallahu 'anhu dengan wajah garang dan tombak terhunus, marah karena kaumnya diajak beriman.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Tanpa rasa takut, Mush'ab dengan tenang berkata, duduklah sebentar mendengarkan, jika engkau suka terimalah dan jika tidak suka kami akan berhenti.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Luluh oleh tutur kata santun dan bacaan Al-Qur'an, wajah garang Usaid seketika berubah berseri-seri lalu ia memeluk Islam.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "أَوَتَجْلِسُ فَتَسْمَعَ فَإِنْ رَضِيتَ أَمْرًا قَبِلْتَهُ وَإِنْ كَرِهْتَهُ كُفَّ عَنْكَ مَا تَكْرَهُ",
+    "terjemah": "Maukah engkau duduk dan mendengarkan? Jika engkau menyukainya engkau bisa menerimanya, dan jika tidak menyukainya maka kami tahan apa yang engkau benci.",
+    "sumber": "Sirah Ibnu Hisyam, Tarikh Ath-Thabari",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Kelembutan tutur kata dan ketenangan hati sanggup melunakkan kemarahan yang membara.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "akhlak dakwah",
+    "kelembutan",
+    "hidayah islam"
+   ],
+   "id": "ep018-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "18:20",
+   "judul_hook": "Satu Kabilah Masuk Islam Sekaligus",
+   "narasi_hook": "Pernahkah Anda membayangkan seluruh kabilah memeluk Islam serentak dalam satu hari?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Pemimpin besar suku Aus, Sa'ad bin Mu'adz radhiyallahu 'anhu, mendatangi Mush'ab bin Umair radhiyallahu 'anhu penuh amarah, namun hatinya luluh saat mendengar bacaan awal surat Az-Zukhruf.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Usai bersyahadat dan bersuci, Sa'ad segera bergegas kembali menemui kaumnya, Bani Abdul Asyhal.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Ia menegaskan haram berbicara dengan siapa pun sebelum mereka beriman kepada Allah, hingga seluruh warganya serentak masuk Islam hari itu juga.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "حم * وَالْكِتَابِ الْمُبِينِ * إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+    "terjemah": "Haa Miim. Demi Kitab yang menerangkan. Sesungguhnya Kami menjadikan Al-Qur'an dalam bahasa Arab supaya kamu memahaminya.",
+    "sumber": "QS. Az-Zukhruf: 1-3",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Keteladanan seorang pemimpin yang beriman dapat menyelamatkan seluruh orang di sekitarnya.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "sa'ad bin mu'adz",
+    "hidayah kabilah",
+    "kepemimpinan"
+   ],
+   "id": "ep018-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "21:45",
+   "judul_hook": "Enam Tahun Islam Menggetarkan Arsy",
+   "narasi_hook": "Tahukah Anda ada sahabat yang baru enam tahun masuk Islam namun wafatnya menggetarkan 'Arsy?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Sa'ad bin Mu'adz radhiyallahu 'anhu memeluk Islam setahun sebelum hijrah dan wafat akibat luka perang pada tahun kelima Hijriah.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Masa keislamannya terbilang sangat singkat, hanya sekitar enam tahun, tetapi pengorbanan dan ketulusannya membela dakwah tiada bandingnya.",
+     "latar": "kitab"
+    },
+    {
+     "narasi": "Ketika Sa'ad wafat, Rasulullah ﷺ mengabarkan bahwa singgasana 'Arsy Allah bergetar menyambut kedatangan ruh sang sahabat mulia.",
+     "latar": "langit"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "اهْتَزَّ عَرْشُ الرَّحْمَنِ لِمَوْتِ سَعْدِ بْنِ مُعَاذٍ",
+    "terjemah": "'Arsy Ar-Rahman berguncang karena wafatnya Sa'ad bin Mu'adz.",
+    "sumber": "HR. Al-Bukhari no. 3803, Muslim no. 2466",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Bukan lamanya usia yang menentukan kemuliaan, melainkan bobot keikhlasan amal kita.",
+   "latar_faedah": "lentera",
+   "tema": [
+    "sa'ad bin mu'adz",
+    "kemuliaan sahabat",
+    "kualitas amal"
+   ],
+   "id": "ep018-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "24:00",
+   "judul_hook": "Mengapa Kaum Anshar Mudah Beriman?",
+   "narasi_hook": "Mengapa penduduk Madinah begitu cepat dan mudah menyambut dakwah Islam?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Kaum Anshar berasal dari Yaman, kaum yang dipuji oleh Rasulullah ﷺ memiliki hati yang sangat lembut dan mudah tersentuh kebenaran.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Mereka juga telah lelah didera perang saudara selama ratusan tahun, sehingga mereka merindukan persatuan di bawah naungan Islam.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Kabar tentang nabi akhir zaman dari tetangga Yahudi semakin mendorong mereka segera menyambut seruan Rasulullah ﷺ.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أَتَاكُمْ أَهْلُ الْيَمَنِ هُمْ أَرَقُّ أَفْئِدَةً وَأَلْيَنُ قُلُوبًا",
+    "terjemah": "Telah datang kepada kalian penduduk Yaman, mereka adalah orang-orang yang paling lembut jiwanya dan paling lunak hatinya.",
+    "sumber": "HR. Al-Bukhari no. 4388, Muslim no. 52",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Hati yang lembut dan rendah hati adalah pintu terbaik masuknya hidayah ilahi.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "kaum anshar",
+    "kelembutan hati",
+    "sejarah madinah"
+   ],
+   "id": "ep018-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "42:40",
+   "judul_hook": "Janji Membela Nabi Berbalas Surga",
+   "narasi_hook": "Risiko besar membayangi kaum Anshar, namun mengapa mereka tidak sedikit pun gentar?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Pada Bai'at Aqabah Kedua, tujuh puluh tiga perwakilan Anshar bersiap mengikat janji setia untuk membela keselamatan Rasulullah ﷺ.",
+     "latar": "langit"
+    },
+    {
+     "narasi": "Paman Nabi mengingatkan bahwa sumpah ini berarti bersiap menghadapi permusuhan dan peperangan dari seluruh bangsa Arab.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Saat mereka bertanya balasan apa yang akan didapat, Rasulullah ﷺ hanya menjawab surga, dan tanpa ragu mereka langsung menjabat tangan beliau.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "فَمَا لَنَا بِذَلِكَ يَا رَسُولَ اللَّهِ إِنْ نَحْنُ وَفَّيْنَا؟ قَالَ: الْجَنَّةُ",
+    "terjemah": "'Lalu apa yang kami dapatkan wahai Rasulullah jika kami memenuhi janji itu?' Beliau menjawab: 'Surga.'",
+    "sumber": "HR. Ahmad no. 15798, Ibnu Ishaq",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Saat surga menjadi tujuan, segala rintangan dan pengorbanan di dunia terasa ringan.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "baiat aqabah",
+    "balasan surga",
+    "keteguhan iman"
+   ],
+   "id": "ep018-08",
+   "status": "Belum"
+  }
+ ]
+}
