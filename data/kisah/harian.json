@@ -3680,7 +3680,7 @@
    ],
    "id": "h033",
    "topik": "Membaca ayat kursi setelah shalat wajib",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Penilaian shahih dari Ibnu Hibban dan pentahqiq Bulughul Maram; Al-Albani tidak saya kutip karena kitabnya tidak bisa dibuka dari sini.",
@@ -3688,7 +3688,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Hanya butuh satu ayat usai shalat wajib, jaminannya begitu dekat dengan surga.",
+     "ikon": [
+      "quran"
+     ],
+     "ilustrasi": "quran",
+     "stiker": [
+      "quran",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ bersabda, siapa yang membaca ayat kursi setiap selesai shalat wajib, tidak ada yang menghalanginya masuk surga selain kematian.",
+      "label": "Jaminan Masuk Surga",
+      "ikon": [
+       "pintu",
+       "cahaya"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "door",
+       "garden"
+      ]
+     },
+     {
+      "narasi": "Ayat kursi adalah ayat ke-255 surah Al-Baqarah, dimulai dengan Allahu la ilaha illa huwal hayyul qayyum.",
+      "label": "Ayat Ke-255 Al-Baqarah",
+      "ikon": [
+       "kitab"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "tokoh": "duduk_membaca",
+      "stiker": [
+       "book",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Bacalah seusai salam bersama dzikir shalat wajib. Amalan ini sangat ringan, hanya butuh satu sampai dua menit.",
+      "label": "Hanya Satu Dua Menit",
+      "ikon": [
+       "tasbih",
+       "jam"
+      ],
+      "ilustrasi": "doa_malam",
+      "tokoh": "berdoa",
+      "stiker": [
+       "prayer beads",
+       "clock"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mulai hari ini, jadikan ayat kursi bacaan rutinmu setiap selesai shalat wajib.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "masjid",
+     "tokoh": "berjalan",
+     "stiker": [
+      "mosque",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Amalan satu ayat ini luar biasa keutamaannya. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgJuU5nhmPN/",
+   "fb": "https://www.facebook.com/reel/1158811456652770",
+   "yt": "https://youtube.com/shorts/8OMaVlplqGM",
+   "waktu_posting": "2026-11-25T04:58:25"
   },
   {
    "judul_hook": "Dosa Sebanyak Buih Lautan Diampuni",
