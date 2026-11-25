@@ -161,11 +161,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "",
-    "terjemah": "Thufail bin Amr radhiyallahu 'anhu berkata: 'Demi Allah, mereka terus menakut-nakutiku hingga aku menyumbat telingaku dengan kapas karena takut mendengar ucapannya.'",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "فَوَاللَّهِ مَا زَالُوا بِي حَتَّى أَجْمَعْتُ أَنْ لَا أَسْمَعَ مِنْهُ شَيْئًا وَلَا أُكَلِّمَهُ، حَتَّى حَشَوْتُ فِي أُذُنَيَّ حِينَ غَدَوْتُ إِلَى الْمَسْجِدِ كُرْسُفًا؛ فَرَقًا مِنْ أَنْ يَبْلُغَنِي شَيْءٌ مِنْ قَوْلِهِ...",
+    "terjemah": "Demi Allah, mereka terus menakut-nakutiku hingga aku bertekad untuk tidak mendengar apa pun darinya dan tidak berbicara dengannya, sampai-sampai aku menyumbat kedua telingaku dengan kapas ketika menuju ke masjid karena takut ada perkataannya yang terdengar olehku...",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/382)",
+    "derajat": "lemah",
+    "penilai": "Ibnu Katsir, Ibnu Hajar, dan Syaikh Al-Albani",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/395"
    },
    "faedah": "Jangan mudah termakan prasangka buruk sebelum membuktikan sendiri kebenaran kabar yang diterima.",
    "latar_faedah": "lentera",
@@ -175,7 +176,13 @@
     "Thufail ad-Dausi"
    ],
    "id": "ep017-02",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah Thufail bin Amr ad-Dausi radhiyallahu 'anhu menyumbat kedua telinganya dengan kapas karena hasutan kaum Quraisy diriwayatkan oleh Ibnu Ishaq secara mu'allaq/mursal tanpa sanad yang bersambung, sebagaimana ditegaskan oleh Al-Hafizh Ibnu Katsir dalam Al-Bidayah wan-Nihayah, Al-Hafizh Ibnu Hajar dalam Al-Ishabah, dan dinilai lemah oleh Syaikh Al-Albani dalam Shahih As-Sirah An-Nabawiyyah. Riwayat shahih tentang Thufail (HR. Bukhari no. 2935 dan Muslim no. 2524) adalah ketika ia telah masuk Islam dan mengadukan pembangkangan kaumnya, lalu Nabi ﷺ mendoakan: 'Ya Allah, berilah petunjuk kepada kaum Daus dan datangkanlah mereka.'",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "04:50",
@@ -203,10 +210,11 @@
    "dalil": {
     "jenis": "atsar",
     "arab": "فَلَا وَاللَّهِ مَا سَمِعْتُ قَوْلًا قَطُّ أَحْسَنَ مِنْهُ، وَلَا أَمْرًا أَعْدَلَ مِنْهُ، فَأَسْلَمْتُ وَشَهِدْتُ شَهَادَةَ الْحَقِّ",
-    "terjemah": "Demi Allah, aku belum pernah mendengar perkataan yang lebih indah darinya, tidak pula perkara yang lebih adil darinya. Maka aku pun masuk Islam dan bersaksi dengan syahadat yang haq.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "terjemah": "Maka demi Allah, aku belum pernah mendengar perkataan yang lebih baik darinya, dan tidak pula perkara yang lebih adil darinya. Maka aku pun masuk Islam dan bersaksi dengan persaksian yang benar.",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/383)",
+    "derajat": "lemah",
+    "penilai": "Ibnu Katsir",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/443"
    },
    "faedah": "Bukalah hati dan pikiran terhadap kebenaran tanpa terhalang oleh hasutan orang lain.",
    "latar_faedah": "kitab",
@@ -216,7 +224,13 @@
     "masuk Islam"
    ],
    "id": "ep017-03",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Detail adegan Thufail bin 'Amr menyumbat telinganya dengan kapas karena hasutan Quraisy, lalu mendengar Nabi ﷺ shalat di dekat Ka'bah, mencabut kapas, dan mengikutinya pulang untuk masuk Islam, diriwayatkan oleh Ibnu Ishaq dalam Sirah Nabawiyyah tanpa sanad bersambung (mursal/munqathi'). Al-Hafizh Ibnu Katsir menegaskan dalam Al-Bidayah wan-Nihayah (3/100): 'Demikian Muhammad bin Ishaq menyebutkan kisah Thufail bin 'Amr secara mursal tanpa sanad'. Riwayat yang berstatus shahih mengenai Thufail bin 'Amr (seperti dalam Shahih Al-Bukhari no. 2937 dan Shahih Muslim no. 116) hanya meriwayatkan keislamannya secara umum, do'a Nabi ﷺ untuk hidayah kabilah Daus, serta peristiwa hijrahnya ke Madinah.",
+    "sumber_cek": []
+   },
+   "layak": false
   },
   {
    "menit": "10:55",
@@ -243,11 +257,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "اللَّهُمَّ اهْدِ دَوْسًا وَأْتِ بِهِمْ",
-    "terjemah": "Ya Allah, berilah petunjuk kepada kabilah Daus dan datangkanlah mereka (dalam keadaan beriman).",
+    "arab": "اللَّهُمَّ اهْدِ دَوْسًا وَائْتِ بِهِمْ",
+    "terjemah": "Ya Allah, berilah petunjuk kepada kabilah Daus dan datangkanlah mereka (kepada kami dalam keadaan beriman).",
     "sumber": "HR. Al-Bukhari no. 2937, Muslim no. 2524",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:2937"
    },
    "faedah": "Pilihlah mendoakan kebaikan dan hidayah bagi orang yang menolak daripada mengutuk mereka.",
    "latar_faedah": "masjid",
@@ -257,7 +272,93 @@
     "Abu Hurairah"
    ],
    "id": "ep017-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Inti kisah dan doa ini shahih. Tambahan keterangan bahwa Nabi ﷺ menghadap kiblat dan mengangkat kedua tangan terdapat dalam sanad yang shahih pada HR. Ahmad (no. 7315) dan Al-Bukhari dalam Al-Adab al-Mufrad (no. 611). Namun ada kekeliruan sejarah pada penutup narasi: Abu Hurairah radhiyallahu 'anhu sejatinya telah masuk Islam lebih dahulu di tanah kelahirannya saat dakwah awal Thufail, bahkan ia satu-satunya orang Daus yang langsung menyambut Islam kala itu (sebagaimana ditegaskan Ibnu Hajar dalam Al-Ishabah dan Fathul Bari). Selain itu, yang masuk Islam dan berhijrah setelah doa ini bukanlah seluruh kabilah secara serentak, melainkan sekitar 70–80 keluarga Daus yang menyusul hijrah ke Madinah/Khaibar pada tahun 7 H bersama Abu Hurairah.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyYLLZ4tqwDRycAvqav4g4-M-gU9SoksH0rPU1bFuml81_8VpYjmHmMrjfMPt1vACeuPSiEUVnXVwXtvXvU0eSSAJj8QLWZzqvk7rM7O67b5n0jQOG",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEmaURiyKjPkic076j3QjjWZXVkYoWH5qIM39-5FfU6RS2a9Zi7qwOk-SlT8FVgER944SAlyaktfBbIt2IgdFB-hu3PuV8e3omSBGQ-xXQtCeXCuk=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHPgNTd06PB-qMc5HshNRPupGv34__ondS5p3TMVMLDvEqU4DoyBzZT0xpf37QqcnHO1uXrPWGAZgYUMsHeOMqLw2e_7K0mRR5Ea6W8pjLxgati5GqBpYHH39S3yUx1K2-8Ofy",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf8h-2I4OBZdW1Wrrtbfd1H9HRRqcCpZbJ2SK79ruXiIvhzWo5u5Soc7LPSY7qKVRWV2o5IUfY1VOYYjkKbAjlxYbbGG-wnPeyG5WDLilJb5h1G66ldPMihh0Z4Va7yIyiM0WMmns7",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5k6z2kfOk8Uoa9nVxKJCE-csabJqnY5fbexRqdV6sxGIF1aLUARiAJks-MiLNxqt5hNYUxaNcn9-qd29VkAkQtvRZOsL9jbSyvLwC_kf_3FYpQ3ggINIX33PXcIxBTR4cSn6MNmjf0QxVg3bsNCrVM1sjESXu0hLWdBQn1DYP5ONAx8M1vsstgzVy4a4ON4e49RPKIHNzlTMkL1Ljl7XuE6ce0MYDdXnKxK7tssh_-Yj6C2iwMMcBohItbtX_zkTu2gWxQoQxtpoio7grvfXRW2XU4Jqgh8LgHicElLDOx5aoTMjo_n9SKb9CgDXsUrbPMBPAhv5y1HhXEFntpKVMsEBd7DYLYDgdPeIm1Cs5BfqXnqXhy1J8AQ==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMhYSARrnhwFw3tKB1yQpN_51jciSuO1Z_evOgXZXobkFksMsWNcTs12Qn1FcZ3E5VkGWBsdgB-Ha8gyv1wvFGOvpqYitXFh4EKdfaGhiwS4O5ZGmcJIsbtE284VtjH-YdSdk4PWRT1vAx0LM="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana sebuah doa Nabi ﷺ bisa melahirkan perawi hadits terbanyak dalam sejarah?",
+     "ikon": [
+      "kitab"
+     ],
+     "ilustrasi": "belajar_ilmu",
+     "stiker": [
+      "book",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Thufail bin Amr kembali ke Makkah dengan kecewa karena kabilahnya, Daus, menolak Islam.",
+      "label": "Kekecewaan Thufail ad-Dausi",
+      "ikon": [
+       "jejak",
+       "kabah"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "desert",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Ia meminta Rasulullah ﷺ mendoakan kebinasaan mereka, dan para sahabat mengira azab akan segera turun.",
+      "label": "Menghadap Kiblat Berdoa",
+      "ikon": [
+       "kabah",
+       "awan_hujan"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "cloud",
+       "storm"
+      ]
+     },
+     {
+      "narasi": "Namun Nabi ﷺ justru memohonkan hidayah, hingga kelak seluruh kabilah masuk Islam, termasuk Abu Hurairah.",
+      "label": "Doa Hidayah Terkabul",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sunrise",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pilihlah mendoakan kebaikan dan hidayah bagi orang yang menolak daripada mengutuk mereka.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video penuh hikmah ini.",
+     "narasi": "Simpan video penuh hikmah ini. Doa kebaikan selalu lebih kuat daripada laknat. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgKJBXuzcrX/",
+   "fb": "https://www.facebook.com/reel/1804994737469916",
+   "yt": "https://youtube.com/shorts/LQZv67xB8Lc",
+   "waktu_posting": "2026-11-25T08:51:40"
   },
   {
    "menit": "14:14",

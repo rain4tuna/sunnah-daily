@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 142 video. Waktu dalam WIB, terbaru di atas.
+Total: 143 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 25 Nov 2026 15.51 | ep017-04 | Doa Hidayah Mengalahkan Doa Laknat | HR. Al-Bukhari no. 2937, Muslim no. 2524 (shahih) | [IG](https://www.instagram.com/reel/DgKJBXuzcrX/) · [YouTube](https://youtube.com/shorts/LQZv67xB8Lc) · [FB](https://www.facebook.com/reel/1804994737469916) |
 | 25 Nov 2026 11.58 | h033 | Amalan Ringan Usai Shalat Wajib | HR. An-Nasa'i dalam 'Amal Al-Yaum wa Al-Lailah no. 100; dishahihkan Ibnu Hibban (Bulughul Maram no. 326) (shahih) | [IG](https://www.instagram.com/reel/DgJuU5nhmPN/) · [YouTube](https://youtube.com/shorts/8OMaVlplqGM) · [FB](https://www.facebook.com/reel/1158811456652770) |
 | 25 Nov 2026 05.32 | ep017-01 | Rasulullah ﷺ Mencari Pelindung Dakwah | HR. Abu Dawud no. 4734, At-Tirmidzi no. 2925 (shahih) | [IG](https://www.instagram.com/reel/DgJCI5WiNK3/) · [YouTube](https://youtube.com/shorts/eOLpXvJwii4) · [FB](https://www.facebook.com/reel/1464297838448877) |
 | 25 Nov 2026 04.44 | ep016-08 | Niat mengobati malah masuk Islam | HR. Muslim no. 868 (shahih) | [IG](https://www.instagram.com/reel/DgI8sQwACT6/) · [YouTube](https://youtube.com/shorts/nzy1kOHE5AE) · [FB](https://www.facebook.com/reel/941020282429410) |
