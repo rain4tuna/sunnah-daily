@@ -385,11 +385,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "إِنِّي قَدْ رَأَيْتُ رُؤْيَا فَعَبِّرُوهَا لِي... أَمَّا حَلْقُ رَأْسِي فَقَطْعُهُ، وَأَمَّا الطَّائِرُ فَرُوحِي",
-    "terjemah": "Aku telah melihat sebuah mimpi, maka takwilkanlah untukku... Adapun dicukurnya kepalaku adalah dipenggalnya kepalaku, dan burung itu adalah ruhku.",
-    "sumber": "Al-Bidayah wan-Nihayah karya Ibnu Katsir",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "إِنِّي قَدْ رَأَيْتُ رُؤْيَا فَاعْبُرُوهَا لِي... أَمَّا حَلْقُ رَأْسِي فَقَطْعُهُ، وَأَمَّا الطَّائِرُ الَّذِي خَرَجَ مِنْ فَمِي فَرُوحِي، وَأَمَّا الْمَرْأَةُ... فَالْأَرْضُ تُحْفَرُ لِي",
+    "terjemah": "Aku telah melihat sebuah mimpi, maka takwilkanlah untukku... Adapun dicukurnya kepalaku adalah dipenggalnya kepalaku, burung yang keluar dari mulutku adalah ruhku, dan perempuan itu... adalah bumi yang digali untukku (kuburanku).",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/385); Ibnu Katsir, Al-Bidayah wan-Nihayah (3/100)",
+    "derajat": "lemah",
+    "penilai": "Al-Hafizh Ibnu Katsir (disebutkan secara mursal tanpa sanad)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/247/قصة-إسلام-الطفيل-بن-عمرو-الدوسي"
    },
    "faedah": "Kematian mulia dalam membela kebenaran adalah cita-cita tertinggi setiap mukmin sejati.",
    "latar_faedah": "langit",
@@ -399,7 +400,16 @@
     "keteguhan iman"
    ],
    "id": "ep017-05",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah mimpi Thufail bin 'Amr ad-Dausi ini diriwayatkan oleh Ibnu Ishaq secara mursal tanpa sanad (munqathi'), sebagaimana ditegaskan oleh Al-Hafizh Ibnu Katsir dalam Al-Bidayah wan-Nihayah ('Hakadza dzakara Muhammad bin Ishaq qishshata Thufail bin 'Amr mursalatan bila isnad') dan Al-Hafizh Ibnu Hajar dalam Al-Ishabah. Meskipun gugurnya Thufail di Perang Yamamah dan putranya di Perang Yarmuk merupakan fakta sejarah yang tsabit, detail mimpi burung dan takwilnya bersumber dari riwayat yang berstatus lemah/mursal sehingga wajib diberi penegasan statusnya.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUYruYSSVCA6OH9rpO-hKouaRuxMzEKbuqsOHNvg0m45PCLlhjbEhgIDS8G_zYg3V0Jt8M_I77_esDzW7ybKQFi_YuUC08xGjAEiUpZb-PzDEQ3x5NfF0EFjr9E8n62sB_n3d5H9TD_yHNPNzZ25TlUNy1CSqlI-Asr4zyYQgdIPWnyB0kGUeKx3Mgu6kDJVCA5zZBWuIOL4sumKwAotiXp4b-hJhoQ__7WzwrBVWBCpXdduLYEi1_y0Bu0RDhyRJc-4xfjSMKUwZB5hOTYGu04bhCU-yOFOvejxob_tUkowzz8pqs96fvBadP6yPl5EDYSphb0GvCdccmUjPKEQUeHY1f5vYIozDEUwtVKDawtT0fy4QtQ4cPgRGI5D1jKUqjcePKpkY2jTzH8glj3oLid6ZxOk2f8v3d4tQTi97djf-127wO3HTRLtpIr9s1vmF7rwuUDyN7dvbxTcjbMKMahotaeSTHSHADxLQL5UMIQfB8ePiER9Ce63i32IDiQWuUAgvZvWG90oE55JkC2NWlxqRt8tbCczPq6Hq9wHO81FejKLym-7z6bMqlPr2IWbW9n2Czpt4sR-YNG2BE3jgdDBPrb89Unf-l2N2RN8coqflsCwlRb_MI8XaxOSXL-1bUZ_jnacCeVvNE_9xOAnhg68v_JwMKQOOJnOCrJxeAn560OPdFuFXLlfl4F1Y1vpQWEhLW7nDRH-J6R1ahEhyT1k9qyQVTpk2IoMXBlUaS6FZJHtW0iyNUnzCS7d1SNo_7ou_uEP5lifWMKXL_4Z8j-OJ0tgFPabuEOlYe5SfTAIAiNL4NdU2LbtmcrQSG7_tFQ9BM4dNdIuebGOd5P5QyVa1SxMHvPN-3MPg_ncrKO1asQCH3p_MUjjk_TTbEc_jvvCpOz2DDfdc=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGP5jp4WB4nDKv4WxtrgvQQa8AcjQO5Euo5uEQG7wCv9qTaPt1RIpX1zhZvvo7GBfKKM_xLZH59IjkKovpFyJNha7w4kwvAxKnJnBRDBP8try8S68_su4UuqFRL6mmmMxDr4nd9iBFUESpj"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "18:22",
@@ -426,11 +436,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "أَيْ قَوْمِ، هَذَا وَاللَّهِ خَيْرٌ مِمَّا جِئْتُمْ لَهُ",
-    "terjemah": "Wahai kaumku, demi Allah perkara ini jauh lebih baik daripada tujuan kedatangan kalian ke sini.",
-    "sumber": "Musnad Ahmad no. 23640",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "فَقَالَ إِيَاسُ بْنُ مُعَاذٍ: «أَيْ قَوْمِ، هَذَا وَاللَّهِ خَيْرٌ مِمَّا جِئْتُمْ لَهُ»",
+    "terjemah": "Maka Iyas bin Mu'adz berkata: 'Wahai kaumku, demi Allah, ini jauh lebih baik daripada tujuan kedatangan kalian.'",
+    "sumber": "HR. Ahmad no. 23619 (cet. Ar-Risalah) / no. 23640",
+    "derajat": "hasan",
+    "penilai": "Syaikh Syu'aib Al-Arnauth",
+    "rujukan": "https://shamela.ws/book/25794/11053"
    },
    "faedah": "Dahulukan ajakan kepada tauhid secara langsung dan lugas dalam setiap kesempatan dakwah.",
    "latar_faedah": "lentera",
@@ -440,7 +451,105 @@
     "keberanian pemuda"
    ],
    "id": "ep017-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa seorang pemuda rela dilempari pasir oleh pemimpin sukunya sendiri di Makkah?",
+     "ikon": [
+      "kabah"
+     ],
+     "ilustrasi": "kabah",
+     "stiker": [
+      "sand",
+      "desert",
+      "city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rombongan suku Aus dari Yatsrib datang ke Makkah untuk mencari sekutu perang melawan suku Khazraj.",
+      "label": "Mencari Sekutu Perang",
+      "ikon": [
+       "tenda",
+       "jejak"
+      ],
+      "ilustrasi": "kafilah",
+      "tokoh": "berjalan",
+      "stiker": [
+       "caravan",
+       "desert",
+       "tents"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ mendatangi tempat mereka duduk dan menawarkan perkara yang jauh lebih baik daripada persekutuan perang.",
+      "label": "Tawaran Terbaik Rasulullah ﷺ",
+      "ikon": [
+       "lentera"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "desert",
+       "night",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Beliau membacakan Al-Qur'an serta mengajak mereka menyembah Allah ﷻ semata tanpa mempersekutukan-Nya.",
+      "label": "Seruan Murni Tauhid",
+      "ikon": [
+       "quran",
+       "cahaya"
+      ],
+      "ilustrasi": "quran",
+      "stiker": [
+       "holy book",
+       "light",
+       "scroll"
+      ]
+     },
+     {
+      "narasi": "Pemuda belia Iyas bin Mu'adz radhiyallahu 'anhu spontan membenarkannya, meski pimpinannya melemparkan pasir ke wajahnya.",
+      "label": "Iyas Membela Kebenaran",
+      "ikon": [
+       "hati",
+       "bintang"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "sand",
+       "dust",
+       "heart"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Dahulukan ajakan kepada tauhid secara langsung dan lugas dalam setiap kesempatan berdakwah.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "sunrise",
+      "morning",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Kebenaran tauhid akan selalu menyentuh hati yang tulus. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgKvS8xhl6O/",
+   "fb": "https://www.facebook.com/reel/2204111863864853",
+   "yt": "https://youtube.com/shorts/nhglxEWlSFI",
+   "waktu_posting": "2026-11-25T14:26:00"
   },
   {
    "menit": "26:28",

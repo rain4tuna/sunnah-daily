@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 144 video. Waktu dalam WIB, terbaru di atas.
+Total: 145 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 25 Nov 2026 21.26 | ep017-06 | Pemuda Yatsrib Menemukan Cahaya Kebenaran | HR. Ahmad no. 23619 (cet. Ar-Risalah) / no. 23640 (hasan) | [IG](https://www.instagram.com/reel/DgKvS8xhl6O/) · [YouTube](https://youtube.com/shorts/nhglxEWlSFI) · [FB](https://www.facebook.com/reel/2204111863864853) |
 | 25 Nov 2026 19.01 | h034 | Dosa Sebanyak Buih Lautan Diampuni | HR. Muslim no. 597 (shahih) | [IG](https://www.instagram.com/reel/DgKetjthrB0/) · [YouTube](https://youtube.com/shorts/srPC10RybJw) · [FB](https://www.facebook.com/reel/1211415341584449) |
 | 25 Nov 2026 15.51 | ep017-04 | Doa Hidayah Mengalahkan Doa Laknat | HR. Al-Bukhari no. 2937, Muslim no. 2524 (shahih) | [IG](https://www.instagram.com/reel/DgKJBXuzcrX/) · [YouTube](https://youtube.com/shorts/LQZv67xB8Lc) · [FB](https://www.facebook.com/reel/1804994737469916) |
 | 25 Nov 2026 11.58 | h033 | Amalan Ringan Usai Shalat Wajib | HR. An-Nasa'i dalam 'Amal Al-Yaum wa Al-Lailah no. 100; dishahihkan Ibnu Hibban (Bulughul Maram no. 326) (shahih) | [IG](https://www.instagram.com/reel/DgJuU5nhmPN/) · [YouTube](https://youtube.com/shorts/8OMaVlplqGM) · [FB](https://www.facebook.com/reel/1158811456652770) |
