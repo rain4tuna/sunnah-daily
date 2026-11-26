@@ -611,7 +611,7 @@
     "sejarah madinah"
    ],
    "id": "ep018-07",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Hadits ini konteksnya utusan penduduk Yaman (bukan khusus Anshar); Aus dan Khazraj memang berasal dari kabilah Yaman. 'Perang ratusan tahun' dilebih-lebihkan (riwayat sirah menyebut sekitar 120 tahun), diganti tanpa angka.",
@@ -619,7 +619,78 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa penduduk Madinah begitu cepat dan mudah menyambut dakwah Islam?",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "city",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Kaum Anshar berasal dari Yaman, yang dipuji Rasulullah ﷺ memiliki hati paling lembut dan lunak.",
+      "label": "Hati Lembut Penduduk Yaman",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Suku Aus dan Khazraj juga telah lelah didera perang saudara, hingga merindukan persatuan.",
+      "label": "Rindu Persatuan Kaum Anshar",
+      "ikon": [
+       "tenda"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "tent",
+       "storm"
+      ]
+     },
+     {
+      "narasi": "Ditambah lagi, kabar nabi akhir zaman dari tetangga Yahudi membuat mereka bergegas menyambut seruan beliau.",
+      "label": "Kabar Nabi Akhir Zaman",
+      "ikon": [
+       "kitab",
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "book",
+       "sunrise"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Hati yang lembut dan rendah hati adalah pintu terbaik masuknya hidayah ilahi.",
+     "ikon": [
+      "pintu"
+     ],
+     "ilustrasi": "pintu",
+     "stiker": [
+      "door",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Kelembutan hatilah yang memudahkan hidayah meresap ke dalam jiwa. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgN_GZ-PHx_/",
+   "fb": "https://www.facebook.com/reel/1160530433046605",
+   "yt": "https://youtube.com/shorts/cGWPTssynrE",
+   "waktu_posting": "2026-11-26T20:41:38"
   },
   {
    "menit": "42:40",
