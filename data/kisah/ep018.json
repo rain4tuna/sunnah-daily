@@ -186,11 +186,12 @@
    ],
    "dalil": {
     "jenis": "ulama",
-    "arab": "",
-    "terjemah": "Rasulullah ﷺ mengutus Mush'ab bin Umair ke Madinah untuk membacakan Al-Qur'an dan mengajarkan Islam kepada penduduknya.",
-    "sumber": "Sirah Ibnu Hisyam",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "فَبَعَثَ رَسُولُ اللَّهِ صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ مَعَهُمْ مُصْعَبَ بْنَ عُمَيْرٍ ... وَأَمَرَهُ أَنْ يُقْرِئَهُمُ الْقُرْآنَ، وَيُعَلِّمَهُمُ الْإِسْلَامَ، وَيُفَقِّهَهُمْ فِي الدِّينِ",
+    "terjemah": "Maka Rasulullah ﷺ mengutus Mush'ab bin Umair bersama mereka ... dan memerintahkannya untuk membacakan Al-Qur'an kepada mereka, mengajarkan Islam, serta memahamkan mereka tentang agama.",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/434)",
+    "derajat": "",
+    "penilai": "",
+    "rujukan": "https://www.islamweb.net/ar/fatwa/119914/"
    },
    "faedah": "Keikhlasan berkorban di jalan Allah membuka pintu keberkahan yang tak terhingga nilainya.",
    "latar_faedah": "kitab",
@@ -200,7 +201,87 @@
     "dakwah madinah"
    ],
    "id": "ep018-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa Rasulullah ﷺ memilih pemuda ini sebagai duta dakwah pertama ke Madinah?",
+     "ikon": [
+      "bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "city",
+      "night",
+      "star"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ mengutus Mush'ab bin Umair radhiyallahu 'anhu untuk membacakan Al-Qur'an serta mengajarkan agama di Madinah.",
+      "label": "Duta Dakwah Pertama",
+      "ikon": [
+       "quran",
+       "kitab"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "holy book",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Padahal dahulunya ia pemuda paling kaya di Makkah, yang rela melepas kemewahan demi menjaga akidahnya.",
+      "label": "Tinggalkan Hidup Mewah",
+      "ikon": [
+       "koin",
+       "parfum"
+      ],
+      "ilustrasi": "kabah",
+      "stiker": [
+       "coins",
+       "perfume"
+      ]
+     },
+     {
+      "narasi": "Dengan keteguhan iman dan keikhlasan, Mush'ab berdakwah dari rumah ke rumah hingga Islam tersebar luas di Madinah.",
+      "label": "Dakwah Dari Rumah",
+      "ikon": [
+       "rumah",
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "house"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Keikhlasan berkorban di jalan Allah akan selalu membuka pintu keberkahan yang tak terhingga nilainya.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "taman_berkah",
+     "stiker": [
+      "heart",
+      "garden"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan kisah penuh teladan ini",
+     "narasi": "Simpan kisah penuh teladan ini agar kita rela berkorban demi kebenaran. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgMtmy3pM1L/",
+   "fb": "https://www.facebook.com/reel/1077881248606343",
+   "yt": "https://youtube.com/shorts/Z2FHaM7Ty8A",
+   "waktu_posting": "2026-11-26T08:49:38"
   },
   {
    "menit": "11:35",
