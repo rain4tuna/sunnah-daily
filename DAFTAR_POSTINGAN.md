@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 149 video. Waktu dalam WIB, terbaru di atas.
+Total: 150 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 26 Nov 2026 11.58 | h036 | Waktu Emas di Sepertiga Malam | HR. Bukhari no. 1145 (shahih) | [IG](https://www.instagram.com/reel/DgMTHAytj2E/) · [YouTube](https://youtube.com/shorts/dUUuIGlCShQ) · [FB](https://www.facebook.com/reel/1697731248680984) |
 | 26 Nov 2026 11.18 | h035 | Wasiat Nabi Sebelum Tidur | HR. Bukhari no. 1178 (shahih) | [IG](https://www.instagram.com/reel/DgMOmYcBv3m/) · [YouTube](https://youtube.com/shorts/rE4FssFwd1g) · [FB](https://www.facebook.com/reel/1875218540167620) |
 | 26 Nov 2026 05.31 | ep018-02 | Imam Shalat Jumat Pertama Madinah | HR. Abu Dawud no. 1069, Ibnu Majah no. 1082 (hasan) | [IG](https://www.instagram.com/reel/DgLm3F3BybN/) · [YouTube](https://youtube.com/shorts/QFSZ-u4msjo) · [FB](https://www.facebook.com/reel/2062780371104905) |
 | 26 Nov 2026 03.50 | ep017-08 | Enam Pemuda Pembuka Pintu Madinah | QS. Al-Baqarah: 89 | [IG](https://www.instagram.com/reel/DgLbREhBWlh/) · [YouTube](https://youtube.com/shorts/cnTMUo-WQBk) · [FB](https://www.facebook.com/reel/2699593330459505) |

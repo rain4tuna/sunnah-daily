@@ -4037,7 +4037,7 @@
    ],
    "id": "h036",
    "topik": "Bangun malam untuk tahajud",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -4045,7 +4045,82 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ada satu waktu setiap malam ketika semua doa dan ampunan terbuka lebar.",
+     "ikon": [
+      "bulan_bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night sky",
+      "crescent moon"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ bersabda, Rabb kita turun ke langit dunia pada sepertiga malam terakhir.",
+      "label": "Waktu Sepertiga Malam Terakhir",
+      "ikon": [
+       "bintang",
+       "jam"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "night",
+       "stars"
+      ]
+     },
+     {
+      "narasi": "Allah berfirman, siapa yang berdoa akan dikabulkan, yang meminta diberi, dan yang memohon ampun akan diampuni.",
+      "label": "Tawaran Pengabulan dan Ampunan",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "light",
+       "gift"
+      ]
+     },
+     {
+      "narasi": "Inilah saat terbaik untuk bangkit, mendirikan shalat tahajud, dan memperbanyak istighfar.",
+      "label": "Waktu Terbaik Shalat Tahajud",
+      "ikon": [
+       "sajadah",
+       "tasbih"
+      ],
+      "ilustrasi": "doa_malam",
+      "tokoh": "berdoa",
+      "stiker": [
+       "prayer rug",
+       "beads"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pasang alarm sebelum subuh, lalu bangunlah untuk tahajud dan memanjatkan doa.",
+     "ikon": [
+      "jam"
+     ],
+     "ilustrasi": "waktu_subuh",
+     "tokoh": "berdiri",
+     "stiker": [
+      "alarm clock",
+      "dawn"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Raih ampunan dan pengabulan doa di sepertiga malam. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgMTHAytj2E/",
+   "fb": "https://www.facebook.com/reel/1697731248680984",
+   "yt": "https://youtube.com/shorts/dUUuIGlCShQ",
+   "waktu_posting": "2026-11-26T04:58:15"
   },
   {
    "judul_hook": "Adab Minum yang Sering Terlupa",
