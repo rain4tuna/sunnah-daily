@@ -3918,7 +3918,7 @@
    ],
    "id": "h035",
    "topik": "Shalat witir sebelum tidur",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Anjuran witir di awal malam bagi yang khawatir tidak bangun: HR. Muslim no. 755 (shahih).",
@@ -3926,7 +3926,81 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Tahukah kamu amalan sebelum tidur yang diwasiatkan Rasulullah ﷺ kepada Abu Hurairah?",
+     "ikon": [
+      "bulan_bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night sky",
+      "crescent moon"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Abu Hurairah bertekad menjaga tiga wasiat dari kekasihnya ﷺ ini sampai akhir hayat.",
+      "label": "Tiga Wasiat Rasulullah ﷺ",
+      "ikon": [
+       "gulungan",
+       "hati"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "scroll",
+       "book"
+      ]
+     },
+     {
+      "narasi": "Yaitu puasa tiga hari setiap bulan, shalat dhuha, dan tidur setelah mengerjakan witir.",
+      "label": "Puasa, Dhuha, dan Witir",
+      "ikon": [
+       "kalender",
+       "sajadah"
+      ],
+      "ilustrasi": "doa_malam",
+      "stiker": [
+       "calendar",
+       "prayer rug"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ menganjurkan witir di awal malam bagi yang khawatir tidak bisa bangun di akhir malam.",
+      "label": "Witir di Awal Malam",
+      "ikon": [
+       "jam",
+       "lentera"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "clock",
+       "lantern"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Khawatir tak bangun malam? Kerjakan witir sebelum tidur malam ini.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "pintu",
+     "tokoh": "berdoa",
+     "stiker": [
+      "prayer rug",
+      "night"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Amalkan wasiat Nabi ﷺ sebelum kamu terlelap. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgMOmYcBv3m/",
+   "fb": "https://www.facebook.com/reel/1875218540167620",
+   "yt": "https://youtube.com/shorts/rE4FssFwd1g",
+   "waktu_posting": "2026-11-26T04:18:49"
   },
   {
    "judul_hook": "Waktu Emas di Sepertiga Malam",
