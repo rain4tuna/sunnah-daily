@@ -728,7 +728,7 @@
     "keteguhan iman"
    ],
    "id": "ep018-08",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Lafaz dalil lama ('fa ma lana bidzalika... in nahnu waffaina? qala: al-jannah') berasal dari Ibnu Ishaq dari 'Ashim bin 'Umar bin Qatadah secara mursal (Sirah Ibnu Hisham), bukan Ahmad 15798, jadi diganti riwayat Jabir yang shahih. Peringatan soal perang dengan semua orang di riwayat itu diucapkan Al-'Abbas bin 'Ubadah (seorang Anshar), bukan paman Nabi; dalam riwayat Jabir, As'ad bin Zurarah yang mengingatkan soal berpisah dengan seluruh bangsa Arab. Adegan 2-3 diperbaiki.",
@@ -736,7 +736,79 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa kaum Anshar rela menghadapi ancaman besar tanpa sedikit pun rasa gentar?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night",
+      "city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Pada Bai'at Aqabah Kedua, tujuh puluh tiga perwakilan Anshar bersiap mengikat janji setia membela keselamatan Rasulullah ﷺ.",
+      "label": "Janji Setia Bai'at Aqabah",
+      "ikon": [
+       "gunung",
+       "bulan_bintang"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "mountain",
+       "night"
+      ]
+     },
+     {
+      "narasi": "As'ad bin Zurarah mengingatkan, membawa beliau ke Madinah berarti siap berhadapan dengan seluruh bangsa Arab.",
+      "label": "Peringatan Menghadapi Seluruh Bangsa",
+      "ikon": [
+       "lentera"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "lantern"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ meminta mereka melindungi beliau layaknya keluarga sendiri, dengan balasan surga, dan mereka pun berbaiat tanpa ragu.",
+      "label": "Janji Berbalas Surga",
+      "ikon": [
+       "kunci",
+       "cahaya"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "garden",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Saat surga menjadi tujuan, segala rintangan dan pengorbanan di dunia akan terasa ringan.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "scales",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Kuatkan tekad kita demi meraih surga-Nya. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgOLccKC7AZ/",
+   "fb": "https://www.facebook.com/reel/3500162163477666",
+   "yt": "https://youtube.com/shorts/Qms1aVZZjYk",
+   "waktu_posting": "2026-11-26T22:29:43"
   }
  ]
 }
