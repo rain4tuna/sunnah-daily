@@ -304,11 +304,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "أَوَتَجْلِسُ فَتَسْمَعَ فَإِنْ رَضِيتَ أَمْرًا قَبِلْتَهُ وَإِنْ كَرِهْتَهُ كُفَّ عَنْكَ مَا تَكْرَهُ",
-    "terjemah": "Maukah engkau duduk dan mendengarkan? Jika engkau menyukainya engkau bisa menerimanya, dan jika tidak menyukainya maka kami tahan apa yang engkau benci.",
-    "sumber": "Sirah Ibnu Hisyam, Tarikh Ath-Thabari",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "أَوَتَجْلِسُ فَتَسْمَعَ، فَإِنْ رَضِيتَ أَمْرًا قَبِلْتَهُ، وَإِنْ كَرِهْتَهُ كُفَّ عَنْكَ مَا تَكْرَهُ",
+    "terjemah": "Maukah engkau duduk lalu mendengarkan? Jika engkau menyukainya engkau dapat menerimanya, dan jika engkau membencinya maka kami akan menghentikan apa yang tidak engkau sukai.",
+    "sumber": "Sirah Ibnu Hisyam (1/435), Tarikh Ath-Thabari (2/359)",
+    "derajat": "lemah",
+    "penilai": "Ulama hadits (sanadnya mursal/terputus dari riwayat Muhammad bin Ishaq)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/59/208/"
    },
    "faedah": "Kelembutan tutur kata dan ketenangan hati sanggup melunakkan kemarahan yang membara.",
    "latar_faedah": "kitab",
@@ -318,7 +319,18 @@
     "hidayah islam"
    ],
    "id": "ep018-04",
-   "status": "Belum"
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Inti pengiriman Mush'ab bin Umair radhiyallahu 'anhu ke Madinah untuk mengajarkan Al-Qur'an dan Islam adalah riwayat yang shahih (HR. Bukhari no. 3925 dari al-Bara' bin 'Azib). Namun, rincian dialog dan adegan Usaid bin Hudhair menancapkan/menodongkan tombak bersumber dari riwayat Ibnu Ishaq yang berstatus mursal (terputus sanadnya karena dua perawi di atasnya, Ubaidullah bin al-Mughirah dan Abdullah bin Abi Bakr bin Hazm, adalah tabi'in yang tidak menyaksikan peristiwa tersebut). Karena akun berprinsip wajib menyebutkan kelemahan, kisah ini boleh dibawakan sebagai ibrah sirah asalkan ditegaskan bahwa sanad rinciannya mursal/lemah.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHF_PmyCDfiEQhiyUvkyykeizVn8CNsrjZnyhJoyAPrP7WWsrQSFfv2L6ZSmFFkNTmwl-XVhvex76sPaDiavWKwWFrMvEIod-ay3360BmAkcSyskQ2O",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWMCCy7scsRYQbmhCG2VQ1x6AvPlw7qt7bHBjPAdniM5SaB5kMP188tLoQoXrkBUoLedv_4pQvB2pMtad3UJ7BVG_qBdiUOkB0upl0oc5mD3CLYgXMIi1EpETx4jXADzlVDhbrj4Z-ZGr3mNHb-bw2zV7Jc54UIQ7SzeozmQGmfdlMIpyZ2ajTcpXknqKHW8gOTntcPOY3uJ0p-9p9SsuBgI7iesPqv9yJfIlfjoarxY4CT_PAHiMRlY2_XWvNXbgzHMfRfRHq9aVLBA_mtSb32YVUhWQYFiMmfhQ42wB_t1Dxh7roqjIpj8YCMWt020VfLKz5Wtg0v4V6FJ9q2ZvDRNwWOUhGptaHckWisBWQAvnc80kxNJXG7VnIBnLKJOUbURYCfhzhOEabkLRhR1CCIMmmTSzREtPuLuQeUaQ-JsuXk6oTLoxn61R5W3jKhIUyRA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPN0gjpFTCdik_xaBeBi7eDxMW_leE_iKoNdAaEq0Ykm4VwmErKwpQ97iWWldvpZIxRmnoGITpHlxdR0vBtj_aw-cbDcJ3vOQFocceyg77TUj9oPwl2Z20pPtKkA==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAJy02FpCESEnZs4LCeOrTOd871C6Cy8Bxdppke8iKvTAncerX7Ys-6H8xmf6DzgcTwesskYIBuMUGORQHt0j3Vb-BQWKQSuXCtSNJ-BRwU5wD5m5cb_eJpurpW2nejHlLbX6swl-HmWoyGEs577WxF6wgber8qXLnL1KsJo-lddektzxpDy719JhE1yOike5Qq_2o5peNfEwD4uGnB8zjCzXcHQF8spuoA7oW7-5lC_DHi6F-e0T_Eo79EjzTyvFrIliP23JVJaAansdB-_4aRgWC32kwzqS3qzRmAD28nYsIzmGbPsxVLgrZzOCZM4oJtj753bJRLKH-rjqfhG3XERepVeSu5wc6c9FT7TMqA5OcRdf3PVbQ6E4WHRVOjLPi-S0j_RMEov67IZl6wBHL"
+    ]
+   },
+   "layak": false
   },
   {
    "menit": "18:20",
@@ -341,11 +353,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "حم * وَالْكِتَابِ الْمُبِينِ * إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
-    "terjemah": "Haa Miim. Demi Kitab yang menerangkan. Sesungguhnya Kami menjadikan Al-Qur'an dalam bahasa Arab supaya kamu memahaminya.",
+    "arab": "حم ۝ وَالْكِتَابِ الْمُبِينِ ۝ إِنَّا جَعَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+    "terjemah": "Ha Mim. Demi Kitab (Al-Qur'an) yang jelas, sesungguhnya Kami menjadikannya Al-Qur'an berbahasa Arab agar kamu memahaminya.",
     "sumber": "QS. Az-Zukhruf: 1-3",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/43?from=1&to=3"
    },
    "faedah": "Keteladanan seorang pemimpin yang beriman dapat menyelamatkan seluruh orang di sekitarnya.",
    "latar_faedah": "kitab",
@@ -355,7 +368,95 @@
     "kepemimpinan"
    ],
    "id": "ep018-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah masuk Islamnya Sa'ad bin Mu'adz radhiyallahu 'anhu dan keislaman seluruh Bani Abdul Asyhal masyhur dan diterima dalam literatur sirah nabawiyyah (Sirah Ibnu Hisyam, Maghazi Musa bin 'Uqbah, serta Dala'il an-Nubuwwah karya Al-Bayhaqi). Riwayat Musa bin 'Uqbah secara spesifik menyebutkan bahwa ayat yang dibacakan Mush'ab bin 'Umair saat itu adalah permulaan surah Az-Zukhruf.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi0cDyrrCmVQKMVgpt9GF9yuUAie1rUQbdDiPoAPS5FI1z7A8qcXRBR3T5sSTxLUPpiNHi69Tv-nyYAtzRuVtGctxhyFVoxe9eYehi0f2CpD4dmMOWzEDrF86QNoKvFeOHgAKxbg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF8ugpuFID4yjLR3AHP_LxsIWAVgme6ZK-qAd3jWQ-SMdtDeRT5U1KjQN_Qebvc8WmE6YEX91eG_jMKZdzPLiqMHWgC3rSBWc2NeWUA5tqHngvZeWdScvIP-rKax1E-wwXHKJ9gvm6JvBJkrckIGNqYYz3JvxqEXGI49yK6I5R0y3hRb8XJPFCTjRhH30Y-rm9RfsaGqTdLSR4aMrFn9RylmQNu8Uxn3gdD3Zxf4kTTmdTswAlTHcUOHpdC9yPloYgcLZqtGNnCWwynVs1bX1yg4oFZAHb473me7ZMLAA6k_wmwRa1v8Zgyz6UXZKjPdyWKDsHyJz9gBU437MEhaOsjSiInBvI96FK_aO9R_H_uOQq8yzAVYcakeQnWRXVTWxeshU=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi0cDyrrCmVQKMVgpt9GF9yuUAie1rUQbdDiPoAPS5FI1z7A8qcXRBR3T5sSTxLUPpiNHi69Tv-nyYAtzRuVtGctxhyFVoxe9eYehi0f2CpD4dmMOWzEDrF86QNoKvFeOHgAKxbg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF8ugpuFID4yjLR3AHP_LxsIWAVgme6ZK-qAd3jWQ-SMdtDeRT5U1KjQN_Qebvc8WmE6YEX91eG_jMKZdzPLiqMHWgC3rSBWc2NeWUA5tqHngvZeWdScvIP-rKax1E-wwXHKJ9gvm6JvBJkrckIGNqYYz3JvxqEXGI49yK6I5R0y3hRb8XJPFCTjRhH30Y-rm9RfsaGqTdLSR4aMrFn9RylmQNu8Uxn3gdD3Zxf4kTTmdTswAlTHcUOHpdC9yPloYgcLZqtGNnCWwynVs1bX1yg4oFZAHb473me7ZMLAA6k_wmwRa1v8Zgyz6UXZKjPdyWKDsHyJz9gBU437MEhaOsjSiInBvI96FK_aO9R_H_uOQq8yzAVYcakeQnWRXVTWxeshU="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana seluruh kabilah bisa memeluk Islam serentak hanya dalam waktu satu hari?",
+     "ikon": [
+      "kalender"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "sun",
+      "village",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sa'ad bin Mu'adz radhiyallahu 'anhu awalnya mendatangi Mush'ab bin Umair radhiyallahu 'anhu dengan amarah, namun hatinya luluh mendengar ayat surat Az-Zukhruf.",
+      "label": "Hati Luluh Mendengar Al-Qur'an",
+      "ikon": [
+       "quran",
+       "hati"
+      ],
+      "ilustrasi": "quran",
+      "stiker": [
+       "book",
+       "heart",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Setelah bersyahadat dan bersuci, Sa'ad bergegas pulang untuk menemui seluruh kaumnya, Bani Abdul Asyhal.",
+      "label": "Kembali Menemui Kaumnya",
+      "ikon": [
+       "tetes_air",
+       "jejak"
+      ],
+      "ilustrasi": "air",
+      "stiker": [
+       "water",
+       "footstep",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Ia menegaskan pantang berbicara sebelum mereka beriman, hingga warganya serempak masuk Islam hari itu juga.",
+      "label": "Satu Kabilah Masuk Islam",
+      "ikon": [
+       "cahaya",
+       "rumah"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "house",
+       "sun",
+       "door"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Keteladanan seorang pemimpin yang beriman mampu membimbing dan menyelamatkan orang-orang di sekitarnya.",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "lamp",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan kisah inspiratif ini",
+     "narasi": "Bagikan kisah inspiratif ini. Hidayah satu orang ternyata bisa menyelamatkan satu kabilah seutuhnya. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgNUCp3ia8E/",
+   "fb": "https://www.facebook.com/reel/1951995302874486",
+   "yt": "https://youtube.com/shorts/C3Pl-BSRsak",
+   "waktu_posting": "2026-11-26T14:25:41"
   },
   {
    "menit": "21:45",
