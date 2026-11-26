@@ -4157,7 +4157,7 @@
    ],
    "id": "h037",
    "topik": "Minum sambil duduk",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Perintah minum dengan tangan kanan: HR. Muslim no. 2020 (shahih).",
@@ -4165,7 +4165,80 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Minum terkesan sepele, tapi tahukah kamu ada adab dari Rasulullah ﷺ yang sering terlewat?",
+     "ikon": [
+      "gelas"
+     ],
+     "ilustrasi": "air",
+     "stiker": [
+      "glass",
+      "water"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sahabat Anas bin Malik meriwayatkan bahwa Nabi ﷺ melarang minum sambil berdiri.",
+      "label": "Larangan Minum Berdiri",
+      "ikon": [
+       "gelas",
+       "tetes_air"
+      ],
+      "ilustrasi": "hidangan",
+      "stiker": [
+       "water cup",
+       "drink"
+      ]
+     },
+     {
+      "narasi": "Maka biasakan duduk tenang sebelum minum, baik di rumah, kantor, maupun saat bepergian.",
+      "label": "Duduk Tenang Dahulu",
+      "ikon": [
+       "rumah",
+       "jejak"
+      ],
+      "ilustrasi": "keluarga_hangat",
+      "stiker": [
+       "house",
+       "room"
+      ]
+     },
+     {
+      "narasi": "Rasulullah ﷺ juga memerintahkan kita agar senantiasa minum menggunakan tangan kanan.",
+      "label": "Gunakan Tangan Kanan",
+      "ikon": [
+       "gelas",
+       "cahaya"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "glass",
+       "water"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mulai sekarang, duduklah dan gunakan tangan kanan setiap kali hendak minum.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "water cup",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Rawat adab harian penjemput pahala ini. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgNDOhrBA40/",
+   "fb": "https://www.facebook.com/reel/2085186718859004",
+   "yt": "https://youtube.com/shorts/lKoMWE3P_Wg",
+   "waktu_posting": "2026-11-26T11:58:27"
   },
   {
    "judul_hook": "Rutinitas Malam yang Menghalau Setan",

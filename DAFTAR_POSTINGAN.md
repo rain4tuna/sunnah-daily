@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 151 video. Waktu dalam WIB, terbaru di atas.
+Total: 152 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 26 Nov 2026 18.58 | h037 | Adab Minum yang Sering Terlupa | HR. Muslim no. 2024 (shahih) | [IG](https://www.instagram.com/reel/DgNDOhrBA40/) · [YouTube](https://youtube.com/shorts/lKoMWE3P_Wg) · [FB](https://www.facebook.com/reel/2085186718859004) |
 | 26 Nov 2026 15.49 | ep018-03 | Lepas Kemewahan Demi Membela Islam | Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/434) | [IG](https://www.instagram.com/reel/DgMtmy3pM1L/) · [YouTube](https://youtube.com/shorts/Z2FHaM7Ty8A) · [FB](https://www.facebook.com/reel/1077881248606343) |
 | 26 Nov 2026 11.58 | h036 | Waktu Emas di Sepertiga Malam | HR. Bukhari no. 1145 (shahih) | [IG](https://www.instagram.com/reel/DgMTHAytj2E/) · [YouTube](https://youtube.com/shorts/dUUuIGlCShQ) · [FB](https://www.facebook.com/reel/1697731248680984) |
 | 26 Nov 2026 11.18 | h035 | Wasiat Nabi Sebelum Tidur | HR. Bukhari no. 1178 (shahih) | [IG](https://www.instagram.com/reel/DgMOmYcBv3m/) · [YouTube](https://youtube.com/shorts/rE4FssFwd1g) · [FB](https://www.facebook.com/reel/1875218540167620) |
