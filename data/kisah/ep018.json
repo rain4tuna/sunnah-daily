@@ -494,7 +494,7 @@
     "kualitas amal"
    ],
    "id": "ep018-06",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Hadits Jabir muttafaq 'alaih. Frasa 'menyambut kedatangan ruh' adalah penafsiran (riwayat 'karena gembira dengan ruhnya' ada di luar Shahihain), jadi adegan 3 diselaraskan dengan lafaz hadits.",
@@ -502,7 +502,78 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Hanya enam tahun memeluk Islam, sahabat mulia ini wafat hingga menggetarkan 'Arsy Ar-Rahman.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "throne",
+      "light"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sa'ad bin Mu'adz radhiyallahu 'anhu masuk Islam setahun sebelum hijrah, dan wafat akibat luka perang di tahun kelima Hijriah.",
+      "label": "Enam Tahun Masa Keislaman",
+      "ikon": [
+       "kalender"
+      ],
+      "ilustrasi": "hijrah_perjalanan",
+      "stiker": [
+       "calendar",
+       "desert"
+      ]
+     },
+     {
+      "narasi": "Masa keislamannya sangat singkat, namun pengorbanan dan ketulusannya membela dakwah tiada bandingnya.",
+      "label": "Pengorbanan Membela Dakwah",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "sunlight"
+      ]
+     },
+     {
+      "narasi": "Ketika beliau wafat, Rasulullah ﷺ mengabarkan bahwa 'Arsy Ar-Rahman berguncang karena kepergiannya.",
+      "label": "'Arsy Ar-Rahman Berguncang",
+      "ikon": [
+       "bintang",
+       "cahaya"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "stars",
+       "sky"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Bukan lamanya usia yang menentukan kemuliaan, melainkan bobot keikhlasan amal kita.",
+     "ikon": [
+      "timbangan"
+     ],
+     "ilustrasi": "taman_berkah",
+     "stiker": [
+      "scale",
+      "garden"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video penuh teladan ini",
+     "narasi": "Simpan video penuh teladan ini. Mari mengikhlaskan amal agar berbobot di hadapan Allah. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgNxp7PhZ3C/",
+   "fb": "https://www.facebook.com/reel/4094850147485205",
+   "yt": "https://youtube.com/shorts/q-Ifiv_R4Nw",
+   "waktu_posting": "2026-11-26T18:44:16"
   },
   {
    "menit": "24:00",
