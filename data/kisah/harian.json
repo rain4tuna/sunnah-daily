@@ -4287,6 +4287,102 @@
     ]
    },
    "layak": true
+  },
+  {
+   "judul_hook": "Kuku Panjang, Fitrah yang Terlupa?",
+   "narasi_hook": "Ternyata memotong kuku bukan sekadar urusan rapi, tapi bagian dari fitrah yang diajarkan Rasulullah ﷺ.",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda bahwa fitrah itu ada lima: khitan, mencukur bulu kemaluan, memendekkan kumis, memotong kuku, dan mencabut bulu ketiak."
+    },
+    {
+     "narasi": "Jadi memotong kuku termasuk kebiasaan suci yang sesuai dengan fitrah manusia."
+    },
+    {
+     "narasi": "Caranya sederhana: rutin periksa kuku tangan dan kaki, lalu potong saat mulai panjang."
+    },
+    {
+     "narasi": "Sekalian rawat bagian fitrah lainnya, supaya badan tetap bersih dan kita mengikuti sunnah Nabi ﷺ."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "الْفِطْرَةُ خَمْسٌ: الْخِتَانُ، وَالِاسْتِحْدَادُ، وَقَصُّ الشَّارِبِ، وَتَقْلِيمُ الْأَظْفَارِ، وَنَتْفُ الْآبَاطِ",
+    "terjemah": "Fitrah itu ada lima: khitan, mencukur bulu kemaluan, memendekkan kumis, memotong kuku, dan mencabut bulu ketiak.",
+    "sumber": "HR. Al-Bukhari no. 5889, Muslim no. 257",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:5889"
+   },
+   "faedah": "Yuk cek kukumu hari ini, potong yang panjang sebagai bagian dari menjaga fitrah.",
+   "tema": [
+    "kebersihan",
+    "fitrah",
+    "memotong kuku"
+   ],
+   "alasan": "Hadits shahih muttafaq 'alaih dari Abu Hurairah (Bukhari 5889, Muslim 257).",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h039",
+   "topik": "Memotong kuku dan menjaga fitrah",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
+  },
+  {
+   "judul_hook": "Kaki Mana Duluan Pakai Sandal?",
+   "narasi_hook": "Pernah kepikiran, saat pakai sandal, kaki mana yang sebaiknya duluan?",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ bersabda: jika salah seorang dari kalian memakai sandal, mulailah dengan kaki kanan."
+    },
+    {
+     "narasi": "Dan ketika melepasnya, mulailah dengan kaki kiri."
+    },
+    {
+     "narasi": "Jadi kaki kanan yang pertama dipakaikan sandal dan yang terakhir dilepas."
+    },
+    {
+     "narasi": "Amalan kecil ini bisa kita lakukan setiap hari, setiap kali keluar dan masuk rumah."
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِذَا انْتَعَلَ أَحَدُكُمْ فَلْيَبْدَأْ بِالْيَمِينِ، وَإِذَا نَزَعَ فَلْيَبْدَأْ بِالشِّمَالِ، لِيَكُنِ الْيُمْنَى أَوَّلَهُمَا تُنْعَلُ وَآخِرَهُمَا تُنْزَعُ",
+    "terjemah": "Jika salah seorang dari kalian memakai sandal, mulailah dengan yang kanan, dan jika melepas, mulailah dengan yang kiri. Jadikan kaki kanan yang pertama dipakaikan dan yang terakhir dilepas.",
+    "sumber": "HR. Al-Bukhari no. 5856, Muslim no. 2097",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:5856"
+   },
+   "faedah": "Mulai sekarang, pakai sandal dari kanan dan lepas dari kiri, ya.",
+   "tema": [
+    "adab",
+    "sandal",
+    "mendahulukan kanan"
+   ],
+   "alasan": "Hadits shahih dari Abu Hurairah (Bukhari 5856 menurut penomoran sunnah.com/Bulughul Maram; sebagian situs menomori 5855; Muslim 2097).",
+   "sumber_riset": [
+    "manual"
+   ],
+   "id": "h040",
+   "topik": "Memakai sandal dimulai dari kanan",
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Sebagian situs (mis. dorar) menomori hadits Bukhari ini 5855; sunnah.com & Bulughul Maram: 5856.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   }
  ]
 }

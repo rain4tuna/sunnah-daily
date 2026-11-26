@@ -473,7 +473,7 @@
      "latar": "kitab"
     },
     {
-     "narasi": "Ketika Sa'ad wafat, Rasulullah ﷺ mengabarkan bahwa singgasana 'Arsy Allah bergetar menyambut kedatangan ruh sang sahabat mulia.",
+     "narasi": "Ketika Sa'ad wafat, Rasulullah ﷺ mengabarkan bahwa 'Arsy Ar-Rahman berguncang karena wafatnya sahabat mulia ini.",
      "latar": "langit"
     }
    ],
@@ -481,9 +481,10 @@
     "jenis": "hadits",
     "arab": "اهْتَزَّ عَرْشُ الرَّحْمَنِ لِمَوْتِ سَعْدِ بْنِ مُعَاذٍ",
     "terjemah": "'Arsy Ar-Rahman berguncang karena wafatnya Sa'ad bin Mu'adz.",
-    "sumber": "HR. Al-Bukhari no. 3803, Muslim no. 2466",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "sumber": "HR. Al-Bukhari no. 3803, Muslim no. 2466 (lafaz Muslim)",
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:3803"
    },
    "faedah": "Bukan lamanya usia yang menentukan kemuliaan, melainkan bobot keikhlasan amal kita.",
    "latar_faedah": "lentera",
@@ -493,7 +494,15 @@
     "kualitas amal"
    ],
    "id": "ep018-06",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Hadits Jabir muttafaq 'alaih. Frasa 'menyambut kedatangan ruh' adalah penafsiran (riwayat 'karena gembira dengan ruhnya' ada di luar Shahihain), jadi adegan 3 diselaraskan dengan lafaz hadits.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "24:00",
@@ -502,11 +511,11 @@
    "latar_hook": "kota",
    "adegan": [
     {
-     "narasi": "Kaum Anshar berasal dari Yaman, kaum yang dipuji oleh Rasulullah ﷺ memiliki hati yang sangat lembut dan mudah tersentuh kebenaran.",
+     "narasi": "Kaum Anshar berasal dari kabilah Yaman, dan Rasulullah ﷺ memuji penduduk Yaman sebagai orang yang paling lembut dan lunak hatinya.",
      "latar": "kafilah"
     },
     {
-     "narasi": "Mereka juga telah lelah didera perang saudara selama ratusan tahun, sehingga mereka merindukan persatuan di bawah naungan Islam.",
+     "narasi": "Suku Aus dan Khazraj juga sudah lama lelah didera perang saudara, sehingga mereka merindukan persatuan di bawah naungan Islam.",
      "latar": "gurun"
     },
     {
@@ -516,11 +525,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "أَتَاكُمْ أَهْلُ الْيَمَنِ هُمْ أَرَقُّ أَفْئِدَةً وَأَلْيَنُ قُلُوبًا",
-    "terjemah": "Telah datang kepada kalian penduduk Yaman, mereka adalah orang-orang yang paling lembut jiwanya dan paling lunak hatinya.",
+    "arab": "أَتَاكُمْ أَهْلُ الْيَمَنِ، هُمْ أَرَقُّ أَفْئِدَةً وَأَلْيَنُ قُلُوبًا",
+    "terjemah": "Telah datang kepada kalian penduduk Yaman, mereka orang yang paling lembut jiwanya dan paling lunak hatinya.",
     "sumber": "HR. Al-Bukhari no. 4388, Muslim no. 52",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Al-Bukhari dan Muslim",
+    "rujukan": "https://sunnah.com/bukhari:4388"
    },
    "faedah": "Hati yang lembut dan rendah hati adalah pintu terbaik masuknya hidayah ilahi.",
    "latar_faedah": "kitab",
@@ -530,7 +540,15 @@
     "sejarah madinah"
    ],
    "id": "ep018-07",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Hadits ini konteksnya utusan penduduk Yaman (bukan khusus Anshar); Aus dan Khazraj memang berasal dari kabilah Yaman. 'Perang ratusan tahun' dilebih-lebihkan (riwayat sirah menyebut sekitar 120 tahun), diganti tanpa angka.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   },
   {
    "menit": "42:40",
@@ -543,21 +561,22 @@
      "latar": "langit"
     },
     {
-     "narasi": "Paman Nabi mengingatkan bahwa sumpah ini berarti bersiap menghadapi permusuhan dan peperangan dari seluruh bangsa Arab.",
+     "narasi": "Salah seorang dari mereka, As'ad bin Zurarah, mengingatkan bahwa membawa beliau ke Madinah berarti siap berhadapan dengan seluruh bangsa Arab.",
      "latar": "gurun"
     },
     {
-     "narasi": "Saat mereka bertanya balasan apa yang akan didapat, Rasulullah ﷺ hanya menjawab surga, dan tanpa ragu mereka langsung menjabat tangan beliau.",
+     "narasi": "Rasulullah ﷺ meminta mereka melindungi beliau seperti melindungi diri dan keluarga sendiri, dengan balasan surga, dan mereka pun membaiat beliau tanpa ragu.",
      "latar": "lentera"
     }
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "فَمَا لَنَا بِذَلِكَ يَا رَسُولَ اللَّهِ إِنْ نَحْنُ وَفَّيْنَا؟ قَالَ: الْجَنَّةُ",
-    "terjemah": "'Lalu apa yang kami dapatkan wahai Rasulullah jika kami memenuhi janji itu?' Beliau menjawab: 'Surga.'",
-    "sumber": "HR. Ahmad no. 15798, Ibnu Ishaq",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "arab": "وَعَلَى أَنْ تَنْصُرُونِي فَتَمْنَعُونِي إِذَا قَدِمْتُ عَلَيْكُمْ مِمَّا تَمْنَعُونَ مِنْهُ أَنْفُسَكُمْ وَأَزْوَاجَكُمْ وَأَبْنَاءَكُمْ، وَلَكُمُ الْجَنَّةُ",
+    "terjemah": "Dan (berbaiatlah) untuk menolongku dan melindungiku jika aku datang kepada kalian, sebagaimana kalian melindungi diri, istri, dan anak-anak kalian; dan bagi kalian surga.",
+    "sumber": "HR. Ahmad no. 14456 dari Jabir bin Abdillah (juga Ibnu Hibban, Al-Hakim)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Silsilah Ash-Shahihah no. 63: sanadnya shahih sesuai syarat Muslim)",
+    "rujukan": "https://dorar.net/h/fKWxZFdi"
    },
    "faedah": "Saat surga menjadi tujuan, segala rintangan dan pengorbanan di dunia terasa ringan.",
    "latar_faedah": "kitab",
@@ -567,7 +586,15 @@
     "keteguhan iman"
    ],
    "id": "ep018-08",
-   "status": "Belum"
+   "status": "Belum",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Lafaz dalil lama ('fa ma lana bidzalika... in nahnu waffaina? qala: al-jannah') berasal dari Ibnu Ishaq dari 'Ashim bin 'Umar bin Qatadah secara mursal (Sirah Ibnu Hisham), bukan Ahmad 15798, jadi diganti riwayat Jabir yang shahih. Peringatan soal perang dengan semua orang di riwayat itu diucapkan Al-'Abbas bin 'Ubadah (seorang Anshar), bukan paman Nabi; dalam riwayat Jabir, As'ad bin Zurarah yang mengingatkan soal berpisah dengan seluruh bangsa Arab. Adegan 2-3 diperbaiki.",
+    "sumber_cek": [
+     "manual"
+    ]
+   },
+   "layak": true
   }
  ]
 }
