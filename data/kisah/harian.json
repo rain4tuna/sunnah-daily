@@ -4524,7 +4524,7 @@
    ],
    "id": "h040",
    "topik": "Memakai sandal dimulai dari kanan",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Sebagian situs (mis. dorar) menomori hadits Bukhari ini 5855; sunnah.com & Bulughul Maram: 5856.",
@@ -4532,7 +4532,100 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Pernah kepikiran, saat memakai sandal, kaki mana yang sebaiknya kita dahulukan?",
+     "ikon": [
+      "jejak"
+     ],
+     "ilustrasi": "keluarga_hangat",
+     "tokoh": "berdiri",
+     "stiker": [
+      "sandals",
+      "door",
+      "footsteps"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ bersabda, jika kita memakai sandal, mulailah dengan kaki kanan.",
+      "label": "Pakai Mulai Kaki Kanan",
+      "ikon": [
+       "kitab",
+       "jejak"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "sandals",
+       "book",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Sedangkan saat melepasnya, dahulukanlah kaki kiri kita.",
+      "label": "Lepas Mulai Kaki Kiri",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri",
+      "stiker": [
+       "sandals",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Kaki kanan menjadi yang pertama memakai sandal, sekaligus yang terakhir dilepas.",
+      "label": "Kanan Pertama dan Terakhir",
+      "ikon": [
+       "timbangan",
+       "bintang"
+      ],
+      "ilustrasi": "taman_berkah",
+      "tokoh": "berdiri",
+      "stiker": [
+       "sandals",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Amalan sederhana ini bisa kita biasakan setiap hari, saat keluar dan masuk rumah.",
+      "label": "Biasakan Setiap Hari",
+      "ikon": [
+       "rumah",
+       "kalender"
+      ],
+      "ilustrasi": "masjid",
+      "tokoh": "berjalan",
+      "stiker": [
+       "house",
+       "door",
+       "footsteps"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mulai hari ini, selalu pakai sandal dari kanan dan lepas dari kiri.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "fajar",
+     "tokoh": "berdiri",
+     "stiker": [
+      "sun",
+      "sandals"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan agar mudah diamalkan",
+     "narasi": "Simpan agar mudah diamalkan. Dahulukan selalu kaki kanan dalam melangkah. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgPn8e7BtVj/",
+   "fb": "https://www.facebook.com/reel/1217853921193562",
+   "yt": "https://youtube.com/shorts/SYxUdm8Lp9U",
+   "waktu_posting": "2026-11-27T11:57:56"
   }
  ]
 }
