@@ -429,11 +429,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "فَفُرِّقَ بَيْنِي وَبَيْنَ زَوْجِي وَبَيْنَ ابْنِي",
-    "terjemah": "Maka aku dipisahkan antara diriku, suamiku, dan anak kandungku.",
-    "sumber": "Sirah Ibnu Ishaq / Al-Mustadrak Al-Hakim no. 6808",
-    "derajat_kata_ustadz": "sanad hasan",
-    "dari_video": true
+    "arab": "«...فَفُرِّقَ بَيْنِي وَبَيْنَ زَوْجِي وَبَيْنَ ابْنِي...»",
+    "terjemah": "...Maka dipisahkanlah antara diriku, suamiku, dan anak kandungku...",
+    "sumber": "Al-Hakim dalam Al-Mustadrak no. 6808; Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/468)",
+    "derajat": "hasan",
+    "penilai": "Syaikh Al-Albani (disahihkan pula oleh Al-Hakim dan Adz-Dzahabi)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/469/"
    },
    "faedah": "Keteguhan dalam menghadapi ujian perpisahan demi agama akan melahirkan pertolongan Allah yang indah.",
    "latar_faedah": "langit",
@@ -443,7 +444,90 @@
     "ummu salamah"
    ],
    "id": "ep019-05",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Satu keluarga dipecah ke tiga arah berbeda hanya demi mempertahankan keimanan mereka.",
+     "ikon": [
+      "jejak"
+     ],
+     "ilustrasi": "hijrah_perjalanan",
+     "stiker": [
+      "desert",
+      "footprint",
+      "sand"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Saat Abu Salamah radhiyallahu 'anhu hendak berhijrah bersama keluarganya, kaum musyrikin menghadang dan menahan istrinya.",
+      "label": "Dihadang Kaum Musyrikin",
+      "ikon": [
+       "gunung"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "mountain",
+       "night",
+       "path"
+      ]
+     },
+     {
+      "narasi": "Keluarga Abu Salamah tak terima lalu merebut paksa sang anak, hingga mereka terpisah ke tiga arah.",
+      "label": "Keluarga Tercerai-berai",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "cloud",
+       "wind"
+      ]
+     },
+     {
+      "narasi": "Hampir setahun lamanya, Ummu Salamah radhiyallahu 'anha menangis di tanah lapang meratapi perpisahan pahit ini.",
+      "label": "Tangisan Selama Setahun",
+      "ikon": [
+       "kalender",
+       "tetes_air"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "calendar",
+       "tear",
+       "ground"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Ujian berat perpisahan demi agama akan berbuah pertolongan Allah yang begitu indah.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "taman_berkah",
+     "tokoh": "berdoa",
+     "stiker": [
+      "light",
+      "garden",
+      "river"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Beratnya ujian hijrah akan Allah ganti dengan kemuliaan. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgQiTuMhEEN/",
+   "fb": "https://www.facebook.com/reel/1606668224552337",
+   "yt": "https://youtube.com/shorts/hWohLBuZD80",
+   "waktu_posting": "2026-11-27T20:27:55"
   },
   {
    "menit": "27:00",
