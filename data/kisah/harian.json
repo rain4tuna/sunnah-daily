@@ -4403,7 +4403,7 @@
    ],
    "id": "h039",
    "topik": "Memotong kuku dan menjaga fitrah",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "",
@@ -4411,7 +4411,80 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Memotong kuku ternyata bukan sekadar urusan rapi, melainkan fitrah suci dari Rasulullah ﷺ.",
+     "ikon": [
+      "tetes_air"
+     ],
+     "ilustrasi": "air",
+     "stiker": [
+      "water",
+      "drop"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ mengajarkan lima fitrah, termasuk memotong kuku agar kebersihan tubuh senantiasa terjaga.",
+      "label": "Lima Fitrah Manusia",
+      "ikon": [
+       "kitab"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "book",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Kebiasaan suci ini sangat sederhana, cukup rutin periksa kuku tangan dan kaki lalu rapikan.",
+      "label": "Rutin Periksa Kuku",
+      "ikon": [
+       "jam"
+      ],
+      "ilustrasi": "taman_berkah",
+      "tokoh": "berdiri",
+      "stiker": [
+       "clock",
+       "garden"
+      ]
+     },
+     {
+      "narasi": "Rawat juga bagian fitrah lainnya, agar badan kita bersih dan hidup mengikuti sunnah Nabi ﷺ.",
+      "label": "Rawat Kebersihan Tubuh",
+      "ikon": [
+       "siwak",
+       "parfum"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "sun",
+       "perfume"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mari luangkan waktu sejenak memeriksa kuku hari ini, dan potonglah demi menjaga fitrah kita.",
+     "ikon": [
+      "kalender"
+     ],
+     "ilustrasi": "air",
+     "tokoh": "berdiri",
+     "stiker": [
+      "calendar",
+      "water"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang agar tak lupa menjaga fitrah suci kebersihan diri. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgO37e_h53G/",
+   "fb": "https://www.facebook.com/reel/920140751094412",
+   "yt": "https://youtube.com/shorts/RMbOEgYcTxU",
+   "waktu_posting": "2026-11-27T04:58:25"
   },
   {
    "judul_hook": "Kaki Mana Duluan Pakai Sandal?",
