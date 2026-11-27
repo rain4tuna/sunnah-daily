@@ -550,11 +550,12 @@
    ],
    "dalil": {
     "jenis": "atsar",
-    "arab": "وَاللَّهِ مَا صَحِبْتُ رَجُلًا مِنَ الْعَرَبِ قَطُّ أَرَى أَنَّهُ كَانَ أَكْرَمَ مِنْهُ",
-    "terjemah": "Demi Allah, aku tidak pernah menemani seorang lelaki Arab mana pun yang kulihat lebih mulia budi pekertinya daripada dia.",
-    "sumber": "Sirah Ibnu Hisyam / Zadul Ma'ad",
-    "derajat_kata_ustadz": "hasan",
-    "dari_video": true
+    "arab": "فَوَاللَّهِ مَا صَحِبْتُ رَجُلًا مِنَ الْعَرَبِ قَطُّ أَرَى أَنَّهُ كَانَ أَكْرَمَ مِنْهُ...",
+    "terjemah": "Demi Allah, aku tidak pernah menemani seorang lelaki Arab mana pun yang kulihat lebih mulia budi pekertinya daripada dia...",
+    "sumber": "Sirah Ibnu Hisyam (1/469); Tarikh Ath-Thabari (2/90)",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani (Takhrij Fiqh as-Sirah, hlm. 177) & Ibnu Hibban (sebagaimana dinukil Ibnu Hajar)",
+    "rujukan": "https://www.islamweb.net/ar/library/books/58.jpg"
    },
    "faedah": "Menjaga adab dan kehormatan wanita adalah bukti akhlak mulia yang mengundang keberkahan hidup.",
    "latar_faedah": "kitab",
@@ -564,7 +565,85 @@
     "kisah sahabat"
    ],
    "id": "ep019-06",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana seorang pria yang belum beriman menjaga kehormatan seorang wanita di tengah gurun?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hijrah_perjalanan",
+     "stiker": [
+      "desert",
+      "sand"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Ummu Salamah radhiyallahu 'anha terpaksa menempuh perjalanan empat ratus lima puluh kilometer sendirian bersama bayinya menuju Madinah.",
+      "label": "Safar Sendirian Menuju Madinah",
+      "ikon": [
+       "jejak",
+       "gunung"
+      ],
+      "ilustrasi": "kafilah",
+      "stiker": [
+       "desert trail",
+       "mountain"
+      ]
+     },
+     {
+      "narasi": "Di Tan'im, Utsman bin Thalhah radhiyallahu 'anhu yang kala itu masih musyrik dengan kesatria menawarkan diri menuntun untanya.",
+      "label": "Pertolongan di Tan'im",
+      "ikon": [
+       "tenda"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "desert path",
+       "morning sun"
+      ]
+     },
+     {
+      "narasi": "Selama berhari-hari, ia selalu memalingkan pandangan dan menjauh setiap kali singgah demi memuliakan sang wanita.",
+      "label": "Menjaga Kehormatan Wanita",
+      "ikon": [
+       "cahaya",
+       "bintang"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "night sky",
+       "camp"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Menjaga adab dan memuliakan wanita adalah tanda keluhuran budi yang mendatangkan keberkahan hidup.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "taman_berkah",
+     "stiker": [
+      "garden",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang.",
+     "narasi": "Simpan video ini sekarang. Teladani kemuliaan akhlak yang tulus ini. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgQwI9rBcWU/",
+   "fb": "https://www.facebook.com/reel/988084357282618",
+   "yt": "https://youtube.com/shorts/SwsGLn3R4lU",
+   "waktu_posting": "2026-11-27T22:28:50"
   },
   {
    "menit": "35:55",
