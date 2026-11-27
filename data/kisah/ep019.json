@@ -1,0 +1,390 @@
+{
+ "episode": 19,
+ "judul": "Sirah Nabawiyah #19 - Kaum Musyrikin Menghalangi Sahabat Berhirah",
+ "url": "https://www.youtube.com/watch?v=dS29Q49XzpY",
+ "kisah": [
+  {
+   "menit": "01:27",
+   "judul_hook": "Berhala Dibuang ke Tempat Sampah",
+   "narasi_hook": "Bagaimana patung sesembahan yang dipuja-puja justru menyadarkan seorang tokoh dari kebodohan syirik?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Sebelum masuk Islam, Amr ibn al-Jamuh radhiyallahu 'anhu memiliki berhala kayu bernama Manat yang dirawat dan diberi wewangian dengan penuh pengagungan.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Setiap malam, putranya Mu'adz dan para pemuda Muslim Madinah diam-diam mengambil patung itu lalu mencampakkannya ke kubangan kotoran bersama bangkai anjing.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Setelah berkali-kali membersihkan tuhannya, Amr akhirnya tersadar bahwa sesuatu yang tak sanggup menolong dirinya sendiri dari kehinaan sama sekali tidak pantas disembah.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "أَمَا وَاللَّهِ لَوْ أَعْلَمُ مَنْ فَعَلَ هَذَا بِكَ لَأُخْزِيَنَّهُ",
+    "terjemah": "Ingatlah, demi Allah, seandainya aku mengetahui siapa yang memperlakukan ini terhadapmu, niscaya sungguh akan kuhinakan dia.",
+    "sumber": "Ibnu Hisyam, As-Sirah An-Nabawiyyah (1/452); Al-Baihaqi, Dala'il An-Nubuwwah (2/455)",
+    "derajat": "lemah",
+    "penilai": "Al-Baihaqi dan para peneliti sanad (mursal/munqathi' dari Ibnu Ishaq)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/452/قصة-صنم-عمرو-بن-الجموح"
+   },
+   "faedah": "Benda mati tak berdaya tak pantas disembah; hanya Allah Yang Maha Melindungi hamba-Nya.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "tauhid",
+    "keislaman sahabat",
+    "sirah nabawiyah"
+   ],
+   "id": "ep019-01",
+   "status": "Dilewati",
+   "cek": {
+    "kisah_lemah": true,
+    "catatan": "Kisah perlakuan terhadap berhala Amr bin al-Jamuh (dibuang ke kubangan kotoran dan diikat bersama bangkai anjing hingga ia sadar) hanya diriwayatkan melalui jalur Muhammad bin Ishaq secara mursal/munqathi' (terputus sanadnya dan tanpa sanad bersambung yang shahih). Meskipun kisah ini masyhur dalam kitab-kitab tarikh/sirah (seperti Sirah Ibnu Hisyam dan Al-Bidayah wan-Nihayah) sebagai ibrah kebatilan syirik, status riwayatnya menurut kaidah hadits adalah lemah. Adapun riwayat shahih tentang Amr bin al-Jamuh radhiyallahu 'anhu berfokus pada keteguhan tekadnya berjihad di Perang Uhud dengan kakinya yang pincang (HR. Ahmad). Sesuai prinsip akun dakwah ini, riwayat kisah masuk Islamnya ini wajib disebutkan berstatus lemah/mursal.",
+    "sumber_cek": []
+   },
+   "layak": false
+  },
+  {
+   "menit": "10:20",
+   "judul_hook": "Wahyu Hijrah Lewat Mimpi Nabi",
+   "narasi_hook": "Tahukah Anda bagaimana gambaran kota Madinah pertama kali diperlihatkan kepada Rasulullah ﷺ?",
+   "latar_hook": "langit",
+   "adegan": [
+    {
+     "narasi": "Sebelum perintah hijrah turun, Rasulullah ﷺ telah diperlihatkan negeri tujuan hijrah kaum muslimin melalui wahyu berupa mimpi yang benar.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Beliau melihat sebuah tempat subur yang dipenuhi kebun-kebun kurma di antara dua hamparan tanah berbatu hitam yang tandus.",
+     "latar": "kebun"
+    },
+    {
+     "narasi": "Awalnya beliau mengira negeri tersebut adalah Yamamah atau Hajar, hingga Allah menetapkan bahwa tempat penuh berkah itu adalah kota Yatsrib atau Madinah.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "إِنِّي أُرِيتُ دَارَ هِجْرَتِكُمْ ذَاتَ نَخْلٍ بَيْنَ لَابَتَيْنِ -وَهُمَا الْحَرَّتَانِ-",
+    "terjemah": "Sesungguhnya telah diperlihatkan kepadaku negeri tempat hijrah kalian, yaitu tanah yang ditumbuhi kurma di antara dua hamparan berbatu hitam (dua harrah).",
+    "sumber": "HR. Bukhari no. 3905",
+    "derajat": "shahih",
+    "penilai": "Imam Al-Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:3905"
+   },
+   "faedah": "Petunjuk wahyu Allah selalu nyata membimbing orang-orang beriman melewati masa-masa yang sulit.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "wahyu nabi",
+    "hijrah",
+    "keutamaan madinah"
+   ],
+   "id": "ep019-02",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Narasi kisah sepenuhnya bersumber dari riwayat-riwayat shahih dalam Shahih al-Bukhari, yaitu perpaduan riwayat 'Aisyah (no. 3905) tentang tempat berkurma di antara dua labah/harrah, dan riwayat Abu Musa al-Asy'ari (no. 3622) mengenai dugaan awal beliau ﷺ bahwa tempat itu adalah Yamamah atau Hajar. Kekeliruan hanya terjadi pada nomor dalil: teks yang dikutip adalah matan hadits 'Aisyah pada no. 3905 (juga no. 2297), bukan no. 3622.",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana gambaran kota Madinah pertama kali diperlihatkan kepada Rasulullah ﷺ?",
+     "ikon": [
+      "bulan_bintang"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "night sky",
+      "city"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sebelum hijrah, Allah memperlihatkan negeri tujuan kaum muslimin kepada beliau lewat mimpi yang benar.",
+      "label": "Wahyu Lewat Mimpi Benar",
+      "ikon": [
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Beliau melihat hamparan subur penuh kebun kurma di antara dua tanah berbatu hitam yang tandus.",
+      "label": "Kebun Kurma Nan Subur",
+      "ikon": [
+       "pohon_kurma",
+       "gunung"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "palm tree",
+       "date fruit",
+       "stone"
+      ]
+     },
+     {
+      "narasi": "Awalnya beliau mengira tempat itu Yamamah atau Hajar, hingga Allah menetapkannya sebagai kota Yatsrib.",
+      "label": "Yatsrib Kota Penuh Berkah",
+      "ikon": [
+       "masjid"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "dawn",
+       "mosque"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Petunjuk wahyu Allah selalu nyata membimbing orang-orang beriman melewati setiap masa sulit.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "tokoh": "berdoa",
+     "stiker": [
+      "light",
+      "path"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Begitulah indahnya ketetapan Allah bagi Madinah. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgPSfqEz39K/",
+   "fb": "https://www.facebook.com/reel/1143490658603756",
+   "yt": "https://youtube.com/shorts/qq7Aox8GAnU",
+   "waktu_posting": "2026-11-27T08:50:34"
+  },
+  {
+   "menit": "12:20",
+   "judul_hook": "Madinah Membersihkan Jiwa Manusia",
+   "narasi_hook": "Mengapa kota suci Madinah dipilih Allah sebagai negeri tujuan hijrah bagi umat Islam?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Rasulullah ﷺ mengabarkan bahwa Madinah adalah kota mulia yang diperintahkan untuk mengalahkan dan menaungi berbagai negeri lainnya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Beliau menegaskan bahwa kota Madinah memiliki keistimewaan luar biasa dalam membersihkan manusia dari kemunafikan dan keburukan akhlak.",
+     "latar": "masjid"
+    },
+    {
+     "narasi": "Sebagaimana ububan pandai besi yang membakar kotoran dan karat dari besi murni, demikianlah Madinah menyaring keimanan yang sejati dari jiwa para penduduknya.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "أُمِرْتُ بِقَرْيَةٍ تَأْكُلُ الْقُرَى يَقُولُونَ يَثْرِبُ وَهِيَ الْمَدِينَةُ تَنْفِي النَّاسَ كَمَا يَنْفِي الْكِيرُ خَبَثَ الْحَدِيدِ",
+    "terjemah": "Aku diperintahkan untuk berhijrah ke suatu negeri yang akan mengalahkan negeri-negeri lain, mereka menyebutnya Yatsrib, padahal ia adalah Madinah. Ia membersihkan manusia sebagaimana ububan pandai besi membersihkan kotoran besi.",
+    "sumber": "HR. Bukhari no. 1871",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Lingkungan yang berkah dan suci akan menyaring serta menjaga kemurnian iman seorang mukmin.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "keutamaan madinah",
+    "kesucian jiwa",
+    "hadits shahih"
+   ],
+   "id": "ep019-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "15:15",
+   "judul_hook": "Mengapa Quraisy Menghalangi Hijrah?",
+   "narasi_hook": "Mengapa para pembesar Quraisy begitu cemas saat melihat para sahabat Nabi berhijrah?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Kaum musyrikin Quraisy berusaha sekuat tenaga menghadang para sahabat agar tidak meninggalkan Makkah, bukan karena menyukai mereka, melainkan karena rasa takut.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Mereka menyadari bahwa Madinah dihuni oleh kabilah Aus dan Khazraj yang terkenal tangguh dan ahli berperang setelah puluhan tahun terlibat konflik.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Selain itu, letak Madinah sangat strategis dan memotong langsung jalur kafilah dagang Quraisy ke negeri Syam, mengancam urat nadi perekonomian mereka.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
+    "terjemah": "Dan (ingatlah), ketika orang-orang kafir memikirkan tipu daya terhadapmu (Muhammad) untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu. Mereka memikirkan tipu daya dan Allah menggagalkan tipu daya itu. Dan Allah sebaik-baik pembalas tipu daya.",
+    "sumber": "QS. Al-Anfal: 30",
+    "derajat_kata_ustadz": "",
+    "dari_video": false
+   },
+   "faedah": "Kebatilan selalu merasa terancam saat melihat persatuan orang-orang beriman yang kokoh.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "makar musyrikin",
+    "hijrah sahabat",
+    "sirah nabawiyah"
+   ],
+   "id": "ep019-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "19:44",
+   "judul_hook": "Ujian Berat Hijrah Ummu Salamah",
+   "narasi_hook": "Betapa berat pengorbanan sebuah keluarga demi mempertahankan keimanan saat perintah hijrah tiba?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Ketika Abu Salamah radhiyallahu 'anhu hendak berhijrah memboyong keluarganya, kaum musyrikin dari kerabat istrinya menghadang dan menahan Ummu Salamah radhiyallahu 'anha.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Kerabat Abu Salamah tidak terima lalu merebut paksa sang anak kecil, hingga keluarga kecil ini tercerai-berai ke tiga arah yang berbeda.",
+     "latar": "tenda"
+    },
+    {
+     "narasi": "Selama hampir setahun lamanya, Ummu Salamah setiap pagi duduk menangis di tanah lapang, meratapi perpisahan pahit dari suami dan buah hatinya.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "فَفُرِّقَ بَيْنِي وَبَيْنَ زَوْجِي وَبَيْنَ ابْنِي",
+    "terjemah": "Maka aku dipisahkan antara diriku, suamiku, dan anak kandungku.",
+    "sumber": "Sirah Ibnu Ishaq / Al-Mustadrak Al-Hakim no. 6808",
+    "derajat_kata_ustadz": "sanad hasan",
+    "dari_video": true
+   },
+   "faedah": "Keteguhan dalam menghadapi ujian perpisahan demi agama akan melahirkan pertolongan Allah yang indah.",
+   "latar_faedah": "langit",
+   "tema": [
+    "kesabaran",
+    "pengorbanan keluarga",
+    "ummu salamah"
+   ],
+   "id": "ep019-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "27:00",
+   "judul_hook": "Budi Mulia Utsman bin Thalhah",
+   "narasi_hook": "Bagaimana akhlak kesatria seorang Quraisy yang belum Muslim saat menolong wanita berhijrah?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Setelah diizinkan menyusul suaminya ke Madinah, Ummu Salamah radhiyallahu 'anha terpaksa menempuh perjalanan empat ratus lima puluh kilometer sendirian bersama bayinya.",
+     "latar": "gurun"
+    },
+    {
+     "narasi": "Di daerah Tan'im, beliau bertemu Utsman bin Thalhah radhiyallahu 'anhu yang saat itu masih musyrik, namun langsung menawarkan diri menuntun untanya hingga ke Madinah.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Sepanjang perjalanan berhari-hari, Utsman selalu memalingkan pandangan dan menjauh setiap kali singgah, memperlakukan Ummu Salamah dengan rasa hormat yang luar biasa.",
+     "latar": "kebun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "وَاللَّهِ مَا صَحِبْتُ رَجُلًا مِنَ الْعَرَبِ قَطُّ أَرَى أَنَّهُ كَانَ أَكْرَمَ مِنْهُ",
+    "terjemah": "Demi Allah, aku tidak pernah menemani seorang lelaki Arab mana pun yang kulihat lebih mulia budi pekertinya daripada dia.",
+    "sumber": "Sirah Ibnu Hisyam / Zadul Ma'ad",
+    "derajat_kata_ustadz": "hasan",
+    "dari_video": true
+   },
+   "faedah": "Menjaga adab dan kehormatan wanita adalah bukti akhlak mulia yang mengundang keberkahan hidup.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "adab dan akhlak",
+    "kehormatan wanita",
+    "kisah sahabat"
+   ],
+   "id": "ep019-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "35:55",
+   "judul_hook": "Rumah Kosong Ditinggal Hijrah",
+   "narasi_hook": "Apa yang dirasakan para musyrikin ketika melihat satu kampung ditinggal kosong penghuninya?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Demi menaati perintah Allah dan Rasul-Nya, seluruh keluarga besar Bani Jahsy berhijrah bersama-sama tanpa meninggalkan seorang pun di kota Makkah.",
+     "latar": "kafilah"
+    },
+    {
+     "narasi": "Mereka rela melepaskan tempat tinggal kelahiran mereka, perniagaan yang mapan, serta rumah-rumah indah yang telah lama mereka tempati.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Abu Jahal dan Utbah bin Rabi'ah tertegun menatap rumah-rumah Bani Jahsy yang sepi melompong, dengan pintu-pintu yang terbuka dan berderit tertiup angin padang pasir.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "أَصْبَحَتْ دَارُ بَنِي جَحْشٍ خَلَاءً مِنْ أَهْلِهَا",
+    "terjemah": "Rumah keluarga Bani Jahsy telah menjadi kosong melompong dari para penghuninya.",
+    "sumber": "Sirah Ibnu Hisyam / Tarikh Ath-Thabari",
+    "derajat_kata_ustadz": "riwayat para ulama sirah",
+    "dari_video": true
+   },
+   "faedah": "Keikhlasan meninggalkan kenyamanan dunia demi akidah adalah perniagaan terbaik di sisi Allah.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "pengorbanan",
+    "bani jahsy",
+    "hijrah sahabat"
+   ],
+   "id": "ep019-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "40:15",
+   "judul_hook": "Doa Qunut untuk Sahabat Tertindas",
+   "narasi_hook": "Bagaimana doa khusus Rasulullah ﷺ untuk menyelamatkan para sahabat yang disiksa di Makkah?",
+   "latar_hook": "masjid",
+   "adegan": [
+    {
+     "narasi": "Sahabat 'Ayyasy bin Abi Rabi'ah radhiyallahu 'anhu tertipu rayuan Abu Jahal yang mengarang cerita tentang penderitaan ibunya, hingga akhirnya 'Ayyasy diculik dan dipenjara.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Bersama para sahabat tertindas lainnya seperti Al-Walid dan Salamah, mereka disekap dan disiksa agar murtad dari agama Islam.",
+     "latar": "lentera"
+    },
+    {
+     "narasi": "Mendengar penderitaan mereka, Rasulullah ﷺ senantiasa memanjatkan doa qunut nazilah dalam shalat Shubuh di Madinah, menyebut nama mereka satu per satu agar Allah membebaskannya.",
+     "latar": "masjid"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "اللَّهُمَّ أَنْجِ عَيَّاشَ بْنَ أَبِي رَبِيعَةَ، اللَّهُمَّ أَنْجِ سَلَمَةَ بْنَ هِشَامٍ، اللَّهُمَّ أَنْجِ الْوَلِيدَ بْنَ الْوَلِيدِ، اللَّهُمَّ أَنْجِ الْمُسْتَضْعَفِينَ مِنَ الْمُؤْمِنِينَ",
+    "terjemah": "Ya Allah, selamatkanlah 'Ayyasy bin Abi Rabi'ah. Ya Allah, selamatkanlah Salamah bin Hisyam. Ya Allah, selamatkanlah Al-Walid bin Al-Walid. Ya Allah, selamatkanlah orang-orang yang lemah dari kaum mukminin.",
+    "sumber": "HR. Bukhari no. 1004 & Muslim no. 675",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Doa tulus seorang mukmin adalah senjata terkuat untuk menolong saudara yang tertindas.",
+   "latar_faedah": "langit",
+   "tema": [
+    "qunut nazilah",
+    "doa rasulullah",
+    "persaudaraan iman"
+   ],
+   "id": "ep019-08",
+   "status": "Belum"
+  }
+ ]
+}
