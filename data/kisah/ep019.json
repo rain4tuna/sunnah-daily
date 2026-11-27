@@ -308,11 +308,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
-    "terjemah": "Dan (ingatlah), ketika orang-orang kafir memikirkan tipu daya terhadapmu (Muhammad) untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu. Mereka memikirkan tipu daya dan Allah menggagalkan tipu daya itu. Dan Allah sebaik-baik pembalas tipu daya.",
+    "arab": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
+    "terjemah": "(Ingatlah) ketika orang-orang yang kufur merencanakan tipu daya terhadapmu (Nabi Muhammad) untuk menahan, membunuh, atau mengusirmu. Mereka membuat tipu daya dan Allah menggagalkannya. Allah adalah sebaik-baik pembalas tipu daya.",
     "sumber": "QS. Al-Anfal: 30",
-    "derajat_kata_ustadz": "",
-    "dari_video": false
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/8?from=30&to=30"
    },
    "faedah": "Kebatilan selalu merasa terancam saat melihat persatuan orang-orang beriman yang kokoh.",
    "latar_faedah": "kitab",
@@ -322,7 +323,90 @@
     "sirah nabawiyah"
    ],
    "id": "ep019-04",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa para pembesar Quraisy begitu cemas saat sahabat Nabi ﷺ mulai berhijrah?",
+     "ikon": [
+      "kabah"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "city",
+      "desert",
+      "moon"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Kaum musyrikin menghadang langkah mereka bukan karena cinta, melainkan karena diliputi rasa takut.",
+      "label": "Rasa takut kaum musyrikin",
+      "ikon": [
+       "hati"
+      ],
+      "ilustrasi": "badai",
+      "tokoh": "takut",
+      "stiker": [
+       "storm",
+       "cloud",
+       "wind"
+      ]
+     },
+     {
+      "narasi": "Mereka cemas melihat penduduk Madinah yang tangguh dan sangat ahli dalam pertempuran.",
+      "label": "Ketangguhan penduduk Madinah",
+      "ikon": [
+       "gunung"
+      ],
+      "ilustrasi": "majelis",
+      "stiker": [
+       "mountain",
+       "tent",
+       "stone"
+      ]
+     },
+     {
+      "narasi": "Letak Madinah juga memotong jalur kafilah dagang Quraisy, mengancam urat nadi perekonomian mereka.",
+      "label": "Jalur dagang terancam",
+      "ikon": [
+       "koin"
+      ],
+      "ilustrasi": "kafilah",
+      "tokoh": "panik",
+      "stiker": [
+       "coins",
+       "path",
+       "desert"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Kebatilan akan selalu merasa terancam saat melihat persatuan orang-orang beriman yang kokoh.",
+     "ikon": [
+      "cahaya"
+     ],
+     "ilustrasi": "fajar",
+     "stiker": [
+      "light",
+      "sun",
+      "dawn"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini untuk renungan",
+     "narasi": "Simpan video ini untuk renungan. Ketakutan kaum Quraisy lahir dari persatuan kebenaran. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgQVQKeBThr/",
+   "fb": "https://www.facebook.com/reel/1065830129855262",
+   "yt": "https://youtube.com/shorts/xxklwqKva0s",
+   "waktu_posting": "2026-11-27T18:33:57"
   },
   {
    "menit": "19:44",

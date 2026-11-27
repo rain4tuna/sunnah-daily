@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 161 video. Waktu dalam WIB, terbaru di atas.
+Total: 162 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 28 Nov 2026 01.33 | ep019-04 | Mengapa Quraisy Menghalangi Hijrah? | QS. Al-Anfal: 30 | [IG](https://www.instagram.com/reel/DgQVQKeBThr/) · [YouTube](https://youtube.com/shorts/xxklwqKva0s) · [FB](https://www.facebook.com/reel/1065830129855262) |
 | 27 Nov 2026 21.23 | ep019-03 | Madinah Membersihkan Jiwa Manusia | HR. Bukhari no. 1871 (shahih) | [IG](https://www.instagram.com/reel/DgP4o6SxbiH/) · [YouTube](https://youtube.com/shorts/nwWhtI2YEjU) · [FB](https://www.facebook.com/reel/1823463935603132) |
 | 27 Nov 2026 18.57 | h040 | Kaki Mana Duluan Pakai Sandal? | HR. Al-Bukhari no. 5856, Muslim no. 2097 (shahih) | [IG](https://www.instagram.com/reel/DgPn8e7BtVj/) · [YouTube](https://youtube.com/shorts/SYxUdm8Lp9U) · [FB](https://www.facebook.com/reel/1217853921193562) |
 | 27 Nov 2026 15.50 | ep019-02 | Wahyu Hijrah Lewat Mimpi Nabi | HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/DgPSfqEz39K/) · [YouTube](https://youtube.com/shorts/qq7Aox8GAnU) · [FB](https://www.facebook.com/reel/1143490658603756) |
