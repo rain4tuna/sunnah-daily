@@ -4278,7 +4278,7 @@
    ],
    "id": "h038",
    "topik": "Menutup bejana dan pintu di malam hari",
-   "status": "Belum",
+   "status": "Diposting",
    "cek": {
     "kisah_lemah": false,
     "catatan": "Perintah menyebut nama Allah: HR. Bukhari no. 3280 (shahih).",
@@ -4286,7 +4286,84 @@
      "manual"
     ]
    },
-   "layak": true
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Ternyata ada kebiasaan sederhana sebelum tidur yang bisa melindungi rumahmu dari gangguan setan.",
+     "ikon": [
+      "rumah"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "house",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ mengajarkan kita menutup bejana, mengikat wadah air, mengunci pintu, serta memadamkan lampu.",
+      "label": "Adab Rasulullah ﷺ Sebelum Tidur",
+      "ikon": [
+       "lentera",
+       "gelas"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "lantern",
+       "cup",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Sebab, setan tidak mampu menyingkap bejana yang tertutup, membuka wadah terikat, ataupun membuka pintu rumah.",
+      "label": "Setan Tak Mampu Membukanya",
+      "ikon": [
+       "kunci",
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "lock",
+       "door",
+       "night"
+      ]
+     },
+     {
+      "narasi": "Dalam riwayat Bukhari, beliau ﷺ juga memerintahkan untuk menyebut nama Allah setiap kali melakukannya.",
+      "label": "Sebut Nama Allah",
+      "ikon": [
+       "kitab",
+       "hati"
+      ],
+      "ilustrasi": "belajar_ilmu",
+      "stiker": [
+       "book",
+       "heart"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Malam ini, tutuplah wadah makananmu dan kuncilah pintu sambil membaca bismillah.",
+     "ikon": [
+      "piring"
+     ],
+     "ilustrasi": "hidangan",
+     "tokoh": "berdiri",
+     "stiker": [
+      "plate",
+      "key",
+      "food"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang.",
+     "narasi": "Simpan video ini sekarang. Lindungi rumahmu setiap malam dengan sunnah sederhana ini. Ikuti Sunnah Daily untuk sunnah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgOz1V5B4I6/",
+   "fb": "https://www.facebook.com/reel/1094737503601831",
+   "yt": "https://youtube.com/shorts/jOSzyRm5v30",
+   "waktu_posting": "2026-11-27T04:22:38"
   },
   {
    "judul_hook": "Kuku Panjang, Fitrah yang Terlupa?",

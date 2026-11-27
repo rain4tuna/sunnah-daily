@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 156 video. Waktu dalam WIB, terbaru di atas.
+Total: 157 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 27 Nov 2026 11.22 | h038 | Rutinitas Malam yang Menghalau Setan | HR. Muslim no. 2012 (shahih) | [IG](https://www.instagram.com/reel/DgOz1V5B4I6/) · [YouTube](https://youtube.com/shorts/jOSzyRm5v30) · [FB](https://www.facebook.com/reel/1094737503601831) |
 | 27 Nov 2026 05.29 | ep018-08 | Janji Membela Nabi Berbalas Surga | HR. Ahmad no. 14456 dari Jabir bin Abdillah (juga Ibnu Hibban, Al-Hakim) (shahih) | [IG](https://www.instagram.com/reel/DgOLccKC7AZ/) · [YouTube](https://youtube.com/shorts/Qms1aVZZjYk) · [FB](https://www.facebook.com/reel/3500162163477666) |
 | 27 Nov 2026 03.41 | ep018-07 | Mengapa Kaum Anshar Mudah Beriman? | HR. Al-Bukhari no. 4388, Muslim no. 52 (shahih) | [IG](https://www.instagram.com/reel/DgN_GZ-PHx_/) · [YouTube](https://youtube.com/shorts/cGWPTssynrE) · [FB](https://www.facebook.com/reel/1160530433046605) |
 | 27 Nov 2026 01.44 | ep018-06 | Enam Tahun Islam Menggetarkan Arsy | HR. Al-Bukhari no. 3803, Muslim no. 2466 (lafaz Muslim) (shahih) | [IG](https://www.instagram.com/reel/DgNxp7PhZ3C/) · [YouTube](https://youtube.com/shorts/q-Ifiv_R4Nw) · [FB](https://www.facebook.com/reel/4094850147485205) |
