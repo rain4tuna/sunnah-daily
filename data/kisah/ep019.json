@@ -185,11 +185,12 @@
    ],
    "dalil": {
     "jenis": "hadits",
-    "arab": "أُمِرْتُ بِقَرْيَةٍ تَأْكُلُ الْقُرَى يَقُولُونَ يَثْرِبُ وَهِيَ الْمَدِينَةُ تَنْفِي النَّاسَ كَمَا يَنْفِي الْكِيرُ خَبَثَ الْحَدِيدِ",
-    "terjemah": "Aku diperintahkan untuk berhijrah ke suatu negeri yang akan mengalahkan negeri-negeri lain, mereka menyebutnya Yatsrib, padahal ia adalah Madinah. Ia membersihkan manusia sebagaimana ububan pandai besi membersihkan kotoran besi.",
+    "arab": "أُمِرْتُ بِقَرْيَةٍ تَأْكُلُ الْقُرَى، يَقُولُونَ يَثْرِبُ، وَهِيَ الْمَدِينَةُ، تَنْفِي النَّاسَ كَمَا يَنْفِي الْكِيرُ خَبَثَ الْحَدِيدِ",
+    "terjemah": "Aku diperintahkan (berhijrah) ke suatu negeri yang akan menundukkan negeri-negeri lain, mereka menyebutnya Yatsrib padahal ia adalah Al-Madinah. Negeri itu membersihkan manusia (yang buruk) sebagaimana ububan pandai besi membersihkan kotoran/karat besi.",
     "sumber": "HR. Bukhari no. 1871",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "derajat": "shahih",
+    "penilai": "Bukhari",
+    "rujukan": "https://sunnah.com/bukhari:1871"
    },
    "faedah": "Lingkungan yang berkah dan suci akan menyaring serta menjaga kemurnian iman seorang mukmin.",
    "latar_faedah": "kitab",
@@ -199,7 +200,92 @@
     "hadits shahih"
    ],
    "id": "ep019-03",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa kota Madinah dipilih sebagai tempat suci yang menyaring jiwa manusia beriman?",
+     "ikon": [
+      "masjid"
+     ],
+     "ilustrasi": "kota_malam",
+     "stiker": [
+      "city",
+      "mosque",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Rasulullah ﷺ mengabarkan bahwa Madinah adalah kota mulia yang menaungi negeri-negeri lainnya.",
+      "label": "Kota Mulia yang Menaungi",
+      "ikon": [
+       "masjid",
+       "cahaya"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "city",
+       "light",
+       "sun"
+      ]
+     },
+     {
+      "narasi": "Kota suci ini memiliki keistimewaan membersihkan manusia dari kemunafikan dan keburukan akhlak.",
+      "label": "Membersihkan Jiwa dan Akhlak",
+      "ikon": [
+       "hati",
+       "tetes_air"
+      ],
+      "ilustrasi": "hati",
+      "stiker": [
+       "heart",
+       "water",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Bagaikan ububan pandai besi menyaring karat, Madinah memurnikan keimanan sejati jiwa penduduknya.",
+      "label": "Menyaring Keimanan Sejati",
+      "ikon": [
+       "timbangan",
+       "cahaya"
+      ],
+      "ilustrasi": "taman_berkah",
+      "stiker": [
+       "iron",
+       "fire",
+       "garden"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Lingkungan yang berkah dan suci akan menyaring serta menjaga kemurnian iman kita.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "belajar_ilmu",
+     "tokoh": "berdoa",
+     "stiker": [
+      "book",
+      "lantern",
+      "faith"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini untuk direnungkan",
+     "narasi": "Simpan video ini untuk direnungkan. Keberkahan Madinah selalu membersihkan jiwa yang beriman. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgP4o6SxbiH/",
+   "fb": "https://www.facebook.com/reel/1823463935603132",
+   "yt": "https://youtube.com/shorts/nwWhtI2YEjU",
+   "waktu_posting": "2026-11-27T14:23:55"
   },
   {
    "menit": "15:15",
