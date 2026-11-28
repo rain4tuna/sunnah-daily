@@ -790,10 +790,11 @@
    "dalil": {
     "jenis": "hadits",
     "arab": "اللَّهُمَّ أَنْجِ عَيَّاشَ بْنَ أَبِي رَبِيعَةَ، اللَّهُمَّ أَنْجِ سَلَمَةَ بْنَ هِشَامٍ، اللَّهُمَّ أَنْجِ الْوَلِيدَ بْنَ الْوَلِيدِ، اللَّهُمَّ أَنْجِ الْمُسْتَضْعَفِينَ مِنَ الْمُؤْمِنِينَ",
-    "terjemah": "Ya Allah, selamatkanlah 'Ayyasy bin Abi Rabi'ah. Ya Allah, selamatkanlah Salamah bin Hisyam. Ya Allah, selamatkanlah Al-Walid bin Al-Walid. Ya Allah, selamatkanlah orang-orang yang lemah dari kaum mukminin.",
-    "sumber": "HR. Bukhari no. 1004 & Muslim no. 675",
-    "derajat_kata_ustadz": "shahih",
-    "dari_video": true
+    "terjemah": "Ya Allah, selamatkanlah 'Ayyasy bin Abi Rabi'ah. Ya Allah, selamatkanlah Salamah bin Hisyam. Ya Allah, selamatkanlah Al-Walid bin Al-Walid. Ya Allah, selamatkanlah orang-orang yang tertindas dari kaum mukminin.",
+    "sumber": "HR. Bukhari no. 1006 & Muslim no. 675",
+    "derajat": "shahih",
+    "penilai": "Imam Bukhari & Imam Muslim",
+    "rujukan": "https://sunnah.com/bukhari:1006"
    },
    "faedah": "Doa tulus seorang mukmin adalah senjata terkuat untuk menolong saudara yang tertindas.",
    "latar_faedah": "langit",
@@ -803,7 +804,104 @@
     "persaudaraan iman"
    ],
    "id": "ep019-08",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "",
+    "sumber_cek": []
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Bagaimana cara Rasulullah ﷺ menolong para sahabat yang disekap dan disiksa di Makkah?",
+     "ikon": [
+      "lentera"
+     ],
+     "ilustrasi": "doa_malam",
+     "stiker": [
+      "lantern",
+      "prayer mat",
+      "night sky"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Sahabat 'Ayyasy tertipu tipu daya Abu Jahal hingga akhirnya diculik dan dipenjara.",
+      "label": "'Ayyasy Diculik dan Dipenjara",
+      "ikon": [
+       "pintu",
+       "kunci"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "prison door",
+       "iron key",
+       "rope"
+      ]
+     },
+     {
+      "narasi": "Bersama Al-Walid dan Salamah, mereka disekap serta disiksa agar murtad dari Islam.",
+      "label": "Ujian Berat Sahabat Tertindas",
+      "ikon": [
+       "awan_hujan"
+      ],
+      "ilustrasi": "badai",
+      "stiker": [
+       "storm",
+       "dark clouds",
+       "chains"
+      ]
+     },
+     {
+      "narasi": "Mendengar penderitaan ini, Rasulullah ﷺ memanjatkan qunut nazilah dalam shalat Shubuh di Madinah.",
+      "label": "Qunut Nazilah Shalat Shubuh",
+      "ikon": [
+       "masjid",
+       "cahaya"
+      ],
+      "ilustrasi": "waktu_subuh",
+      "stiker": [
+       "mosque",
+       "sunrise",
+       "minaret"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ menyebut nama mereka satu per satu, memohon agar Allah segera membebaskannya.",
+      "label": "Doa Khusus Memohon Pembebasan",
+      "ikon": [
+       "sajadah",
+       "hati"
+      ],
+      "ilustrasi": "fajar",
+      "stiker": [
+       "prayer mat",
+       "dawn",
+       "sunlight"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Doa tulus kita adalah pertolongan terkuat bagi saudara yang sedang tertindas.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light",
+      "shield"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video penuh hikmah ini",
+     "narasi": "Simpan video penuh hikmah ini. Selipkan doa tulus untuk saudara kita yang tertindas. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgR3YArh50x/",
+   "fb": "https://www.facebook.com/reel/2446665352825789",
+   "yt": "https://youtube.com/shorts/DyfLlCRuKSA",
+   "waktu_posting": "2026-11-28T08:51:29"
   }
  ]
 }

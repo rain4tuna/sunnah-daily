@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 165 video. Waktu dalam WIB, terbaru di atas.
+Total: 166 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 28 Nov 2026 15.51 | ep019-08 | Doa Qunut untuk Sahabat Tertindas | HR. Bukhari no. 1006 & Muslim no. 675 (shahih) | [IG](https://www.instagram.com/reel/DgR3YArh50x/) · [YouTube](https://youtube.com/shorts/DyfLlCRuKSA) · [FB](https://www.facebook.com/reel/2446665352825789) |
 | 28 Nov 2026 11.04 | ep019-07 | Rumah Kosong Ditinggal Hijrah | Sirah Ibnu Hisyam (1/471), Tarikh Ath-Thabari (2/365) (lemah) | [IG](https://www.instagram.com/reel/DgRWiV3C8Uh/) · [YouTube](https://youtube.com/shorts/Svz9x3ouj6M) · [FB](https://www.facebook.com/reel/2498755130615563) |
 | 28 Nov 2026 05.28 | ep019-06 | Budi Mulia Utsman bin Thalhah | Sirah Ibnu Hisyam (1/469); Tarikh Ath-Thabari (2/90) (shahih) | [IG](https://www.instagram.com/reel/DgQwI9rBcWU/) · [YouTube](https://youtube.com/shorts/SwsGLn3R4lU) · [FB](https://www.facebook.com/reel/988084357282618) |
 | 28 Nov 2026 03.27 | ep019-05 | Ujian Berat Hijrah Ummu Salamah | Al-Hakim dalam Al-Mustadrak no. 6808; Ibnu Hisyam dalam As-Sirah An-Nabawiyyah (1/468) (hasan) | [IG](https://www.instagram.com/reel/DgQiTuMhEEN/) · [YouTube](https://youtube.com/shorts/hWohLBuZD80) · [FB](https://www.facebook.com/reel/1606668224552337) |
