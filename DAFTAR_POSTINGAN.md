@@ -1,9 +1,10 @@
 # Daftar Postingan Sunnah Daily
 
-Total: 167 video. Waktu dalam WIB, terbaru di atas.
+Total: 168 video. Waktu dalam WIB, terbaru di atas.
 
 | Tayang | ID | Judul | Dalil | Link |
 |---|---|---|---|---|
+| 28 Nov 2026 21.23 | ep020-02 | Pemuda yang Menantang Pedang Terhunus | QS. Al-Anfal: 30 | [IG](https://www.instagram.com/reel/DgSdY68onhY/) · [YouTube](https://youtube.com/shorts/woq6sBeC-S8) · [FB](https://www.facebook.com/reel/1731905021792124) |
 | 28 Nov 2026 20.54 | ep020-01 | Tangisan Bahagia Menemani Nabi Berhijrah | Sirah Ibnu Hisyam (1/485) & Musnad Ishaq bin Rahawayh (no. 1279); asalnya dalam HR. Bukhari no. 3905 (shahih) | [IG](https://www.instagram.com/reel/DgSaBSJBpf0/) · [YouTube](https://youtube.com/shorts/0jDiV93l11Y) · [FB](https://www.facebook.com/reel/1688013106293543) |
 | 28 Nov 2026 15.51 | ep019-08 | Doa Qunut untuk Sahabat Tertindas | HR. Bukhari no. 1006 & Muslim no. 675 (shahih) | [IG](https://www.instagram.com/reel/DgR3YArh50x/) · [YouTube](https://youtube.com/shorts/DyfLlCRuKSA) · [FB](https://www.facebook.com/reel/2446665352825789) |
 | 28 Nov 2026 11.04 | ep019-07 | Rumah Kosong Ditinggal Hijrah | Sirah Ibnu Hisyam (1/471), Tarikh Ath-Thabari (2/365) (lemah) | [IG](https://www.instagram.com/reel/DgRWiV3C8Uh/) · [YouTube](https://youtube.com/shorts/Svz9x3ouj6M) · [FB](https://www.facebook.com/reel/2498755130615563) |

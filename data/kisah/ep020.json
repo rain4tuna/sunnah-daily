@@ -140,11 +140,12 @@
    ],
    "dalil": {
     "jenis": "ayat",
-    "arab": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ",
-    "terjemah": "Dan (ingatlah), ketika orang-orang kafir memikirkan tipu daya terhadapmu untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu.",
+    "arab": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ ۚ وَيَمْكُرُونَ وَيَمْكُرُ اللَّهُ ۖ وَاللَّهُ خَيْرُ الْمَاكِرِينَ",
+    "terjemah": "Dan (ingatlah), ketika orang-orang kafir memikirkan tipu daya terhadapmu (Muhammad) untuk menangkap dan memenjarakanmu, membunuhmu, atau mengusirmu. Mereka membuat tipu daya dan Allah menggagalkan tipu daya itu. Allah adalah sebaik-baik pembalas tipu daya.",
     "sumber": "QS. Al-Anfal: 30",
-    "derajat_kata_ustadz": "",
-    "dari_video": true
+    "derajat": "ayat",
+    "penilai": "",
+    "rujukan": "https://quran.kemenag.go.id/quran/per-ayat/surah/8?from=30&to=30"
    },
    "faedah": "Pengorbanan membela dakwah menuntut keberanian jiwa dan kepasrahan mutlak kepada kehendak Allah.",
    "latar_faedah": "langit",
@@ -154,7 +155,95 @@
     "keberanian"
    ],
    "id": "ep020-02",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Peristiwa Ali bin Abi Thalib radhiyallahu 'anhu tidur di ranjang Nabi ﷺ berselimutkan burdah hijau Hadhrami adalah kisah masyhur dalam sirah nabawiyah (HR. Ahmad no. 3062; Sirah Ibnu Hisyam). Catatan penting: saat memerintahkan Ali, Nabi ﷺ telah menenangkannya dengan jaminan wahyu: 'Tidurlah di ranjangku dan berselimutlah... sesungguhnya tidak akan ada marabahaya yang menimpamu dari mereka' (فَإِنَّهُ لَنْ يَخْلُصَ إِلَيْكَ شَيْءٌ تَكْرَهُهُ مِنْهُمْ). Jadi selain keberanian dan kepatuhan Ali, ada unsur ketenangan atas janji keselamatan dari Rasulullah ﷺ.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6yaMozXO7ktSgwvyF-dG6mSie8-hVlPeIWcich1CaVSsFdTV1xwcIO33gAa2SThoKFsb9ONQSAUhMn3R_C_VU0QyVydOLcqudgTXPmoQgMQ2U3T5aq4cA_ptI9ArqGxU34OWsKTu_zG_EaLG4vrLBZdwl-W7UpALSlNwzeu-zQKfAdahAHzHvrG4056xPBxwVkqsiklgnEyFxEBXK0L9em_1netgfOJ8cARsAIRz0RqU-P-7Y6LrJa4T-WUhb3G2ofItdYb85n25ZcbfYsRnMdVzQlRTu9_kARmdbP9d31bm1D6MhXOW5RLQ6Z_vUip97bw3LQOQodv1sTHtl4OuYUrEKwADXPnz_4MyB5JFcOF9203Fpq2BOoDu5yx2RidHmfxWgH8xwRU6jQmn3jX-0mjU9gGFNBW32Sw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBgH3RmlECYAqdYVe4VI6UlLFyAO3IZnFirlaKKA46D-RxD09ufa1r-eXDS6QcJnBNlrEMu2XfJljUovKZSBJPfeAOvQ09APjLDvFFH9kjQBKF-jmUSs53RH1NiX0=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG6yaMozXO7ktSgwvyF-dG6mSie8-hVlPeIWcich1CaVSsFdTV1xwcIO33gAa2SThoKFsb9ONQSAUhMn3R_C_VU0QyVydOLcqudgTXPmoQgMQ2U3T5aq4cA_ptI9ArqGxU34OWsKTu_zG_EaLG4vrLBZdwl-W7UpALSlNwzeu-zQKfAdahAHzHvrG4056xPBxwVkqsiklgnEyFxEBXK0L9em_1netgfOJ8cARsAIRz0RqU-P-7Y6LrJa4T-WUhb3G2ofItdYb85n25ZcbfYsRnMdVzQlRTu9_kARmdbP9d31bm1D6MhXOW5RLQ6Z_vUip97bw3LQOQodv1sTHtl4OuYUrEKwADXPnz_4MyB5JFcOF9203Fpq2BOoDu5yx2RidHmfxWgH8xwRU6jQmn3jX-0mjU9gGFNBW32Sw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFM910dQi-ThC5jv2iKLqF36IVlo2JMAHkT3VH1VWTTtXhGwecMfj0IX8dxXZLLHGBQ_qK1Zp6e0MSfVO3KFODbwmwab8zD2pP2uPvJS3phBTMFo2WdyfSVo4MpgalrIV8s-sZdkNlBQ8vr6DQz17SOX49Ddi0msIcKU-pc5oeMKBv2kzVx2NQMaaVg6I2UrReDcSA0RrmZnJ2s575TPkIBxRQUCypgHBpNBUuauNV4VrP6zjHoEoa9h4Hw5zSCEYHhcVKdkDGfiWFvW-t1omUVTRke2z9Yanaf8dZwDgA1YqEAYjRQDwSY1F01mdT49aS6pXgA8n1ugdvvtzzcFcipUR8D2MWycV4x9AV96BghPN8aeIO2G6iUmHiDW3_4WkLYo5ksAYvvKQ-TT1ld6w3MO7H_9ovHnMHJY0nos7ndPltrkErlZDgyTv0aTEVkI07hmKW6KKnn47E6UfN2GX1Akz1GHQM793eb5qnGZVMrZ-N0nDEMuU6NY-aaeg8YHsHo"
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Sanggupkah kita tidur nyenyak di atas ranjang yang terkepung pedang maut?",
+     "ikon": [
+      "bulan_bintang"
+     ],
+     "ilustrasi": "badai",
+     "tokoh": "takut",
+     "stiker": [
+      "bed",
+      "sword",
+      "night"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Malam itu, para pemuda pilihan Quraisy mengepung rapat kediaman Rasulullah ﷺ dengan pedang terhunus, siap menebas bersama.",
+      "label": "Kepungan Maut Pemuda Quraisy",
+      "ikon": [
+       "rumah"
+      ],
+      "ilustrasi": "kota_malam",
+      "tokoh": "berdiri",
+      "stiker": [
+       "house",
+       "sword",
+       "night"
+      ]
+     },
+     {
+      "narasi": "Nabi ﷺ memerintahkan Ali bin Abi Thalib radhiyallahu 'anhu untuk berbaring di tempat tidur beliau dan mengenakan selimut hijau miliknya.",
+      "label": "Perintah Menggantikan di Ranjang",
+      "ikon": [
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "bed",
+       "blanket",
+       "door"
+      ]
+     },
+     {
+      "narasi": "Dengan keteguhan iman, Ali merelakan nyawanya menjadi tameng, membuat para pengepung mengira Nabi ﷺ masih tertidur lelap.",
+      "label": "Keteguhan Pengorbanan Jiwa",
+      "ikon": [
+       "hati",
+       "cahaya"
+      ],
+      "ilustrasi": "lentera",
+      "stiker": [
+       "bed",
+       "sword",
+       "light"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Pengorbanan membela dakwah menuntut keberanian jiwa dan kepasrahan mutlak kepada kehendak Allah.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "doa_malam",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sekarang",
+     "narasi": "Simpan video ini sekarang. Keberanian sejati lahir dari kepasrahan iman. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgSdY68onhY/",
+   "fb": "https://www.facebook.com/reel/1731905021792124",
+   "yt": "https://youtube.com/shorts/woq6sBeC-S8",
+   "waktu_posting": "2026-11-28T14:23:29"
   },
   {
    "menit": "12:15",
