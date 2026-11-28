@@ -1,0 +1,38 @@
+Seri: sirah
+Kisah ep020-02: Pemuda yang Menantang Pedang Terhunus
+   Google Search: 8 kueri, 4 sitasi
+   template: motion_kaya (SunnahMotion) — badai+takut, kota_malam, pintu, lentera, doa_malam
+   babak: hook, poin, poin, poin, dalil, faedah, penutup
+   TTS 1/7
+   TTS 2/7
+   TTS 3/7
+   TTS 4/7
+   TTS 5/7
+   TTS 6/7
+   TTS 7/7
+   SFX: 29 efek dipasang
+   Remotion 300/2348 frame
+   Remotion 600/2348 frame
+   Remotion 900/2348 frame
+   Remotion 1200/2348 frame
+   Remotion 1500/2348 frame
+   Remotion 1800/2348 frame
+   Remotion 2100/2348 frame
+   Remotion 2348/2348 frame
+Video 78.2 detik -> hasil/ep020-02.mp4
+   percobaan 1: curl HTTP 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}
+   percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+   upload langsung gagal, coba lewat URL: upload gagal: percobaan 1: curl HTTP 400 {"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}} | percobaan 2: HTTP 400 b'{"debug_info":{"retriable":false,"type":"ProcessingFailedError","message":"Request processing failed"}}'
+Diposting ke IG: https://www.instagram.com/reel/DgSdY68onhY/
+Diposting ke Facebook: https://www.facebook.com/reel/1731905021792124
+Diposting ke YouTube: https://youtube.com/shorts/woq6sBeC-S8
+
+Simpan video ini sekarang. Pemuda yang Menantang Pedang Terhunus
+
+Inti faedah: Pengorbanan membela dakwah menuntut keberanian jiwa dan kepasrahan mutlak kepada kehendak Allah.
+
+Dalil: "Dan (ingatlah), ketika orang-orang kafir memikirkan tipu daya terhadapmu (Muhammad) untuk menangkap dan memenjarakanmu, membunuhmu, atau mengusirmu. Mereka membuat tipu daya dan Allah menggagalkan tipu daya itu. Allah adalah sebaik-baik pembalas tipu daya." (QS. Al-Anfal: 30)
+
+Disarikan dari kajian Sirah Nabawiyah Bagian 20 - Peristiwa Hijrahnya Rasulullah bersama Ust. Dr. Firanda Andirja, M.A.. Topik: sirah nabawiyah, kisah Rasulullah ﷺ, pengorbanan, Ali bin Abi Thalib, keberanian.
+
+#sunnahdaily #sirahnabawiyah #kisahnabi #pengorbanan #alibinabithalib
