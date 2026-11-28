@@ -667,10 +667,11 @@
    "dalil": {
     "jenis": "atsar",
     "arab": "أَصْبَحَتْ دَارُ بَنِي جَحْشٍ خَلَاءً مِنْ أَهْلِهَا",
-    "terjemah": "Rumah keluarga Bani Jahsy telah menjadi kosong melompong dari para penghuninya.",
-    "sumber": "Sirah Ibnu Hisyam / Tarikh Ath-Thabari",
-    "derajat_kata_ustadz": "riwayat para ulama sirah",
-    "dari_video": true
+    "terjemah": "Rumah keluarga Bani Jahsy telah menjadi kosong dari para penghuninya.",
+    "sumber": "Sirah Ibnu Hisyam (1/471), Tarikh Ath-Thabari (2/365)",
+    "derajat": "lemah",
+    "penilai": "Sanadnya munqathi' (riwayat Muhammad bin Ishaq secara balagh/tanpa sanad bersambung)",
+    "rujukan": "https://www.islamweb.net/ar/library/content/58/471/ذكر-المهاجرين-إلى-المدينة"
    },
    "faedah": "Keikhlasan meninggalkan kenyamanan dunia demi akidah adalah perniagaan terbaik di sisi Allah.",
    "latar_faedah": "kitab",
@@ -680,7 +681,92 @@
     "hijrah sahabat"
    ],
    "id": "ep019-07",
-   "status": "Belum"
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Peristiwa hijrahnya seluruh keluarga besar Bani Jahsy (Bani Ghanam bin Dudan) secara serentak hingga mengosongkan tempat tinggal mereka di Makkah adalah fakta sejarah yang disepakati para pakar sirah dan tarikh. Adapun dialog khusus dan momen Abu Jahal serta Utbah bin Rabi'ah tertegun menatap rumah tersebut bersumber dari riwayat Ibnu Ishaq dengan sanad terputus (munqathi'), namun tetap masyhur dan lazim dikutip para ulama dalam bab tarikh/sirah nabawiyyah.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHIUkthW-MqLlXIICqK2tpyxIsQJPm7wPzGzUAwyeZUhipNScvNerTjgbbUxTzd8Pz7JnRjG9PXprkJIXol2lj-KepDSEZYcVL4Wv-HFme5q0YMnsbpcWNB6ll9Hyg5Oz5u8p0fgou7yw8-sAapwkZn91NZwOe-AMjlWk61eS5-dn28QxM2MpA30jszPwclUb5pEfSGmbVFx8tOdVCntm_nz0_IUMREWO2NIMYGnQRJAMud-j8l_fcfH-hK-E5aNzYVtla82S5rPzamVUjXXyFBKaKvpC_b_OX62bRzGuxi9wJF-riLHY_gjQouIopwNjgilcQU3t7TOSZDIKR4SiatK8QOCWz43rVUEul3CZ02GeT7Mo-0mzGLP8kRbuJDAteKzodJqNjktgXhK3JTe-Zjg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKVYvDqsU47yoP9cJaC4sOfTgDqnWEolE5LwzHkV-abPoIYIGuTp8yrHyiDryjAORx0ea7F4S6knx8DmlwS1wPe2dypxjP5Bc2sBGTdt6AcDMoS30F3RHmCEjDhGXEdGBnHjWeEzdxhdU2foPF7P-AgcPLGOMFE7F0FE6PwCvhedtx8Q==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWNVGmci2iWNjp5dYZnVVJ09moBVrYQt_59djfXAlA9CatWD1XGxRFOmgpo41a2hWQls7c7qaFIhGapO6eL1SXtioCMQrfJGwQDBMAFuAJFssROm6ZJ_Mkck6189SFPs8GvNV_u2u6Il3-EBG0BrYipgcjFdRK6B5-g759Jt0JBXjlrlRxYk3zref6Fn8_Ac4fsTvvLIaMkSsLOiZlf8_yK4owzeooPp-pFNpPEQKmZi7aGJNeMdvXTA2doVvzxB16SyJuX41WxhaHSxQYFWZfpTAqR9gggnth7DoVfq-DCJGRDHcPw8nBMkx0gsDEsBHbRx8W7b_l7HspZgvo8s_aKtFpNWjQD66SHMgkhrXWlUGmKDJlvLsKm77vzQ==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtA6Rz5VtMhtzqOw0bXxBmTWJqpHcbTNJ9b7mxYrThScG4mBNNc98w8bb8mBpyUS-_aRZG8nP0HMWhhE0zcGH0iKIXJg9VVmAG9xS4WuKfssjsmF6KZQ==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZlNa35xgcvyJoDkVpkLfpjZfKBBI9VE2y9SwO1vlYPCDp3fL_NiVyd4npe_HhypH3C3t9RnOHqGDRFmPAlNTJx5S-GEBAdHigCm0P2WR5ncNxv4i6Hz8YWQViIk3riree4_AnSJpbIWUkEOkP8u_qCyOQSBkTPQ=="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Apa yang dirasakan kaum musyrikin saat melihat satu perkampungan mendadak kosong melompong?",
+     "ikon": [
+      "rumah"
+     ],
+     "ilustrasi": "kota_malam",
+     "tokoh": "berdiri",
+     "stiker": [
+      "house",
+      "desert"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Demi menaati perintah Allah dan Rasul-Nya ﷺ, seluruh keluarga besar Bani Jahsy berhijrah tanpa tersisa seorang pun.",
+      "label": "Hijrah Seluruh Keluarga",
+      "ikon": [
+       "jejak"
+      ],
+      "ilustrasi": "hijrah_perjalanan",
+      "stiker": [
+       "footprint",
+       "sand"
+      ]
+     },
+     {
+      "narasi": "Mereka rela meninggalkan tanah kelahiran, perniagaan yang mapan, serta rumah-rumah indah yang telah lama ditinggali.",
+      "label": "Melepas Kemapanan Dunia",
+      "ikon": [
+       "koin",
+       "rumah"
+      ],
+      "ilustrasi": "sedekah",
+      "stiker": [
+       "coins",
+       "house"
+      ]
+     },
+     {
+      "narasi": "Abu Jahal dan Utbah bin Rabi'ah pun tertegun menatap pintu-pintu yang terbuka dan berderit tertiup angin padang pasir.",
+      "label": "Tercengang Menatap Rumah Kosong",
+      "ikon": [
+       "pintu"
+      ],
+      "ilustrasi": "pintu",
+      "tokoh": "berdiri",
+      "stiker": [
+       "open door",
+       "wind"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Mengikhlaskan kenyamanan dunia demi menjaga akidah adalah perniagaan terbaik di sisi Allah.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hati",
+     "stiker": [
+      "heart",
+      "light"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Simpan video ini sebagai pengingat",
+     "narasi": "Simpan video ini sebagai pengingat. Pengorbanan demi keimanan takkan pernah sia-sia. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgRWiV3C8Uh/",
+   "fb": "https://www.facebook.com/reel/2498755130615563",
+   "yt": "https://youtube.com/shorts/Svz9x3ouj6M",
+   "waktu_posting": "2026-11-28T04:04:25"
   },
   {
    "menit": "40:15",
