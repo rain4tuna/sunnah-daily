@@ -1,0 +1,358 @@
+{
+ "episode": 20,
+ "judul": "Sirah Nabawiyah #20 - Peristiwa Hijrahnya Rasulullah",
+ "url": "https://www.youtube.com/watch?v=dqJnrqh1i9g",
+ "kisah": [
+  {
+   "menit": "06:33",
+   "judul_hook": "Tangisan Bahagia Menemani Nabi Berhijrah",
+   "narasi_hook": "Mengapa Abu Bakar sampai menangis tersedu-sedu?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Abu Bakar radhiyallahu 'anhu berkali-kali menahan diri untuk tidak segera berhijrah karena sangat berharap diizinkan mendampingi Rasulullah ﷺ.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Ketika Nabi ﷺ datang mengabarkan bahwa izin hijrah telah turun dan Abu Bakar yang akan menyertai beliau, tangis haru pun pecah. Ibunda Aisyah radhiyallahu 'anha menuturkan, belum pernah beliau melihat seorang pun menangis karena saking bahagianya sebagaimana ayahnya menangis saat itu. Menemani Nabi ﷺ dalam perjalanan bertaruh nyawa adalah kehormatan terbesar baginya.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "atsar",
+    "arab": "فَوَاللَّهِ مَا شَعَرْتُ قَطُّ قَبْلَ ذَلِكَ الْيَوْمِ أَنَّ أَحَدًا يَبْكِي مِنَ الْفَرَحِ، حَتَّى رَأَيْتُ أَبَا بَكْرٍ يَبْكِي يَوْمَئِذٍ",
+    "terjemah": "Demi Allah, sebelum hari itu aku belum pernah mengira ada seseorang yang menangis karena gembira sampai aku melihat Abu Bakar menangis pada hari itu.",
+    "sumber": "Sirah Ibnu Hisyam (1/485) & Musnad Ishaq bin Rahawayh (no. 1279); asalnya dalam HR. Bukhari no. 3905",
+    "derajat": "shahih",
+    "penilai": "Syaikh Al-Albani",
+    "rujukan": "https://sunnah.com/bukhari:3905"
+   },
+   "faedah": "Sahabat sejati rela menghadapi bahaya demi mendampingi orang yang dicintainya karena Allah.",
+   "latar_faedah": "langit",
+   "tema": [
+    "hijrah",
+    "sahabat",
+    "ukhuwah"
+   ],
+   "id": "ep020-01",
+   "status": "Diposting",
+   "cek": {
+    "kisah_lemah": false,
+    "catatan": "Kisah pokok hijrah Nabi ﷺ bersama Abu Bakar dan penahanan hijrah Abu Bakar diriwayatkan secara shahih dalam HR. Bukhari no. 3905. Namun, lafaz persis perkataan Ibunda Aisyah ini merupakan tambahan (ziadah) dari riwayat Ibnu Ishaq yang termaktub dalam Sirah Ibnu Hisyam (1/485) dan Musnad Ishaq bin Rahawayh (no. 1279), serta dinukil Ibnu Hajar dalam Fathul Bari. Syaikh Al-Albani menshahihkan sanad riwayat ini dalam tahqiq Fiqh as-Sirah (hlm. 160). Karena merupakan perkataan Aisyah (bukan sabda marfu' Nabi ﷺ), klasifikasi yang tepat adalah atsar.",
+    "sumber_cek": [
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoZe_FZZgpPDBg9ZzTUyQZ1BKPZqo4gQ7StgUwkrx3OxITHdV87iof2OB8K-IJEWxsoRKS2WtIJCqBGB0c781LprxzM1xhl5lTN9Q3chtNBml_TUTSOsK-0JvDc6Q=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEvvFLBqPi9QnpkAosacg73xF779-w3jcJiZD72zzQUlDzNdtPMzm2eNvknw0GY3i7xPdfBN-I1XpCTmWzoxYcJrvoC-KoopTzAED6uDnM6Oy-KkhN4cl3Mhv6scEIBnAQ2TIw4dlqSCuimb4hhhhomvkp1P3RRzK0GVWWTfOk97NNDvcnKZ-ei1reS26aAKSD-vGWU4VqFYlxvC_3S7htAnpIug1j7q3YrIiYLhtROauBu74omzK1SLhpq72GwW5XJk5-xYjxoHFQU0ThgVh_cUC4W9H7XxLsJuwS-BMuJEde_8fwsBRDIZG-UIaBFTJpLF1O6wpoybxDHyYpAuIVn3mY1v6AYqpVwZMDS9KeCLowwyjOoD2DGi7qh0xGx9kfLRHbImiT05M_bhpyfSDHOmRx_jBd4EOGZDNDmJRopONaGuR9cQF_4y1nCFXGeyRJUCZJ4Aqga8kOEbFY17Ql1rtrRMVhRcZH6ZCwgLXMEmw21O_ytYtn2f2E",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrc6ANgm4KWVHwTtd4v_fYEJg9kn0BqNVcu4F5rsIvX263UYq4TGpAa-wkKZsasXXkjlCOE80DQEYGlicuvM3hsap1_dMfztzR6UJkV6-poW0ZWoQcaauuCMuh96MHyFAjJOnfpLmn5lCWanxf3pkm4nAkUeBcjWFeSzA__1iEXRebxJWDQHC8Nlndutdwk_8nHA1H25e80aL3_ucTVznGpleUm_I-CbcN2nK6AZGoI8UtKh0nEoK32jniPqM4MYY9VRfNaqzhjZOeNBvSKzqSqr-94lZ8M5t4zmQX1uXSBRLYfh-2_UbMoV1f4AT8CTOmpFiCFSjJTmV_EdPkiQYbpK3b0HuH6mzeqW0BmPTmvFLkHi25ty_vQeqr5PGBsaa2ZbF-oVdEwkKSPy0VuWMW8L0CyvgYXb42Elg-Jw==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFK6FxWoU81BkkE3jcHaryvoKO6clqnyGYciwMrfsyfJ2u9Qw8G5aldYQ5PSHwu7tO8VQ4WMSLrAmdJ9uK5czOPkPMmeUt_9mWh2faRKEsfQVITwEzAHVIpEVRRTHWvNg==",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBBQZBuRky0eprWaIlKN8y4Ey_IbQ_pApC49zQwxMnlS4tDe-s-OloTBdCXshaCYDwhKjdOHpC4XJOSEPoCQ8HUnQyrAZMhWgoRyPL8h7dMlpsK4bMB5s4ODv78bA=",
+     "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiVfcd3fZ2Yif_dtZoAqX8QrIkoBNmv3nglhgsO31MKQ9sekHNHlxQQMRJHd6X2daEL5LYCRmRXp-4vQr9lkfXVMs-F3sRDDmb9f44GktF_eSdCT264KVV-w8Y0P_Q1csCXu05qgxc-AIgY2Lh0IRnWZCkwyS_7Eq2IEmi0svx55od8tA5utbwIPbcIPIoVaV4LIWPXB4pKsmo9oJ7ORMB9H6Qdh_b_NeSJ7c98WtqYfwyJAbFszfRAZMSaFPu9KkzATDEQ5D-2PJL2M3V0rUlbAIJPfK47BHfBboVM1IEDhmvambYSXVncCfRb2kdjvjF6DqxkUZvlNfZplX5teKkj0VEhTKEV6fwFjDsZTJl2iPJVpN14MmrGgpEDZzZCWkkQQU8j_b_VzjVCV3hM3pWPxb9lvJ4Ji-5LlTIlA=="
+    ]
+   },
+   "layak": true,
+   "storyboard_ikon": {
+    "hook": {
+     "narasi": "Mengapa Abu Bakar sampai menangis tersedu-sedu karena begitu bahagia?",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "lentera",
+     "stiker": [
+      "tear",
+      "heart"
+     ]
+    },
+    "poin": [
+     {
+      "narasi": "Beliau berkali-kali menahan diri untuk tidak segera berhijrah, demi menanti izin mendampingi Rasulullah ﷺ.",
+      "label": "Menanti Izin Berhijrah",
+      "ikon": [
+       "jam",
+       "jejak"
+      ],
+      "ilustrasi": "kota_malam",
+      "stiker": [
+       "clock",
+       "footprint"
+      ]
+     },
+     {
+      "narasi": "Saat Nabi ﷺ mengabarkan mereka akan berangkat bersama, tangis haru Abu Bakar pun seketika pecah.",
+      "label": "Kabar Bahagia Tiba",
+      "ikon": [
+       "pintu",
+       "cahaya"
+      ],
+      "ilustrasi": "pintu",
+      "stiker": [
+       "door",
+       "light"
+      ]
+     },
+     {
+      "narasi": "Aisyah bersaksi belum pernah melihat tangisan sebahagia itu, meski perjalanan ini mempertaruhkan nyawa.",
+      "label": "Menangis Karena Bahagia",
+      "ikon": [
+       "tetes_air",
+       "hati"
+      ],
+      "ilustrasi": "keluarga_hangat",
+      "stiker": [
+       "teardrop",
+       "heart"
+      ]
+     }
+    ],
+    "faedah": {
+     "narasi": "Sahabat sejati rela menghadapi bahaya demi mendampingi orang yang dicintainya karena Allah.",
+     "ikon": [
+      "hati"
+     ],
+     "ilustrasi": "hijrah_perjalanan",
+     "stiker": [
+      "desert",
+      "heart"
+     ]
+    },
+    "penutup": {
+     "ajakan": "Bagikan kisah haru ini",
+     "narasi": "Bagikan kisah haru ini. Tangisan Abu Bakar adalah bukti cinta tulus sejati. Ikuti Sunnah Daily untuk kisah berikutnya."
+    }
+   },
+   "ig": "https://www.instagram.com/reel/DgSaBSJBpf0/",
+   "fb": "https://www.facebook.com/reel/1688013106293543",
+   "yt": "https://youtube.com/shorts/0jDiV93l11Y",
+   "waktu_posting": "2026-11-28T13:54:11"
+  },
+  {
+   "menit": "11:25",
+   "judul_hook": "Pemuda yang Menantang Pedang Terhunus",
+   "narasi_hook": "Sanggupkah kita tidur di ranjang maut?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Malam itu, para pemuda pilihan dari seluruh kabilah Quraisy mengepung rapat kediaman Rasulullah ﷺ dengan pedang terhunus, siap menebas bersama-sama.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Nabi ﷺ memerintahkan Ali bin Abi Thalib radhiyallahu 'anhu untuk berbaring di tempat tidur beliau dan mengenakan selimut hijau miliknya. Dengan penuh keteguhan iman, Ali merelakan nyawanya menjadi tameng, membuat para pengepung mengira Nabi ﷺ masih tertidur lelap di ranjangnya.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "وَإِذْ يَمْكُرُ بِكَ الَّذِينَ كَفَرُوا لِيُثْبِتُوكَ أَوْ يَقْتُلُوكَ أَوْ يُخْرِجُوكَ",
+    "terjemah": "Dan (ingatlah), ketika orang-orang kafir memikirkan tipu daya terhadapmu untuk menangkap dan memenjarakanmu atau membunuhmu, atau mengusirmu.",
+    "sumber": "QS. Al-Anfal: 30",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Pengorbanan membela dakwah menuntut keberanian jiwa dan kepasrahan mutlak kepada kehendak Allah.",
+   "latar_faedah": "langit",
+   "tema": [
+    "pengorbanan",
+    "Ali bin Abi Thalib",
+    "keberanian"
+   ],
+   "id": "ep020-02",
+   "status": "Belum"
+  },
+  {
+   "menit": "12:15",
+   "judul_hook": "Menjaga Amanah Milik Musuh Bebuyutan",
+   "narasi_hook": "Mengapa Nabi menjaga harta para penentangnya?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Meskipun kaum musyrikin Quraisy mencaci maki Rasulullah ﷺ sebagai pendusta dan memusuhi dakwahnya, mereka tetap menitipkan perhiasan dan emas kepada beliau. Mereka tidak menemukan sosok yang lebih amanah di seantero Makkah selain Nabi ﷺ.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Saat berhijrah, beliau tidak mengambil barang titipan musuh tersebut, melainkan menugaskan Ali bin Abi Thalib radhiyallahu 'anhu tinggal tiga hari demi mengembalikan semuanya secara utuh. Inilah bukti keluhuran akhlak beliau.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "فَإِنَّهُمْ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ الظَّالِمِينَ بِآيَاتِ اللَّهِ يَجْحَدُونَ",
+    "terjemah": "Sebenarnya mereka bukan mendustakan engkau, tetapi orang-orang yang zalim itu mengingkari ayat-ayat Allah.",
+    "sumber": "QS. Al-An'am: 33",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Amanah wajib dijaga dan ditunaikan dengan jujur, bahkan kepada orang yang memusuhi kita.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "akhlak",
+    "amanah",
+    "kejujuran"
+   ],
+   "id": "ep020-03",
+   "status": "Belum"
+  },
+  {
+   "menit": "16:45",
+   "judul_hook": "Berhijrah Menggunakan Harta Sendiri",
+   "narasi_hook": "Mengapa Nabi menolak unta hadiah hijrah?",
+   "latar_hook": "kafilah",
+   "adegan": [
+    {
+     "narasi": "Abu Bakar radhiyallahu 'anhu telah merawat dua unta terbaik berbulan-bulan dan menyerahkan seekor di antaranya secara cuma-cuma untuk Rasulullah ﷺ.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Biasanya Nabi ﷺ dengan senang hati menerima hadiah dari sahabatnya, namun kali ini beliau bersikeras membelinya dengan harga penuh. Para ulama menjelaskan, perjalanan hijrah adalah ibadah agung dan jihad fi sabilillah. Beliau ingin seluruh pengorbanan ibadah tersebut murni bersumber dari keringat serta hartanya sendiri.",
+     "latar": "kafilah"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "لَا إِلَّا بِالثَّمَنِ",
+    "terjemah": "Tidak, kecuali dengan membayarnya.",
+    "sumber": "HR. Bukhari no. 3905",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Usahakan menunaikan amal ibadah dengan biaya dan pengorbanan dari harta kita sendiri.",
+   "latar_faedah": "gurun",
+   "tema": [
+    "ibadah",
+    "keikhlasan",
+    "harta"
+   ],
+   "id": "ep020-04",
+   "status": "Belum"
+  },
+  {
+   "menit": "18:05",
+   "judul_hook": "Kisah Pemilik Dua Ikat Pinggang",
+   "narasi_hook": "Siapakah wanita pemilik dua ikat pinggang?",
+   "latar_hook": "kota",
+   "adegan": [
+    {
+     "narasi": "Menjelang keberangkatan hijrah, Asma binti Abi Bakr radhiyallahu 'anha dan saudarinya sibuk menyiapkan kantong makanan serta minuman untuk Rasulullah ﷺ dan ayahnya.",
+     "latar": "kota"
+    },
+    {
+     "narasi": "Ketika kantong bekal hendak diikat, mereka kebingungan karena tak menemukan seutas tali pun di rumah. Tanpa ragu, Asma merobek sabuk kain penopang bajunya menjadi dua helai demi mengikat perbekalan tersebut. Berkat ketulusan pengorbanan sederhana namun bersejarah ini, para sahabat menyematkan gelar mulia kepadanya, Dzatun Nithaqain.",
+     "latar": "lentera"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "شَقَقْتُ نِطَاقِي فَأَوْكَأْتُ بِهِ السِّقَاءَ، فَسُمِّيَتْ ذَاتَ النِّطَاقَيْنِ",
+    "terjemah": "Aku membelah ikat pinggangku menjadi dua lalu mengikat wadah minuman dengannya, maka aku dinamai Dzatun Nithaqain.",
+    "sumber": "HR. Bukhari no. 2979",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Andil sekecil apa pun dalam perjuangan dakwah akan bernilai abadi di hadapan Allah.",
+   "latar_faedah": "kitab",
+   "tema": [
+    "Asma binti Abi Bakar",
+    "peran wanita",
+    "pengorbanan"
+   ],
+   "id": "ep020-05",
+   "status": "Belum"
+  },
+  {
+   "menit": "20:25",
+   "judul_hook": "Ikhtiar Cerdas Menghapus Jejak Musuh",
+   "narasi_hook": "Bagaimana siasat Nabi mengelabui kaum kafir?",
+   "latar_hook": "gurun",
+   "adegan": [
+    {
+     "narasi": "Madinah terletak di sebelah utara Makkah, namun Rasulullah ﷺ justru bergerak ke arah selatan menuju Jabal Tsur untuk mengecoh kejaran kaum Quraisy.",
+     "latar": "gua"
+    },
+    {
+     "narasi": "Nabi ﷺ menyusun strategi matang: menyewa penunjuk jalan ahli, menugaskan putra Abu Bakar radhiyallahu 'anhu mencari informasi intelijen di Makkah tiap siang, serta menyuruh Amir bin Fuhairah menggembala kambing-kambing tepat di atas jalan setapak guna menghapus seluruh jejak kaki mereka. Ikhtiar manusiawi dimaksimalkan sebelum bertawakal penuh kepada Allah.",
+     "latar": "gurun"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "",
+    "terjemah": "Kisah penugasan Abdullah bin Abi Bakr dan Amir bin Fuhairah dalam perjalanan hijrah Nabi ﷺ.",
+    "sumber": "HR. Bukhari no. 3905",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Tawakal yang benar harus dibarengi ikhtiar cerdas dan persiapan yang terencana matang.",
+   "latar_faedah": "gurun",
+   "tema": [
+    "taktik",
+    "ikhtiar",
+    "tawakal"
+   ],
+   "id": "ep020-06",
+   "status": "Belum"
+  },
+  {
+   "menit": "26:45",
+   "judul_hook": "Jangan Sedih, Allah Bersama Kita",
+   "narasi_hook": "Apa yang terjadi di bibir Gua Tsur?",
+   "latar_hook": "gua",
+   "adegan": [
+    {
+     "narasi": "Pasukan pelacak Quraisy akhirnya tiba persis di mulut Gua Tsur tempat Rasulullah ﷺ dan Abu Bakar radhiyallahu 'anhu bersembunyi.",
+     "latar": "gua"
+    },
+    {
+     "narasi": "Menyaksikan posisi musuh yang begitu dekat, Abu Bakar dilanda kecemasan mendalam seraya berbisik, seandainya ada seorang saja yang menunduk melihat kakinya, niscaya kita akan ketahuan. Namun, Nabi ﷺ menenangkan dengan kepasrahan iman yang kokoh: jangan takut, bagaimana pendapatmu tentang dua orang di mana Allah menjadi pihak ketiganya?",
+     "latar": "gua"
+    }
+   ],
+   "dalil": {
+    "jenis": "ayat",
+    "arab": "إِذْ يَقُولُ لِصَاحِبِهِ لَا تَحْزَنْ إِنَّ اللَّهَ مَعَنَا",
+    "terjemah": "Ketika dia berkata kepada sahabatnya, 'Jangan engkau bersedih, sesungguhnya Allah bersama kita.'",
+    "sumber": "QS. At-Taubah: 40",
+    "derajat_kata_ustadz": "",
+    "dari_video": true
+   },
+   "faedah": "Kepanikan akan sirna ketika hati yakin bahwa pertolongan Allah selalu menyertai hamba-Nya.",
+   "latar_faedah": "langit",
+   "tema": [
+    "tawakal",
+    "Gua Tsur",
+    "pertolongan Allah"
+   ],
+   "id": "ep020-07",
+   "status": "Belum"
+  },
+  {
+   "menit": "29:25",
+   "judul_hook": "Perpisahan Mengharukan dengan Tanah Kelahiran",
+   "narasi_hook": "Betapa berat Rasulullah meninggalkan kota Makkah?",
+   "latar_hook": "kabah",
+   "adegan": [
+    {
+     "narasi": "Sebelum melangkah jauh meninggalkan tanah kelahirannya, Rasulullah ﷺ berhenti sejenak menatap Makkah dengan pandangan penuh rasa duka dan kerinduan mendalam.",
+     "latar": "kabah"
+    },
+    {
+     "narasi": "Beliau berucap lirih bahwa Makkah adalah bumi Allah yang paling baik dan paling dicintai-Nya. Seandainya kaum musyrikin tidak mengusirnya secara zalim, beliau takkan sudi berpaling ke negeri lain. Beliau harus berpisah dari kenangan hidup puluhan tahun demi menyelamatkan agama dan risalah tauhid.",
+     "latar": "kota"
+    }
+   ],
+   "dalil": {
+    "jenis": "hadits",
+    "arab": "وَاللَّهِ إِنَّكِ لَخَيْرُ أَرْضِ اللَّهِ، وَأَحَبُّ أَرْضِ اللَّهِ إِلَى اللَّهِ، وَلَوْلَا أَنِّي أُخْرِجْتُ مِنْكِ مَا خَرَجْتُ",
+    "terjemah": "Demi Allah, sungguh engkau adalah sebaik-baik bumi Allah dan bumi yang paling dicintai Allah. Seandainya aku tidak diusir darimu, aku tidak akan keluar.",
+    "sumber": "HR. Tirmidzi no. 3925",
+    "derajat_kata_ustadz": "shahih",
+    "dari_video": true
+   },
+   "faedah": "Mencintai tanah air adalah fitrah, namun ketaatan kepada agama adalah prioritas tertinggi.",
+   "latar_faedah": "gurun",
+   "tema": [
+    "cinta tanah air",
+    "pengorbanan",
+    "kota Makkah"
+   ],
+   "id": "ep020-08",
+   "status": "Belum"
+  }
+ ]
+}
